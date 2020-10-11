@@ -5,9 +5,10 @@ import random
 
 from constants import *
 from argparse import ArgumentParser
-from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten
+from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten, create_dir_if_not_exist
 from data import EventCentricDocumentPair, load_event_centric_dataset
 from algorithms import UndirectedGraph
+from os.path import dirname
 
 INTERMEDIATE_PRED_PAIRS = 'event_pred_pairs.txt'
 
@@ -26,6 +27,7 @@ if __name__ == "__main__":
         args.cs_path = 'resources/samples/event.cs'
         args.json_dir = 'resources/samples/json'
         args.output_path = 'event.cs'
+    create_dir_if_not_exist(dirname(args.output_path))
 
     # Load tokenizer and model
     tokenizer, model = load_tokenizer_and_model(EVENT_MODEL)

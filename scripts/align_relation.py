@@ -3,7 +3,12 @@ import time
 import torch
 import random
 
+from os.path import dirname
 from argparse import ArgumentParser
+
+# Helper function
+def create_dir_if_not_exist(dir):
+    if not os.path.exists(dir): os.makedirs(dir)
 
 # Main code
 if __name__ == "__main__":
@@ -22,6 +27,7 @@ if __name__ == "__main__":
         args.new_input_entity = 'resources/samples/outputs/entity.cs'
         args.input_relation = 'resources/samples/outputs/relation.cs'
         args.output_relation = 'resources/samples/outputs/new_relation.cs'
+    create_dir_if_not_exist(dirname(args.output_relation))
 
     # Read (old) entity file
     olde2mid = {}

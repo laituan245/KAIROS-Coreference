@@ -10,6 +10,9 @@ from transformers import *
 from models import EventCorefModel, EntityCorefModel
 from boltons.iterutils import pairwise, windowed
 
+def create_dir_if_not_exist(dir):
+    if not os.path.exists(dir): os.makedirs(dir)
+
 def listRightIndex(alist, value):
     return len(alist) - alist[-1::-1].index(value) -1
 

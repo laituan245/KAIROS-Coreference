@@ -4,9 +4,10 @@ import torch
 
 from constants import *
 from argparse import ArgumentParser
-from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten
+from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten, create_dir_if_not_exist
 from data import load_entity_centric_dataset
 from algorithms import UndirectedGraph
+from os.path import dirname
 
 INTERMEDIATE_PRED_PAIRS = 'entity_pred_pairs.txt'
 
@@ -44,6 +45,7 @@ if __name__ == "__main__":
         args.json_dir = 'resources/samples/json'
         args.fb_linking_path = 'resources/samples/en.linking.freebase.cs'
         args.output_path = 'entity.cs'
+    create_dir_if_not_exist(dirname(args.output_path))
 
     # Load tokenizer and model
     tokenizer, model = load_tokenizer_and_model(ENTITY_MODEL)
