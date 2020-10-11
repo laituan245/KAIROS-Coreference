@@ -57,7 +57,7 @@ def read_cs(path, run_sanity_checks=True, skip_firstline=False):
 
     return e2info
 
-def read_json_docs(base_path, wiki_docs_only=False):
+def read_json_docs(base_path):
     doc2sents = {}
     for f in listdir(base_path):
         if isfile(join(base_path, f)) and f.endswith('json'):
@@ -66,7 +66,6 @@ def read_json_docs(base_path, wiki_docs_only=False):
                 for line in f:
                     data = json.loads(line)
                     doc_id = data['doc_id']
-                    if wiki_docs_only and not doc_id.startswith('wiki_'): continue
                     if not doc_id in doc2sents: doc2sents[doc_id] = []
                     sents, tokens, token_ids = [], data['tokens'], data['token_ids']
                     for token, token_id in zip(tokens, token_ids):
@@ -77,32 +76,9 @@ def read_json_docs(base_path, wiki_docs_only=False):
     print('Number of docs from {} is {}'.format(base_path, len(doc2sents)))
     return doc2sents
 
-def cluster_wiki_docs(doc_ids):
-    # Sanity checks
-    for doc_id in doc_ids:
-        es = doc_id.split('_')
-        assert(doc_id.startswith('wiki_'))
-        assert(es.count('news') <= 1)
-        assert(es.count('article') <= 1)
-
-    prefix2id = {}
-    clusters = []
-    for doc_id in doc_ids:
-        es = doc_id.split('_')
-        if 'news' in es:
-            prefix = '_'.join(es[:es.index('news')])
-        elif 'article' in es:
-            prefix = '_'.join(es[:es.index('article')])
-        else:
-            prefix = '_'.join(es[:es.index('part')])
-        if not prefix in prefix2id:
-            prefix2id[prefix] = len(prefix2id)
-            clusters.append([])
-        clusters[prefix2id[prefix]].append(doc_id)
-
-    for c in clusters: c.sort()
-    assert(len(flatten(clusters)) == len(doc_ids))
-    return clusters
+def doc_clustering(docs):
+    doc_ids = [x.doc_id for x in docs]
+    return [doc_ids] # All docs belong to one cluster
 
 def divide_event_docs(words, mentions, sent_lens, max_length=1500):
     splitted_docs = []
@@ -131,12 +107,12 @@ def divide_event_docs(words, mentions, sent_lens, max_length=1500):
 
     return splitted_docs
 
-def load_event_centric_dataset(tokenizer, cs_path, json_base_path, wiki_docs_only=False):
+def load_event_centric_dataset(tokenizer, cs_path, json_base_path):
     events = read_cs(cs_path, skip_firstline=False)
     for e in events.values():
         for m in e['mentions'].values():
             m['event_type'] = e['type']
-    docs = read_json_docs(json_base_path, wiki_docs_only)
+    docs = read_json_docs(json_base_path)
 
     # Build doc2mentions
     doc2mentions = {}
@@ -182,7 +158,7 @@ def load_event_centric_dataset(tokenizer, cs_path, json_base_path, wiki_docs_onl
 
     # Clustering
     doc_ids = [x.doc_id for x in test_docs]
-    clusters = cluster_wiki_docs(doc_ids)
+    clusters = doc_clustering(test_docs)
     print('Number of splitted docs: {}'.format(len(doc_ids)))
     print('Number of clusters: {}'.format(len(clusters)))
     cluster_lens = [len(c) for c in clusters]
@@ -192,9 +168,9 @@ def load_event_centric_dataset(tokenizer, cs_path, json_base_path, wiki_docs_onl
 
     return test_docs, clusters
 
-def load_entity_centric_dataset(tokenizer, cs_path, json_base_path, fb_linking_path, wiki_docs_only=False):
+def load_entity_centric_dataset(tokenizer, cs_path, json_base_path, fb_linking_path):
     entities = read_cs(cs_path)
-    docs = read_json_docs(json_base_path, wiki_docs_only)
+    docs = read_json_docs(json_base_path)
     linked_entities = read_cs(fb_linking_path, skip_firstline=True)
 
     # Build mention2type

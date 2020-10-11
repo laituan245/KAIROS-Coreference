@@ -47,7 +47,6 @@ if __name__ == "__main__":
                 if len(line) == 0: continue
                 es = line.split('\t')
                 assert(len(es) == 5)
-                if not es[-2].startswith('wiki_'): continue
                 es[0] = mid2eid[olde2mid[es[0]]]
                 es[2] = mid2eid[olde2mid[es[2]]]
                 output_f.write('{}\n'.format('\t'.join(es)))

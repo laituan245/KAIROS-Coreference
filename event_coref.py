@@ -9,7 +9,6 @@ from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten
 from data import EventCentricDocumentPair, load_event_centric_dataset
 from algorithms import UndirectedGraph
 
-WIKI_DOCS_ONLY = True
 INTERMEDIATE_PRED_PAIRS = 'event_pred_pairs.txt'
 
 # Main code
@@ -33,7 +32,7 @@ if __name__ == "__main__":
 
     # Load dataset
     print('Loading dataset')
-    docs, clusters = load_event_centric_dataset(tokenizer, args.cs_path, args.json_dir, WIKI_DOCS_ONLY)
+    docs, clusters = load_event_centric_dataset(tokenizer, args.cs_path, args.json_dir)
 
     # Build mentions and id2mention
     mentions, id2mention = [], {}

@@ -8,7 +8,6 @@ from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten
 from data import load_entity_centric_dataset
 from algorithms import UndirectedGraph
 
-WIKI_DOCS_ONLY = True
 INTERMEDIATE_PRED_PAIRS = 'entity_pred_pairs.txt'
 
 # Helper Function
@@ -51,11 +50,8 @@ if __name__ == "__main__":
 
     # Load dataset
     print('Loading dataset')
-    entities, dataset = \
-        load_entity_centric_dataset(tokenizer, args.cs_path, args.json_dir, args.fb_linking_path, WIKI_DOCS_ONLY)
+    entities, dataset = load_entity_centric_dataset(tokenizer, args.cs_path, args.json_dir, args.fb_linking_path)
     mentions = flatten([e['mentions'].values() for e in entities.values()])
-    if WIKI_DOCS_ONLY:
-        mentions = [m for m in mentions if m['mention_id'].startswith('wiki_')]
 
     # Build id2mention
     id2mention, fb2mentions = {}, {}
