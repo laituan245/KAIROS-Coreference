@@ -46,8 +46,6 @@ if __name__ == "__main__":
     parser = ArgumentParser()
     parser.add_argument('--input_entity', default='/shared/nas/data/m1/tuanml2/kairos/output/corrected_format/entity.cs')
     parser.add_argument('--input_event', default='/shared/nas/data/m1/tuanml2/kairos/output/corrected_format/event.cs')
-    parser.add_argument('--output_entity', default='/shared/nas/data/m1/tuanml2/kairos/output/final/entity.cs')
-    parser.add_argument('--output_event', default='/shared/nas/data/m1/tuanml2/kairos/output/final/event.cs')
     parser.add_argument('--debug', action='store_true')
     args = parser.parse_args()
 
@@ -55,8 +53,8 @@ if __name__ == "__main__":
     if args.debug:
         args.input_entity = 'resources/samples/output/entity.cs'
         args.input_event = 'resources/samples/output/event.cs'
-        args.output_entity = 'resources/samples/final/entity.cs'
-        args.output_event = 'resources/samples/final/event.cs'
+    args.output_entity = dirname(args.input_entity) + 'entity_2.cs'
+    args.output_event = dirname(args.input_event) + 'event_2.cs'
 
     # Determine most representative mention for each entity cluster
     entity2canonical, entity2nominal, entity2pronominal, entity2mention = {}, {}, {}, {}
@@ -120,10 +118,6 @@ if __name__ == "__main__":
             event_args[a] = find_majority(event_args[a])
 
     # Output new entity.cs and event.cs
-    dir1 = dirname(args.output_entity)
-    dir2 = dirname(args.output_event)
-    if not os.path.exists(dir1): os.makedirs(dir1)
-    if not os.path.exists(dir2): os.makedirs(dir2)
     with open(args.input_entity, 'r', encoding='utf-8') as input_f:
         with open(args.output_entity, 'w+', encoding='utf-8') as output_f:
             for line in input_f:
@@ -153,3 +147,9 @@ if __name__ == "__main__":
                     es[2] = '"{}"'.format(event_repr)
                     line = '\t'.join(es)
                     output_f.write('{}\n'.format(line))
+
+    # Delete old file
+    os.remove(args.input_event)
+    os.remove(args.input_entity)
+    os.rename(args.output_entity, args.input_entity)
+    os.rename(args.output_event, args.input_event)
