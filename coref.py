@@ -20,9 +20,12 @@ if __name__ == "__main__":
     parser.add_argument('--oneie_output', default='/shared/nas/data/m1/tuanml2/tmpfile/docker-compose/output/en/oneie/m1')
     parser.add_argument('--linking_output', default='/shared/nas/data/m1/tuanml2/tmpfile/docker-compose/output/en/linking/en.linking.wikidata.cs')
     parser.add_argument('--coreference_output', default='/shared/nas/data/m1/tuanml2/tmpfile/docker-compose/output/en/coref/')
+    parser.add_argument('--ta', default=1)
     parser.add_argument('--language', default='en')
     args = parser.parse_args()
+    args.ta = int(args.ta)
     assert(args.language in ['en', 'es'])
+    assert(args.ta in [1, 2])
 
     # Run entity coref
     entity_cs = join(args.oneie_output, 'cs/entity.cs')
@@ -48,4 +51,5 @@ if __name__ == "__main__":
     string_repr(output_entity, output_event)
 
     # Run filter_relation
-    filter_relation(output_event, output_relation)
+    if args.ta == 2:
+        filter_relation(output_event, output_relation)
