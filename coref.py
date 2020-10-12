@@ -9,7 +9,7 @@ from argparse import ArgumentParser
 from entity_coref import entity_coref
 from event_coref import event_coref
 from utils import create_dir_if_not_exist
-from scripts import align_relation, align_event, string_repr
+from scripts import align_relation, align_event, string_repr, filter_relation
 
 ONEIE = 'oneie'
 
@@ -46,3 +46,6 @@ if __name__ == "__main__":
 
     # Run string_repr
     string_repr(output_entity, output_event)
+
+    # Run filter_relation
+    filter_relation(output_event, output_relation)
