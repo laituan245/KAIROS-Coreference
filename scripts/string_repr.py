@@ -18,7 +18,7 @@ def find_majority(k):
         # Keep track of maximum on the go
         if myMap[n] > maximum[1]: maximum = (n,myMap[n])
 
-    return maximum[0]
+    return maximum
 
 def read_event_types(fp):
     types = {}
@@ -68,13 +68,13 @@ def string_repr(new_input_entity, new_input_event):
     entity2repr = {}
     for entity in entity2canonical:
         if len(entity2canonical) > 0:
-            entity2repr[entity] = find_majority(entity2canonical[entity])
+            entity2repr[entity] = find_majority(entity2canonical[entity])[0]
         elif len(entity2nominal) > 0:
-            entity2repr[entity] = find_majority(entity2nominal[entity])
+            entity2repr[entity] = find_majority(entity2nominal[entity])[0]
         elif len(entity2pronominal) > 0:
-            entity2repr[entity] = find_majority(entity2pronominal[entity])
+            entity2repr[entity] = find_majority(entity2pronominal[entity])[0]
         else:
-            entity2repr[entity] = find_majority(entity2mention[entity])
+            entity2repr[entity] = find_majority(entity2mention[entity])[0]
 
     # Read event_types
     event_types = read_event_types('resources/event_types.tsv')
@@ -103,7 +103,10 @@ def string_repr(new_input_entity, new_input_event):
     for e in event2args:
         event_args = event2args[e]
         for a in event_args:
-            event_args[a] = find_majority(event_args[a])
+            argmax, ctx = find_majority(event_args[a])
+            if len(event_args[a]) == 0: continue
+            if ctx / len(event_args[a]) > 0.25:
+                event_args[a] = argmax
 
     # Output new entity.cs and event.cs
     with open(new_input_entity, 'r', encoding='utf-8') as input_f:
@@ -131,6 +134,7 @@ def string_repr(new_input_entity, new_input_event):
                     event_repr = copy.deepcopy(event_types[event_type]['template'])
                     event_args = event2args[es[0]]
                     for a in event_args:
+                        if type(event_args[a]) == list: continue
                         event_repr = event_repr.replace(a, event_args[a])
                     es[2] = '"{}"'.format(event_repr)
                     line = '\t'.join(es)
