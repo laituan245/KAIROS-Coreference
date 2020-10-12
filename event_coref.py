@@ -11,11 +11,11 @@ from algorithms import UndirectedGraph
 
 INTERMEDIATE_PRED_EVENT_PAIRS = 'event_pred_pairs.txt'
 
-def event_coref(cs_path, json_dir, output_path):
+def event_coref(cs_path, json_dir, output_path, language):
     create_dir_if_not_exist(dirname(output_path))
 
     # Load tokenizer and model
-    tokenizer, model = load_tokenizer_and_model(EVENT_MODEL)
+    if language == 'en': tokenizer, model = load_tokenizer_and_model(EN_EVENT_MODEL)
 
     # Load dataset
     print('Loading dataset')

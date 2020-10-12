@@ -28,11 +28,11 @@ def get_cluster_labels(clusters, id2mention, field):
         clusterlabels.append(label)
     return clusterlabels
 
-def entity_coref(cs_path, json_dir, fb_linking_path, output_path):
+def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language):
     create_dir_if_not_exist(dirname(output_path))
 
     # Load tokenizer and model
-    tokenizer, model = load_tokenizer_and_model(ENTITY_MODEL)
+    if language == 'en': tokenizer, model = load_tokenizer_and_model(EN_ENTITY_MODEL)
 
     # Load dataset
     print('Loading dataset')

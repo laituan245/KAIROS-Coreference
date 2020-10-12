@@ -28,13 +28,13 @@ if __name__ == "__main__":
     entity_cs = join(args.oneie_output, 'cs/entity.cs')
     json_dir = join(args.oneie_output, 'json')
     output_entity =  join(args.coreference_output, 'entity.cs')
-    entity_coref(entity_cs, json_dir, args.linking_output, output_entity)
+    entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language)
 
     # Run event coref
     event_cs = join(args.oneie_output, 'cs/event.cs')
     json_dir = join(args.oneie_output, 'json')
     output_event = join(args.coreference_output, 'event.cs')
-    event_coref(event_cs, json_dir, output_event)
+    event_coref(event_cs, json_dir, output_event, args.language)
 
     # Run aligning relation
     input_relation = join(args.oneie_output, 'cs/relation.cs')

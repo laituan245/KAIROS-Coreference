@@ -27,12 +27,12 @@ def load_tokenizer_and_model(model_type):
     print('Loading model {}'.format(model_type))
     assert(model_type in MODEL_TYPES)
     # Load configs
-    if model_type == ENTITY_MODEL:
-        configs = load_configs(ENTITY_COREF_CONFIG)
-        saved_path = PRETRAINED_ENTITY_MODEL
-    if model_type == EVENT_MODEL:
-        configs = load_configs(EVENT_COREF_CONFIG)
-        saved_path = PRETRAINED_EVENT_MODEL
+    if model_type == EN_ENTITY_MODEL:
+        configs = load_configs(EN_ENTITY_COREF_CONFIG)
+        saved_path = PRETRAINED_EN_ENTITY_MODEL
+    if model_type == EN_EVENT_MODEL:
+        configs = load_configs(EN_EVENT_COREF_CONFIG)
+        saved_path = PRETRAINED_EN_EVENT_MODEL
     print('Loaded configs')
 
     # Load tokenizer
@@ -40,8 +40,8 @@ def load_tokenizer_and_model(model_type):
     print('Loaded tokenizer')
 
     # Load model
-    if model_type == ENTITY_MODEL: model = EntityCorefModel(configs)
-    if model_type == EVENT_MODEL: model = EventCorefModel(configs)
+    if model_type == EN_ENTITY_MODEL: model = EntityCorefModel(configs)
+    if model_type == EN_EVENT_MODEL: model = EventCorefModel(configs)
     print('Initialized model')
     if os.path.exists(saved_path):
         checkpoint = torch.load(saved_path)
