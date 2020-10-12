@@ -33,6 +33,7 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language):
 
     # Load tokenizer and model
     if language == 'en': tokenizer, model = load_tokenizer_and_model(EN_ENTITY_MODEL)
+    elif language == 'es': tokenizer, model = load_tokenizer_and_model(ES_ENTITY_MODEL)
 
     # Load dataset
     print('Loading dataset')
@@ -49,7 +50,7 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language):
 
     # Apply the coref model
     start_time = time.time()
-    if not os.path.exists(INTERMEDIATE_PRED_ENTITY_PAIRS):
+    if True:
         f = open(INTERMEDIATE_PRED_ENTITY_PAIRS, 'w+')
         with torch.no_grad():
             for doc_index, tensorized_example in enumerate(dataset.tensorized_examples[TEST]):

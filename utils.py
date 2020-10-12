@@ -33,19 +33,25 @@ def load_tokenizer_and_model(model_type):
     if model_type == EN_EVENT_MODEL:
         configs = load_configs(EN_EVENT_COREF_CONFIG)
         saved_path = PRETRAINED_EN_EVENT_MODEL
+    if model_type == ES_ENTITY_MODEL:
+        configs = load_configs(ES_ENTITY_COREF_CONFIG)
+        saved_path = PRETRAINED_ES_ENTITY_MODEL
+    if model_type == ES_EVENT_MODEL:
+        configs = load_configs(ES_EVENT_COREF_CONFIG)
+        saved_path = PRETRAINED_ES_EVENT_MODEL
     print('Loaded configs')
 
     # Load tokenizer
-    tokenizer = BertTokenizer.from_pretrained(configs['transformer'], do_basic_tokenize=False)
+    tokenizer = AutoTokenizer.from_pretrained(configs['transformer'], do_basic_tokenize=False)
     print('Loaded tokenizer')
 
     # Load model
-    if model_type == EN_ENTITY_MODEL: model = EntityCorefModel(configs)
-    if model_type == EN_EVENT_MODEL: model = EventCorefModel(configs)
+    if model_type in [EN_ENTITY_MODEL, ES_ENTITY_MODEL]: model = EntityCorefModel(configs)
+    if model_type in [EN_EVENT_MODEL, ES_EVENT_MODEL]: model = EventCorefModel(configs)
     print('Initialized model')
     if os.path.exists(saved_path):
         checkpoint = torch.load(saved_path)
-        model.load_state_dict(checkpoint['model_state_dict'])
+        model.load_state_dict(checkpoint['model_state_dict'], strict=False)
         print('Reloaded model from pretrained ckpt')
 
     return tokenizer, model
@@ -116,3 +122,8 @@ def construct_sliding_windows(sequence_length: int, sliding_window_size: int):
         start_index += stride
     assert sum([sum(window[2]) for window in sliding_windows]) == sequence_length
     return sliding_windows
+
+def print_model_params(model):
+    for name, param in model.named_parameters():
+        if param.requires_grad:
+            print(name)

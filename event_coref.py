@@ -16,6 +16,7 @@ def event_coref(cs_path, json_dir, output_path, language):
 
     # Load tokenizer and model
     if language == 'en': tokenizer, model = load_tokenizer_and_model(EN_EVENT_MODEL)
+    elif language == 'es': tokenizer, model = load_tokenizer_and_model(ES_EVENT_MODEL)
 
     # Load dataset
     print('Loading dataset')
@@ -37,7 +38,7 @@ def event_coref(cs_path, json_dir, output_path, language):
     # Apply the coref model
     doc_pairs_ctx = 0
     start_time = time.time()
-    if not os.path.exists(INTERMEDIATE_PRED_EVENT_PAIRS):
+    if True:
         f = open(INTERMEDIATE_PRED_EVENT_PAIRS, 'w+')
         for i in range(len(docs)):
             for j in range(i+1, len(docs)):
