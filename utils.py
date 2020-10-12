@@ -50,7 +50,7 @@ def load_tokenizer_and_model(model_type):
     if model_type in [EN_EVENT_MODEL, ES_EVENT_MODEL]: model = EventCorefModel(configs)
     print('Initialized model')
     if os.path.exists(saved_path):
-        checkpoint = torch.load(saved_path)
+        checkpoint = torch.load(saved_path, map_location=model.device)
         model.load_state_dict(checkpoint['model_state_dict'], strict=False)
         print('Reloaded model from pretrained ckpt')
 
