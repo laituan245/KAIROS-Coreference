@@ -40,25 +40,13 @@ def read_event_types(fp):
             }
     return types
 
-# Main code
-if __name__ == "__main__":
-    # Parse argument
-    parser = ArgumentParser()
-    parser.add_argument('--input_entity', default='/shared/nas/data/m1/tuanml2/kairos/output/corrected_format/entity.cs')
-    parser.add_argument('--input_event', default='/shared/nas/data/m1/tuanml2/kairos/output/corrected_format/event.cs')
-    parser.add_argument('--debug', action='store_true')
-    args = parser.parse_args()
-
-    # DEBUG Mode
-    if args.debug:
-        args.input_entity = 'resources/samples/output/entity.cs'
-        args.input_event = 'resources/samples/output/event.cs'
-    args.output_entity = dirname(args.input_entity) + 'entity_2.cs'
-    args.output_event = dirname(args.input_event) + 'event_2.cs'
+def string_repr(new_input_entity, new_input_event):
+    output_entity = dirname(new_input_entity) + 'entity_2.cs'
+    output_event = dirname(new_input_event) + 'event_2.cs'
 
     # Determine most representative mention for each entity cluster
     entity2canonical, entity2nominal, entity2pronominal, entity2mention = {}, {}, {}, {}
-    with open(args.input_entity, 'r', encoding='utf-8') as f:
+    with open(new_input_entity, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
             if len(line) == 0: continue
@@ -91,9 +79,9 @@ if __name__ == "__main__":
     # Read event_types
     event_types = read_event_types('resources/event_types.tsv')
 
-    # Read input_event file
+    # Read new_input_event file
     event2type, event2args = {}, {}
-    with open(args.input_event, 'r', encoding='utf-8') as f:
+    with open(new_input_event, 'r', encoding='utf-8') as f:
         for line in f:
             es = line.strip().split('\t')
             if len(es) <= 3:
@@ -118,8 +106,8 @@ if __name__ == "__main__":
             event_args[a] = find_majority(event_args[a])
 
     # Output new entity.cs and event.cs
-    with open(args.input_entity, 'r', encoding='utf-8') as input_f:
-        with open(args.output_entity, 'w+', encoding='utf-8') as output_f:
+    with open(new_input_entity, 'r', encoding='utf-8') as input_f:
+        with open(output_entity, 'w+', encoding='utf-8') as output_f:
             for line in input_f:
                 line = line.strip()
                 es = line.split('\t')
@@ -130,8 +118,8 @@ if __name__ == "__main__":
                     line = '\t'.join(es)
                     output_f.write('{}\n'.format(line))
 
-    with open(args.input_event, 'r', encoding='utf-8') as input_f:
-        with open(args.output_event, 'w+', encoding='utf-8') as output_f:
+    with open(new_input_event, 'r', encoding='utf-8') as input_f:
+        with open(output_event, 'w+', encoding='utf-8') as output_f:
             for line in input_f:
                 line = line.strip()
                 es = line.split('\t')
@@ -149,7 +137,7 @@ if __name__ == "__main__":
                     output_f.write('{}\n'.format(line))
 
     # Delete old file
-    os.remove(args.input_event)
-    os.remove(args.input_entity)
-    os.rename(args.output_entity, args.input_entity)
-    os.rename(args.output_event, args.input_event)
+    os.remove(new_input_event)
+    os.remove(new_input_entity)
+    os.rename(output_entity, new_input_entity)
+    os.rename(output_event, new_input_event)

@@ -4,37 +4,22 @@ import torch
 import random
 
 from constants import *
-from argparse import ArgumentParser
+from os.path import dirname
 from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten, create_dir_if_not_exist
 from data import EventCentricDocumentPair, load_event_centric_dataset
 from algorithms import UndirectedGraph
-from os.path import dirname
 
-INTERMEDIATE_PRED_PAIRS = 'event_pred_pairs.txt'
+INTERMEDIATE_PRED_EVENT_PAIRS = 'event_pred_pairs.txt'
 
-# Main code
-if __name__ == "__main__":
-    # Parse argument
-    parser = ArgumentParser()
-    parser.add_argument('-c', '--cs_path', default='/shared/nas/data/m1/yinglin8/kairos/result/all_oct_4/m1_m2/cs/event.cs')
-    parser.add_argument('-j', '--json_dir', default='/shared/nas/data/m1/yinglin8/kairos/result/all_oct_4/m1_m2/json')
-    parser.add_argument('-o', '--output_path', default='/shared/nas/data/m1/tuanml2/kairos/output/corrected_format/event.cs')
-    parser.add_argument('--debug', action='store_true')
-    args = parser.parse_args()
-
-    # DEBUG Mode
-    if args.debug:
-        args.cs_path = 'resources/samples/event.cs'
-        args.json_dir = 'resources/samples/json'
-        args.output_path = 'event.cs'
-    create_dir_if_not_exist(dirname(args.output_path))
+def event_coref(cs_path, json_dir, output_path):
+    create_dir_if_not_exist(dirname(output_path))
 
     # Load tokenizer and model
     tokenizer, model = load_tokenizer_and_model(EVENT_MODEL)
 
     # Load dataset
     print('Loading dataset')
-    docs, clusters = load_event_centric_dataset(tokenizer, args.cs_path, args.json_dir)
+    docs, clusters = load_event_centric_dataset(tokenizer, cs_path, json_dir)
 
     # Build mentions and id2mention
     mentions, id2mention = [], {}
@@ -52,8 +37,8 @@ if __name__ == "__main__":
     # Apply the coref model
     doc_pairs_ctx = 0
     start_time = time.time()
-    if not os.path.exists(INTERMEDIATE_PRED_PAIRS):
-        f = open(INTERMEDIATE_PRED_PAIRS, 'w+')
+    if not os.path.exists(INTERMEDIATE_PRED_EVENT_PAIRS):
+        f = open(INTERMEDIATE_PRED_EVENT_PAIRS, 'w+')
         for i in range(len(docs)):
             for j in range(i+1, len(docs)):
                 doci, docj = docs[i], docs[j]
@@ -94,13 +79,13 @@ if __name__ == "__main__":
         f.close()
     print("--- Applying the event coref model took %s seconds ---" % (time.time() - start_time))
 
-    # Build clusters from INTERMEDIATE_PRED_PAIRS
+    # Build clusters from INTERMEDIATE_PRED_EVENT_PAIRS
     graph = UndirectedGraph([m['mention_id'] for m in mentions])
     print('Number of vertices: {}'.format(graph.V))
 
-    # Add edges from INTERMEDIATE_PRED_PAIRS (all edges will be in-doc)
-    print('Add edges from INTERMEDIATE_PRED_PAIRS')
-    with open(INTERMEDIATE_PRED_PAIRS, 'r') as f:
+    # Add edges from INTERMEDIATE_PRED_EVENT_PAIRS (all edges will be in-doc)
+    print('Add edges from INTERMEDIATE_PRED_EVENT_PAIRS')
+    with open(INTERMEDIATE_PRED_EVENT_PAIRS, 'r') as f:
         for line in f:
             es = line.split('\t')
             node1, node2 = es[0].strip(), es[1].strip()
@@ -113,7 +98,7 @@ if __name__ == "__main__":
 
     # Read the original event.cs to get lines ...
     mid2lines, oid2mid = {}, {}
-    with open(args.cs_path, 'r', encoding='utf-8') as f:
+    with open(cs_path, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
             es = line.split('\t')
@@ -131,7 +116,7 @@ if __name__ == "__main__":
     # Outputs
     prefix = '::Event_'
     clusters.sort(key=lambda x: len(x), reverse=True)
-    with open(args.output_path, 'w+', encoding='utf-8') as f:
+    with open(output_path, 'w+', encoding='utf-8') as f:
         for ix, cluster in enumerate(clusters):
             ix_str = str(ix)
             while len(ix_str) < 7: ix_str = '0' + ix_str
@@ -150,3 +135,6 @@ if __name__ == "__main__":
                     line[0] = es_0
                     mention_line = '\t'.join(line)
                     f.write('{}\n'.format(mention_line))
+
+    # Remove INTERMEDIATE_PRED_EVENT_PAIRS
+    os.remove(INTERMEDIATE_PRED_EVENT_PAIRS)

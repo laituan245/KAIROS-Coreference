@@ -9,7 +9,7 @@ from data import load_entity_centric_dataset
 from algorithms import UndirectedGraph
 from os.path import dirname
 
-INTERMEDIATE_PRED_PAIRS = 'entity_pred_pairs.txt'
+INTERMEDIATE_PRED_ENTITY_PAIRS = 'entity_pred_pairs.txt'
 
 # Helper Function
 def get_cluster_labels(clusters, id2mention, field):
@@ -28,31 +28,15 @@ def get_cluster_labels(clusters, id2mention, field):
         clusterlabels.append(label)
     return clusterlabels
 
-# Main code
-if __name__ == "__main__":
-    # Parse argument
-    parser = ArgumentParser()
-    parser.add_argument('-c', '--cs_path', default='/shared/nas/data/m1/yinglin8/kairos/result/all_oct_4/m1_m2/cs/entity.cs')
-    parser.add_argument('-j', '--json_dir', default='/shared/nas/data/m1/yinglin8/kairos/result/all_oct_4/m1_m2/json')
-    parser.add_argument('-f', '--fb_linking_path', default='/shared/nas/data/m1/xiaoman6/tmp/20200920_kairos_linking/output/all_oct_4/m1_m2/linking/en.linking.freebase.cs')
-    parser.add_argument('-o', '--output_path', default='/shared/nas/data/m1/tuanml2/kairos/output/corrected_format/entity.cs')
-    parser.add_argument('--debug', action='store_true')
-    args = parser.parse_args()
-
-    # DEBUG Mode
-    if args.debug:
-        args.cs_path = 'resources/samples/entity.cs'
-        args.json_dir = 'resources/samples/json'
-        args.fb_linking_path = 'resources/samples/en.linking.freebase.cs'
-        args.output_path = 'entity.cs'
-    create_dir_if_not_exist(dirname(args.output_path))
+def entity_coref(cs_path, json_dir, fb_linking_path, output_path):
+    create_dir_if_not_exist(dirname(output_path))
 
     # Load tokenizer and model
     tokenizer, model = load_tokenizer_and_model(ENTITY_MODEL)
 
     # Load dataset
     print('Loading dataset')
-    entities, dataset = load_entity_centric_dataset(tokenizer, args.cs_path, args.json_dir, args.fb_linking_path)
+    entities, dataset = load_entity_centric_dataset(tokenizer, cs_path, json_dir, fb_linking_path)
     mentions = flatten([e['mentions'].values() for e in entities.values()])
 
     # Build id2mention
@@ -65,8 +49,8 @@ if __name__ == "__main__":
 
     # Apply the coref model
     start_time = time.time()
-    if not os.path.exists(INTERMEDIATE_PRED_PAIRS):
-        f = open(INTERMEDIATE_PRED_PAIRS, 'w+')
+    if not os.path.exists(INTERMEDIATE_PRED_ENTITY_PAIRS):
+        f = open(INTERMEDIATE_PRED_ENTITY_PAIRS, 'w+')
         with torch.no_grad():
             for doc_index, tensorized_example in enumerate(dataset.tensorized_examples[TEST]):
                 print('doc_index = {}'.format(doc_index))
@@ -100,13 +84,13 @@ if __name__ == "__main__":
         f.close()
     print("--- Applying the entity coref model took %s seconds ---" % (time.time() - start_time))
 
-    # Build clusters from INTERMEDIATE_PRED_PAIRS
+    # Build clusters from INTERMEDIATE_PRED_ENTITY_PAIRS
     graph = UndirectedGraph([m['mention_id'] for m in mentions])
     print('Number of vertices: {}'.format(graph.V))
 
-    # Add edges from INTERMEDIATE_PRED_PAIRS (all edges will be in-doc)
-    print('Add edges from INTERMEDIATE_PRED_PAIRS')
-    with open(INTERMEDIATE_PRED_PAIRS, 'r') as f:
+    # Add edges from INTERMEDIATE_PRED_ENTITY_PAIRS (all edges will be in-doc)
+    print('Add edges from INTERMEDIATE_PRED_ENTITY_PAIRS')
+    with open(INTERMEDIATE_PRED_ENTITY_PAIRS, 'r') as f:
         for line in f:
             es = line.split('\t')
             node1, node2 = es[0].strip(), es[1].strip()
@@ -137,7 +121,7 @@ if __name__ == "__main__":
 
     # Read the original entity.cs
     mid2lines = {}
-    with open(args.cs_path, 'r', encoding='utf-8') as f:
+    with open(cs_path, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
             es = line.split('\t')
@@ -150,7 +134,7 @@ if __name__ == "__main__":
 
     # Read the fb_linking_path to get canonical_mention and mention
     in_fb_linking = set()
-    with open(args.fb_linking_path, 'r', encoding='utf-8') as f:
+    with open(fb_linking_path, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
             es = line.split('\t')
@@ -168,7 +152,7 @@ if __name__ == "__main__":
     clusters.sort(key=lambda x: len(x), reverse=True)
     c_types = get_cluster_labels(clusters, id2mention, field='type')
     c_links = get_cluster_labels(clusters, id2mention, field='fb_id')
-    with open(args.output_path, 'w+', encoding='utf-8') as f:
+    with open(output_path, 'w+', encoding='utf-8') as f:
         for ix, (type, link, cluster) in enumerate(zip(c_types, c_links, clusters)):
             ix_str = str(ix)
             while len(ix_str) < 7: ix_str = '0' + ix_str
@@ -193,3 +177,6 @@ if __name__ == "__main__":
                 link = 'NIL' + link
                 link_line = '\t'.join([es_0, 'link', link])
                 f.write('{}\n'.format(link_line))
+
+    # Remove INTERMEDIATE_PRED_ENTITY_PAIRS
+    os.remove(INTERMEDIATE_PRED_ENTITY_PAIRS)
