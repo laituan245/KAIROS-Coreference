@@ -2,6 +2,7 @@ import os
 import time
 import torch
 import random
+import logging
 
 from constants import *
 from os.path import dirname, join
@@ -12,6 +13,11 @@ from utils import create_dir_if_not_exist
 from scripts import align_relation, align_event, string_repr, filter_relation
 
 ONEIE = 'oneie'
+
+logger = logging.getLogger()
+logging.basicConfig(format='%(asctime)s: %(levelname)s: %(message)s')
+logging.root.setLevel(level=logging.INFO)
+
 
 # Main code
 if __name__ == "__main__":
@@ -31,7 +37,8 @@ if __name__ == "__main__":
     success_file_path = join(dirname(args.linking_output), '_success')
     s = time.time()
     while not os.path.exists(success_file_path):
-        print('coref has been waiting for: %.3f seconds' % (time.time()-s))
+        #print('coref has been waiting for: %.3f seconds' % (time.time()-s))
+        logger.info('coref has been waiting for: %.3f seconds' % (time.time()-s))
         time.sleep(15)
     os.remove(success_file_path)
 
