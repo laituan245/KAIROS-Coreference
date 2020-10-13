@@ -4,7 +4,7 @@ import torch
 import random
 
 from constants import *
-from os.path import join
+from os.path import dirname, join
 from argparse import ArgumentParser
 from entity_coref import entity_coref
 from event_coref import event_coref
@@ -26,6 +26,14 @@ if __name__ == "__main__":
     args.ta = int(args.ta)
     assert(args.language in ['en', 'es'])
     assert(args.ta in [1, 2])
+
+    # Wait for signal from linking
+    success_file_path = join(dirname(args.linking_output), '_success')
+    s = time.time()
+    while not os.path.exists(success_file_path):
+        print('coref has been waiting for: %.3f seconds' % (time.time()-s))
+        time.sleep(15)
+    os.remove(success_file_path)
 
     # Run entity coref
     entity_cs = join(args.oneie_output, 'cs/entity.cs')
@@ -53,3 +61,8 @@ if __name__ == "__main__":
     # Run filter_relation
     if args.ta == 2:
         filter_relation(output_event, output_relation)
+
+    # Write a new success file
+    success_file_path = join(args.coreference_output, '_success')
+    with open(success_file_path, 'w+') as f:
+        f.write('success')
