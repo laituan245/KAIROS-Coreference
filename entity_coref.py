@@ -7,7 +7,7 @@ from argparse import ArgumentParser
 from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten, create_dir_if_not_exist
 from data import load_entity_centric_dataset
 from algorithms import UndirectedGraph
-from os.path import dirname
+from os.path import join, dirname
 
 INTERMEDIATE_PRED_ENTITY_PAIRS = 'entity_pred_pairs.txt'
 
@@ -30,6 +30,30 @@ def get_cluster_labels(clusters, id2mention, field):
 
 def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language):
     create_dir_if_not_exist(dirname(output_path))
+
+    # Read the original entity.cs
+    mid2lines, oe2mid = {}, {}
+    with open(cs_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            es = line.split('\t')
+            if len(line) == 0: continue
+            if len(es) <= 3: continue
+            mid = es[-2]
+            oe2mid[es[0]] = mid
+            if not mid in mid2lines: mid2lines[mid] = []
+            if not es[1].startswith('canonical_mention'):
+                mid2lines[mid].append(es)
+
+    # Read the original relation.cs file (in the same directory as entity.cs)
+    relation_cs = join(dirname(cs_path), 'relation.cs')
+    relation_pairs = set()
+    with open(relation_cs, 'r', encoding='utf-8') as f:
+        for line in f:
+            es = line.strip().split('\t')
+            arg0, arg1 = oe2mid[es[0]], oe2mid[es[2]]
+            relation_pairs.add((arg0, arg1))
+            relation_pairs.add((arg1, arg0))
 
     # Load tokenizer and model
     if language == 'en': tokenizer, model = load_tokenizer_and_model(EN_ENTITY_MODEL)
@@ -95,6 +119,7 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language):
         for line in f:
             es = line.split('\t')
             node1, node2 = es[0].strip(), es[1].strip()
+            if (node1, node2) in relation_pairs or (node2, node1) in relation_pairs: continue
             graph.addEdge(node1, node2)
     # Get connected components (with-in doc clusters)
     print('Get connected components')
@@ -119,19 +144,6 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language):
         if len(new_clusters) == len(clusters):
             break
         clusters = new_clusters
-
-    # Read the original entity.cs
-    mid2lines = {}
-    with open(cs_path, 'r', encoding='utf-8') as f:
-        for line in f:
-            line = line.strip()
-            es = line.split('\t')
-            if len(line) == 0: continue
-            if len(es) <= 3: continue
-            mid = es[-2]
-            if not mid in mid2lines: mid2lines[mid] = []
-            if not es[1].startswith('canonical_mention'):
-                mid2lines[mid].append(es)
 
     # Read the fb_linking_path to get canonical_mention and mention
     in_fb_linking = set()
