@@ -11,8 +11,71 @@ from algorithms import UndirectedGraph
 
 INTERMEDIATE_PRED_EVENT_PAIRS = 'event_pred_pairs.txt'
 
-def event_coref(cs_path, json_dir, output_path, language):
+# Helper Function
+def read_event_types(fp):
+    types = {}
+    with open(fp, 'r') as f:
+        for line in f:
+            es = line.split('\t')
+            type_name = es[1] + '.' + es[3] + '.' + es[5]
+            template = es[8]
+            unfiltered_args = es[9:]
+            args, arg_ctx = {}, 1
+            for i in range(0, len(unfiltered_args), 3):
+                if len(unfiltered_args[i].strip()) == 0: continue
+                args[unfiltered_args[i]] = '<arg{}>'.format(arg_ctx)
+                arg_ctx += 1
+            types[type_name] = {
+                'type_name': type_name,
+                'template': template,
+                'args': args
+            }
+    return types
+
+# Main Function
+def event_coref(cs_path, json_dir, output_path, language, original_input_entity, new_input_entity):
     create_dir_if_not_exist(dirname(output_path))
+
+    # Build olde2mid
+    olde2mid = {}
+    with open(original_input_entity, 'r', encoding='utf-8') as entity_f:
+        for line in entity_f:
+            es = line.split('\t')
+            if es[1].startswith('mention') or es[1].startswith('canonical_mention'):
+                olde2mid[es[0]] = es[-2]
+
+    # Build mid2eid
+    mid2eid = {}
+    with open(new_input_entity, 'r', encoding='utf-8') as entity_f:
+        for line in entity_f:
+            es = line.split('\t')
+            if es[1].endswith('mention'):
+                mid2eid[es[-2]] = es[0]
+
+    # Read info of event_types
+    event_types = read_event_types('resources/event_types.tsv')
+
+    # Read old event_cs file
+    event2type, event2args, oldevs2mid = {}, {}, {}
+    with open(cs_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            es = line.strip().split('\t')
+            if len(es) <= 3:
+                if es[1] == 'type':
+                    event2type[es[0]] = es[-1]
+                continue
+            if not (es[1].startswith('mention') or es[1].startswith('canonical_mention')):
+                event_type = event2type[es[0]]
+                if event_type in event_types: # Consider only events in the KAIROS ontology
+                    event_args = event_types[event_type]['args']
+                    arg_name = es[1].split('.')[-2].split('_')[-1]
+                    arg_nb = event_args[arg_name]
+                    mid = oldevs2mid[es[0]]
+                    if not mid in event2args: event2args[mid] = {}
+                    if not arg_nb in event2args[mid]: event2args[mid][arg_nb] = []
+                    event2args[mid][arg_nb].append(mid2eid[olde2mid[es[2]]])
+            else:
+                oldevs2mid[es[0]] = es[-2].strip()
 
     # Load tokenizer and model
     if language == 'en': tokenizer, model = load_tokenizer_and_model(EN_EVENT_MODEL)
