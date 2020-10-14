@@ -153,6 +153,15 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
         for line in f:
             es = line.split('\t')
             node1, node2 = es[0].strip(), es[1].strip()
+            # Filtering by <arg1> (if both have <arg1>)
+            node1_args = event2args.get(node1, {})
+            node2_args = event2args.get(node2, {})
+            if '<arg1>' in node1_args and '<arg1>' in node2_args:
+                compatible = False
+                for a1 in node1_args['<arg1>']:
+                    for a2 in node2_args['<arg1>']:
+                        if a1 == a2: compatible = True
+                if not compatible: continue
             graph.addEdge(node1, node2)
 
     # Get connected components (with-in doc clusters)

@@ -31,6 +31,7 @@ def align_relation(original_input_entity, new_input_entity, input_relation, outp
                 mid2eid[es[-2]] = es[0]
 
     # Output file
+    skipped = 0
     with open(output_relation, 'w+', encoding='utf-8') as output_f:
         with open(input_relation, 'r', encoding='utf-8') as event_f:
             for line in event_f:
@@ -40,5 +41,8 @@ def align_relation(original_input_entity, new_input_entity, input_relation, outp
                 assert(len(es) == 5)
                 es[0] = mid2eid[olde2mid[es[0]]]
                 es[2] = mid2eid[olde2mid[es[2]]]
-                if es[0] == es[2]: continue
+                if es[0] == es[2]:
+                    skipped += 1
+                    continue
                 output_f.write('{}\n'.format('\t'.join(es)))
+    print('Skipped {} relations'.format(skipped))
