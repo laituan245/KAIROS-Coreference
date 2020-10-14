@@ -40,4 +40,5 @@ def align_relation(original_input_entity, new_input_entity, input_relation, outp
                 assert(len(es) == 5)
                 es[0] = mid2eid[olde2mid[es[0]]]
                 es[2] = mid2eid[olde2mid[es[2]]]
+                if es[0] == es[2]: continue
                 output_f.write('{}\n'.format('\t'.join(es)))
