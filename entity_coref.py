@@ -32,15 +32,19 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language):
     create_dir_if_not_exist(dirname(output_path))
 
     # Read the original entity.cs
-    mid2lines, oe2mid = {}, {}
+    mid2lines, oe2mid, mid2type, cur_type = {}, {}, {}, None
     with open(cs_path, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
             es = line.split('\t')
             if len(line) == 0: continue
-            if len(es) <= 3: continue
+            if len(es) <= 4:
+                if es[1].strip().lower() == 'type':
+                    cur_type = es[2].strip()
+                continue
             mid = es[-2]
             oe2mid[es[0]] = mid
+            mid2type[mid] = cur_type
             if not mid in mid2lines: mid2lines[mid] = []
             if not es[1].startswith('canonical_mention'):
                 mid2lines[mid].append(es)
@@ -120,6 +124,7 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language):
             es = line.split('\t')
             node1, node2 = es[0].strip(), es[1].strip()
             if (node1, node2) in relation_pairs or (node2, node1) in relation_pairs: continue
+            if mid2type[node1] != mid2type[node2]: continue
             graph.addEdge(node1, node2)
     # Get connected components (with-in doc clusters)
     print('Get connected components')
