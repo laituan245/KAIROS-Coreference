@@ -2,6 +2,7 @@
 resources/samples
 event_pred_pairs.txt
 entity_pred_pairs.txt
+resources/quizlet4/output/test_coref
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

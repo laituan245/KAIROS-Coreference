@@ -33,6 +33,11 @@ if __name__ == "__main__":
     assert(args.language in ['en', 'es'])
     assert(args.ta in [1, 2])
 
+    if args.debug:
+        args.oneie_output = 'resources/quizlet4/output/oneie/m1'
+        args.linking_output = 'resources/quizlet4/output/linking/en.linking.wikidata.cs'
+        args.coreference_output = 'resources/quizlet4/output/test_coref/'
+
     # Wait for signal from linking
     if not args.debug:
         success_file_path = join(dirname(args.linking_output), '_success')
