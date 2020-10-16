@@ -15,7 +15,7 @@ def docs_filtering(event_cs_path, json_dir, language):
     if language == 'es':
         assert(len(ES_KEYWORDS) > 0)
     tokenizer = AutoTokenizer.from_pretrained('SpanBERT/spanbert-large-cased', do_basic_tokenize=False) # Not really matter
-    docs, clusters = load_event_centric_dataset(tokenizer, event_cs_path, json_dir)
+    docs = load_event_centric_dataset(tokenizer, event_cs_path, json_dir)
 
     filtered_docs = set()
     for doc in docs:

@@ -10,7 +10,7 @@ from argparse import ArgumentParser
 from entity_coref import entity_coref
 from event_coref import event_coref
 from utils import create_dir_if_not_exist
-from scripts import align_relation, align_event, docs_filtering, string_repr, filter_relation
+from scripts import align_relation, align_event, docs_clustering, docs_filtering, string_repr, filter_relation
 
 ONEIE = 'oneie'
 
@@ -59,11 +59,14 @@ if __name__ == "__main__":
     output_entity =  join(args.coreference_output, 'entity.cs')
     entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language, filtered_doc_ids)
 
+    # Run document clustering
+    clusters = docs_clustering(output_entity)
+
     # Run event coref
     event_cs = join(args.oneie_output, 'cs/event.cs')
     json_dir = join(args.oneie_output, 'json')
     output_event = join(args.coreference_output, 'event.cs')
-    event_coref(event_cs, json_dir, output_event, args.language, entity_cs, output_entity, filtered_doc_ids)
+    event_coref(event_cs, json_dir, output_event, args.language, entity_cs, output_entity, filtered_doc_ids, clusters)
 
     # Run aligning relation
     input_relation = join(args.oneie_output, 'cs/relation.cs')

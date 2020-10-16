@@ -78,10 +78,6 @@ def read_json_docs(base_path, filtered_docs = None):
     print('Number of docs from {} is {}'.format(base_path, len(doc2sents)))
     return doc2sents
 
-def doc_clustering(docs):
-    doc_ids = [x.doc_id for x in docs]
-    return [doc_ids] # All docs belong to one cluster
-
 def divide_event_docs(words, mentions, sent_lens, max_length=1500):
     splitted_docs = []
     start_index, end_index = 0, 0
@@ -158,17 +154,11 @@ def load_event_centric_dataset(tokenizer, cs_path, json_base_path, filtered_docs
 
     test_docs.sort(key=lambda x: x.doc_id)
 
-    # Clustering
+    # Info
     doc_ids = [x.doc_id for x in test_docs]
-    clusters = doc_clustering(test_docs)
     print('Number of splitted docs: {}'.format(len(doc_ids)))
-    print('Number of clusters: {}'.format(len(clusters)))
-    cluster_lens = [len(c) for c in clusters]
-    print('Clusters Size: {}'.format(cluster_lens))
 
-    clusters.sort(key=lambda x: len(x), reverse=True)
-
-    return test_docs, clusters
+    return test_docs
 
 def load_entity_centric_dataset(tokenizer, cs_path, json_base_path, fb_linking_path, filtered_docs = None):
     entities = read_cs(cs_path)
