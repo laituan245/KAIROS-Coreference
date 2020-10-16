@@ -60,7 +60,7 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
     with open(cs_path, 'r', encoding='utf-8') as f:
         for line in f:
             es = line.strip().split('\t')
-            if len(es) <= 3:
+            if len(es) <= 4:
                 if es[1] == 'type':
                     event2type[es[0]] = es[-1]
                 continue
@@ -183,7 +183,7 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
             line = line.strip()
             es = line.split('\t')
             if len(line) == 0: continue
-            if len(es) <= 3: continue
+            if len(es) <= 4: continue
             if es[1].startswith('mention') or es[1].startswith('canonical_mention'):
                 mid = es[-2]
                 if not mid in mid2lines: mid2lines[mid] = []

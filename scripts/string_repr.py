@@ -51,7 +51,7 @@ def string_repr(new_input_entity, new_input_event):
             line = line.strip()
             if len(line) == 0: continue
             es = line.split('\t')
-            if len(es) <= 3: continue
+            if len(es) <= 4: continue
             entity_id = es[0]
             if not entity_id in entity2canonical: entity2canonical[entity_id] = []
             if not entity_id in entity2nominal: entity2nominal[entity_id] = []
@@ -84,7 +84,7 @@ def string_repr(new_input_entity, new_input_event):
     with open(new_input_event, 'r', encoding='utf-8') as f:
         for line in f:
             es = line.strip().split('\t')
-            if len(es) <= 3:
+            if len(es) <= 4:
                 if es[1] == 'type':
                     event2type[es[0]] = es[-1]
                 continue
