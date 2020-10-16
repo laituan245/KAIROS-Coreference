@@ -28,7 +28,7 @@ def get_cluster_labels(clusters, id2mention, field):
         clusterlabels.append(label)
     return clusterlabels
 
-def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language):
+def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filtered_doc_ids):
     create_dir_if_not_exist(dirname(output_path))
 
     # Read the original entity.cs
@@ -65,7 +65,7 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language):
 
     # Load dataset
     print('Loading dataset')
-    entities, dataset = load_entity_centric_dataset(tokenizer, cs_path, json_dir, fb_linking_path)
+    entities, dataset = load_entity_centric_dataset(tokenizer, cs_path, json_dir, fb_linking_path, filtered_doc_ids)
     mentions = flatten([e['mentions'].values() for e in entities.values()])
 
     # Build id2mention

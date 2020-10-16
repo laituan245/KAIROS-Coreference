@@ -57,7 +57,7 @@ def read_cs(path, run_sanity_checks=True, skip_firstline=False):
 
     return e2info
 
-def read_json_docs(base_path):
+def read_json_docs(base_path, filtered_docs = None):
     doc2sents = {}
     for f in listdir(base_path):
         if isfile(join(base_path, f)) and f.endswith('json'):
@@ -66,6 +66,8 @@ def read_json_docs(base_path):
                 for line in f:
                     data = json.loads(line)
                     doc_id = data['doc_id']
+                    if not (filtered_docs is None):
+                        if not (doc_id in filtered_docs): continue
                     if not doc_id in doc2sents: doc2sents[doc_id] = []
                     sents, tokens, token_ids = [], data['tokens'], data['token_ids']
                     for token, token_id in zip(tokens, token_ids):
@@ -107,12 +109,12 @@ def divide_event_docs(words, mentions, sent_lens, max_length=1500):
 
     return splitted_docs
 
-def load_event_centric_dataset(tokenizer, cs_path, json_base_path):
+def load_event_centric_dataset(tokenizer, cs_path, json_base_path, filtered_docs = None):
     events = read_cs(cs_path, skip_firstline=False)
     for e in events.values():
         for m in e['mentions'].values():
             m['event_type'] = e['type']
-    docs = read_json_docs(json_base_path)
+    docs = read_json_docs(json_base_path, filtered_docs)
 
     # Build doc2mentions
     doc2mentions = {}
@@ -168,9 +170,9 @@ def load_event_centric_dataset(tokenizer, cs_path, json_base_path):
 
     return test_docs, clusters
 
-def load_entity_centric_dataset(tokenizer, cs_path, json_base_path, fb_linking_path):
+def load_entity_centric_dataset(tokenizer, cs_path, json_base_path, fb_linking_path, filtered_docs = None):
     entities = read_cs(cs_path)
-    docs = read_json_docs(json_base_path)
+    docs = read_json_docs(json_base_path, filtered_docs)
     linked_entities = read_cs(fb_linking_path, skip_firstline=True)
 
     # Build mention2type

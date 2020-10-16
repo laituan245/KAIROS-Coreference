@@ -33,7 +33,7 @@ def read_event_types(fp):
     return types
 
 # Main Function
-def event_coref(cs_path, json_dir, output_path, language, original_input_entity, new_input_entity):
+def event_coref(cs_path, json_dir, output_path, language, original_input_entity, new_input_entity, filtered_doc_ids):
     create_dir_if_not_exist(dirname(output_path))
 
     # Build olde2mid
@@ -83,7 +83,7 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
 
     # Load dataset
     print('Loading dataset')
-    docs, clusters = load_event_centric_dataset(tokenizer, cs_path, json_dir)
+    docs, clusters = load_event_centric_dataset(tokenizer, cs_path, json_dir, filtered_doc_ids)
 
     # Build mentions and id2mention
     mentions, id2mention = [], {}
