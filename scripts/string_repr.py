@@ -105,7 +105,7 @@ def string_repr(new_input_entity, new_input_event):
         for a in event_args:
             argmax, ctx = find_majority(event_args[a])
             if len(event_args[a]) == 0: continue
-            if ctx / len(event_args[a]) > 0.25:
+            if ctx / len(event_args[a]) > 0.25 and ctx > 1:
                 event_args[a] = argmax
 
     # Output new entity.cs and event.cs
