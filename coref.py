@@ -1,4 +1,5 @@
 import os
+import json
 import time
 import torch
 import random
@@ -60,7 +61,11 @@ if __name__ == "__main__":
     entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language, filtered_doc_ids)
 
     # Run document clustering
-    clusters = docs_clustering(output_entity)
+    clusters = docs_clustering(output_entity, filtered_doc_ids)
+    output_cluster = join(args.coreference_output, 'clusters.txt')
+    with open(output_cluster, 'w+') as f:
+        for c in clusters:
+            f.write('{}\n'.format(json.dumps(c)))
 
     # Run event coref
     event_cs = join(args.oneie_output, 'cs/event.cs')

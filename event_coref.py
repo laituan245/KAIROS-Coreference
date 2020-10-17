@@ -84,6 +84,19 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
     # Load dataset
     print('Loading dataset')
     docs = load_event_centric_dataset(tokenizer, cs_path, json_dir, filtered_doc_ids)
+    _clusters = []
+    for i in range(len(clusters)): _clusters.append([])
+    for doc in docs:
+        doc_id = doc.doc_id
+        for ix in range(len(clusters)):
+            found = False
+            for j in range(len(clusters[ix])):
+                if clusters[ix][j] in doc_id:
+                    found = True
+                    _clusters[ix].append(doc_id)
+                    break
+            if found: break
+    clusters = _clusters
 
     # Build mentions and id2mention
     mentions, id2mention = [], {}
