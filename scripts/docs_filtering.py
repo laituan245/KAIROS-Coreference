@@ -17,7 +17,7 @@ def docs_filtering(event_cs_path, json_dir, language):
     tokenizer = AutoTokenizer.from_pretrained('SpanBERT/spanbert-large-cased', do_basic_tokenize=False) # Not really matter
     docs = load_event_centric_dataset(tokenizer, event_cs_path, json_dir)
 
-    filtered_docs = set()
+    all_docs, filtered_docs = set(), set()
     for doc in docs:
         should_keep = True
 
@@ -38,7 +38,9 @@ def docs_filtering(event_cs_path, json_dir, language):
         doc_id = doc_id[:doc_id.find('_part')]
         if should_keep:
             filtered_docs.add(doc_id)
+        all_docs.add(doc_id)
+    distracted_docs = all_docs - filtered_docs
 
     print('[AFTER FILTERING] Remaining doc ids: {}'.format(filtered_docs))
 
-    return filtered_docs
+    return filtered_docs, distracted_docs

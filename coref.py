@@ -39,6 +39,8 @@ if __name__ == "__main__":
         args.linking_output = 'resources/quizlet4/output/linking/en.linking.wikidata.cs'
         args.coreference_output = 'resources/quizlet4/output/test_coref/'
 
+    create_dir_if_not_exist(dirname(args.coreference_output))
+
     # Wait for signal from linking
     if not args.debug:
         success_file_path = join(dirname(args.linking_output), '_success')
@@ -52,13 +54,18 @@ if __name__ == "__main__":
     # Run document filtering
     event_cs = join(args.oneie_output, 'cs/event.cs')
     json_dir = join(args.oneie_output, 'json')
-    filtered_doc_ids = docs_filtering(event_cs, json_dir, args.language)
+    filtered_doc_ids, distracted_doc_ids = docs_filtering(event_cs, json_dir, args.language)
+    output_distractors = join(args.coreference_output, 'distrators.txt')
+    with open(output_distractors, 'w+') as f:
+        for _id in distracted_doc_ids:
+            f.write('{}\n'.format(_id))
 
     # Run entity coref
     entity_cs = join(args.oneie_output, 'cs/entity.cs')
     json_dir = join(args.oneie_output, 'json')
     output_entity =  join(args.coreference_output, 'entity.cs')
-    entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language, filtered_doc_ids)
+    #entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language, filtered_doc_ids)
+    entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language, None)
 
     # Run document clustering
     clusters = docs_clustering(output_entity, filtered_doc_ids)
@@ -66,12 +73,15 @@ if __name__ == "__main__":
     with open(output_cluster, 'w+') as f:
         for c in clusters:
             f.write('{}\n'.format(json.dumps(c)))
+    for _id in distracted_doc_ids:
+        clusters.append([_id])
 
     # Run event coref
     event_cs = join(args.oneie_output, 'cs/event.cs')
     json_dir = join(args.oneie_output, 'json')
     output_event = join(args.coreference_output, 'event.cs')
-    event_coref(event_cs, json_dir, output_event, args.language, entity_cs, output_entity, filtered_doc_ids, clusters)
+    #event_coref(event_cs, json_dir, output_event, args.language, entity_cs, output_entity, filtered_doc_ids, clusters)
+    event_coref(event_cs, json_dir, output_event, args.language, entity_cs, output_entity, None, clusters)
 
     # Run aligning relation
     input_relation = join(args.oneie_output, 'cs/relation.cs')

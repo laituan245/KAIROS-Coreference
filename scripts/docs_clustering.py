@@ -35,7 +35,7 @@ def docs_clustering(new_input_entity, doc_ids):
 
             # United States
             if 'american' in lower_mentions or 'united states' in lower_mentions or \
-               'u.s.' in lower_mentions or 'u.s' in lower_mentions or 'america' in lower_mentions: 
+               'u.s.' in lower_mentions or 'u.s' in lower_mentions or 'america' in lower_mentions:
                 deleted.add(entity)
     for entity in deleted:
         del(entity2type[entity])
@@ -48,6 +48,8 @@ def docs_clustering(new_input_entity, doc_ids):
         cur_docs = list(entity2docs[entity])
         for i in range(len(cur_docs)):
             for j in range(i+1, len(cur_docs)):
+                if not cur_docs[i] in doc_ids: continue
+                if not cur_docs[j] in doc_ids: continue
                 graph.addEdge(cur_docs[i], cur_docs[j])
     sccs = graph.getSCCs()
 
@@ -55,4 +57,3 @@ def docs_clustering(new_input_entity, doc_ids):
     clusters = [list(scc) for scc in sccs]
 
     return clusters
-
