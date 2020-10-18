@@ -64,8 +64,7 @@ if __name__ == "__main__":
     entity_cs = join(args.oneie_output, 'cs/entity.cs')
     json_dir = join(args.oneie_output, 'json')
     output_entity =  join(args.coreference_output, 'entity.cs')
-    #entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language, filtered_doc_ids)
-    entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language, None)
+    entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language, filtered_doc_ids)
 
     # Run document clustering
     clusters = docs_clustering(output_entity, filtered_doc_ids)
@@ -73,15 +72,12 @@ if __name__ == "__main__":
     with open(output_cluster, 'w+') as f:
         for c in clusters:
             f.write('{}\n'.format(json.dumps(c)))
-    for _id in distracted_doc_ids:
-        clusters.append([_id])
 
     # Run event coref
     event_cs = join(args.oneie_output, 'cs/event.cs')
     json_dir = join(args.oneie_output, 'json')
     output_event = join(args.coreference_output, 'event.cs')
-    #event_coref(event_cs, json_dir, output_event, args.language, entity_cs, output_entity, filtered_doc_ids, clusters)
-    event_coref(event_cs, json_dir, output_event, args.language, entity_cs, output_entity, None, clusters)
+    event_coref(event_cs, json_dir, output_event, args.language, entity_cs, output_entity, filtered_doc_ids, clusters)
 
     # Run aligning relation
     input_relation = join(args.oneie_output, 'cs/relation.cs')
