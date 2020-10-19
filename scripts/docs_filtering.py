@@ -9,7 +9,8 @@ from data import load_event_centric_dataset
 
 EN_KEYWORDS = ['bomb', 'bombs', 'explosive', 'explosives', 'drone', 'drones',
                'strike', 'strikes', 'attack', 'attacks']
-ES_KEYWORDS = []
+ES_KEYWORDS = ['bomba', 'bombas', 'explosivo', 'explosiva', 'explosivos',
+               'dron', 'drones', 'huelga', 'huelgas', 'ataque', 'ataques']
 
 def docs_filtering(event_cs_path, json_dir, language):
     if language == 'es':
