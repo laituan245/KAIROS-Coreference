@@ -39,7 +39,7 @@ if __name__ == "__main__":
         args.linking_output = 'resources/quizlet4/output/linking/en.linking.wikidata.cs'
         args.coreference_output = 'resources/quizlet4/output/test_coref/'
 
-    create_dir_if_not_exist(dirname(args.coreference_output))
+    create_dir_if_not_exist(args.coreference_output)
 
     # Wait for signal from linking
     if not args.debug:
