@@ -41,6 +41,12 @@ if __name__ == "__main__":
 
     create_dir_if_not_exist(args.coreference_output)
 
+    # Sanity check
+    success_file_path = join(args.coreference_output, '_success')
+    if os.path.exists(success_file_path):
+        logger.info('[coref] A successful file already exists, exit')
+        exit(0)
+
     # Wait for signal from linking
     if not args.debug:
         success_file_path = join(dirname(args.linking_output), '_success')
