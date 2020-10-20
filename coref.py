@@ -49,7 +49,7 @@ if __name__ == "__main__":
             #print('coref has been waiting for: %.3f seconds' % (time.time()-s))
             logger.info('coref has been waiting for: %.3f seconds' % (time.time()-s))
             time.sleep(15)
-        os.remove(success_file_path)
+        #os.remove(success_file_path)
 
     # Run document filtering
     event_cs = join(args.oneie_output, 'cs/event.cs')
