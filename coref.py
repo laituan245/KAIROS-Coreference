@@ -6,6 +6,7 @@ import random
 import logging
 
 from constants import *
+from flask import Flask
 from os.path import dirname, join
 from argparse import ArgumentParser
 from entity_coref import entity_coref
@@ -14,7 +15,7 @@ from utils import create_dir_if_not_exist
 from scripts import align_relation, align_event, docs_clustering, docs_filtering, string_repr, filter_relation
 
 ONEIE = 'oneie'
-
+app = Flask(__name__)
 logger = logging.getLogger()
 logging.basicConfig(format='%(asctime)s: %(levelname)s: %(message)s')
 logging.root.setLevel(level=logging.INFO)
@@ -28,6 +29,7 @@ if __name__ == "__main__":
     parser.add_argument('--coreference_output', default='/shared/nas/data/m1/tuanml2/tmpfile/docker-compose/output/en/coref/')
     parser.add_argument('--ta', default=1)
     parser.add_argument('--language', default='en')
+    parser.add_argument('--port', default=3300)
     parser.add_argument('--debug', action='store_true')
     args = parser.parse_args()
     args.ta = int(args.ta)
@@ -40,22 +42,6 @@ if __name__ == "__main__":
         args.coreference_output = 'resources/quizlet4/output/test_coref/'
 
     create_dir_if_not_exist(args.coreference_output)
-
-    # Sanity check
-    success_file_path = join(args.coreference_output, '_success')
-    if os.path.exists(success_file_path):
-        logger.info('[coref] A successful file already exists, exit')
-        exit(0)
-
-    # Wait for signal from linking
-    if not args.debug:
-        success_file_path = join(dirname(args.linking_output), '_success')
-        s = time.time()
-        while not os.path.exists(success_file_path):
-            #print('coref has been waiting for: %.3f seconds' % (time.time()-s))
-            logger.info('coref has been waiting for: %.3f seconds' % (time.time()-s))
-            time.sleep(15)
-        #os.remove(success_file_path)
 
     # Run document filtering
     event_cs = join(args.oneie_output, 'cs/event.cs')
@@ -100,8 +86,5 @@ if __name__ == "__main__":
     if args.ta == 2:
         filter_relation(output_event, output_relation)
 
-    # Write a new success file
-    if not args.debug:
-        success_file_path = join(args.coreference_output, '_success')
-        with open(success_file_path, 'w+') as f:
-            f.write('success')
+    # At the end
+    app.run('0.0.0.0', port=int(args.port))
