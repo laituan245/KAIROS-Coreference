@@ -25,20 +25,30 @@ def docs_clustering(linking_output, doc_ids):
             if 'american' in m_texts or 'united states' in m_texts or 'u.s.' in m_texts or 'u.s' in m_texts or 'america' in m_texts:
                 # English
                 continue
+            if 'estados unidos' in m_texts or 'eeuu' in m_texts:
+                # Spanish
+                continue
 
         # Update filtered_entities
         filtered_entities.append(entity)
 
     # Find connected components
+    freq_ctx = {}
     graph = UndirectedGraph(doc_ids)
     for entity in filtered_entities:
         cur_docs = set([m['doc_id'] for m in entity['mentions'].values()])
         cur_docs = list(cur_docs)
+        cur_docs = [d for d in cur_docs if d in doc_ids]
+        if len(cur_docs) <= 1: continue
         for i in range(len(cur_docs)):
             for j in range(i+1, len(cur_docs)):
                 if not cur_docs[i] in doc_ids: continue
                 if not cur_docs[j] in doc_ids: continue
-                graph.addEdge(cur_docs[i], cur_docs[j])
+                cur_docs[i], cur_docs[j] = min(cur_docs[i], cur_docs[j]), max(cur_docs[i], cur_docs[j])
+                pair = (cur_docs[i], cur_docs[j])
+                freq_ctx[pair] = freq_ctx.get(pair, 0) + 1
+                if freq_ctx[pair] > 1:
+                    graph.addEdge(cur_docs[i], cur_docs[j])
     sccs = graph.getSCCs()
 
     # clusters

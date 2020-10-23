@@ -38,7 +38,7 @@ if __name__ == "__main__":
 
     if args.debug:
         args.oneie_output = 'resources/quizlet4/{}/output/oneie/m1'.format(args.language)
-        args.linking_output = 'resources/quizlet4/{}/output/linking/en.linking.wikidata.cs'.format(args.language)
+        args.linking_output = 'resources/quizlet4/{}/output/linking/{}.linking.wikidata.cs'.format(args.language, args.language)
         args.coreference_output = 'resources/quizlet4/{}/output/test_coref/'.format(args.language)
 
     create_dir_if_not_exist(args.coreference_output)
