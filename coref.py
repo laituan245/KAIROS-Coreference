@@ -67,18 +67,18 @@ if __name__ == "__main__":
         for _id in distracted_doc_ids:
             f.write('{}\n'.format(_id))
 
+    # Run document clustering
+    clusters = docs_clustering(args.linking_output, filtered_doc_ids)
+    output_cluster = join(args.coreference_output, 'clusters.txt')
+    with open(output_cluster, 'w+') as f:
+        for c in clusters:
+            f.write('{}\n'.format(json.dumps(c)))
+
     # Run entity coref
     entity_cs = join(args.oneie_output, 'cs/entity.cs')
     json_dir = join(args.oneie_output, 'json')
     output_entity =  join(args.coreference_output, 'entity.cs')
     entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language, filtered_doc_ids)
-
-    # Run document clustering
-    clusters = docs_clustering(output_entity, filtered_doc_ids)
-    output_cluster = join(args.coreference_output, 'clusters.txt')
-    with open(output_cluster, 'w+') as f:
-        for c in clusters:
-            f.write('{}\n'.format(json.dumps(c)))
 
     # Run event coref
     event_cs = join(args.oneie_output, 'cs/event.cs')
