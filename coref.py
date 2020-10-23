@@ -78,7 +78,7 @@ if __name__ == "__main__":
     entity_cs = join(args.oneie_output, 'cs/entity.cs')
     json_dir = join(args.oneie_output, 'json')
     output_entity =  join(args.coreference_output, 'entity.cs')
-    entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language, filtered_doc_ids)
+    entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language, filtered_doc_ids, clusters)
 
     # Run event coref
     event_cs = join(args.oneie_output, 'cs/event.cs')

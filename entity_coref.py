@@ -28,7 +28,7 @@ def get_cluster_labels(clusters, id2mention, field):
         clusterlabels.append(label)
     return clusterlabels
 
-def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filtered_doc_ids):
+def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filtered_doc_ids, clusters=None):
     create_dir_if_not_exist(dirname(output_path))
 
     # Read the original entity.cs
