@@ -37,9 +37,9 @@ if __name__ == "__main__":
     assert(args.ta in [1, 2])
 
     if args.debug:
-        args.oneie_output = 'resources/quizlet4/output/oneie/m1'
-        args.linking_output = 'resources/quizlet4/output/linking/en.linking.wikidata.cs'
-        args.coreference_output = 'resources/quizlet4/output/test_coref/'
+        args.oneie_output = 'resources/quizlet4/en/output/oneie/m1'
+        args.linking_output = 'resources/quizlet4/en/output/linking/en.linking.wikidata.cs'
+        args.coreference_output = 'resources/quizlet4/en/output/test_coref/'
 
     create_dir_if_not_exist(args.coreference_output)
 

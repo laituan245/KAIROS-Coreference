@@ -70,9 +70,9 @@ def generate_visualization(docs, cluster2mention, output):
 if __name__ == "__main__":
     # Parse argument
     parser = ArgumentParser()
-    parser.add_argument('--json_dir', default='resources/quizlet4/output/oneie/m1_m2/json')
-    parser.add_argument('--entity_coref', default='resources/quizlet4/output/coref/entity.cs')
-    parser.add_argument('--event_coref', default='resources/quizlet4/output/coref/event.cs')
+    parser.add_argument('--json_dir', default='resources/quizlet4/en/output/oneie/m1_m2/json')
+    parser.add_argument('--entity_coref', default='resources/quizlet4/en/output/coref/entity.cs')
+    parser.add_argument('--event_coref', default='resources/quizlet4/en/output/coref/event.cs')
     args = parser.parse_args()
 
     # Read json docs
@@ -84,5 +84,5 @@ if __name__ == "__main__":
     event2mention = read_coref(args.event_coref)
 
     # Generate visualization files
-    generate_visualization(docs, entity2mention, 'resources/quizlet4/output/coref/entity_coref.html')
-    generate_visualization(docs, event2mention, 'resources/quizlet4/output/coref/event_coref.html')
+    generate_visualization(docs, entity2mention, 'resources/quizlet4/en/output/coref/entity_coref.html')
+    generate_visualization(docs, event2mention, 'resources/quizlet4/en/output/coref/event_coref.html')
