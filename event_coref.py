@@ -62,7 +62,7 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
             es = line.strip().split('\t')
             if len(es) <= 4:
                 if es[1] == 'type':
-                    event2type[es[0]] = es[-1]
+                    event2type[es[0]] = es[-2]
                 continue
             if not (es[1].startswith('mention') or es[1].startswith('canonical_mention')):
                 event_type = event2type[es[0]]
