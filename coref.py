@@ -13,6 +13,7 @@ from entity_coref import entity_coref
 from event_coref import event_coref
 from utils import create_dir_if_not_exist
 from scripts import align_relation, align_event, docs_clustering, docs_filtering, string_repr, filter_relation
+from refine_entity_coref import refine_entity_coref
 
 ONEIE = 'oneie'
 app = Flask(__name__)
@@ -24,7 +25,7 @@ logging.root.setLevel(level=logging.INFO)
 if __name__ == "__main__":
     # Parse argument
     parser = ArgumentParser()
-    parser.add_argument('--oneie_output', default='/shared/nas/data/m1/tuanml2/tmpfile/docker-compose/output/en/oneie/m1')
+    parser.add_argument('--oneie_output', default='/shared/nas/data/m1/tuanml2/tmpfile/docker-compose/output/en/oneie/m1_m2')
     parser.add_argument('--linking_output', default='/shared/nas/data/m1/tuanml2/tmpfile/docker-compose/output/en/linking/en.linking.wikidata.cs')
     parser.add_argument('--coreference_output', default='/shared/nas/data/m1/tuanml2/tmpfile/docker-compose/output/en/coref/')
     parser.add_argument('--ta', default=1)
@@ -37,9 +38,9 @@ if __name__ == "__main__":
     assert(args.ta in [1, 2])
 
     if args.debug:
-        args.oneie_output = 'resources/quizlet4/{}/output/oneie/m1'.format(args.language)
+        args.oneie_output = 'resources/quizlet4/{}/output/oneie/m1_m2'.format(args.language)
         args.linking_output = 'resources/quizlet4/{}/output/linking/{}.linking.wikidata.cs'.format(args.language, args.language)
-        args.coreference_output = 'resources/quizlet4/{}/output/test_coref/'.format(args.language)
+        args.coreference_output = 'resources/quizlet4/{}/output/coref/'.format(args.language)
 
     create_dir_if_not_exist(args.coreference_output)
 
@@ -80,26 +81,34 @@ if __name__ == "__main__":
     output_entity =  join(args.coreference_output, 'entity.cs')
     entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language, filtered_doc_ids, clusters)
 
-    # Run event coref
-    event_cs = join(args.oneie_output, 'cs/event.cs')
-    json_dir = join(args.oneie_output, 'json')
-    output_event = join(args.coreference_output, 'event.cs')
-    event_coref(event_cs, json_dir, output_event, args.language, entity_cs, output_entity, filtered_doc_ids, clusters)
+    # Refinement
+    while True:
+        # Run event coref
+        event_cs = join(args.oneie_output, 'cs/event.cs')
+        json_dir = join(args.oneie_output, 'json')
+        output_event = join(args.coreference_output, 'event.cs')
+        event_coref(event_cs, json_dir, output_event, args.language, entity_cs, output_entity, filtered_doc_ids, clusters)
 
-    # Run aligning relation
-    input_relation = join(args.oneie_output, 'cs/relation.cs')
-    output_relation = join(args.coreference_output, 'relation.cs')
-    align_relation(entity_cs, output_entity, input_relation, output_relation)
+        # Run aligning relation
+        input_relation = join(args.oneie_output, 'cs/relation.cs')
+        output_relation = join(args.coreference_output, 'relation.cs')
+        align_relation(entity_cs, output_entity, input_relation, output_relation)
 
-    # Run aligning event
-    align_event(output_entity, output_event)
+        # Run aligning event
+        align_event(output_entity, output_event)
 
-    # Run string_repr
-    string_repr(output_entity, output_event)
+        # Run string_repr
+        string_repr(output_entity, output_event)
 
-    # Run filter_relation
-    if args.ta == 2:
-        filter_relation(output_event, output_relation)
+        # Run filter_relation
+        if args.ta == 2:
+            filter_relation(output_event, output_relation)
+
+        print('refinement')
+        changed = refine_entity_coref(output_entity, output_event)
+        print('changed = {}'.format(changed))
+        if not changed:
+            break
 
     # Write a new success file
     if not args.debug:

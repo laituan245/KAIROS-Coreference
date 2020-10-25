@@ -32,7 +32,7 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
     create_dir_if_not_exist(dirname(output_path))
 
     # Read the original entity.cs
-    mid2lines, oe2mid, mid2type, cur_type = {}, {}, {}, None
+    mid2lines, oe2mid, cur_type = {}, {}, None
     with open(cs_path, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
@@ -44,7 +44,6 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                 continue
             mid = es[-2]
             oe2mid[es[0]] = mid
-            mid2type[mid] = cur_type
             if not mid in mid2lines: mid2lines[mid] = []
             if not es[1].startswith('canonical_mention'):
                 mid2lines[mid].append(es)
@@ -67,6 +66,13 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
     print('Loading dataset')
     entities, dataset = load_entity_centric_dataset(tokenizer, cs_path, json_dir, fb_linking_path, filtered_doc_ids)
     mentions = flatten([e['mentions'].values() for e in entities.values()])
+
+    # Build mid2type
+    mid2type = {}
+    for e in entities.values():
+        e_type = e['type']
+        for m in e['mentions']:
+            mid2type[m] = e_type
 
     # Build id2mention
     id2mention, fb2mentions = {}, {}
@@ -107,8 +113,6 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                     if len(c) <= 1: continue
                     for i in range(len(c)):
                         for j in range(i+1, len(c)):
-                            if 'fb_id' in c[i] and 'fb_id' in c[j] and c[i]['fb_id'] != c[j]['fb_id'] and \
-                                (not c[i]['fb_id'].startswith('NIL')) and (not c[j]['fb_id'].startswith('NIL')): continue
                             f.write('{}\t{}\n'.format(c[i]['mention_id'], c[j]['mention_id']))
         f.close()
     print("--- Applying the entity coref model took %s seconds ---" % (time.time() - start_time))

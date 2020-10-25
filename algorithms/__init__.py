@@ -1,1 +1,1 @@
-from algorithms.graph import UndirectedGraph
+from algorithms.graph import DirectedGraph, UndirectedGraph

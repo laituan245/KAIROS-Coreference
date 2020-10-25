@@ -1,10 +1,12 @@
 import os
+import copy
 import json
 import time
 import torch
 import random
 import logging
 
+from os.path import join
 from utils import flatten
 from data import read_json_docs, locstr_to_loc
 from argparse import ArgumentParser
@@ -33,23 +35,28 @@ def read_coref(coref_fp):
             es = line.strip().split('\t')
             if not es[0] in cluster2mention:
                 cluster2mention[es[0]] = {
-                    'mentions': set()
+                    'mentions': set(),
+                    'type': []
                 }
             if len(es) <= 4:
                 if 'type' in es[1].lower():
-                    cluster2mention[es[0]]['type'] = es[2]
+                    cluster2mention[es[0]]['type'].append(es[2])
                 continue
             if not 'mention' in es[1]: continue
             cluster2mention[es[0]]['mentions'].add(es[-2])
     return cluster2mention
 
 def generate_visualization(docs, cluster2mention, output):
-    with open(output, 'w+') as f:
+    with open(output, 'w+', encoding='utf-8') as f:
         for ix, c in enumerate(cluster2mention):
-            type_info = cluster2mention[c]['type']
-            f.write('<hr><h3>Cluster {} (Type = {})</h3>'.format(ix+1, type_info))
-            for m in cluster2mention[c]['mentions']:
+            if len(cluster2mention[c]['type']) == 1:
+                type_info = cluster2mention[c]['type'][0]
+                f.write('<hr><h3>Cluster {} (Type = {})</h3>'.format(ix+1, type_info))
+            else:
+                f.write('<hr><h3>Cluster {}</h3>'.format(ix+1))
+            for m_index, m in enumerate(cluster2mention[c]['mentions']):
                 doc_id, m_start, m_end = locstr_to_loc(m)
+                if not doc_id in docs: continue
                 tokens = flatten(docs[doc_id])
                 token_texts = [t[0] for t in tokens]
                 start_index, end_index = None, None
@@ -64,16 +71,49 @@ def generate_visualization(docs, cluster2mention, output):
                 doc_info = doc_id
                 if doc_id in DOC2URL:
                     doc_info = '<a href="{}">{}</a>'.format(DOC2URL[doc_id], doc_id)
-                f.write('[Document {}] {} <font color="red">{}</font> {} </br>'.format(doc_info, left_context, mention_text, right_context))
+                if len(cluster2mention[c]['type']) > 1:
+                    f.write('[Document {} ({})] {} <font color="red">{}</font> {} </br>'.format(doc_info, cluster2mention[c]['type'][m_index], left_context, mention_text, right_context))
+                else:
+                    f.write('[Document {}] {} <font color="red">{}</font> {} </br>'.format(doc_info, left_context, mention_text, right_context))
+
+def generate_visualization_for_cluster(docs, entity2mention, event2mention, cluster, cluster_nb):
+    docs = copy.deepcopy(docs)
+    entity2mention = copy.deepcopy(entity2mention)
+    event2mention = copy.deepcopy(event2mention)
+
+    # Process docs ~ Remove document not in the cluster
+    removed_ids = [k for k in docs if not k in cluster]
+    for remove_id in removed_ids: del docs[remove_id]
+
+    # Process entity2mention
+    removed_entities = []
+    for entity in entity2mention:
+        m0 = list(entity2mention[entity]['mentions'])[0]
+        m0 = m0.split(':')[0]
+        if not m0 in cluster: removed_entities.append(entity)
+    for entity in removed_entities: del entity2mention[entity]
+
+    # Process event2mention
+    removed_events = []
+    for event in event2mention:
+        m0 = list(event2mention[event]['mentions'])[0]
+        m0 = m0.split(':')[0]
+        if not m0 in cluster: removed_events.append(event)
+    for event in removed_events: del event2mention[event]
+
+    # Generate visualization files
+    generate_visualization(docs, entity2mention, 'resources/quizlet4/en/output/coref/cluster_{}_entity_coref.html'.format(cluster_nb))
+    generate_visualization(docs, event2mention, 'resources/quizlet4/en/output/coref/cluster_{}_event_coref.html'.format(cluster_nb))
 
 # Main code
 if __name__ == "__main__":
     # Parse argument
     parser = ArgumentParser()
     parser.add_argument('--json_dir', default='resources/quizlet4/en/output/oneie/m1_m2/json')
-    parser.add_argument('--entity_coref', default='resources/quizlet4/en/output/coref/entity.cs')
-    parser.add_argument('--event_coref', default='resources/quizlet4/en/output/coref/event.cs')
+    parser.add_argument('--coref_dir', default='resources/quizlet4/en/output/coref/')
     args = parser.parse_args()
+    args.entity_coref = join(args.coref_dir, 'entity.cs')
+    args.event_coref = join(args.coref_dir, 'event.cs')
 
     # Read json docs
     docs = read_json_docs(args.json_dir)
@@ -83,6 +123,12 @@ if __name__ == "__main__":
     entity2mention = read_coref(args.entity_coref)
     event2mention = read_coref(args.event_coref)
 
-    # Generate visualization files
-    generate_visualization(docs, entity2mention, 'resources/quizlet4/en/output/coref/entity_coref.html')
-    generate_visualization(docs, event2mention, 'resources/quizlet4/en/output/coref/event_coref.html')
+    # Read doc clustering info
+    clusters = []
+    with open(join(args.coref_dir, 'clusters.txt'), 'r') as f:
+        for line in f:
+            clusters.append(json.loads(line))
+
+    # generate_visualization_for_cluster
+    for cluster_nb, cluster in enumerate(clusters):
+        generate_visualization_for_cluster(docs, entity2mention, event2mention, cluster, cluster_nb)

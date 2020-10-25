@@ -1,36 +1,21 @@
 import os
 import time
 import torch
+import copy
 import random
 
 from constants import *
 from os.path import dirname
-from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten, create_dir_if_not_exist
+from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten, create_dir_if_not_exist, read_event_types
 from data import EventCentricDocumentPair, load_event_centric_dataset
 from algorithms import UndirectedGraph
 
 INTERMEDIATE_PRED_EVENT_PAIRS = 'event_pred_pairs.txt'
 
-# Helper Function
-def read_event_types(fp):
-    types = {}
-    with open(fp, 'r') as f:
-        for line in f:
-            es = line.split('\t')
-            type_name = es[1] + '.' + es[3] + '.' + es[5]
-            template = es[8]
-            unfiltered_args = es[9:]
-            args, arg_ctx = {}, 1
-            for i in range(0, len(unfiltered_args), 3):
-                if len(unfiltered_args[i].strip()) == 0: continue
-                args[unfiltered_args[i]] = '<arg{}>'.format(arg_ctx)
-                arg_ctx += 1
-            types[type_name] = {
-                'type_name': type_name,
-                'template': template,
-                'args': args
-            }
-    return types
+def args_overlap(argi, argj):
+    if argi is None: return False
+    if argj is None: return False
+    return len(argi.intersection(argj)) > 0
 
 # Main Function
 def event_coref(cs_path, json_dir, output_path, language, original_input_entity, new_input_entity, filtered_doc_ids, clusters=None):
@@ -56,7 +41,7 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
     event_types = read_event_types('resources/event_types.tsv')
 
     # Read old event_cs file
-    event2type, event2args, oldevs2mid = {}, {}, {}
+    event2type, event2args, oldevs2mid, event2text = {}, {}, {}, {}
     with open(cs_path, 'r', encoding='utf-8') as f:
         for line in f:
             es = line.strip().split('\t')
@@ -72,8 +57,8 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
                     arg_nb = event_args[arg_name]
                     mid = oldevs2mid[es[0]]
                     if not mid in event2args: event2args[mid] = {}
-                    if not arg_nb in event2args[mid]: event2args[mid][arg_nb] = []
-                    event2args[mid][arg_nb].append(mid2eid[olde2mid[es[2]]])
+                    if not arg_nb in event2args[mid]: event2args[mid][arg_nb] = set()
+                    event2args[mid][arg_nb].add(mid2eid[olde2mid[es[2]]])
             else:
                 oldevs2mid[es[0]] = es[-2].strip()
 
@@ -106,10 +91,11 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
         id2mention[m['mention_id']] = m
 
     # Build doc2cluster
-    doc2cluster = {}
+    doc2cluster, originaldoc2cluster = {}, {}
     for ix, c in enumerate(clusters):
         for doc_id in c:
             doc2cluster[doc_id] = ix
+            originaldoc2cluster[doc_id[:doc_id.rfind('_part')]] = ix
 
     # Apply the coref model
     doc_pairs_ctx = 0
@@ -161,6 +147,7 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
     print('Number of vertices: {}'.format(graph.V))
 
     # Add edges from INTERMEDIATE_PRED_EVENT_PAIRS (all edges will be in-doc)
+    edge_pairs = set()
     print('Add edges from INTERMEDIATE_PRED_EVENT_PAIRS')
     with open(INTERMEDIATE_PRED_EVENT_PAIRS, 'r') as f:
         for line in f:
@@ -169,11 +156,69 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
             node1_args = event2args.get(node1, {})
             node2_args = event2args.get(node2, {})
             graph.addEdge(node1, node2)
+            edge_pairs.add((node1, node2))
+            edge_pairs.add((node2, node1))
+
+    # Add edge between two event mentions if they have the same subtype and same args1/args2
+    mid2type = {}
+    for i in range(len(mentions)):
+        mid2type[mentions[i]['mention_id']] = mentions[i]['event_type']
+        for j in range(len(mentions)):
+            if i == j: continue
+            if originaldoc2cluster[mentions[i]['doc_id']] != originaldoc2cluster[mentions[j]['doc_id']]: continue
+            subtypei, subtypej = mentions[i]['event_type'], mentions[j]['event_type']
+            typei, typej = subtypei[:subtypei.rfind('.')], subtypej[:subtypej.rfind('.')]
+            if typei != typej: continue
+            type = typei = typej
+            # Extract arguments of two mentions
+            args_seti = event2args.get(mentions[i]['mention_id'], {})
+            args_setj = event2args.get(mentions[j]['mention_id'], {})
+            # Consider special event types (e.g., attack, justice, die ...)
+            cond_met = False
+            # considering <arg1>
+            if type in ['Life.Die']:
+                if args_overlap(args_seti.get('<arg1>'), args_setj.get('<arg1>')):
+                    cond_met = True
+            # considering <arg2>
+            if type in ['Conflict.Attack', 'Justice.Sentence', 'Justice.TrialHearing']:
+                if args_overlap(args_seti.get('<arg2>'), args_setj.get('<arg2>')):
+                    cond_met = True
+            # considering Attack.DetonateExplode with Attack.Unspecified
+            if 'Attack.DetonateExplode' in subtypei and 'Attack.Unspecified' in subtypej:
+                if args_overlap(args_seti.get('<arg3>'), args_setj.get('<arg3>')):
+                    cond_met = True
+                if args_overlap(args_seti.get('<arg4>'), args_setj.get('<arg3>')):
+                    cond_met = True
+            # considering Attack.DetonateExplode
+            if 'Attack.DetonateExplode' in subtypei and 'Attack.DetonateExplode' in subtypej:
+                for ix in range(5):
+                    argi = args_seti.get('<arg{}>'.format(i+1))
+                    argj = args_setj.get('<arg{}>'.format(i+1))
+                    if args_overlap(argi, argj): cond_met = True
+            if cond_met:
+                mid_i, mid_j = mentions[i]['mention_id'], mentions[j]['mention_id']
+                edge_pairs.add((mid_i, mid_j))
+                edge_pairs.add((mid_j, mid_i))
+                graph.addEdge(mid_i, mid_j)
 
     # Get connected components (with-in doc clusters)
     print('Get connected components')
     clusters = graph.getSCCs()
     assert(len(flatten(clusters)) == graph.V)
+
+    # If there is one single big "explode" cluster and several singleton "explode" clusters
+    # then merge them all together
+    big_explodes, singleton_explodes = [], []
+    for index, c in enumerate(clusters):
+        types = [mid2type[mid] for mid in c]
+        if types.count('Conflict.Attack.DetonateExplode') > 1: big_explodes.append(index)
+        if types.count('Conflict.Attack.DetonateExplode') == 1 and len(types) == 1: singleton_explodes.append(index)
+    if len(big_explodes) == 1:
+        big_explode_index = big_explodes[0]
+        for single_index in singleton_explodes:
+            clusters[big_explode_index] = clusters[big_explode_index].union(copy.deepcopy(clusters[single_index]))
+            clusters[single_index] = []
+        clusters = [c for c in clusters if len(c) > 0]
 
     # Read the original event.cs to get lines ...
     mid2lines, oid2mid = {}, {}

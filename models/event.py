@@ -53,6 +53,7 @@ class EventCorefModel(BaseModel):
         if self.configs['use_event_type_features']:
             n = len(event_mentions)
             e_types = [e['event_type'] for e in event_mentions]
+            e_types = [t[:t.rfind('.')] for t in e_types]
             same_types = torch.zeros((n, n)).to(self.device).long()
             for i in range(n):
                 for j in range(n):

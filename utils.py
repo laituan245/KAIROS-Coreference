@@ -10,6 +10,26 @@ from transformers import *
 from models import EventCorefModel, EntityCorefModel
 from boltons.iterutils import pairwise, windowed
 
+def read_event_types(fp):
+    types = {}
+    with open(fp, 'r') as f:
+        for line in f:
+            es = line.split('\t')
+            type_name = es[1] + '.' + es[3] + '.' + es[5]
+            template = es[8]
+            unfiltered_args = es[9:]
+            args, arg_ctx = {}, 1
+            for i in range(0, len(unfiltered_args), 3):
+                if len(unfiltered_args[i].strip()) == 0: continue
+                args[unfiltered_args[i]] = '<arg{}>'.format(arg_ctx)
+                arg_ctx += 1
+            types[type_name] = {
+                'type_name': type_name,
+                'template': template,
+                'args': args
+            }
+    return types
+
 def create_dir_if_not_exist(dir):
     if not os.path.exists(dir): os.makedirs(dir)
 

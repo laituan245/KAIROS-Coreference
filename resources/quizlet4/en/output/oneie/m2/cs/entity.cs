@@ -33,7 +33,7 @@
 :Entity_EDL_0000011	mention	"Martin Farnsworth"	K0C047Z59:104-120	0.7490
 :Entity_EDL_0000012	type	VAL	1.0000
 :Entity_EDL_0000012	canonical_mention	"48"	K0C047Z59:125-126	1.0000
-:Entity_EDL_0000012	pronominal_mention	"48"	K0C047Z59:125-126	1.0000
+:Entity_EDL_0000012	nominal_mention	"48"	K0C047Z59:125-126	1.0000
 :Entity_EDL_0000013	type	WEA	0.7490
 :Entity_EDL_0000013	canonical_mention	"device"	K0C047Z59:183-188	0.7490
 :Entity_EDL_0000013	nominal_mention	"device"	K0C047Z59:183-188	0.7490
@@ -96,7 +96,7 @@
 :Entity_EDL_0000032	mention	"Utah"	K0C047Z59:586-589	1.0000
 :Entity_EDL_0000033	type	FAC	0.4215
 :Entity_EDL_0000033	canonical_mention	"court"	K0C047Z59:623-627	0.4215
-:Entity_EDL_0000033	nominal_mention	"court"	K0C047Z59:623-627	0.4215
+:Entity_EDL_0000033	mention	"court"	K0C047Z59:623-627	0.4215
 :Entity_EDL_0000034	type	GPE	1.0000
 :Entity_EDL_0000034	canonical_mention	"St."	K0C047Z59:635-637	1.0000
 :Entity_EDL_0000034	mention	"St."	K0C047Z59:635-637	1.0000
@@ -108,7 +108,7 @@
 :Entity_EDL_0000036	mention	"Martin Farnsworth"	K0C047Z59:653-669	1.0000
 :Entity_EDL_0000037	type	ORG	1.0000
 :Entity_EDL_0000037	canonical_mention	"District Court"	K0C047Z59:695-708	1.0000
-:Entity_EDL_0000037	mention	"District Court"	K0C047Z59:695-708	1.0000
+:Entity_EDL_0000037	nominal_mention	"District Court"	K0C047Z59:695-708	1.0000
 :Entity_EDL_0000038	type	PER	0.7032
 :Entity_EDL_0000038	canonical_mention	"Judge"	K0C047Z59:736-740	0.7032
 :Entity_EDL_0000038	nominal_mention	"Judge"	K0C047Z59:736-740	0.7032
@@ -120,10 +120,10 @@
 :Entity_EDL_0000040	pronominal_mention	"him"	K0C047Z59:769-771	0.7570
 :Entity_EDL_0000041	type	VAL	1.0000
 :Entity_EDL_0000041	canonical_mention	"48"	K0C047Z59:782-783	1.0000
-:Entity_EDL_0000041	pronominal_mention	"48"	K0C047Z59:782-783	1.0000
+:Entity_EDL_0000041	nominal_mention	"48"	K0C047Z59:782-783	1.0000
 :Entity_EDL_0000042	type	VAL	0.7570
 :Entity_EDL_0000042	canonical_mention	"250"	K0C047Z59:820-822	0.7570
-:Entity_EDL_0000042	pronominal_mention	"250"	K0C047Z59:820-822	0.7570
+:Entity_EDL_0000042	nominal_mention	"250"	K0C047Z59:820-822	0.7570
 :Entity_EDL_0000043	type	PER	1.0000
 :Entity_EDL_0000043	canonical_mention	"Farnsworth"	K0C047Z59:889-898	1.0000
 :Entity_EDL_0000043	mention	"Farnsworth"	K0C047Z59:889-898	1.0000
@@ -435,7 +435,7 @@
 :Entity_EDL_0000145	mention	"Farnsworth’s"	K0C047Z59:4425-4436	1.0000
 :Entity_EDL_0000146	type	MHI	0.4000
 :Entity_EDL_0000146	canonical_mention	"autism spectrum disorder"	K0C047Z59:4482-4505	0.4000
-:Entity_EDL_0000146	mention	"autism spectrum disorder"	K0C047Z59:4482-4505	0.4000
+:Entity_EDL_0000146	nominal_mention	"autism spectrum disorder"	K0C047Z59:4482-4505	0.4000
 :Entity_EDL_0000147	type	PER	1.0000
 :Entity_EDL_0000147	canonical_mention	"teen"	K0C047Z59:4537-4540	1.0000
 :Entity_EDL_0000147	nominal_mention	"teen"	K0C047Z59:4537-4540	1.0000
@@ -591,7 +591,7 @@
 :Entity_EDL_0000197	nominal_mention	"state"	K0C047Z59:6021-6025	1.0000
 :Entity_EDL_0000198	type	LOC	1.0000
 :Entity_EDL_0000198	canonical_mention	"5th District"	K0C047Z59:6060-6071	1.0000
-:Entity_EDL_0000198	nominal_mention	"5th District"	K0C047Z59:6060-6071	1.0000
+:Entity_EDL_0000198	mention	"5th District"	K0C047Z59:6060-6071	1.0000
 :Entity_EDL_0000199	type	PER	0.9298
 :Entity_EDL_0000199	canonical_mention	"Judge"	K0C047Z59:6073-6077	0.9298
 :Entity_EDL_0000199	nominal_mention	"Judge"	K0C047Z59:6073-6077	0.9298
@@ -663,7 +663,7 @@
 :Entity_EDL_0000221	nominal_mention	"all"	K0C047Z59:6678-6680	0.4036
 :Entity_EDL_0000222	type	PER	1.0000
 :Entity_EDL_0000222	canonical_mention	"involved"	K0C047Z59:6682-6689	1.0000
-:Entity_EDL_0000222	nominal_mention	"involved"	K0C047Z59:6682-6689	1.0000
+:Entity_EDL_0000222	pronominal_mention	"involved"	K0C047Z59:6682-6689	1.0000
 :Entity_EDL_0000223	type	PER	0.4036
 :Entity_EDL_0000223	canonical_mention	"they"	K0C047Z59:6706-6709	0.4036
 :Entity_EDL_0000223	pronominal_mention	"they"	K0C047Z59:6706-6709	0.4036
@@ -696,7 +696,7 @@
 :Entity_EDL_0000232	mention	"Farnsworth"	K0C047Z59:7109-7118	1.0000
 :Entity_EDL_0000233	type	VAL	0.3895
 :Entity_EDL_0000233	canonical_mention	"415"	K0C047Z59:7127-7129	0.3895
-:Entity_EDL_0000233	pronominal_mention	"415"	K0C047Z59:7127-7129	0.3895
+:Entity_EDL_0000233	nominal_mention	"415"	K0C047Z59:7127-7129	0.3895
 :Entity_EDL_0000234	type	PER	1.0000
 :Entity_EDL_0000234	canonical_mention	"Flint"	K0C047Z59:7230-7234	1.0000
 :Entity_EDL_0000234	mention	"Flint"	K0C047Z59:7230-7234	1.0000
@@ -817,7 +817,7 @@
 :Entity_EDL_0000273	type	PER	0.4339
 :Entity_EDL_0000273	canonical_mention	"Nicolás Maduro"	K0C041O37:398-411	0.4339
 :Entity_EDL_0000273	mention	"Nicolás Maduro"	K0C041O37:398-411	0.4339
-:Entity_EDL_0000274	type	VEH	1.0000
+:Entity_EDL_0000274	type	WEA	1.0000
 :Entity_EDL_0000274	canonical_mention	"drones"	K0C041O37:423-428	1.0000
 :Entity_EDL_0000274	nominal_mention	"drones"	K0C041O37:423-428	1.0000
 :Entity_EDL_0000275	type	WEA	0.4339
@@ -834,7 +834,7 @@
 :Entity_EDL_0000278	mention	"Maduro"	K0C041O37:642-647	0.4858
 :Entity_EDL_0000279	type	PER	1.0000
 :Entity_EDL_0000279	canonical_mention	"those"	K0C041O37:650-654	1.0000
-:Entity_EDL_0000279	nominal_mention	"those"	K0C041O37:650-654	1.0000
+:Entity_EDL_0000279	pronominal_mention	"those"	K0C041O37:650-654	1.0000
 :Entity_EDL_0000280	type	PER	0.4261
 :Entity_EDL_0000280	canonical_mention	"him"	K0C041O37:663-665	0.4261
 :Entity_EDL_0000280	pronominal_mention	"him"	K0C041O37:663-665	0.4261
@@ -921,7 +921,7 @@
 :Entity_EDL_0000307	pronominal_mention	"its"	K0C041O37:2033-2035	0.4606
 :Entity_EDL_0000308	type	ORG	1.0000
 :Entity_EDL_0000308	canonical_mention	"the"	K0C041O37:2055-2057	1.0000
-:Entity_EDL_0000308	pronominal_mention	"the"	K0C041O37:2055-2057	1.0000
+:Entity_EDL_0000308	mention	"the"	K0C041O37:2055-2057	1.0000
 :Entity_EDL_0000309	type	WEA	0.4633
 :Entity_EDL_0000309	canonical_mention	"drone"	K0C041O37:2087-2091	0.4633
 :Entity_EDL_0000309	nominal_mention	"drone"	K0C041O37:2087-2091	0.4633
@@ -1182,7 +1182,7 @@
 :Entity_EDL_0000394	pronominal_mention	"They"	K0C041O3D:1015-1018	1.0000
 :Entity_EDL_0000395	type	PER	0.4392
 :Entity_EDL_0000395	canonical_mention	"majority"	K0C041O3D:1049-1056	0.4392
-:Entity_EDL_0000395	nominal_mention	"majority"	K0C041O3D:1049-1056	0.4392
+:Entity_EDL_0000395	pronominal_mention	"majority"	K0C041O3D:1049-1056	0.4392
 :Entity_EDL_0000396	type	ORG	1.0000
 :Entity_EDL_0000396	canonical_mention	"DJI"	K0C041O3D:1061-1063	1.0000
 :Entity_EDL_0000396	mention	"DJI"	K0C041O3D:1061-1063	1.0000
@@ -1326,7 +1326,7 @@
 :Entity_EDL_0000442	nominal_mention	"soldiers"	K0C041O3D:2387-2394	0.5367
 :Entity_EDL_0000443	type	PER	1.0000
 :Entity_EDL_0000443	canonical_mention	"7"	K0C041O3D:2415-2415	1.0000
-:Entity_EDL_0000443	nominal_mention	"7"	K0C041O3D:2415-2415	1.0000
+:Entity_EDL_0000443	pronominal_mention	"7"	K0C041O3D:2415-2415	1.0000
 :Entity_EDL_0000444	type	WEA	0.5367
 :Entity_EDL_0000444	canonical_mention	"other"	K0C041O3D:2437-2441	0.5367
 :Entity_EDL_0000444	nominal_mention	"other"	K0C041O3D:2437-2441	0.5367
@@ -1377,7 +1377,7 @@
 :Entity_EDL_0000459	mention	"Maduro"	K0C041O3D:3221-3226	1.0000
 :Entity_EDL_0000460	type	MHI	0.4213
 :Entity_EDL_0000460	canonical_mention	"weak"	K0C041O3D:3233-3236	0.4213
-:Entity_EDL_0000460	mention	"weak"	K0C041O3D:3233-3236	0.4213
+:Entity_EDL_0000460	nominal_mention	"weak"	K0C041O3D:3233-3236	0.4213
 :Entity_EDL_0000461	type	PER	1.0000
 :Entity_EDL_0000461	canonical_mention	"bodies"	K0C0448WL:5-10	1.0000
 :Entity_EDL_0000461	nominal_mention	"bodies"	K0C0448WL:5-10	1.0000
@@ -1434,7 +1434,7 @@
 :Entity_EDL_0000478	mention	"Sheriff"	K0C0448WL:307-313	0.6527
 :Entity_EDL_0000479	type	ORG	1.0000
 :Entity_EDL_0000479	canonical_mention	"Office"	K0C0448WL:315-320	1.0000
-:Entity_EDL_0000479	mention	"Office"	K0C0448WL:315-320	1.0000
+:Entity_EDL_0000479	nominal_mention	"Office"	K0C0448WL:315-320	1.0000
 :Entity_EDL_0000480	type	PER	0.8976
 :Entity_EDL_0000480	canonical_mention	"Undersheriff"	K0C0448WL:322-333	0.8976
 :Entity_EDL_0000480	nominal_mention	"Undersheriff"	K0C0448WL:322-333	0.8976
@@ -1599,7 +1599,7 @@
 :Entity_EDL_0000533	pronominal_mention	"They"	K0C0448WL:1949-1952	1.0000
 :Entity_EDL_0000534	type	VEH	0.4336
 :Entity_EDL_0000534	canonical_mention	"Jeep Cherokee"	K0C0448WL:1979-1991	0.4336
-:Entity_EDL_0000534	nominal_mention	"Jeep Cherokee"	K0C0448WL:1979-1991	0.4336
+:Entity_EDL_0000534	mention	"Jeep Cherokee"	K0C0448WL:1979-1991	0.4336
 :Entity_EDL_0000535	type	VEH	1.0000
 :Entity_EDL_0000535	canonical_mention	"that"	K0C0448WL:1993-1996	1.0000
 :Entity_EDL_0000535	pronominal_mention	"that"	K0C0448WL:1993-1996	1.0000
@@ -3051,7 +3051,7 @@
 :Entity_EDL_0001017	mention	"Martin Farnsworth"	K0C041NHY:403-419	1.0000
 :Entity_EDL_0001018	type	VAL	0.4105
 :Entity_EDL_0001018	canonical_mention	"415"	K0C041NHY:447-449	0.4105
-:Entity_EDL_0001018	pronominal_mention	"415"	K0C041NHY:447-449	0.4105
+:Entity_EDL_0001018	nominal_mention	"415"	K0C041NHY:447-449	0.4105
 :Entity_EDL_0001019	type	PER	1.0000
 :Entity_EDL_0001019	canonical_mention	"he"	K0C041NHY:504-505	1.0000
 :Entity_EDL_0001019	pronominal_mention	"he"	K0C041NHY:504-505	1.0000
@@ -3060,10 +3060,10 @@
 :Entity_EDL_0001020	pronominal_mention	"He"	K0C041NHY:528-529	1.0000
 :Entity_EDL_0001021	type	VAL	0.4226
 :Entity_EDL_0001021	canonical_mention	"48"	K0C041NHY:546-547	0.4226
-:Entity_EDL_0001021	mention	"48"	K0C041NHY:546-547	0.4226
+:Entity_EDL_0001021	nominal_mention	"48"	K0C041NHY:546-547	0.4226
 :Entity_EDL_0001022	type	VAL	1.0000
 :Entity_EDL_0001022	canonical_mention	"250"	K0C041NHY:567-569	1.0000
-:Entity_EDL_0001022	mention	"250"	K0C041NHY:567-569	1.0000
+:Entity_EDL_0001022	nominal_mention	"250"	K0C041NHY:567-569	1.0000
 :Entity_EDL_0001023	type	ORG	0.5265
 :Entity_EDL_0001023	canonical_mention	"5th District Court"	K0C041NHY:661-678	0.5265
 :Entity_EDL_0001023	mention	"5th District Court"	K0C041NHY:661-678	0.5265
@@ -3223,7 +3223,7 @@
 :Entity_EDL_0001075	type	PER	0.4599
 :Entity_EDL_0001075	canonical_mention	"Nicolás Maduro"	K0C047Z5A:22-35	0.4599
 :Entity_EDL_0001075	mention	"Nicolás Maduro"	K0C047Z5A:22-35	0.4599
-:Entity_EDL_0001076	type	VEH	1.0000
+:Entity_EDL_0001076	type	WEA	1.0000
 :Entity_EDL_0001076	canonical_mention	"drone"	K0C047Z5A:54-58	1.0000
 :Entity_EDL_0001076	nominal_mention	"drone"	K0C047Z5A:54-58	1.0000
 :Entity_EDL_0001077	type	GPE	0.4345
@@ -3303,7 +3303,7 @@
 :Entity_EDL_0001101	nominal_mention	"military"	K0C047Z5A:811-818	1.0000
 :Entity_EDL_0001102	type	VAL	0.4973
 :Entity_EDL_0001102	canonical_mention	"81st"	K0C047Z5A:843-846	0.4973
-:Entity_EDL_0001102	mention	"81st"	K0C047Z5A:843-846	0.4973
+:Entity_EDL_0001102	nominal_mention	"81st"	K0C047Z5A:843-846	0.4973
 :Entity_EDL_0001103	type	ORG	1.0000
 :Entity_EDL_0001103	canonical_mention	"the National Guard"	K0C047Z5A:863-880	1.0000
 :Entity_EDL_0001103	mention	"the National Guard"	K0C047Z5A:863-880	1.0000
@@ -3339,7 +3339,7 @@
 :Entity_EDL_0001113	mention	"Maduro"	K0C047Z5A:1264-1269	1.0000
 :Entity_EDL_0001114	type	GPE	0.4423
 :Entity_EDL_0001114	canonical_mention	"national"	K0C047Z5A:1281-1288	0.4423
-:Entity_EDL_0001114	mention	"national"	K0C047Z5A:1281-1288	0.4423
+:Entity_EDL_0001114	nominal_mention	"national"	K0C047Z5A:1281-1288	0.4423
 :Entity_EDL_0001115	type	PER	1.0000
 :Entity_EDL_0001115	canonical_mention	"crowd"	K0C047Z5A:1332-1336	1.0000
 :Entity_EDL_0001115	nominal_mention	"crowd"	K0C047Z5A:1332-1336	1.0000
@@ -3570,7 +3570,7 @@
 :Entity_EDL_0001190	nominal_mention	"country"	K0C047Z5A:3900-3906	1.0000
 :Entity_EDL_0001191	type	PER	1.0000
 :Entity_EDL_0001191	canonical_mention	"percent"	K0C047Z5A:3943-3949	1.0000
-:Entity_EDL_0001191	nominal_mention	"percent"	K0C047Z5A:3943-3949	1.0000
+:Entity_EDL_0001191	pronominal_mention	"percent"	K0C047Z5A:3943-3949	1.0000
 :Entity_EDL_0001192	type	ORG	0.4776
 :Entity_EDL_0001192	canonical_mention	"International Monetary Fund"	K0C047Z5A:4053-4079	0.4776
 :Entity_EDL_0001192	mention	"International Monetary Fund"	K0C047Z5A:4053-4079	0.4776
