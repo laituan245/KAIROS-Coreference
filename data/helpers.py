@@ -5,7 +5,7 @@ from os import listdir
 from os.path import isfile, join
 from utils import flatten
 from data.event import EventCentricDocument
-from data.entity import EntityCentricDocument, EntityCentricDataset
+from data.entity import EntityCentricDocument
 
 def locstr_to_loc(loc_str):
     doc_id, offset_info = loc_str.split(':')
@@ -212,5 +212,4 @@ def load_entity_centric_dataset(tokenizer, cs_path, json_base_path, fb_linking_p
 
         test_docs.append(EntityCentricDocument(doc_id, words, mentions, tokenizer))
 
-    dataset = EntityCentricDataset(test_docs)
-    return entities, dataset
+    return entities, test_docs
