@@ -208,17 +208,21 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
 
     # If there is one single big "explode" cluster and several singleton "explode" clusters
     # then merge them all together
-    big_explodes, singleton_explodes = [], []
-    for index, c in enumerate(clusters):
-        types = [mid2type[mid] for mid in c]
-        if types.count('Conflict.Attack.DetonateExplode') > 1: big_explodes.append(index)
-        if types.count('Conflict.Attack.DetonateExplode') == 1 and len(types) == 1: singleton_explodes.append(index)
-    if len(big_explodes) == 1:
-        big_explode_index = big_explodes[0]
-        for single_index in singleton_explodes:
-            clusters[big_explode_index] = clusters[big_explode_index].union(copy.deepcopy(clusters[single_index]))
-            clusters[single_index] = []
-        clusters = [c for c in clusters if len(c) > 0]
+    doc_clusters = set(originaldoc2cluster.values())
+    for doc_cluster in doc_clusters:
+        big_explodes, singleton_explodes = [], []
+        for index, c in enumerate(clusters):
+            did = list(c)[0].split(':')[0]
+            if not originaldoc2cluster[did] == doc_cluster: continue
+            types = [mid2type[mid] for mid in c]
+            if types.count('Conflict.Attack.DetonateExplode') > 1: big_explodes.append(index)
+            if types.count('Conflict.Attack.DetonateExplode') == 1 and len(types) == 1: singleton_explodes.append(index)
+        if len(big_explodes) == 1:
+            big_explode_index = big_explodes[0]
+            for single_index in singleton_explodes:
+                clusters[big_explode_index] = clusters[big_explode_index].union(copy.deepcopy(clusters[single_index]))
+                clusters[single_index] = []
+            clusters = [c for c in clusters if len(c) > 0]
 
     # Read the original event.cs to get lines ...
     mid2lines, oid2mid = {}, {}
