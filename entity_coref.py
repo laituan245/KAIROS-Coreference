@@ -5,7 +5,7 @@ import torch
 from constants import *
 from argparse import ArgumentParser
 from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten, create_dir_if_not_exist
-from data import EntityCentricDocumentPair, load_entity_centric_dataset
+from data import EntityCentricDocument, EntityCentricDocumentPair, load_entity_centric_dataset
 from algorithms import UndirectedGraph
 from os.path import join, dirname
 
@@ -28,7 +28,7 @@ def get_cluster_labels(clusters, id2mention, field):
         clusterlabels.append(label)
     return clusterlabels
 
-def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filtered_doc_ids, clusters=None):
+def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filtered_doc_ids, clusters):
     create_dir_if_not_exist(dirname(output_path))
 
     # Read the original entity.cs
@@ -93,9 +93,17 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
     if True:
         f = open(INTERMEDIATE_PRED_ENTITY_PAIRS, 'w+')
         with torch.no_grad():
+            # Main loop
             for i in range(len(docs)):
-                for j in range(i+1, len(docs)):
-                    doci, docj = docs[i], docs[j]
+                doci = docs[i]
+                end_range = len(docs) if len(clusters[doc2cluster[doci.doc_id]]) > 1 else len(docs)+1
+                for j in range(i+1, end_range):
+                    if j == len(docs):
+                        # Dummy doc
+                        docj = EntityCentricDocument(doci.doc_id, [], [], None)
+                    else:
+                        docj = docs[j]
+                    if len(doci.words) == 0 and len(docj.words) == 0: continue
                     if doc2cluster[doci.doc_id] != doc2cluster[docj.doc_id]: continue
                     inst = EntityCentricDocumentPair(doci, docj, tokenizer)
                     doc_entities = inst.entity_mentions

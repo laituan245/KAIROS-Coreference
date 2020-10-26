@@ -7,7 +7,7 @@ import random
 from constants import *
 from os.path import dirname
 from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten, create_dir_if_not_exist, read_event_types
-from data import EventCentricDocumentPair, load_event_centric_dataset
+from data import EventCentricDocument, EventCentricDocumentPair, load_event_centric_dataset
 from algorithms import UndirectedGraph
 
 INTERMEDIATE_PRED_EVENT_PAIRS = 'event_pred_pairs.txt'
@@ -18,7 +18,7 @@ def args_overlap(argi, argj):
     return len(argi.intersection(argj)) > 0
 
 # Main Function
-def event_coref(cs_path, json_dir, output_path, language, original_input_entity, new_input_entity, filtered_doc_ids, clusters=None):
+def event_coref(cs_path, json_dir, output_path, language, original_input_entity, new_input_entity, filtered_doc_ids, clusters):
     create_dir_if_not_exist(dirname(output_path))
 
     # Build olde2mid
@@ -102,9 +102,17 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
     start_time = time.time()
     if True:
         f = open(INTERMEDIATE_PRED_EVENT_PAIRS, 'w+')
+        # Main loop
         for i in range(len(docs)):
-            for j in range(i+1, len(docs)):
-                doci, docj = docs[i], docs[j]
+            doci = docs[i]
+            end_range = len(docs) if len(clusters[doc2cluster[doci.doc_id]]) > 1 else len(docs)+1
+            for j in range(i+1, end_range):
+                if j == len(docs):
+                    # Dummy doc
+                    docj = EventCentricDocument(doci.doc_id, [], [])
+                else:
+                    docj = docs[j]
+                if len(doci.words) == 0 and len(docj.words) == 0: continue
                 if doc2cluster[doci.doc_id] != doc2cluster[docj.doc_id]: continue
                 inst = EventCentricDocumentPair(doci, docj, tokenizer)
                 if len(inst.event_mentions) == 0: continue
@@ -180,7 +188,7 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
                 if args_overlap(args_seti.get('<arg1>'), args_setj.get('<arg1>')):
                     cond_met = True
             # considering <arg2>
-            if type in ['Conflict.Attack', 'Justice.Sentence', 'Justice.TrialHearing']:
+            if type in ['Conflict.Attack', 'Movement.Transportation', 'Justice.Sentence', 'Justice.TrialHearing']:
                 if args_overlap(args_seti.get('<arg2>'), args_setj.get('<arg2>')):
                     cond_met = True
             # considering Attack.DetonateExplode with Attack.Unspecified

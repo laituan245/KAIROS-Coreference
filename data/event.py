@@ -12,6 +12,9 @@ class EventCentricDocument:
         # Sort by trigger start
         self.event_mentions.sort(key=lambda x: x['start'])
 
+        # Default values
+        self.word_starts_indexes, self.doc_tokens = [], []
+
     def tokenize(self, tokenizer):
         # Tokenization
         doc_tokens, word_starts_indexes, start_index = [], [], 0
