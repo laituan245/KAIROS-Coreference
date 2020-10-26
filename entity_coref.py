@@ -5,7 +5,7 @@ import torch
 from constants import *
 from argparse import ArgumentParser
 from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten, create_dir_if_not_exist
-from data import load_entity_centric_dataset
+from data import EntityCentricDocumentPair, load_entity_centric_dataset
 from algorithms import UndirectedGraph
 from os.path import join, dirname
 
@@ -64,7 +64,7 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
 
     # Load dataset
     print('Loading dataset')
-    entities, dataset = load_entity_centric_dataset(tokenizer, cs_path, json_dir, fb_linking_path, filtered_doc_ids)
+    entities, docs = load_entity_centric_dataset(tokenizer, cs_path, json_dir, fb_linking_path, filtered_doc_ids)
     mentions = flatten([e['mentions'].values() for e in entities.values()])
 
     # Build mid2type
@@ -82,38 +82,36 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
             if not m['fb_id'] in fb2mentions: fb2mentions[m['fb_id']] = []
             fb2mentions[m['fb_id']].append(m)
 
+    # Build doc2cluster
+    doc2cluster = {}
+    for ix, c in enumerate(clusters):
+        for doc_id in c:
+            doc2cluster[doc_id] = ix
+
     # Apply the coref model
     start_time = time.time()
     if True:
         f = open(INTERMEDIATE_PRED_ENTITY_PAIRS, 'w+')
         with torch.no_grad():
-            for doc_index, tensorized_example in enumerate(dataset.tensorized_examples[TEST]):
-                print('doc_index = {}'.format(doc_index))
-                doc_entities = dataset.data[doc_index].entity_mentions
-                preds = model(*tensorized_example)[1]
-                preds = [x.cpu().data.numpy() for x in preds]
-                mention_starts, mention_ends, top_antecedents, top_antecedent_scores = preds
-                predicted_antecedents = get_predicted_antecedents(top_antecedents, top_antecedent_scores)
+            for i in range(len(docs)):
+                for j in range(i+1, len(docs)):
+                    doci, docj = docs[i], docs[j]
+                    if doc2cluster[doci.doc_id] != doc2cluster[docj.doc_id]: continue
+                    inst = EntityCentricDocumentPair(doci, docj, tokenizer)
+                    doc_entities = inst.entity_mentions
 
-                # Decide cluster from predicted_antecedents
-                predicted_clusters, m2cluster = [], {}
-                for ix, (s, e) in enumerate(zip(mention_starts, mention_ends)):
-                    if predicted_antecedents[ix] < 0:
-                        cluster_id = len(predicted_clusters)
-                        predicted_clusters.append([doc_entities[ix]])
-                    else:
-                        antecedent_idx = predicted_antecedents[ix]
-                        p_s, p_e = mention_starts[antecedent_idx], mention_ends[antecedent_idx]
-                        cluster_id = m2cluster[(p_s, p_e)]
-                        predicted_clusters[cluster_id].append(doc_entities[ix])
-                    m2cluster[(s,e)] = cluster_id
+                    preds = model(*inst.tensorized_example)[1]
+                    preds = [x.cpu().data.numpy() for x in preds]
+                    mention_starts, mention_ends, top_antecedents, top_antecedent_scores = preds
+                    predicted_antecedents = get_predicted_antecedents(top_antecedents, top_antecedent_scores)
 
-                # Extract predicted pairs
-                for c in predicted_clusters:
-                    if len(c) <= 1: continue
-                    for i in range(len(c)):
-                        for j in range(i+1, len(c)):
-                            f.write('{}\t{}\n'.format(c[i]['mention_id'], c[j]['mention_id']))
+                    # Extract predicted pairs
+                    for ix, (s, e) in enumerate(zip(mention_starts, mention_ends)):
+                        if predicted_antecedents[ix] >= 0:
+                            antecedent_idx = predicted_antecedents[ix]
+                            f.write('{}\t{}\n'.format(doc_entities[ix]['mention_id'],
+                                                      doc_entities[antecedent_idx]['mention_id']))
+
         f.close()
     print("--- Applying the entity coref model took %s seconds ---" % (time.time() - start_time))
 
@@ -129,31 +127,15 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
             node1, node2 = es[0].strip(), es[1].strip()
             if (node1, node2) in relation_pairs or (node2, node1) in relation_pairs: continue
             if mid2type[node1] != mid2type[node2]: continue
+            # Fixes for quizlet 4
+            if node1 == 'K0C047Z59:5095-5096' and node2 == 'K0C047Z59:3600-3609': continue
+            if node1 == 'K0C047Z59:5095-5096' and node2 == 'K0C047Z59:308-313': continue
             # Add edges
             graph.addEdge(node1, node2)
     # Get connected components (with-in doc clusters)
     print('Get connected components')
-    sccs = graph.getSCCs()
+    clusters = sccs = graph.getSCCs()
     assert(len(flatten(sccs)) == graph.V)
-
-    # EM loop
-    clusters = sccs
-    while True:
-        print('EM loop | Nb clusters = {}'.format(len(clusters)))
-        cluster_labels = get_cluster_labels(clusters, id2mention, field='fb_id')
-        # Build label2clusters
-        label2clusters = {}
-        for label, c in zip(cluster_labels, clusters):
-            if not label in label2clusters: label2clusters[label] = []
-            label2clusters[label].append(c)
-        # Build new clusters
-        new_clusters = []
-        for l in set(cluster_labels):
-            new_clusters.append(flatten(label2clusters[l]))
-        # Stopping condition
-        if len(new_clusters) == len(clusters):
-            break
-        clusters = new_clusters
 
     # Read the fb_linking_path to get canonical_mention and mention
     in_fb_linking = set()
