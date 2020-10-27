@@ -82,7 +82,7 @@ def refine_entity_coref(new_input_entity, new_input_event):
         for ix, scc in enumerate(sccs):
             nb_str = str(ix)
             while len(nb_str) < 7: nb_str = '0' + nb_str
-            newe = ':Entity_EDL_ENG_{}'.format(nb_str)
+            newe = ':Entity_EDL_{}'.format(nb_str)
             for olde in scc:
                 olde2newe[olde] = newe
                 if not newe in newe2olde: newe2olde[newe] = []
@@ -95,7 +95,7 @@ def refine_entity_coref(new_input_entity, new_input_event):
             for ix in range(len(sccs)):
                 nb_str = str(ix)
                 while len(nb_str) < 7: nb_str = '0' + nb_str
-                newe = ':Entity_EDL_ENG_{}'.format(nb_str)
+                newe = ':Entity_EDL_{}'.format(nb_str)
                 # Type line
                 type_line = '\t'.join([newe, 'type', newe2type[newe]])
                 f.write('{}\n'.format(type_line))

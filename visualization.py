@@ -35,7 +35,7 @@ def read_coref(coref_fp):
             es = line.strip().split('\t')
             if not es[0] in cluster2mention:
                 cluster2mention[es[0]] = {
-                    'mentions': set(),
+                    'mentions': [],
                     'type': []
                 }
             if len(es) <= 4:
@@ -43,7 +43,8 @@ def read_coref(coref_fp):
                     cluster2mention[es[0]]['type'].append(es[2])
                 continue
             if not 'mention' in es[1]: continue
-            cluster2mention[es[0]]['mentions'].add(es[-2])
+            if not es[-2] in cluster2mention[es[0]]['mentions']:
+                cluster2mention[es[0]]['mentions'].append(es[-2])
     return cluster2mention
 
 def generate_visualization(docs, cluster2mention, output):
@@ -102,15 +103,15 @@ def generate_visualization_for_cluster(docs, entity2mention, event2mention, clus
     for event in removed_events: del event2mention[event]
 
     # Generate visualization files
-    generate_visualization(docs, entity2mention, 'resources/quizlet4/en/output/coref/cluster_{}_entity_coref.html'.format(cluster_nb))
-    generate_visualization(docs, event2mention, 'resources/quizlet4/en/output/coref/cluster_{}_event_coref.html'.format(cluster_nb))
+    generate_visualization(docs, entity2mention, 'resources/quizlet4/cross_lingual_coref/cluster_{}_entity_coref.html'.format(cluster_nb))
+    generate_visualization(docs, event2mention, 'resources/quizlet4/cross_lingual_coref/cluster_{}_event_coref.html'.format(cluster_nb))
 
 # Main code
 if __name__ == "__main__":
     # Parse argument
     parser = ArgumentParser()
-    parser.add_argument('--json_dir', default='resources/quizlet4/en/output/oneie/m1_m2/json')
-    parser.add_argument('--coref_dir', default='resources/quizlet4/en/output/coref/')
+    parser.add_argument('--json_dir', default='resources/quizlet4/cross_lingual_coref/merged_input/json')
+    parser.add_argument('--coref_dir', default='resources/quizlet4/cross_lingual_coref/')
     args = parser.parse_args()
     args.entity_coref = join(args.coref_dir, 'entity.cs')
     args.event_coref = join(args.coref_dir, 'event.cs')

@@ -9,8 +9,6 @@ from data import EntityCentricDocument, EntityCentricDocumentPair, load_entity_c
 from algorithms import UndirectedGraph
 from os.path import join, dirname
 
-INTERMEDIATE_PRED_ENTITY_PAIRS = 'entity_pred_pairs.txt'
-
 # Helper Function
 def get_cluster_labels(clusters, id2mention, field):
     clusterlabels, nil_ctx = [], 0
@@ -28,7 +26,7 @@ def get_cluster_labels(clusters, id2mention, field):
         clusterlabels.append(label)
     return clusterlabels
 
-def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filtered_doc_ids, clusters):
+def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filtered_doc_ids, clusters, english_docs, spanish_docs, predicted_pairs = set()):
     create_dir_if_not_exist(dirname(output_path))
 
     # Read the original entity.cs
@@ -60,7 +58,7 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
 
     # Load tokenizer and model
     if language == 'en': tokenizer, model = load_tokenizer_and_model(EN_ENTITY_MODEL)
-    elif language == 'es': tokenizer, model = load_tokenizer_and_model(ES_ENTITY_MODEL)
+    elif language == 'es' or language == 'cross': tokenizer, model = load_tokenizer_and_model(ES_ENTITY_MODEL)
 
     # Load dataset
     print('Loading dataset')
@@ -91,7 +89,6 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
     # Apply the coref model
     start_time = time.time()
     if True:
-        f = open(INTERMEDIATE_PRED_ENTITY_PAIRS, 'w+')
         with torch.no_grad():
             # Main loop
             for i in range(len(docs)):
@@ -103,6 +100,9 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                         docj = EntityCentricDocument(doci.doc_id, [], [], None)
                     else:
                         docj = docs[j]
+                    if language == 'cross':
+                        if doci.doc_id in english_docs and docj.doc_id in english_docs: continue
+                        if doci.doc_id in spanish_docs and docj.doc_id in spanish_docs: continue
                     if len(doci.words) == 0 and len(docj.words) == 0: continue
                     if doc2cluster[doci.doc_id] != doc2cluster[docj.doc_id]: continue
                     inst = EntityCentricDocumentPair(doci, docj, tokenizer)
@@ -117,29 +117,32 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                     for ix, (s, e) in enumerate(zip(mention_starts, mention_ends)):
                         if predicted_antecedents[ix] >= 0:
                             antecedent_idx = predicted_antecedents[ix]
-                            f.write('{}\t{}\n'.format(doc_entities[ix]['mention_id'],
-                                                      doc_entities[antecedent_idx]['mention_id']))
+                            mention_1 = doc_entities[ix]
+                            mention_2 = doc_entities[antecedent_idx]
+                            if language == 'es':
+                                if 'fb_id' in mention_1 and 'fb_id' in mention_2 and mention_1['fb_id'] != mention_2['fb_id']:
+                                    if (not mention_1['fb_id'].startswith('NIL')) and (not mention_2['fb_id'].startswith('NIL')): continue
+                            if language == 'cross':
+                                if (not 'fb_id' in mention_1) or (not 'fb_id' in mention_2): continue
+                                if mention_1['fb_id'] != mention_2['fb_id']: continue
+                            predicted_pairs.add((mention_1['mention_id'], mention_2['mention_id']))
 
         f.close()
     print("--- Applying the entity coref model took %s seconds ---" % (time.time() - start_time))
 
-    # Build clusters from INTERMEDIATE_PRED_ENTITY_PAIRS
+    # Build clusters
     graph = UndirectedGraph([m['mention_id'] for m in mentions])
     print('Number of vertices: {}'.format(graph.V))
 
-    # Add edges from INTERMEDIATE_PRED_ENTITY_PAIRS (all edges will be in-doc)
-    print('Add edges from INTERMEDIATE_PRED_ENTITY_PAIRS')
-    with open(INTERMEDIATE_PRED_ENTITY_PAIRS, 'r') as f:
-        for line in f:
-            es = line.split('\t')
-            node1, node2 = es[0].strip(), es[1].strip()
-            if (node1, node2) in relation_pairs or (node2, node1) in relation_pairs: continue
-            if mid2type[node1] != mid2type[node2]: continue
-            # Fixes for quizlet 4
-            if node1 == 'K0C047Z59:5095-5096' and node2 == 'K0C047Z59:3600-3609': continue
-            if node1 == 'K0C047Z59:5095-5096' and node2 == 'K0C047Z59:308-313': continue
-            # Add edges
-            graph.addEdge(node1, node2)
+    # Add edges from predicted_pairs
+    for node1, node2 in predicted_pairs:
+        if (node1, node2) in relation_pairs or (node2, node1) in relation_pairs: continue
+        if mid2type[node1] != mid2type[node2]: continue
+        # Fixes for quizlet 4
+        if node1 == 'K0C047Z59:5095-5096' and node2 == 'K0C047Z59:3600-3609': continue
+        if node1 == 'K0C047Z59:5095-5096' and node2 == 'K0C047Z59:308-313': continue
+        # Add edges
+        graph.addEdge(node1, node2)
     # Get connected components (with-in doc clusters)
     print('Get connected components')
     clusters = sccs = graph.getSCCs()
@@ -161,7 +164,7 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
 
     # Outputs
     nil_count = 0
-    prefix = ':Entity_EDL_ENG_'
+    prefix = ':Entity_EDL_'
     clusters.sort(key=lambda x: len(x), reverse=True)
     c_types = get_cluster_labels(clusters, id2mention, field='type')
     c_links = get_cluster_labels(clusters, id2mention, field='fb_id')
@@ -191,5 +194,5 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                 link_line = '\t'.join([es_0, 'link', link])
                 f.write('{}\n'.format(link_line))
 
-    # Remove INTERMEDIATE_PRED_ENTITY_PAIRS
-    os.remove(INTERMEDIATE_PRED_ENTITY_PAIRS)
+
+    return predicted_pairs

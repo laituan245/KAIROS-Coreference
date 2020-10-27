@@ -18,7 +18,7 @@ def args_overlap(argi, argj):
     return len(argi.intersection(argj)) > 0
 
 # Main Function
-def event_coref(cs_path, json_dir, output_path, language, original_input_entity, new_input_entity, filtered_doc_ids, clusters):
+def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input_entity, filtered_doc_ids, clusters):
     create_dir_if_not_exist(dirname(output_path))
 
     # Build olde2mid
@@ -63,8 +63,7 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
                 oldevs2mid[es[0]] = es[-2].strip()
 
     # Load tokenizer and model
-    if language == 'en': tokenizer, model = load_tokenizer_and_model(EN_EVENT_MODEL)
-    elif language == 'es': tokenizer, model = load_tokenizer_and_model(ES_EVENT_MODEL)
+    tokenizer, model = load_tokenizer_and_model(EVENT_MODEL)
 
     # Load dataset
     print('Loading dataset')
@@ -154,6 +153,11 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
     graph = UndirectedGraph([m['mention_id'] for m in mentions])
     print('Number of vertices: {}'.format(graph.V))
 
+    # Build mid2type
+    mid2type = {}
+    for i in range(len(mentions)):
+        mid2type[mentions[i]['mention_id']] = mentions[i]['event_type']
+
     # Add edges from INTERMEDIATE_PRED_EVENT_PAIRS (all edges will be in-doc)
     edge_pairs = set()
     print('Add edges from INTERMEDIATE_PRED_EVENT_PAIRS')
@@ -163,14 +167,16 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
             node1, node2 = es[0].strip(), es[1].strip()
             node1_args = event2args.get(node1, {})
             node2_args = event2args.get(node2, {})
+            # Rules
+            if mid2type[node1] == 'Justice.Sentence.Unspecified' and mid2type[node2] == 'Justice.ReleaseParole.Unspecified': continue
+            if mid2type[node1] == 'Justice.ReleaseParole.Unspecified' and mid2type[node2] == 'Justice.Sentence.Unspecified': continue
+
             graph.addEdge(node1, node2)
             edge_pairs.add((node1, node2))
             edge_pairs.add((node2, node1))
 
     # Add edge between two event mentions if they have the same subtype and same args1/args2
-    mid2type = {}
     for i in range(len(mentions)):
-        mid2type[mentions[i]['mention_id']] = mentions[i]['event_type']
         for j in range(len(mentions)):
             if i == j: continue
             if originaldoc2cluster[mentions[i]['doc_id']] != originaldoc2cluster[mentions[j]['doc_id']]: continue

@@ -12,9 +12,7 @@ EN_KEYWORDS = ['bomb', 'bombs', 'explosive', 'explosives', 'drone', 'drones',
 ES_KEYWORDS = ['bomba', 'bombas', 'explosivo', 'explosiva', 'explosivos',
                'dron', 'drones', 'huelga', 'huelgas', 'ataque', 'ataques']
 
-def docs_filtering(event_cs_path, json_dir, language):
-    if language == 'es':
-        assert(len(ES_KEYWORDS) > 0)
+def docs_filtering(event_cs_path, json_dir):
     tokenizer = AutoTokenizer.from_pretrained('SpanBERT/spanbert-large-cased', do_basic_tokenize=False) # Not really matter
     docs = load_event_centric_dataset(tokenizer, event_cs_path, json_dir)
 
@@ -27,8 +25,7 @@ def docs_filtering(event_cs_path, json_dir, language):
         has_keywords = False
         for w in words:
             w = w.lower()
-            if language == 'en': KEYWORDS = EN_KEYWORDS
-            if language == 'es': KEYWORDS = ES_KEYWORDS
+            KEYWORDS = EN_KEYWORDS + ES_KEYWORDS
             for keyword in KEYWORDS:
                 if keyword in w:
                     has_keywords = True
@@ -43,5 +40,5 @@ def docs_filtering(event_cs_path, json_dir, language):
     distracted_docs = all_docs - filtered_docs
 
     print('[AFTER FILTERING] Remaining doc ids: {}'.format(filtered_docs))
-
+    print('Distracted doc ids: {}'.format(distracted_docs))
     return filtered_docs, distracted_docs
