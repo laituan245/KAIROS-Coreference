@@ -35,7 +35,7 @@ def read_coref(coref_fp):
             es = line.strip().split('\t')
             if not es[0] in cluster2mention:
                 cluster2mention[es[0]] = {
-                    'mentions': set(),
+                    'mentions': [],
                     'type': []
                 }
             if len(es) <= 4:
@@ -43,7 +43,8 @@ def read_coref(coref_fp):
                     cluster2mention[es[0]]['type'].append(es[2])
                 continue
             if not 'mention' in es[1]: continue
-            cluster2mention[es[0]]['mentions'].add(es[-2])
+            if not es[-2] in cluster2mention[es[0]]['mentions']:
+                cluster2mention[es[0]]['mentions'].append(es[-2])
     return cluster2mention
 
 def generate_visualization(docs, cluster2mention, output):
