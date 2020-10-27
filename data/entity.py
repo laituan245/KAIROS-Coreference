@@ -78,9 +78,9 @@ class EntityCentricDocumentPair:
         )
 
         # Sanity test
-        for ix, e in enumerate(self.entity_mentions):
-            first_token, last_token = doc_tokens[self.gold_starts[ix]], doc_tokens[self.gold_ends[ix]]
-            first_token = first_token.replace('##', '')
-            last_token = last_token.replace('##', '')
-            assert(e['canonical_mention'].startswith(first_token))
-            assert(e['canonical_mention'].endswith(last_token))
+        # for ix, e in enumerate(self.entity_mentions):
+        #     first_token, last_token = doc_tokens[self.gold_starts[ix]], doc_tokens[self.gold_ends[ix]]
+        #     first_token = first_token.replace('##', '')
+        #     last_token = last_token.replace('##', '')
+        #     assert(e['canonical_mention'].startswith(first_token))
+        #     assert(e['canonical_mention'].endswith(last_token))
