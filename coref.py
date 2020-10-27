@@ -67,7 +67,7 @@ if __name__ == "__main__":
     output_distractors = join(args.coreference_output, 'distrators.txt')
     with open(output_distractors, 'w+') as f:
         for _id in distracted_doc_ids:
-            f.write('{}\n'.format(_id))
+            f.write('{}\n'.format(json.dumps([_id])))
 
     # Run document clustering
     clusters = docs_clustering(args.linking_output, filtered_doc_ids)
