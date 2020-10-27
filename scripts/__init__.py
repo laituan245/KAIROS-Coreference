@@ -4,3 +4,4 @@ from scripts.string_repr import string_repr
 from scripts.filter_relation import filter_relation
 from scripts.docs_filtering import docs_filtering
 from scripts.merge_inputs import merge_inputs
+from scripts.remove_entities import remove_entities
