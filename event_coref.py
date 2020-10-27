@@ -189,6 +189,9 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
             args_setj = event2args.get(mentions[j]['mention_id'], {})
             # Consider special event types (e.g., attack, justice, die ...)
             cond_met = False
+            # Assuming all crime investigations are about 1 central crime / attack event
+            if type in ['Justice.InvestigateCrime']:
+                cond_met = True
             # considering <arg1>
             if type in ['Life.Die']:
                 if args_overlap(args_seti.get('<arg1>'), args_setj.get('<arg1>')):
