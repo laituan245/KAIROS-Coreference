@@ -71,13 +71,13 @@ if __name__ == "__main__":
 
     # Run document clustering
     clusters = docs_clustering(args.linking_output, filtered_doc_ids)
-    if args.keep_distractors:
-        for distractor in distracted_doc_ids:
-            clusters.append([distractor])
     output_cluster = join(args.coreference_output, 'clusters.txt')
     with open(output_cluster, 'w+') as f:
         for c in clusters:
             f.write('{}\n'.format(json.dumps(c)))
+    if args.keep_distractors:
+        for distractor in distracted_doc_ids:
+            clusters.append([distractor])
 
     # Update filtered_doc_ids to contain all docs if keep_distractors
     if args.keep_distractors:
