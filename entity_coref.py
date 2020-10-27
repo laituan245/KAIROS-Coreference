@@ -117,8 +117,12 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                     for ix, (s, e) in enumerate(zip(mention_starts, mention_ends)):
                         if predicted_antecedents[ix] >= 0:
                             antecedent_idx = predicted_antecedents[ix]
-                            f.write('{}\t{}\n'.format(doc_entities[ix]['mention_id'],
-                                                      doc_entities[antecedent_idx]['mention_id']))
+                            mention_1 = doc_entities[ix]
+                            mention_2 = doc_entities[antecedent_idx]
+                            if language == 'es':
+                                if 'fb_id' in mention_1 and 'fb_id' in mention_2 and mention_1['fb_id'] != mention_2['fb_id']:
+                                    if (not mention_1['fb_id'].startswith('NIL')) and (not mention_2['fb_id'].startswith('NIL')): continue
+                            f.write('{}\t{}\n'.format(mention_1['mention_id'], mention_2['mention_id']))
 
         f.close()
     print("--- Applying the entity coref model took %s seconds ---" % (time.time() - start_time))
