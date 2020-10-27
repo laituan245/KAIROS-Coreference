@@ -73,9 +73,9 @@ def generate_visualization(docs, cluster2mention, output):
                 if doc_id in DOC2URL:
                     doc_info = '<a href="{}">{}</a>'.format(DOC2URL[doc_id], doc_id)
                 if len(cluster2mention[c]['type']) > 1:
-                    f.write('[Document {} ({})] {} <font color="red">{}</font> {} </br>'.format(doc_info, cluster2mention[c]['type'][m_index], left_context, mention_text, right_context))
+                    f.write('Mention {} [Document {} ({})] {} <font color="red">{}</font> {} </br>'.format(m, doc_info, cluster2mention[c]['type'][m_index], left_context, mention_text, right_context))
                 else:
-                    f.write('[Document {}] {} <font color="red">{}</font> {} </br>'.format(doc_info, left_context, mention_text, right_context))
+                    f.write('Mention {} [Document {}] {} <font color="red">{}</font> {} </br>'.format(m, doc_info, left_context, mention_text, right_context))
 
 def generate_visualization_for_cluster(docs, entity2mention, event2mention, cluster, cluster_nb):
     docs = copy.deepcopy(docs)
