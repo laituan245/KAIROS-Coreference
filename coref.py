@@ -11,8 +11,8 @@ from entity_coref import entity_coref
 from event_coref import event_coref
 from utils import create_dir_if_not_exist
 from refine_entity_coref import refine_entity_coref
-from scripts import align_relation, align_event, docs_filtering, string_repr
 from scripts import filter_relation, merge_inputs, remove_entities, separate_files
+from scripts import align_relation, align_event, docs_filtering, string_repr, fix_event_types
 
 # Main code
 if __name__ == "__main__":
@@ -102,6 +102,9 @@ if __name__ == "__main__":
 
     # Remove non-participating-entities
     remove_entities(output_entity, output_event, output_relation)
+
+    # Fix event types
+    fix_event_types(output_event)
 
     # Separate files into English / Spanish
     separate_files(output_entity, output_event, output_relation, english_docs, spanish_docs)

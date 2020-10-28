@@ -6,3 +6,4 @@ from scripts.docs_filtering import docs_filtering
 from scripts.merge_inputs import merge_inputs
 from scripts.remove_entities import remove_entities
 from scripts.separate_files import separate_files
+from scripts.fix_event_types import fix_event_types
