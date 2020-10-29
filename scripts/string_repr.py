@@ -58,7 +58,11 @@ def string_repr(new_input_entity, new_input_event):
             if not entity_id in entity2pronominal: entity2pronominal[entity_id] = []
             if not entity_id in entity2mention: entity2mention[entity_id] = []
             if es[1] == 'canonical_mention':
-                entity2canonical[entity_id].append(es[2][1:-1])
+                cur_canonical_mention = es[2][1:-1].strip()
+                if len(cur_canonical_mention) == 0: continue
+                if cur_canonical_mention == 'Teen': continue
+                if cur_canonical_mention[0].islower(): continue
+                entity2canonical[entity_id].append(cur_canonical_mention)
             if es[1] == 'nominal_mention':
                 entity2nominal[entity_id].append(es[2][1:-1])
             if es[1] == 'pronominal_mention':
