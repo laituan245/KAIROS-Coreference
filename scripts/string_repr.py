@@ -58,24 +58,33 @@ def string_repr(new_input_entity, new_input_event):
             if not entity_id in entity2pronominal: entity2pronominal[entity_id] = []
             if not entity_id in entity2mention: entity2mention[entity_id] = []
             if es[1] == 'canonical_mention':
-                cur_canonical_mention = es[2][1:-1].strip()
-                if len(cur_canonical_mention) == 0: continue
-                if cur_canonical_mention == 'Teen': continue
-                if cur_canonical_mention[0].islower(): continue
-                entity2canonical[entity_id].append(cur_canonical_mention)
+                cur_mention = es[2][1:-1].strip()
+                if len(cur_mention) == 0: continue
+                entity2mention[entity_id].append(cur_mention)
+                if cur_mention in ['Teen', 'I', 'He', 'She', 'They', 'It']: continue
+                if cur_mention[0].islower(): continue
+                entity2canonical[entity_id].append(cur_mention)
             if es[1] == 'nominal_mention':
-                entity2nominal[entity_id].append(es[2][1:-1])
+                cur_mention = es[2][1:-1].strip()
+                if len(cur_mention) == 0: continue
+                entity2mention[entity_id].append(cur_mention)
+                entity2nominal[entity_id].append(cur_mention)
             if es[1] == 'pronominal_mention':
-                entity2pronominal[entity_id].append(es[2][1:-1])
+                cur_mention = es[2][1:-1].strip()
+                if len(cur_mention) == 0: continue
+                entity2mention[entity_id].append(cur_mention)
+                entity2pronominal[entity_id].append(cur_mention)
             if es[1] == 'mention':
-                entity2mention[entity_id].append(es[2][1:-1])
+                cur_mention = es[2][1:-1].strip()
+                if len(cur_mention) == 0: continue
+                entity2mention[entity_id].append(cur_mention)
     entity2repr = {}
     for entity in entity2canonical:
-        if len(entity2canonical) > 0:
+        if len(entity2canonical[entity]) > 0:
             entity2repr[entity] = find_majority(entity2canonical[entity])[0]
-        elif len(entity2nominal) > 0:
+        elif len(entity2nominal[entity]) > 0:
             entity2repr[entity] = find_majority(entity2nominal[entity])[0]
-        elif len(entity2pronominal) > 0:
+        elif len(entity2pronominal[entity]) > 0:
             entity2repr[entity] = find_majority(entity2pronominal[entity])[0]
         else:
             entity2repr[entity] = find_majority(entity2mention[entity])[0]
