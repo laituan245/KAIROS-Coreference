@@ -74,7 +74,7 @@ def string_repr(new_input_entity, new_input_event):
                 if len(cur_mention) == 0: continue
                 entity2mention[entity_id].append(cur_mention)
                 entity2pronominal[entity_id].append(cur_mention)
-            if es[1] == 'mention':
+            if es[1] == 'mention' or es[1] == 'UNK':
                 cur_mention = es[2][1:-1].strip()
                 if len(cur_mention) == 0: continue
                 entity2mention[entity_id].append(cur_mention)

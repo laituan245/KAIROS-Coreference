@@ -14,7 +14,7 @@ def align_event(new_input_entity, new_input_event):
     with open(new_input_entity, 'r', encoding='utf-8') as entity_f:
         for line in entity_f:
             es = line.split('\t')
-            if es[1].endswith('mention'):
+            if es[1].endswith('mention') or es[1] == 'UNK':
                 mid2eid[es[-2]] = es[0]
 
     # Output file

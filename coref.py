@@ -7,13 +7,14 @@ import logging
 
 from constants import *
 from flask import Flask
+from data import read_json_docs
 from os.path import dirname, join
 from argparse import ArgumentParser
 from entity_coref import entity_coref
 from event_coref import event_coref
 from utils import create_dir_if_not_exist
 from refine_entity_coref import refine_entity_coref
-from scripts import align_relation, align_event, docs_clustering, docs_filtering, string_repr, filter_relation, remove_entities
+from scripts import align_relation, align_event, string_repr, filter_relation, remove_entities
 
 ONEIE = 'oneie'
 app = Flask(__name__)
@@ -32,16 +33,15 @@ if __name__ == "__main__":
     parser.add_argument('--language', default='en')
     parser.add_argument('--port', default=3300)
     parser.add_argument('--debug', action='store_true')
-    parser.add_argument('--keep_distractors', action='store_true')
     args = parser.parse_args()
     args.ta = int(args.ta)
     assert(args.language in ['en', 'es'])
     assert(args.ta in [1, 2])
 
     if args.debug:
-        args.oneie_output = 'resources/quizlet4/{}/output/oneie/m1_m2'.format(args.language)
-        args.linking_output = 'resources/quizlet4/{}/output/linking/{}.linking.wikidata.cs'.format(args.language, args.language)
-        args.coreference_output = 'resources/quizlet4/{}/output/coref/'.format(args.language)
+        args.oneie_output = 'resources/oneie/m1_m2'
+        args.linking_output = 'resources/linking/{}.linking.wikidata.cs'.format(args.language)
+        args.coreference_output = 'resources/coref/'
 
     create_dir_if_not_exist(args.coreference_output)
 
@@ -60,34 +60,24 @@ if __name__ == "__main__":
             time.sleep(15)
         os.remove(success_file_path)
 
-    # Run document filtering
-    event_cs = join(args.oneie_output, 'cs/event.cs')
+    # Run document filtering (DUMMY)
     json_dir = join(args.oneie_output, 'json')
-    filtered_doc_ids, distracted_doc_ids = docs_filtering(event_cs, json_dir, args.language)
-    output_distractors = join(args.coreference_output, 'distrators.txt')
-    with open(output_distractors, 'w+') as f:
-        for _id in distracted_doc_ids:
-            f.write('{}\n'.format(json.dumps([_id])))
+    doc_ids = list(read_json_docs(json_dir).keys())
+    with open(join(args.coreference_output, 'distrators.txt'), 'w+') as f:
+        # No distractors
+        pass
 
-    # Run document clustering
-    clusters = docs_clustering(args.linking_output, filtered_doc_ids)
-    output_cluster = join(args.coreference_output, 'clusters.txt')
-    with open(output_cluster, 'w+') as f:
+    # Run document clustering (DUMMY - Within-Doc Coref)
+    clusters = [[d] for d in doc_ids]
+    with open(join(args.coreference_output, 'clusters.txt'), 'w+') as f:
         for c in clusters:
             f.write('{}\n'.format(json.dumps(c)))
-    if args.keep_distractors:
-        for distractor in distracted_doc_ids:
-            clusters.append([distractor])
-
-    # Update filtered_doc_ids to contain all docs if keep_distractors
-    if args.keep_distractors:
-        filtered_doc_ids = filtered_doc_ids.union(distracted_doc_ids)
 
     # Run entity coref
     entity_cs = join(args.oneie_output, 'cs/entity.cs')
     json_dir = join(args.oneie_output, 'json')
     output_entity =  join(args.coreference_output, 'entity.cs')
-    entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language, filtered_doc_ids, clusters)
+    entity_coref(entity_cs, json_dir, args.linking_output, output_entity, args.language, set(doc_ids), clusters)
 
     # The loop stops when refinement process does not modify entity coref anymore
     while True:
@@ -95,7 +85,7 @@ if __name__ == "__main__":
         event_cs = join(args.oneie_output, 'cs/event.cs')
         json_dir = join(args.oneie_output, 'json')
         output_event = join(args.coreference_output, 'event.cs')
-        event_coref(event_cs, json_dir, output_event, args.language, entity_cs, output_entity, filtered_doc_ids, clusters)
+        event_coref(event_cs, json_dir, output_event, args.language, entity_cs, output_entity, set(doc_ids), clusters)
 
         # Run aligning relation
         input_relation = join(args.oneie_output, 'cs/relation.cs')
@@ -106,7 +96,7 @@ if __name__ == "__main__":
         align_event(output_entity, output_event)
 
         # Run string_repr
-        string_repr(output_entity, output_event)
+        #string_repr(output_entity, output_event)
 
         # Run filter_relation
         if args.ta == 2:
@@ -119,7 +109,7 @@ if __name__ == "__main__":
             break
 
     # Remove non-participating-entities
-    remove_entities(output_entity, output_event, output_relation)
+    #remove_entities(output_entity, output_event, output_relation)
 
     # Write a new success file
     if not args.debug:

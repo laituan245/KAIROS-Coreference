@@ -19,7 +19,7 @@ def refine_entity_coref(new_input_entity, new_input_event):
         for line in entity_f:
             original_line = line
             es = line.strip().split('\t')
-            if es[1].endswith('mention'):
+            if es[1].endswith('mention') or es[1] == 'UNK':
                 mid2eid[es[-2]] = es[0]
                 if not es[0] in entity2mentions: entity2mentions[es[0]] = set()
                 entity2mentions[es[0]].add(es[-2])
@@ -32,6 +32,7 @@ def refine_entity_coref(new_input_entity, new_input_event):
                 entity2link[es[0]] = es[2]
 
     # Read new_input_event
+    arg_errors = 0
     event2type, event2args = {}, {}
     with open(new_input_event, 'r', encoding='utf-8') as f:
         for line in f:
@@ -40,15 +41,19 @@ def refine_entity_coref(new_input_entity, new_input_event):
                 if es[1] == 'type':
                     event2type[es[0]] = es[2]
                 continue
-            if not (es[1].startswith('mention') or es[1].startswith('canonical_mention')):
+            if not (es[1].startswith('mention') or es[1].startswith('canonical_mention') or es[1] == 'UNK'):
                 event_type = event2type[es[0]]
                 if event_type in event_types: # Consider only events in the KAIROS ontology
                     event_args = event_types[event_type]['args']
                     arg_name = es[1].split('.')[-2].split('_')[-1]
+                    if not arg_name in event_args:
+                        arg_errors += 1
+                        continue
                     arg_nb = event_args[arg_name]
                     if not es[0] in event2args: event2args[es[0]] = {}
                     if not arg_nb in event2args[es[0]]: event2args[es[0]][arg_nb] = []
                     event2args[es[0]][arg_nb].append(es[-3].strip())
+    print('arg_errors = {}'.format(arg_errors))
 
     # Check for new links
     new_link = set()

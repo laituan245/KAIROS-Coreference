@@ -19007,11 +19007,6 @@
 :Event_004289	mention.actual	"violence"	scenario_en_kairos_53:1301-1308	1.0000
 :Event_004289	canonical_mention.actual	"violence"	scenario_en_kairos_53:1301-1308	1.0000
 :Event_004289	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0038407	scenario_en_kairos_53:1332-1338	1.0000
-:Event_004290	type	Justice.InvestigateCrime.Unspecified	1.0000
-:Event_004290	mention.actual	"investigation"	scenario_en_kairos_53:1409-1421	1.0000
-:Event_004290	canonical_mention.actual	"investigation"	scenario_en_kairos_53:1409-1421	1.0000
-:Event_004290	Justice.InvestigateCrime.Unspecified_Observer.actual	:Entity_EDL_0038408	scenario_en_kairos_53:1402-1407	1.0000
-:Event_004290	Justice.InvestigateCrime.Unspecified_ObservedEntity.actual	:Entity_EDL_0038411	scenario_en_kairos_53:1469-1478	1.0000
 :Event_004291	type	Justice.ArrestJailDetain.Unspecified	1.0000
 :Event_004291	mention.actual	"arrests"	scenario_en_kairos_53:1509-1515	1.0000
 :Event_004291	canonical_mention.actual	"arrests"	scenario_en_kairos_53:1509-1515	1.0000

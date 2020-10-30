@@ -34,13 +34,14 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
     with open(new_input_entity, 'r', encoding='utf-8') as entity_f:
         for line in entity_f:
             es = line.split('\t')
-            if es[1].endswith('mention'):
+            if es[1].endswith('mention') or es[1] == 'UNK':
                 mid2eid[es[-2]] = es[0]
 
     # Read info of event_types
     event_types = read_event_types('resources/event_types.tsv')
 
     # Read old event_cs file
+    arg_errors = 0
     event2type, event2args, oldevs2mid, event2text = {}, {}, {}, {}
     with open(cs_path, 'r', encoding='utf-8') as f:
         for line in f:
@@ -54,6 +55,9 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
                 if event_type in event_types: # Consider only events in the KAIROS ontology
                     event_args = event_types[event_type]['args']
                     arg_name = es[1].split('.')[-2].split('_')[-1]
+                    if not arg_name in event_args:
+                        arg_errors += 1
+                        continue
                     arg_nb = event_args[arg_name]
                     mid = oldevs2mid[es[0]]
                     if not mid in event2args: event2args[mid] = {}
@@ -61,6 +65,7 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
                     event2args[mid][arg_nb].add(mid2eid[olde2mid[es[2]]])
             else:
                 oldevs2mid[es[0]] = es[-2].strip()
+    print('arg_errors = {}'.format(arg_errors))
 
     # Load tokenizer and model
     if language == 'en': tokenizer, model = load_tokenizer_and_model(EN_EVENT_MODEL)
@@ -188,7 +193,7 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
                 if args_overlap(args_seti.get('<arg1>'), args_setj.get('<arg1>')):
                     cond_met = True
             # considering <arg2>
-            if type in ['Conflict.Attack', 'Movement.Transportation', 'Justice.Sentence', 'Justice.TrialHearing']:
+            if type in ['Conflict.Attack', 'Movement.Transportation', 'Justice.Sentence', 'Justice.ChargeIndict', 'Justice.TrialHearing']:
                 if args_overlap(args_seti.get('<arg2>'), args_setj.get('<arg2>')):
                     cond_met = True
             # considering Attack.DetonateExplode with Attack.Unspecified

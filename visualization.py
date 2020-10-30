@@ -30,7 +30,7 @@ DOC2URL = {
 # Helper Function
 def read_coref(coref_fp):
     cluster2mention = {}
-    with open(coref_fp, 'r') as f:
+    with open(coref_fp, 'r', encoding='utf-8') as f:
         for line in f:
             es = line.strip().split('\t')
             if not es[0] in cluster2mention:
@@ -42,7 +42,7 @@ def read_coref(coref_fp):
                 if 'type' in es[1].lower():
                     cluster2mention[es[0]]['type'].append(es[2])
                 continue
-            if not 'mention' in es[1]: continue
+            if not ('mention' in es[1] or es[1] == 'UNK'): continue
             if not es[-2] in cluster2mention[es[0]]['mentions']:
                 cluster2mention[es[0]]['mentions'].append(es[-2])
     return cluster2mention
@@ -103,15 +103,15 @@ def generate_visualization_for_cluster(docs, entity2mention, event2mention, clus
     for event in removed_events: del event2mention[event]
 
     # Generate visualization files
-    generate_visualization(docs, entity2mention, 'resources/quizlet4/en/output/coref/cluster_{}_entity_coref.html'.format(cluster_nb))
-    generate_visualization(docs, event2mention, 'resources/quizlet4/en/output/coref/cluster_{}_event_coref.html'.format(cluster_nb))
+    generate_visualization(docs, entity2mention, 'resources/coref/visualization/cluster_{}_entity_coref.html'.format(cluster_nb))
+    generate_visualization(docs, event2mention, 'resources/coref/visualization/cluster_{}_event_coref.html'.format(cluster_nb))
 
 # Main code
 if __name__ == "__main__":
     # Parse argument
     parser = ArgumentParser()
-    parser.add_argument('--json_dir', default='resources/quizlet4/en/output/oneie/m1_m2/json')
-    parser.add_argument('--coref_dir', default='resources/quizlet4/en/output/coref/')
+    parser.add_argument('--json_dir', default='resources/oneie/m1_m2/json')
+    parser.add_argument('--coref_dir', default='resources/coref/')
     args = parser.parse_args()
     args.entity_coref = join(args.coref_dir, 'entity.cs')
     args.event_coref = join(args.coref_dir, 'event.cs')
@@ -126,7 +126,7 @@ if __name__ == "__main__":
 
     # Read doc clustering info
     clusters = []
-    with open(join(args.coref_dir, 'clusters.txt'), 'r') as f:
+    with open(join(args.coref_dir, 'clusters.txt'), 'r', encoding='utf-8') as f:
         for line in f:
             clusters.append(json.loads(line))
 
