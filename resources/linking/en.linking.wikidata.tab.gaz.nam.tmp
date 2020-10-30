@@ -1,0 +1,1368 @@
+Gazetterr	GAZ_0000000	Valentine	scenario_en_kairos_47:1376-1384	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000005	USS	scenario_en_kairos_16:292-294	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000046	Waad	wiki_mass_car_bombings_7_news_2:3160-3163	NIL	WEA	NAM	1.0
+Gazetterr	GAZ_0000057	Archer	wiki_ied_bombings_5_news_4:12025-12030	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000058	Lewis	wiki_ied_bombings_5_news_4:12420-12424	NIL	WEA	NAM	1.0
+Gazetterr	GAZ_0000063	Jeep Cherokee	K0C0448WL:2020-2032	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000124	Glock	rare_event_sentences_18:18299-18303	NIL	WEA	NAM	1.0
+Gazetterr	GAZ_0000200	Logan	rare_event_sentences_0:1857-1861	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000260	Fiat 131	suicide_ied_101:967-974	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000261	Fiat 131	suicide_ied_101:2362-2369	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000466	Tomahawk	wiki_drone_strikes_2_news_4:12611-12618	NIL	WEA	NAM	1.0
+Gazetterr	GAZ_0000609	Logan	backpack_ied_0:4903-4907	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000615	Honda Civic	backpack_ied_0:10235-10245	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000617	Glock	backpack_ied_0:12463-12467	NIL	WEA	NAM	1.0
+Gazetterr	GAZ_0000618	Glock	backpack_ied_0:12475-12479	NIL	WEA	NAM	1.0
+Gazetterr	GAZ_0000622	Amtrak	backpack_ied_0:15821-15826	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000623	Logan	backpack_ied_0:15871-15875	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000631	SAMs	backpack_ied_0:21609-21612	NIL	WEA	NAM	1.0
+Gazetterr	GAZ_0000733	Logan	scenario_en_kairos_39:1630-1634	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000803	Bishop	rare_event_sentences_11:15896-15901	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000834	Mercury Marquis	scenario_en_kairos_73:1922-1936	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000956	Humvee	wiki_mass_car_bombings_1_news_8:946-951	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000962	Boeing 767	suicide_ied_1:144-153	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000965	Logan	suicide_ied_1:528-532	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000966	Logan	suicide_ied_1:2405-2409	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000967	Logan	suicide_ied_1:2491-2495	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0000971	Logan	K0C0448WM:945-949	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0001064	Ford Sierra	scenario_en_kairos_50:1536-1546	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0001073	Logan	scenario_en_kairos_13:413-417	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0001074	Logan	scenario_en_kairos_13:575-579	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0001114	Humvee	wiki_mass_car_bombings_1_news_9:259-264	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0001115	Humvee	wiki_mass_car_bombings_1_news_9:327-332	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0001116	Humvee	wiki_mass_car_bombings_1_news_9:570-575	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0001196	Nissan Patrol	wiki_mass_car_bombings_0_article:4387-4399	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0001199	Nissan Patrol	wiki_mass_car_bombings_0_article:4757-4769	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0001247	Nissan Patrol	wiki_mass_car_bombings_0_news_8:2241-2253	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0001310	BB gun	JC002YBW0:3610-3615	NIL	WEA	NAM	1.0
+Gazetterr	GAZ_0001344	Nissan Patrol	wiki_mass_car_bombings_0_news_0:2112-2124	NIL	VEH	NAM	1.0
+Gazetterr	GAZ_0001474	BB gun	scenario_en_kairos_95:5016-5021	NIL	WEA	NAM	1.0
+Gazetterr	GAZ_0000001	Florida	scenario_en_kairos_47:1416-1422	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000002	Associated Press	scenario_en_kairos_47:1475-1490	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000003	Washington	scenario_en_kairos_47:1756-1765	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000004	Interior	42_VOA_EN_NW_2017.05.24.3868895:1554-1561	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000006	New York	scenario_en_kairos_16:524-531	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000007	AP	rare_event_sentences_10:138-139	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000008	Reuters	rare_event_sentences_10:422-428	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000009	Defense	rare_event_sentences_10:2010-2016	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000010	the United States	rare_event_sentences_10:13439-13455	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000012	AP	rare_event_sentences_10:17507-17508	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000013	Reuters	rare_event_sentences_10:17791-17797	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000014	Defense	suicide_ied_120:1222-1228	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000015	Defense	suicide_ied_120:1360-1366	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000016	Florida	suicide_ied_120:1585-1591	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000017	New York	suicide_ied_120:1789-1796	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000018	Defense	suicide_ied_120:2004-2010	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000019	Donald Trump	suicide_ied_120:2463-2474	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000021	Donald Trump	suicide_ied_120:2875-2886	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000023	Defense	suicide_ied_120:2890-2896	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000024	Canada	scenario_en_kairos_38:891-896	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000025	Canada	scenario_en_kairos_38:956-961	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000026	National Guard	17_transportation_unspecified:86-99	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000027	Donald Trump	30_VOA_EN_NW_2017.04.05.3796934:1008-1019	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000029	the United States	65_VOA_EN_NW_2014.07.21.1962165:981-997	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000031	Florida	495_transportation_evacuation:41-47	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000032	Reuters	35_VOA_EN_NW_2015.04.08.2711451:4860-4866	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000033	AP	35_VOA_EN_NW_2015.04.08.2711451:4878-4879	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000034	New York	6_VOA_EN_NW_2016.09.20.3516717:39-46	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000035	New York	6_VOA_EN_NW_2016.09.20.3516717:117-124	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000036	Associated Press	6_VOA_EN_NW_2016.09.20.3516717:859-874	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000037	New York	6_VOA_EN_NW_2016.09.20.3516717:1773-1780	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000038	New York	6_VOA_EN_NW_2016.09.20.3516717:2446-2453	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000039	New York	6_VOA_EN_NW_2016.09.20.3516717:2956-2963	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000040	New York	6_VOA_EN_NW_2016.09.20.3516717:4276-4283	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000041	New York	6_VOA_EN_NW_2016.09.20.3516717:5041-5048	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000042	New York	6_VOA_EN_NW_2016.09.20.3516717:5417-5424	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000043	the United States	wiki_ied_bombings_1_news_0:8213-8229	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000045	AP	scenario_en_kairos_66:9-10	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000047	New York	backpack_ied_17:77-84	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000048	New York	backpack_ied_17:253-260	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000049	Reuters	wiki_ied_bombings_5_news_4:3214-3220	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000050	Reuters	wiki_ied_bombings_5_news_4:5487-5493	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000051	Reuters	wiki_ied_bombings_5_news_4:6969-6975	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000052	Caribbean	wiki_ied_bombings_5_news_4:7007-7015	NIL	LOC	NAM	1.0
+Gazetterr	GAZ_0000053	Reuters	wiki_ied_bombings_5_news_4:7245-7251	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000054	Reuters	wiki_ied_bombings_5_news_4:8819-8825	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000055	Reuters	wiki_ied_bombings_5_news_4:10224-10230	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000056	Reuters	wiki_ied_bombings_5_news_4:11382-11388	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000059	Reuters	wiki_ied_bombings_5_news_4:12797-12803	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000060	Reuters	wiki_ied_bombings_5_news_4:12892-12898	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000061	National Guard	3_impedeinterferewith_unspecified:14-27	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000062	Florida	494_transportation_evacuation:66-72	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000064	Venezuela	scenario_en_7:41-49	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000065	Aragua	scenario_en_7:55-60	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000066	Venezuelan	scenario_en_7:208-217	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000067	Maracay	scenario_en_7:283-289	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000068	Angel Sarmiento	scenario_en_7:459-473	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000070	Aragua	scenario_en_7:490-495	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000071	Sarmiento	scenario_en_7:991-999	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000072	Aragua	scenario_en_7:1166-1171	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000073	Venezuela	scenario_en_7:1241-1249	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000074	Sarmiento	scenario_en_7:1260-1268	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000075	Maracay	scenario_en_7:1468-1474	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000076	Aragua	scenario_en_7:1543-1548	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000077	Sarmiento	scenario_en_7:1571-1579	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000078	Aragua	scenario_en_7:1693-1698	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000079	Aragua	scenario_en_7:2095-2100	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000080	Sarmiento	scenario_en_7:2128-2136	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000081	Sarmiento	scenario_en_7:2210-2218	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000082	Washington	10_VOA_EN_NW_2013.04.26.1649293:1061-1070	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000083	Associated Press	10_VOA_EN_NW_2013.04.26.1649293:1340-1355	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000084	New York	10_VOA_EN_NW_2013.04.26.1649293:2341-2348	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000085	New York	10_VOA_EN_NW_2013.04.26.1649293:2461-2468	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000086	New York	10_VOA_EN_NW_2013.04.26.1649293:2551-2558	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000087	New York	10_VOA_EN_NW_2013.04.26.1649293:2803-2810	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000088	New York	10_VOA_EN_NW_2013.04.26.1649293:2865-2872	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000089	New York	10_VOA_EN_NW_2013.04.26.1649293:2998-3005	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000090	Defense	suicide_ied_11:1338-1344	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000091	White House	suicide_ied_11:1834-1844	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000092	United States	suicide_ied_11:2186-2198	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000093	United States	suicide_ied_11:2604-2616	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000094	the United States	32_VOA_EN_NW_2014.06.04.1929720:2103-2119	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000096	United States	31_VOA_EN_NW_2015.05.15.2768933:658-670	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000097	the United States	31_VOA_EN_NW_2015.05.15.2768933:2980-2996	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000099	Washington	31_VOA_EN_NW_2015.05.15.2768933:3297-3306	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000100	Associated Press	31_VOA_EN_NW_2015.05.15.2768933:3338-3353	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000101	Defense	rare_event_sentences_18:1032-1038	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000102	United States	rare_event_sentences_18:1247-1259	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000103	Donald Trump	rare_event_sentences_18:1417-1428	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000105	Trump	rare_event_sentences_18:1535-1539	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000106	Trump	rare_event_sentences_18:1626-1630	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000107	Trump	rare_event_sentences_18:1907-1911	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000108	Trump	rare_event_sentences_18:2046-2050	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000109	Donald Trump	rare_event_sentences_18:3009-3020	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000111	Trump	rare_event_sentences_18:3241-3245	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000112	Trump	rare_event_sentences_18:3439-3443	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000113	Donald Trump	rare_event_sentences_18:4752-4763	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000115	Trump	rare_event_sentences_18:4984-4988	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000116	Trump	rare_event_sentences_18:5182-5186	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000117	United States	rare_event_sentences_18:13021-13033	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000118	Latin America	rare_event_sentences_18:15823-15835	NIL	LOC	NAM	1.0
+Gazetterr	GAZ_0000119	Colombia	rare_event_sentences_18:15902-15909	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000120	New York	rare_event_sentences_18:16438-16445	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000121	United States	rare_event_sentences_18:16613-16625	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000122	the United States	rare_event_sentences_18:17633-17649	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000125	Venezuelan	K0C047Z5A:0-9	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000126	Nicolás Maduro	K0C047Z5A:21-34	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000128	Caracas	K0C047Z5A:69-75	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000129	Venezuelan	K0C047Z5A:167-176	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000130	Nicolás Maduro	K0C047Z5A:188-201	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000132	National Guard	K0C047Z5A:269-282	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000133	Caracas	K0C047Z5A:287-293	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000134	Venezuelan	K0C047Z5A:316-325	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000135	Nicolás Maduro	K0C047Z5A:337-350	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000137	Caracas	K0C047Z5A:504-510	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000138	Maduro	K0C047Z5A:514-519	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000139	Latin America	K0C047Z5A:604-616	NIL	LOC	NAM	1.0
+Gazetterr	GAZ_0000140	Colombian	K0C047Z5A:675-683	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000141	Juan Manuel Santos	K0C047Z5A:695-712	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000143	Maduro	K0C047Z5A:780-785	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000144	National Guard	K0C047Z5A:873-886	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000145	Venezuelan	K0C047Z5A:948-957	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000146	Maduro	K0C047Z5A:1041-1046	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000147	Cilia Flores	K0C047Z5A:1086-1097	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000148	Maduro	K0C047Z5A:1288-1293	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000149	National Guard	K0C047Z5A:1779-1792	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000150	Jorge Rodríguez	K0C047Z5A:1843-1857	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000152	Maduro	K0C047Z5A:1921-1926	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000153	Maduro	K0C047Z5A:2017-2022	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000154	Associated Press	K0C047Z5A:2186-2201	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000155	Maduro	K0C047Z5A:2241-2246	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000156	Bogotá	K0C047Z5A:2372-2377	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000157	Miami	K0C047Z5A:2383-2387	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000158	Santos	K0C047Z5A:2401-2406	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000159	Colombian	K0C047Z5A:2423-2431	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000160	Colombian	K0C047Z5A:2502-2510	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000161	Maduro	K0C047Z5A:2530-2535	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000162	Maduro	K0C047Z5A:2600-2605	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000163	Nicaragua	K0C047Z5A:2653-2661	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000164	Maduro	K0C047Z5A:2757-2762	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000165	AP	K0C047Z5A:3006-3007	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000166	John Bolton	K0C047Z5A:3160-3170	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000167	Fox	K0C047Z5A:3197-3199	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000168	the United States	K0C047Z5A:3218-3234	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000170	Venezuela	K0C047Z5A:3300-3308	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000171	Maduro	K0C047Z5A:3557-3562	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000172	Venezuela	K0C047Z5A:3574-3582	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000173	Venezuela	K0C047Z5A:3625-3633	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000174	Maduro	K0C047Z5A:3642-3647	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000175	Venezuela	K0C047Z5A:3797-3805	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000176	Venezuelans	K0C047Z5A:3904-3914	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000177	Venezuela	K0C047Z5A:4201-4209	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000178	Venezuelans	K0C047Z5A:4260-4270	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000179	Maduro	K0C047Z5A:4302-4307	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000180	Henrique Capriles	K0C047Z5A:4462-4478	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000181	Venezuelans	K0C047Z5A:4530-4540	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000182	Venezuela	K0C047Z5A:4663-4671	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000183	Maduro	K0C047Z5A:4928-4933	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000184	John Bolton	K0C047Z5A:5090-5100	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000185	Spain	wiki_ied_bombings_9:116-120	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000186	Spain	wiki_ied_bombings_9:2453-2457	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000187	Washington	85_attack_detonateexplode:0-9	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000188	White House	85_attack_detonateexplode:97-107	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000189	Washington	85_attack_detonateexplode:129-138	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000190	Valencia	scenario_en_kairos_68:3429-3436	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000191	Canada	scenario_en_kairos_63:842-847	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000192	Canada	scenario_en_kairos_63:1289-1294	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000193	Canada	scenario_en_kairos_63:1648-1653	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000194	the United States	scenario_en_kairos_63:2279-2295	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000196	Canada	scenario_en_kairos_63:2642-2647	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000197	New York	rare_event_sentences_0:96-103	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000198	Miami	rare_event_sentences_0:1139-1143	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000199	Florida	rare_event_sentences_0:1147-1153	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000201	Washington	rare_event_sentences_0:1971-1980	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000202	Associated Press	rare_event_sentences_0:2812-2827	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000203	the United States	rare_event_sentences_0:4872-4888	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000205	the United States	rare_event_sentences_0:5126-5142	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000207	the United States	rare_event_sentences_0:5270-5286	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000209	the United States	rare_event_sentences_0:5873-5889	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000211	the United States	rare_event_sentences_0:6035-6051	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000213	the United States	rare_event_sentences_0:6653-6669	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000215	the United States	rare_event_sentences_0:6946-6962	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000217	the United States	rare_event_sentences_0:7073-7089	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000219	United States	rare_event_sentences_0:7151-7163	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000220	the United States	rare_event_sentences_0:7274-7290	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000222	the United States	rare_event_sentences_0:7345-7361	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000224	United States	rare_event_sentences_0:8715-8727	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000225	the United States	rare_event_sentences_0:9250-9266	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000227	the United States	rare_event_sentences_0:10440-10456	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000229	the United States	rare_event_sentences_0:10694-10710	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000231	the United States	rare_event_sentences_0:10838-10854	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000233	the United States	rare_event_sentences_0:11441-11457	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000235	the United States	rare_event_sentences_0:11603-11619	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000237	the United States	rare_event_sentences_0:12221-12237	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000239	the United States	rare_event_sentences_0:12514-12530	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000241	the United States	rare_event_sentences_0:12641-12657	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000243	United States	rare_event_sentences_0:12719-12731	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000244	the United States	rare_event_sentences_0:12842-12858	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000246	the United States	rare_event_sentences_0:12913-12929	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000248	United States	rare_event_sentences_0:14283-14295	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000249	the United States	rare_event_sentences_0:14818-14834	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000251	Reuters	wiki_drone_strikes_0_news_8:1104-1110	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000252	the United States	38_VOA_EN_NW_2013.04.24.1647602:2229-2245	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000254	Defense	51_VOA_EN_NW_2015.03.04.2667172:0-6	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000255	Defense	51_VOA_EN_NW_2015.03.04.2667172:2656-2662	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000256	Defense	51_VOA_EN_NW_2015.03.04.2667172:3498-3504	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000257	Reuters	51_VOA_EN_NW_2015.03.04.2667172:4784-4790	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000258	AP	51_VOA_EN_NW_2015.03.04.2667172:4796-4797	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000259	Defense	suicide_ied_101:421-427	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000262	Defense	suicide_ied_101:3298-3304	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000263	Venezuela	scenario_en_63:0-8	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000264	Venezuela	scenario_en_63:768-776	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000265	Nicolás Maduro	scenario_en_63:993-1006	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000267	MUD	scenario_en_63:1458-1460	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000268	Caracas	scenario_en_63:1498-1504	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000269	Nicolás Maduro	scenario_en_63:1894-1907	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000271	Maduro	scenario_en_63:1947-1952	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000272	Venezuelans	scenario_en_63:2067-2077	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000273	Maduro	scenario_en_63:2393-2398	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000274	Spain	scenario_en_63:2544-2548	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000275	Venezuela	scenario_en_63:2919-2927	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000276	Venezuelans	scenario_en_63:3488-3498	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000277	Caracas	scenario_en_63:3930-3936	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000278	Venezuela	scenario_en_63:4245-4253	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000279	Reuters	scenario_en_63:4417-4423	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000280	Donald Trump	scenario_en_63:4607-4618	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000282	Cilia Flores	scenario_en_63:4703-4714	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000283	Maduro	scenario_en_63:4718-4723	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000284	Diosdado Cabello	scenario_en_63:5039-5054	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000285	Venezuela	scenario_en_63:5088-5096	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000286	Venezuela	scenario_en_63:5269-5277	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000287	Maduro	scenario_en_63:5329-5334	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000288	Colombia	scenario_en_63:5578-5585	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000289	the United States	scenario_en_63:5881-5897	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000291	Venezuelan	scenario_en_63:5917-5926	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000292	Trump	scenario_en_63:5943-5947	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000293	Venezuela	scenario_en_63:6111-6119	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000294	Colombia	scenario_en_63:6123-6130	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000295	Juan Manuel Santos	scenario_en_63:6146-6163	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000297	Maduro	scenario_en_63:6194-6199	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000298	Colombian	scenario_en_63:6427-6435	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000299	Venezuelans	scenario_en_63:6500-6510	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000300	Venezuelan	scenario_en_63:6585-6594	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000301	Caracas	scenario_en_63:6743-6749	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000302	Caracas	scenario_en_63:7148-7154	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000303	Florida	497_requestcommand_broadcast:48-54	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000304	Nicolas Maduro	scenario_en_122:10-23	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000306	Venezuelan	scenario_en_122:91-100	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000307	Venezuelans	scenario_en_122:148-158	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000308	Nicolas Maduro	scenario_en_122:372-385	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000310	Caracas	scenario_en_122:708-714	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000311	Colombian	scenario_en_122:932-940	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000312	United States	scenario_en_122:946-958	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000313	Maduro	scenario_en_122:1071-1076	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000314	Venezuelan	scenario_en_122:1163-1172	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000315	John Bolton	scenario_en_122:1270-1280	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000316	Nicolas Maduro	scenario_en_122:2012-2025	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000318	Venezuela	scenario_en_122:2116-2124	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000319	Maduro	scenario_en_122:2158-2163	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000320	Colombian	scenario_en_122:2488-2496	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000321	Venezuelan	scenario_en_122:2702-2711	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000322	Maduro	scenario_en_122:2800-2805	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000323	Colombian	scenario_en_122:3055-3063	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000324	Venezuelan	scenario_en_122:3152-3161	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000325	Venezuela	scenario_en_122:3438-3446	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000326	Tarek William Saab	scenario_en_122:3471-3488	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000327	Florida	507_transportation_evacuation:28-34	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000328	Reuters	rare_event_sentences_36:1171-1177	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000329	the United States	rare_event_sentences_36:9273-9289	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000331	Reuters	rare_event_sentences_36:13985-13991	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000332	New York	rare_event_sentences_36:14007-14014	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000333	the United States	rare_event_sentences_36:18277-18293	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000335	Reuters	road_ied_7:94-100	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000336	Washington	road_ied_7:1295-1304	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000337	Estados Unidos	795_donation_unspecified:76-89	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000338	Venezuelans	scenario_en_8:101-111	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000339	Caracas	scenario_en_8:910-916	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000340	Aragua	scenario_en_8:1256-1261	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000341	Venezuelans	scenario_en_8:1653-1663	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000342	Tachira	scenario_en_8:1897-1903	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000343	Defense	road_ied_8:246-252	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000344	Defense	road_ied_8:699-705	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000345	New York	scenario_en_kairos_41:76-83	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000346	New York	scenario_en_kairos_41:379-386	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000347	United States	scenario_en_kairos_41:625-637	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000348	New York	20_VOA_EN_NW_2016.11.17.3601570:8-15	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000349	New York	20_VOA_EN_NW_2016.11.17.3601570:55-62	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000350	New York	20_VOA_EN_NW_2016.11.17.3601570:1243-1250	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000351	the United States	scenario_en_kairos_86:1113-1129	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000353	the United States	scenario_en_kairos_86:1317-1333	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000355	the United States	scenario_en_kairos_86:1776-1792	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000357	Defense	scenario_en_kairos_86:4695-4701	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000358	Venezuela	scenario_en_71:47-55	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000359	Venezuelan	scenario_en_71:59-68	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000360	Nicolás Maduro	scenario_en_71:179-192	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000362	Venezuela	scenario_en_71:293-301	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000363	Maduro	scenario_en_71:615-620	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000364	Venezuela	scenario_en_71:670-678	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000365	Tibisay Lucena	scenario_en_71:978-991	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000366	Julio Borges	scenario_en_71:1230-1241	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000368	Maduro	scenario_en_71:1363-1368	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000369	Venezuelans	scenario_en_71:1500-1510	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000370	Venezuela	scenario_en_71:2102-2110	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000371	Borges	scenario_en_71:2151-2156	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000372	Maduro	scenario_en_71:2256-2261	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000373	Washington	scenario_en_71:2338-2347	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000374	Trump	scenario_en_71:2367-2371	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000375	Venezuelan	scenario_en_71:2419-2428	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000376	White House	scenario_en_71:2450-2460	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000377	Venezuelan	scenario_en_71:2761-2770	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000378	Maduro	scenario_en_71:2813-2818	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000379	Venezuelan	scenario_en_71:2871-2880	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000380	Venezuela	scenario_en_71:3003-3011	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000381	Maduro	scenario_en_71:3126-3131	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000382	Maduro	scenario_en_71:3251-3256	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000383	Maduro	scenario_en_71:3348-3353	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000384	Venezuela	scenario_en_71:3773-3781	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000385	Venezuela	scenario_en_71:3837-3845	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000386	Maduro	scenario_en_71:3863-3868	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000387	Venezuela	scenario_en_71:4032-4040	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000388	Venezuelan	scenario_en_71:4616-4625	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000389	Maduro	scenario_en_71:4651-4656	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000390	Maduro	scenario_en_71:4836-4841	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000391	Henrique Capriles	scenario_en_71:5075-5091	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000392	Venezuelans	scenario_en_71:5103-5113	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000393	Associated Press	scenario_en_71:5157-5172	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000394	New York	wiki_drone_strikes_2_news_10:657-664	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000395	the United States	wiki_drone_strikes_2_news_10:3188-3204	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000397	the United States	wiki_drone_strikes_2_news_10:4052-4068	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000399	Washington	backpack_ied_18:8737-8746	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000400	New York	backpack_ied_18:8750-8757	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000401	Miami	backpack_ied_18:8761-8765	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000402	the United States	771_aidbetweengovernments_unspecified:12-28	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000404	Venezuela	scenario_en_130:0-8	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000405	Nicolás Maduro	scenario_en_130:26-39	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000407	Caracas	scenario_en_130:258-264	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000408	Maduro	scenario_en_130:365-370	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000409	Colombian	scenario_en_130:462-470	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000410	Juan Manuel Santos	scenario_en_130:484-501	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000412	Florida	scenario_en_130:592-598	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000413	Maduro	scenario_en_130:669-674	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000414	Venezuela	scenario_en_130:965-973	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000415	Venezuela	scenario_en_130:1059-1067	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000416	Maduro	scenario_en_130:1096-1101	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000417	Maduro	scenario_en_130:1245-1250	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000418	Maduro	scenario_en_130:1387-1392	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000419	Maduro	scenario_en_130:1896-1901	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000420	Venezuela	scenario_en_130:2327-2335	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000421	Caracas	scenario_en_130:2483-2489	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000422	Maduro	scenario_en_130:2657-2662	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000423	Maduro	scenario_en_130:2895-2900	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000424	Associated Press	scenario_en_130:3290-3305	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000425	Washington	scenario_en_130:3625-3634	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000426	Latin America	scenario_en_130:3646-3658	NIL	LOC	NAM	1.0
+Gazetterr	GAZ_0000427	AP	scenario_en_130:3737-3738	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000428	Maduro	scenario_en_130:3889-3894	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000429	Washington	12_transportation_preventpassage:100-109	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000430	the United States	wiki_drone_strikes_2_news_4:57-73	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000432	United States	wiki_drone_strikes_2_news_4:1203-1215	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000433	the United States	wiki_drone_strikes_2_news_4:1556-1572	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000435	Washington	wiki_drone_strikes_2_news_4:1580-1589	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000436	Washington	wiki_drone_strikes_2_news_4:1909-1918	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000437	the United States	wiki_drone_strikes_2_news_4:2065-2081	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000439	White House	wiki_drone_strikes_2_news_4:2312-2322	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000440	the United States	wiki_drone_strikes_2_news_4:4358-4374	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000442	the United States	wiki_drone_strikes_2_news_4:4857-4873	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000444	the United States	wiki_drone_strikes_2_news_4:5242-5258	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000446	the United States	wiki_drone_strikes_2_news_4:5655-5671	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000448	the United States	wiki_drone_strikes_2_news_4:5879-5895	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000450	the United States	wiki_drone_strikes_2_news_4:6685-6701	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000452	Washington	wiki_drone_strikes_2_news_4:7378-7387	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000453	the United States	wiki_drone_strikes_2_news_4:7584-7600	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000455	the United States	wiki_drone_strikes_2_news_4:7867-7883	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000457	United States	wiki_drone_strikes_2_news_4:9840-9852	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000458	New York	wiki_drone_strikes_2_news_4:10167-10174	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000459	the United States	wiki_drone_strikes_2_news_4:10490-10506	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000461	the United States	wiki_drone_strikes_2_news_4:10595-10611	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000463	the United States	wiki_drone_strikes_2_news_4:10866-10882	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000465	Associated Press	wiki_drone_strikes_2_news_4:12204-12219	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000467	the United States	wiki_drone_strikes_2_news_4:12711-12727	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000469	the United States	wiki_drone_strikes_2_news_4:14262-14278	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000471	the United States	wiki_drone_strikes_2_news_4:15036-15052	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000473	the United States	wiki_drone_strikes_2_news_4:15153-15169	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000475	the United States	wiki_drone_strikes_2_news_4:15815-15831	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000477	the United States	wiki_drone_strikes_2_news_4:16094-16110	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000479	the United States	wiki_drone_strikes_2_news_4:17404-17420	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000481	the United States	wiki_drone_strikes_2_news_4:17546-17562	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000483	the United States	wiki_drone_strikes_2_news_4:17691-17707	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000485	the United States	wiki_drone_strikes_2_news_4:18283-18299	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000487	the United States	wiki_drone_strikes_2_news_4:18963-18979	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000489	the United States	wiki_drone_strikes_2_news_4:19093-19109	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000491	White House	wiki_drone_strikes_2_news_4:20562-20572	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000492	Washington	wiki_drone_strikes_2_news_4:20984-20993	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000493	Washington	wiki_drone_strikes_2_news_4:21936-21945	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000494	the United States	wiki_drone_strikes_2_news_4:22472-22488	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000496	Washington	wiki_drone_strikes_2_news_4:22566-22575	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000497	Washington	wiki_drone_strikes_2_news_4:23016-23025	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000498	the United States	wiki_drone_strikes_2_news_4:23074-23090	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000500	the United States	wiki_drone_strikes_2_news_4:23236-23252	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000502	Washington	wiki_drone_strikes_2_news_4:23311-23320	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000503	Washington	wiki_drone_strikes_2_news_4:23497-23506	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000504	Washington	wiki_drone_strikes_2_news_4:24553-24562	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000505	the United States	wiki_drone_strikes_2_news_4:24806-24822	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000507	Washington	wiki_drone_strikes_2_news_4:24888-24897	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000508	the United States	wiki_drone_strikes_2_news_4:25753-25769	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000510	Washington	wiki_drone_strikes_2_news_4:25828-25837	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000511	the United States	wiki_drone_strikes_2_news_4:26314-26330	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000513	Washington	wiki_drone_strikes_2_news_4:26356-26365	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000514	White House	backpack_ied_19:2684-2694	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000515	Washington	backpack_ied_19:2760-2769	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000516	White House	backpack_ied_19:3382-3392	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000517	Defense	backpack_ied_19:3526-3532	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000518	Fox	backpack_ied_19:3749-3751	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000519	New York	backpack_ied_19:6550-6557	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000520	New York	backpack_ied_19:7772-7779	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000521	Fox	backpack_ied_19:7918-7920	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000522	New York	backpack_ied_19:8779-8786	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000523	AP	backpack_ied_19:9718-9719	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000524	White House	backpack_ied_19:12676-12686	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000525	AP	backpack_ied_19:12789-12790	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000526	Reuters	backpack_ied_19:12843-12849	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000527	White House	backpack_ied_19:13493-13503	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000528	White House	backpack_ied_19:13585-13595	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000529	New York	backpack_ied_19:13912-13919	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000530	Santos	backpack_ied_19:16347-16352	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000531	Interior	road_ied_9:244-251	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000532	Reuters	53_VOA_EN_NW_2015.06.24.2835606:4684-4690	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000533	AP	53_VOA_EN_NW_2015.06.24.2835606:4696-4697	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000534	the United States	scenario_en_kairos_40:281-297	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000536	United States	scenario_en_kairos_40:1725-1737	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000537	Venezuelan	scenario_en_131:23-32	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000538	Nicolas Maduro	scenario_en_131:44-57	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000540	Venezuela	scenario_en_131:221-229	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000541	Venezuelan	scenario_en_131:310-319	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000542	Nicolas Maduro	scenario_en_131:331-344	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000544	Maduro	scenario_en_131:429-434	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000545	Venezuelan	scenario_en_131:609-618	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000546	Maduro	scenario_en_131:723-728	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000547	Venezuelan	scenario_en_131:859-868	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000548	Nicolas Maduro	scenario_en_131:880-893	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000550	Caracas	scenario_en_131:920-926	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000551	Sputnik	scenario_en_131:933-939	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000552	Maduro	scenario_en_131:1097-1102	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000553	Reuters	scenario_en_131:1168-1174	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000554	Maduro	scenario_en_131:1312-1317	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000555	Venezuela	scenario_en_131:1349-1357	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000556	Caracas	scenario_en_131:1673-1679	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000557	Venezuela	scenario_en_131:1726-1734	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000558	Caracas	scenario_en_131:1760-1766	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000559	Maduro	scenario_en_131:1814-1819	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000560	Venezuelan	scenario_en_131:1914-1923	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000561	Bolivar	scenario_en_131:2217-2223	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000562	Nicolas Maduro	scenario_en_131:2248-2261	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000564	Venezuela	scenario_en_131:2380-2388	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000565	Venezuela	scenario_en_131:2734-2742	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000566	Maduro	scenario_en_131:2855-2860	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000567	New York	0_VOA_EN_NW_2016.09.21.3519045:212-219	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000568	New York	0_VOA_EN_NW_2016.09.21.3519045:325-332	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000569	New York	0_VOA_EN_NW_2016.09.21.3519045:597-604	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000570	New York	0_VOA_EN_NW_2016.09.21.3519045:857-864	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000571	New York	0_VOA_EN_NW_2016.09.21.3519045:1261-1268	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000572	New York	0_VOA_EN_NW_2016.09.21.3519045:2199-2206	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000573	New York	0_VOA_EN_NW_2016.09.21.3519045:2676-2683	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000574	New York	0_VOA_EN_NW_2016.09.21.3519045:3414-3421	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000575	Reuters	scenario_en_kairos_42:24-30	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000576	Florida	66_VOA_EN_NW_2013.05.30.1671716:115-121	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000577	Washington	66_VOA_EN_NW_2013.05.30.1671716:1248-1257	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000578	the United States	66_VOA_EN_NW_2013.05.30.1671716:2257-2273	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000580	Reuters	1_VOA_EN_NW_2013.04.19.1644775:5410-5416	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000581	Reuters	1_VOA_EN_NW_2013.04.19.1644775:6244-6250	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000582	AP	1_VOA_EN_NW_2013.04.19.1644775:6667-6668	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000583	AP	1_VOA_EN_NW_2013.04.19.1644775:6672-6673	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000584	AP	1_VOA_EN_NW_2013.04.19.1644775:6766-6767	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000585	Associated Press	1_VOA_EN_NW_2013.04.19.1644775:6802-6817	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000586	AP	1_VOA_EN_NW_2013.04.19.1644775:6823-6824	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000587	Canada	1_VOA_EN_NW_2013.04.19.1644775:7216-7221	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000588	Reuters	1_VOA_EN_NW_2013.04.19.1644775:9577-9583	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000589	Canada	1_VOA_EN_NW_2013.04.19.1644775:13032-13037	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000590	Reuters	1_VOA_EN_NW_2013.04.19.1644775:13837-13843	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000591	the United States	1_VOA_EN_NW_2013.04.19.1644775:14047-14063	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000593	the United States	1_VOA_EN_NW_2013.04.19.1644775:17017-17033	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000595	Washington	1_VOA_EN_NW_2013.04.19.1644775:18706-18715	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000596	Reuters	1_VOA_EN_NW_2013.04.19.1644775:18971-18977	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000597	White House	1_VOA_EN_NW_2013.04.19.1644775:19176-19186	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000598	White House	1_VOA_EN_NW_2013.04.19.1644775:19219-19229	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000599	Reuters	1_VOA_EN_NW_2013.04.19.1644775:20052-20058	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000600	Washington	1_VOA_EN_NW_2013.04.19.1644775:22004-22013	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000601	White House	1_VOA_EN_NW_2013.04.19.1644775:22095-22105	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000602	AP	1_VOA_EN_NW_2013.04.19.1644775:22533-22534	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000603	Associated Press	1_VOA_EN_NW_2013.04.19.1644775:22630-22645	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000604	AP	1_VOA_EN_NW_2013.04.19.1644775:22651-22652	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000605	New York	49_VOA_EN_NW_2015.04.15.2720171:253-260	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000606	New York	49_VOA_EN_NW_2015.04.15.2720171:1277-1284	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000607	New York	49_VOA_EN_NW_2015.04.15.2720171:1488-1495	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000608	New York	backpack_ied_0:2009-2016	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000610	United States	backpack_ied_0:6522-6534	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000611	the United States	backpack_ied_0:6798-6814	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000613	New York	backpack_ied_0:8004-8011	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000614	New York	backpack_ied_0:8153-8160	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000616	New York	backpack_ied_0:10392-10399	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000619	the United States	backpack_ied_0:14450-14466	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000621	National Guard	backpack_ied_0:15479-15492	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000624	Washington	backpack_ied_0:17991-18000	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000625	United States	backpack_ied_0:18913-18925	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000626	Miranda	backpack_ied_0:19682-19688	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000627	Miranda	backpack_ied_0:19755-19761	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000628	Miranda	backpack_ied_0:20000-20006	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000629	the United States	backpack_ied_0:20208-20224	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000632	Defense	backpack_ied_0:22297-22303	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000633	the United States	backpack_ied_0:23456-23472	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000635	Fox	backpack_ied_0:24656-24658	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000636	the United States	backpack_ied_0:27015-27031	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000638	the United States	backpack_ied_0:27415-27431	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000640	New York	backpack_ied_0:30135-30142	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000641	Florida	backpack_ied_0:31897-31903	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000642	New York	backpack_ied_0:32058-32065	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000643	the United States	backpack_ied_0:34229-34245	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000645	United States	backpack_ied_0:35102-35114	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000646	New York	backpack_ied_0:39825-39832	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000647	National Guard	backpack_ied_0:42337-42350	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000648	New York	backpack_ied_0:45268-45275	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000649	New York	backpack_ied_0:45917-45924	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000650	the United States	backpack_ied_0:48795-48811	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000652	the United States	backpack_ied_0:51359-51375	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000654	the United States	backpack_ied_0:51640-51656	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000656	New York	backpack_ied_0:53639-53646	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000657	New York	backpack_ied_0:55138-55145	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000658	New York	backpack_ied_0:55669-55676	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000659	New York	backpack_ied_0:56097-56104	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000660	Venezuelan	scenario_en_113:4-13	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000661	Tarek William Saab	scenario_en_113:32-49	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000662	Nicolás Maduro	scenario_en_113:146-159	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000664	Juan Requesens	scenario_en_113:619-632	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000666	National Guard	scenario_en_113:676-689	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000667	Juan Requesens	scenario_en_113:987-1000	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000669	Juan Requesens	scenario_en_113:1156-1169	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000671	Venezuela	scenario_en_113:1327-1335	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000672	Nicolas Maduro	scenario_en_113:1351-1364	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000674	National Guard	scenario_en_113:1473-1486	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000675	Caracas	scenario_en_113:1505-1511	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000676	Venezuelan	scenario_en_113:1602-1611	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000677	Colombian	scenario_en_113:1635-1643	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000678	Juan Manuel Santos	scenario_en_113:1677-1694	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000680	Maduro	scenario_en_113:1722-1727	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000681	the United States	scenario_en_113:1768-1784	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000683	Florida	scenario_en_113:1868-1874	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000684	Maduro	scenario_en_113:1974-1979	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000685	Venezuelan	scenario_en_112:97-106	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000686	Colombia	scenario_en_112:157-164	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000687	Nicolas Maduro	scenario_en_112:216-229	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000689	Maduro	scenario_en_112:349-354	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000690	Miami	scenario_en_112:435-439	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000691	Colombian	scenario_en_112:463-471	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000692	Maduro	scenario_en_112:480-485	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000693	Maduro	scenario_en_112:715-720	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000694	Maduro	scenario_en_112:798-803	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000695	Caracas	scenario_en_112:842-848	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000696	Bogota	scenario_en_112:970-975	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000697	Venezuelan	scenario_en_112:1192-1201	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000698	Maduro	scenario_en_112:1303-1308	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000699	Delgado	scenario_en_112:1632-1638	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000700	Venezuelan	scenario_en_112:1644-1653	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000701	Miami	scenario_en_112:1665-1669	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000702	Delgado	scenario_en_112:1723-1729	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000703	Venezuelan	scenario_en_112:3086-3095	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000704	Bogota	scenario_en_112:3532-3537	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000705	Venezuela	scenario_en_112:3596-3604	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000706	Juan Requesens	scenario_en_112:4197-4210	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000708	Juan Requesens	scenario_en_112:4341-4354	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000710	Requesens	scenario_en_112:4455-4463	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000711	Latin America	scenario_en_112:4864-4876	NIL	LOC	NAM	1.0
+Gazetterr	GAZ_0000712	Julio Borges	scenario_en_112:4944-4955	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000714	Venezuela	scenario_en_112:4978-4986	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000715	Colombia	scenario_en_112:5032-5039	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000716	Borges	scenario_en_112:5061-5066	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000717	Oscar Perez	scenario_en_112:5495-5505	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000718	Venezuelans	scenario_en_112:5579-5589	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000719	AP	scenario_en_kairos_9:17-18	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000720	Associated Press	scenario_en_kairos_9:764-779	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000721	the United States	36_VOA_EN_NW_2013.04.25.1648496:2544-2560	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000723	Defense	33_VOA_EN_NW_2014.12.18.2564370:42-48	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000724	Florida	33_VOA_EN_NW_2014.12.18.2564370:2082-2088	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000725	the United States	33_VOA_EN_NW_2014.12.18.2564370:2856-2872	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000727	the United States	41_VOA_EN_NW_2013.05.03.1653704:289-305	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000729	New York	41_VOA_EN_NW_2013.05.03.1653704:576-583	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000730	AP	41_VOA_EN_NW_2013.05.03.1653704:1847-1848	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000731	New York	scenario_en_kairos_39:1099-1106	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000732	Miami	scenario_en_kairos_39:1415-1419	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000734	Venezuela	scenario_en_64:1441-1449	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000735	Maduro	scenario_en_64:1713-1718	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000736	Diosdado Cabello	scenario_en_64:1962-1977	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000737	ANC	scenario_en_64:2501-2503	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000738	Maduro	scenario_en_64:2641-2646	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000739	Néstor Reverol	scenario_en_64:2686-2699	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000741	Maduro	scenario_en_64:2986-2991	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000742	Constituyente	scenario_en_64:3024-3036	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000743	Colombian	scenario_en_64:3608-3616	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000744	Táchira	scenario_en_64:3676-3682	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000745	the United States	52_VOA_EN_NW_2013.04.20.1645543:1509-1525	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000747	White House	52_VOA_EN_NW_2013.04.20.1645543:1919-1929	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000748	Venezuela	scenario_en_121:196-204	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000749	Tarek William Saab	scenario_en_121:229-246	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000750	Nicolas Maduro	scenario_en_121:368-381	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000752	Colombia	scenario_en_121:738-745	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000753	the United States	scenario_en_121:751-767	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000755	Venezuela	scenario_en_121:826-834	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000756	Maduro	scenario_en_121:1033-1038	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000757	Caracas	scenario_en_121:1092-1098	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000758	Venezuelan	scenario_en_121:1121-1130	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000759	John Bolton	scenario_en_121:1228-1238	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000760	Colombian	scenario_en_121:1485-1493	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000761	Venezuelan	scenario_en_121:1568-1577	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000762	Associated Press	wiki_mass_car_bombings_1_news_10:330-345	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000763	Associated Press	wiki_mass_car_bombings_1_news_10:708-723	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000764	New York	wiki_mass_car_bombings_1_news_10:1055-1062	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000765	Interior	wiki_mass_car_bombings_1_news_10:1397-1404	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000766	Donald Trump	wiki_mass_car_bombings_1_news_10:2289-2300	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000768	Venezuela	K0C041O37:48-56	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000769	Venezuela	K0C041O37:267-275	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000770	Venezuelan	K0C041O37:296-305	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000771	Nicolás Maduro	K0C041O37:396-409	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000773	Maduro	K0C041O37:643-648	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000774	AP	K0C041O37:832-833	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000775	Maduro	K0C041O37:1273-1278	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000776	Caracas	K0C041O37:1377-1383	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000777	Venezuelan	K0C041O37:1513-1522	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000778	Venezuela	K0C041O37:2411-2419	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000779	Nestor Reverol	K0C041O37:2445-2458	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000781	Venezuelan	K0C041O37:2690-2699	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000782	Reverol	K0C041O37:2771-2777	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000783	Maduro	K0C041O37:3449-3454	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000784	Maduro	K0C041O37:3630-3635	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000785	Venezuelan	K0C041O37:4003-4012	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000786	Venezuelan	K0C041O37:4213-4222	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000787	Venezuelan	scenario_en_85:768-777	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000788	CNE	scenario_en_85:1347-1349	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000789	CNE	scenario_en_85:1723-1725	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000790	Donald Trump	wiki_drone_strikes_2_news_2:1117-1128	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000792	New York	18_VOA_EN_NW_2016.09.21.3518065:122-129	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000793	New York	18_VOA_EN_NW_2016.09.21.3518065:1085-1092	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000794	New York	18_VOA_EN_NW_2016.09.21.3518065:1659-1666	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000795	New York	29_VOA_EN_NW_2013.05.03.1653833:1526-1533	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000796	White House	46_VOA_EN_NW_2013.04.22.1646780:1187-1197	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000797	United States	46_VOA_EN_NW_2013.04.22.1646780:1599-1611	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000798	AP	rare_event_sentences_11:1029-1030	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000799	Reuters	rare_event_sentences_11:1313-1319	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000800	Defense	rare_event_sentences_11:2901-2907	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000801	the United States	rare_event_sentences_11:14482-14498	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000804	Venezuela	scenario_en_67:0-8	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000805	Sputnik	scenario_en_67:301-307	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000806	Venezuelan	scenario_en_67:313-322	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000807	Nicolas Maduro	scenario_en_67:334-347	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000809	Venezuelan	scenario_en_67:862-871	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000810	Venezuela	scenario_en_67:1177-1185	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000811	Venezuelan	scenario_en_67:1261-1270	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000812	United States	scenario_en_67:1597-1609	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000813	Venezuela	scenario_en_67:1636-1644	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000814	Maduro	scenario_en_67:1697-1702	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000815	Associated Press	road_ied_11:365-380	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000816	Reuters	road_ied_11:605-611	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000817	Canada	scenario_en_kairos_46:209-214	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000818	Associated Press	scenario_en_kairos_46:1116-1131	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000819	Canada	scenario_en_kairos_46:1842-1847	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000820	Canada	scenario_en_kairos_65:1032-1037	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000821	New York	40_VOA_EN_NW_2015.04.03.2705423:173-180	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000822	New York	40_VOA_EN_NW_2015.04.03.2705423:1362-1369	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000823	New York	40_VOA_EN_NW_2015.04.03.2705423:1531-1538	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000824	New York	40_VOA_EN_NW_2015.04.03.2705423:3021-3028	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000825	Canada	40_VOA_EN_NW_2015.04.03.2705423:4372-4377	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000826	Canada	40_VOA_EN_NW_2015.04.03.2705423:4491-4496	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000827	Reuters	37_VOA_EN_NW_2013.05.16.1662343:707-713	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000828	the United States	37_VOA_EN_NW_2013.05.16.1662343:1984-2000	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000830	Defense	K0C047Z59:4350-4356	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000831	Washington	K0C047Z59:4389-4398	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000832	Washington	K0C047Z59:4783-4792	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000833	Washington	K0C047Z59:6111-6120	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000835	Florida	503_transportation_evacuation:68-74	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000836	the United States	95_VOA_EN_NW_2017.03.24.3780056:1470-1486	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000838	the United States	95_VOA_EN_NW_2017.03.24.3780056:5684-5700	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000840	New York	95_VOA_EN_NW_2017.03.24.3780056:5743-5750	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000841	the United States	95_VOA_EN_NW_2017.03.24.3780056:6323-6339	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000843	Interior	suicide_ied_105:3435-3442	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000844	Interior	suicide_ied_105:10612-10619	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000845	Washington	11_VOA_EN_NW_2013.04.27.1650105:1490-1499	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000846	Associated Press	11_VOA_EN_NW_2013.04.27.1650105:1764-1779	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000847	New York	11_VOA_EN_NW_2013.04.27.1650105:2180-2187	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000848	New York	11_VOA_EN_NW_2013.04.27.1650105:2300-2307	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000849	New York	11_VOA_EN_NW_2013.04.27.1650105:2390-2397	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000850	Miami	802_transportation_unspecified:136-140	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000851	White House	wiki_drone_strikes_0_news_1:1184-1194	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000852	Florida	516_transportation_evacuation:44-50	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000853	New York	94_transportation_unspecified:86-93	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000854	the United States	scenario_en_kairos_2:60-76	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000856	the United States	scenario_en_kairos_2:127-143	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000858	the United States	scenario_en_kairos_2:285-301	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000860	Defense	scenario_en_kairos_2:333-339	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000861	the United States	scenario_en_kairos_2:354-370	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000863	Florida	511_transportation_evacuation:72-78	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000864	the United States	54_VOA_EN_NW_2015.04.09.2712588:1976-1992	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000866	Defense	54_VOA_EN_NW_2015.04.09.2712588:2321-2327	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000867	Associated Press	54_VOA_EN_NW_2015.04.09.2712588:4104-4119	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000868	AP	54_VOA_EN_NW_2015.04.09.2712588:4618-4619	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000869	Reuters	54_VOA_EN_NW_2015.04.09.2712588:4625-4631	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000870	Canada	scenario_en_kairos_34:64-69	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000871	Canada	scenario_en_kairos_34:978-983	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000872	United States	rare_event_sentences_15:7502-7514	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000873	Spain	rare_event_sentences_15:9935-9939	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000874	United States	rare_event_sentences_15:12860-12872	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000875	New York	rare_event_sentences_15:14501-14508	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000876	Venezuelan	scenario_en_123:32-41	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000877	Nicolas Maduro	scenario_en_123:122-135	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000879	Maduro	scenario_en_123:253-258	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000880	Venezuelan	scenario_en_123:316-325	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000881	Venezuelan	scenario_en_123:399-408	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000882	Maduro	scenario_en_123:661-666	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000883	Venezuelan	scenario_en_123:854-863	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000884	Caracas	scenario_en_123:1119-1125	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000885	Venezuelan	scenario_en_123:1155-1164	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000886	Venezuelan	scenario_en_123:1205-1214	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000887	Reuters	scenario_en_123:1287-1293	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000888	Bogota	scenario_en_123:1298-1303	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000889	Colombia	scenario_en_123:1307-1314	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000890	Venezuelan	scenario_en_123:1333-1342	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000891	Reuters	scenario_en_123:1415-1421	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000892	Bogota	scenario_en_123:1426-1431	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000893	Colombia	scenario_en_123:1435-1442	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000894	Reuters	scenario_en_123:1529-1535	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000895	Maduro	scenario_en_123:1592-1597	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000896	Maduro	scenario_en_123:1620-1625	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000897	National Guard	scenario_en_123:1673-1686	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000898	Caracas	scenario_en_123:1699-1705	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000899	Venezuela	scenario_en_123:1930-1938	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000900	Venezuela	scenario_en_123:2592-2600	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000901	Venezuelan	scenario_en_123:2754-2763	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000902	Maduro	scenario_en_123:2955-2960	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000903	Reuters	scenario_en_123:3073-3079	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000904	Venezuelan	scenario_en_123:3112-3121	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000905	Colombia	scenario_en_123:3167-3174	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000906	Maduro	scenario_en_123:3193-3198	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000907	Venezuelan	scenario_en_123:3251-3260	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000908	Miami	scenario_en_123:3385-3389	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000909	Venezuela	scenario_en_123:3439-3447	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000910	Julio Borges	scenario_en_123:3747-3758	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000912	Venezuelan	scenario_en_123:3779-3788	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000913	Julio Borges	scenario_en_123:3799-3810	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000915	Venezuelan	scenario_en_123:3831-3840	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000916	Colombia	scenario_en_123:3912-3919	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000917	Bogota	scenario_en_123:3953-3958	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000918	Colombia	scenario_en_123:3962-3969	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000919	Julio Borges	scenario_en_123:3990-4001	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000921	Venezuelan	scenario_en_123:4022-4031	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000922	Colombia	scenario_en_123:4103-4110	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000923	Bogota	scenario_en_123:4144-4149	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000924	Colombia	scenario_en_123:4153-4160	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000925	Maduro	scenario_en_123:4185-4190	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000926	Julio Borges	scenario_en_123:4397-4408	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000928	Colombia	scenario_en_123:4422-4429	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000929	Oscar Perez	scenario_en_123:4507-4517	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000930	Venezuela	scenario_en_123:4544-4552	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000931	Maduro	scenario_en_123:4722-4727	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000932	Maduro	scenario_en_123:4801-4806	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000933	Maduro	scenario_en_123:4912-4917	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000934	Caracas	scenario_en_123:4962-4968	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000935	Maduro	scenario_en_123:5032-5037	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000936	Caracas	scenario_en_123:5179-5185	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000937	Maduro	scenario_en_123:5302-5307	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000938	New York	83_damagedestroydisabledismantle_damage:0-7	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000939	New York	83_damagedestroydisabledismantle_damage:86-93	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000940	Miami	86_demonstrate_unspecified:128-132	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000941	Florida	86_demonstrate_unspecified:136-142	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000942	the United States	2_VOA_EN_NW_2015.01.04.2583337:10377-10393	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000944	the United States	2_VOA_EN_NW_2015.01.04.2583337:10656-10672	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000946	the United States	2_VOA_EN_NW_2015.01.04.2583337:12760-12776	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000948	United States	2_VOA_EN_NW_2015.01.04.2583337:18596-18608	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000949	Defense	2_VOA_EN_NW_2015.01.04.2583337:19555-19561	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000950	the United States	2_VOA_EN_NW_2015.01.04.2583337:20369-20385	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000952	the United States	2_VOA_EN_NW_2015.01.04.2583337:20524-20540	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000954	AP	23_VOA_EN_NW_2015.11.24.3071320:4486-4487	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000955	Defense	wiki_mass_car_bombings_1_news_8:870-876	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000957	Washington	wiki_mass_car_bombings_1_news_8:3069-3078	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000958	Washington	wiki_mass_car_bombings_1_news_8:3759-3768	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000959	Washington	wiki_mass_car_bombings_1_news_8:4001-4010	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000960	Americas	scenario_en_kairos_49:1269-1276	NIL	LOC	NAM	1.0
+Gazetterr	GAZ_0000961	New York	scenario_en_kairos_49:1604-1611	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000963	Miami	suicide_ied_1:288-292	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000964	Florida	suicide_ied_1:340-346	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000968	New York	suicide_ied_1:3055-3062	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000969	Miami	suicide_ied_1:3956-3960	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000970	Canada	suicide_ied_1:4538-4543	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000972	Interior	scenario_en_kairos_60:2083-2090	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000973	Reuters	scenario_en_kairos_60:3147-3153	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000974	Venezuela	scenario_en_26:97-105	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000975	Miami	scenario_en_26:259-263	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000976	Venezuelan	scenario_en_26:381-390	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000977	Caracas	scenario_en_26:426-432	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000978	Venezuela	scenario_en_26:731-739	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000979	Venezuelan	scenario_en_26:1094-1103	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000980	Aragua	scenario_en_26:1367-1372	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000981	Venezuelan	scenario_en_26:1555-1564	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000982	Venezuela	scenario_en_26:1959-1967	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000983	Aragua	scenario_en_26:2006-2011	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000984	Venezuela	scenario_en_26:2483-2491	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000985	Venezuela	scenario_en_26:2714-2722	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000986	Venezuelan	scenario_en_26:3752-3761	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000987	Venezuela	scenario_en_26:3842-3850	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000988	Venezuela	scenario_en_26:3967-3975	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000989	Venezuelan	scenario_en_26:4031-4040	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000990	Nicolas Maduro	scenario_en_26:4052-4065	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0000992	Defense	22_VOA_EN_NW_2015.03.05.2668545:590-596	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000993	AP	22_VOA_EN_NW_2015.03.05.2668545:3088-3089	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000994	Reuters	22_VOA_EN_NW_2015.03.05.2668545:3101-3107	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000995	Washington	101_transportation_unspecified:0-9	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000996	the United States	7_VOA_EN_NW_2017.03.07.3753687:530-546	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0000998	Washington	7_VOA_EN_NW_2017.03.07.3753687:5774-5783	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0000999	the United States	7_VOA_EN_NW_2017.03.07.3753687:6556-6572	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001001	Donald Trump	7_VOA_EN_NW_2017.03.07.3753687:6669-6680	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001003	the United States	7_VOA_EN_NW_2017.03.07.3753687:7234-7250	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001005	Donald Trump	7_VOA_EN_NW_2017.03.07.3753687:7347-7358	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001007	Venezuela	scenario_en_29:228-236	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001008	Venezuela	scenario_en_29:674-682	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001009	Nicolás Maduro	scenario_en_29:878-891	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001011	Maduro	scenario_en_29:1009-1014	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001012	Cilia Flores	scenario_en_29:1489-1500	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001013	Maduro	scenario_en_29:1504-1509	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001014	Venezuela	scenario_en_29:1766-1774	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001015	Venezuela	scenario_en_29:2167-2175	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001016	Tibisay Lucena	scenario_en_29:2377-2390	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001017	Reuters	scenario_en_29:2662-2668	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001018	Venezuelan	scenario_en_29:3045-3054	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001019	Maduro	scenario_en_29:3140-3145	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001020	Venezuelan	scenario_en_29:3214-3223	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001021	Julio Borges	scenario_en_29:3840-3851	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001023	Maduro	scenario_en_29:4038-4043	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001024	Venezuela	scenario_en_29:4251-4259	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001025	Maduro	scenario_en_29:4381-4386	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001026	Maduro	scenario_en_29:4903-4908	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001027	Venezuela	scenario_en_29:4912-4920	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001028	Maduro	scenario_en_29:4924-4929	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001029	Venezuelan	scenario_en_29:5426-5435	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001030	Venezuela	scenario_en_29:5575-5583	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001031	Caracas	scenario_en_29:5778-5784	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001032	Venezuela	scenario_en_29:5821-5829	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001033	Caracas	scenario_en_29:6023-6029	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001034	White House	48_VOA_EN_NW_2013.04.15.1641943:3600-3610	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001035	White House	48_VOA_EN_NW_2013.04.15.1641943:4414-4424	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001036	White House	48_VOA_EN_NW_2013.04.15.1641943:5303-5313	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001037	Associated Press	48_VOA_EN_NW_2013.04.15.1641943:6280-6295	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001038	AP	48_VOA_EN_NW_2013.04.15.1641943:6301-6302	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001039	White House	48_VOA_EN_NW_2013.04.15.1641943:8810-8820	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001040	New York	48_VOA_EN_NW_2013.04.15.1641943:10442-10449	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001041	New York	48_VOA_EN_NW_2013.04.15.1641943:10535-10542	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001042	New York	48_VOA_EN_NW_2013.04.15.1641943:12427-12434	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001043	Defense	road_ied_0:3357-3363	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001044	Defense	27_VOA_EN_NW_2015.04.06.2708308:50-56	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001045	Defense	27_VOA_EN_NW_2015.04.06.2708308:803-809	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001046	the United States	27_VOA_EN_NW_2015.04.06.2708308:2612-2628	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001048	Washington	backpack_ied_20:882-891	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001049	New York	backpack_ied_20:1195-1202	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001050	Washington	backpack_ied_20:2310-2319	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001051	New York	backpack_ied_20:2764-2771	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001052	Washington	backpack_ied_20:2852-2861	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001053	White House	backpack_ied_20:2986-2996	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001054	the United States	backpack_ied_20:3697-3713	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001056	the United States	backpack_ied_20:3748-3764	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001058	New York	wiki_drone_strikes_2_news_11:542-549	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001059	the United States	wiki_drone_strikes_2_news_11:3073-3089	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001061	the United States	wiki_drone_strikes_2_news_11:3937-3953	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001063	Washington	scenario_en_kairos_50:874-883	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001065	Reuters	scenario_en_kairos_43:10-16	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001066	Canada	scenario_en_kairos_43:1770-1775	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001067	Washington	wiki_drone_strikes_0_news_9:1274-1283	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001068	Washington	wiki_drone_strikes_0_news_9:2847-2856	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001069	Interior	scenario_en_kairos_94:219-226	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001070	Interior	scenario_en_kairos_94:668-675	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001071	AP	scenario_en_kairos_94:4855-4856	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001072	Reuters	scenario_en_kairos_94:4866-4872	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001075	White House	wiki_drone_strikes_2_news_3:118-128	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001076	Donald Trump	wiki_drone_strikes_2_news_3:181-192	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001078	Canada	wiki_drone_strikes_2_news_3:5275-5280	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001079	Venezuela	K0C0448WJ:0-8	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001080	Maduro	K0C0448WJ:19-24	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001081	Venezuela	K0C0448WJ:67-75	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001082	Nicolás Maduro	K0C0448WJ:230-243	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001084	Colombia	K0C0448WJ:350-357	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001085	Caribbean	K0C0448WJ:367-375	NIL	LOC	NAM	1.0
+Gazetterr	GAZ_0001086	Venezuela	K0C0448WJ:440-448	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001087	Venezuela	K0C0448WJ:1009-1017	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001088	Venezuela	K0C0448WJ:1085-1093	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001089	Nicolás Maduro	K0C0448WJ:1449-1462	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001091	Venezuela	K0C0448WJ:1750-1758	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001092	Maduro	K0C0448WJ:2108-2113	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001093	Maduro	K0C0448WJ:2395-2400	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001094	Venezuela	K0C0448WJ:2746-2754	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001095	Venezuelans	K0C0448WJ:2882-2892	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001096	Colombia	K0C0448WJ:3105-3112	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001097	Venezuelans	K0C0448WJ:3251-3261	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001098	Colombia	K0C0448WJ:3286-3293	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001099	Caribbean	K0C0448WJ:3377-3385	NIL	LOC	NAM	1.0
+Gazetterr	GAZ_0001100	New York	scenario_en_kairos_37:953-960	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001101	New York	scenario_en_kairos_37:1000-1007	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001102	New York	scenario_en_kairos_37:1137-1144	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001103	New York	wiki_drone_strikes_0_news_10:136-143	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001104	New York	wiki_drone_strikes_0_news_10:388-395	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001105	New York	wiki_drone_strikes_0_news_10:4882-4889	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001106	Reuters	wiki_drone_strikes_0_news_10:4899-4905	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001107	AP	wiki_drone_strikes_0_news_10:4909-4910	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001108	AP	wiki_drone_strikes_0_news_10:9030-9031	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001109	AP	wiki_drone_strikes_0_news_10:9274-9275	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001110	the United States	wiki_drone_strikes_0_news_10:11618-11634	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001112	the United States	suicide_ied_106:122-138	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001117	Reuters	wiki_mass_car_bombings_1_news_9:3899-3905	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001118	Venezuelan	K0C041O3D:279-288	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001119	Nicolás Maduro	K0C041O3D:300-313	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001121	Venezuelan	K0C041O3D:473-482	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001122	Maduro	K0C041O3D:575-580	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001123	Venezuelan	K0C041O3D:602-611	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001124	Nicolás Maduro	K0C041O3D:1431-1444	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001126	Venezuela	K0C041O3D:1449-1457	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001127	Maduro	K0C041O3D:1699-1704	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001128	Venezuela	K0C041O3D:1714-1722	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001129	Colombia	K0C041O3D:1759-1766	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001130	Juan Manuel Santos	K0C041O3D:1817-1834	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001132	Venezuelan	K0C041O3D:1880-1889	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001133	Venezuela	K0C041O3D:2099-2107	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001134	National Guard	K0C041O3D:2905-2918	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001135	Caracas	K0C041O3D:2942-2948	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001136	Mr Maduro	K0C041O3D:3165-3173	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001138	National Guard	K0C041O3D:3218-3231	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001139	Maduro	K0C041O3D:3305-3310	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001140	Spain	scenario_en_kairos_36:600-604	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001141	the United States	scenario_en_kairos_36:1652-1668	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001143	Florida	508_requestcommand_broadcast:48-54	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001144	Reuters	scenario_en_kairos_55:879-885	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001145	Interior	scenario_en_kairos_55:2052-2059	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001146	Washington	rare_event_sentences_14:161-170	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001147	the United States	rare_event_sentences_14:217-233	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001149	Washington	rare_event_sentences_14:2625-2634	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001150	the United States	rare_event_sentences_14:2681-2697	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001152	New York	rare_event_sentences_14:11307-11314	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001153	New York	rare_event_sentences_14:12344-12351	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001154	Washington	rare_event_sentences_14:15092-15101	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001155	Colombian	rare_event_sentences_14:16869-16877	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001156	AP	rare_event_sentences_14:16934-16935	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001157	Defense	94_VOA_EN_NW_2015.05.10.2760333:1472-1478	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001158	Washington	94_VOA_EN_NW_2015.05.10.2760333:1766-1775	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001159	the United States	94_VOA_EN_NW_2015.05.10.2760333:6784-6800	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001161	Washington	94_VOA_EN_NW_2015.05.10.2760333:8012-8021	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001162	Reuters	scenario_en_kairos_52:2-8	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001163	Estados Unidos	803_transportation_unspecified:38-51	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001164	Bogotá	wiki_mass_car_bombings_0_article:96-101	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001165	Colombia	wiki_mass_car_bombings_0_article:105-112	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001166	Colombia	wiki_mass_car_bombings_0_article:292-299	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001167	Colombian	wiki_mass_car_bombings_0_article:377-385	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001168	Colombian	wiki_mass_car_bombings_0_article:652-660	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001169	Colombian	wiki_mass_car_bombings_0_article:728-736	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001170	Colombian	wiki_mass_car_bombings_0_article:755-763	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001171	Bogotá	wiki_mass_car_bombings_0_article:1041-1046	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001172	Colombia	wiki_mass_car_bombings_0_article:1162-1169	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001173	Colombia	wiki_mass_car_bombings_0_article:1276-1283	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001174	Colombian	wiki_mass_car_bombings_0_article:1847-1855	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001175	Colombian	wiki_mass_car_bombings_0_article:1925-1933	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001176	Colombian	wiki_mass_car_bombings_0_article:2203-2211	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001177	Colombian	wiki_mass_car_bombings_0_article:2335-2343	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001178	Venezuela	wiki_mass_car_bombings_0_article:2562-2570	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001179	Venezuela	wiki_mass_car_bombings_0_article:2659-2667	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001180	Colombia	wiki_mass_car_bombings_0_article:2758-2765	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001181	Venezuelan	wiki_mass_car_bombings_0_article:3060-3069	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001182	Colombia	wiki_mass_car_bombings_0_article:3098-3105	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001183	Venezuela	wiki_mass_car_bombings_0_article:3109-3117	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001184	Venezuela	wiki_mass_car_bombings_0_article:3145-3153	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001185	Venezuelan	wiki_mass_car_bombings_0_article:3222-3231	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001186	Nicolás Maduro	wiki_mass_car_bombings_0_article:3243-3256	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001188	Venezuela	wiki_mass_car_bombings_0_article:3323-3331	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001189	Maduro	wiki_mass_car_bombings_0_article:3356-3361	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001190	Venezuelan	wiki_mass_car_bombings_0_article:3454-3463	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001191	Venezuelan	wiki_mass_car_bombings_0_article:3494-3503	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001192	Rodríguez	wiki_mass_car_bombings_0_article:3643-3651	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001193	Venezuela	wiki_mass_car_bombings_0_article:4005-4013	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001194	Colombian	wiki_mass_car_bombings_0_article:4254-4262	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001195	Colombian	wiki_mass_car_bombings_0_article:4336-4344	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001197	Colombia	wiki_mass_car_bombings_0_article:4590-4597	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001198	Venezuela	wiki_mass_car_bombings_0_article:4603-4611	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001200	Rodríguez	wiki_mass_car_bombings_0_article:5773-5781	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001201	Bogotá	wiki_mass_car_bombings_0_article:6093-6098	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001202	Colombian	wiki_mass_car_bombings_0_article:6508-6516	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001203	Bogotá	wiki_mass_car_bombings_0_article:6575-6580	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001204	Iván Duque	wiki_mass_car_bombings_0_article:6847-6856	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001205	Colombia	wiki_mass_car_bombings_0_article:6936-6943	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001206	Venezuela	wiki_mass_car_bombings_0_article:7173-7181	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001207	Colombia	wiki_mass_car_bombings_0_article:7223-7230	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001208	Venezuela	wiki_mass_car_bombings_0_article:7234-7242	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001209	Venezuela	wiki_mass_car_bombings_0_article:7458-7466	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001210	Diosdado Cabello	wiki_mass_car_bombings_0_article:7470-7485	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001211	Venezuelan	wiki_mass_car_bombings_0_article:7500-7509	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001212	Colombian	wiki_mass_car_bombings_0_article:7570-7578	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001213	Nicolás Maduro	wiki_mass_car_bombings_0_article:7678-7691	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001215	Venezuela	wiki_mass_car_bombings_0_article:7696-7704	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001216	Venezuela	wiki_mass_car_bombings_0_article:7740-7748	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001217	Colombian	wiki_mass_car_bombings_0_article:7794-7802	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001218	Venezuelan	wiki_mass_car_bombings_0_article:7825-7834	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001219	Venezuela	wiki_mass_car_bombings_0_article:7890-7898	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001220	Maduro	wiki_mass_car_bombings_0_article:7958-7963	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001221	Colombian	wiki_mass_car_bombings_0_article:8177-8185	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001222	the United States	wiki_mass_car_bombings_0_article:8714-8730	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001224	Colombia	wiki_mass_car_bombings_0_article:8928-8935	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001225	Colombia	wiki_mass_car_bombings_0_article:9300-9307	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001226	Bogotá	wiki_mass_car_bombings_0_article:9386-9391	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001227	Bogotá	wiki_mass_car_bombings_0_article:9467-9472	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001228	United States	wiki_mass_car_bombings_0_article:9597-9609	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001229	Bogotá	wiki_mass_car_bombings_0_article:9845-9850	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001230	Venezuela	wiki_mass_car_bombings_0_article:9946-9954	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001231	Washington	K0C03N4MW:1157-1166	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001232	Washington	K0C03N4MW:1479-1488	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001233	Washington	JC002YBW2:2935-2944	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001234	the United States	JC002YBW2:4915-4931	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001236	Bogotá	wiki_mass_car_bombings_0_news_8:0-5	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001237	Colombia	wiki_mass_car_bombings_0_news_8:18-25	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001238	Reuters	wiki_mass_car_bombings_0_news_8:117-123	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001239	Colombian	wiki_mass_car_bombings_0_news_8:190-198	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001240	Colombia	wiki_mass_car_bombings_0_news_8:208-215	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001241	Bogotá	wiki_mass_car_bombings_0_news_8:350-355	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001242	Rodríguez	wiki_mass_car_bombings_0_news_8:889-897	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001243	Venezuela	wiki_mass_car_bombings_0_news_8:1225-1233	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001244	Bogotá	wiki_mass_car_bombings_0_news_8:1507-1512	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001245	Bogotá	wiki_mass_car_bombings_0_news_8:1619-1624	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001246	Colombia	wiki_mass_car_bombings_0_news_8:1986-1993	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001248	Bogotá	wiki_mass_car_bombings_0_news_8:2332-2337	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001249	Colombia	wiki_mass_car_bombings_0_news_8:2638-2645	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001250	Colombian	wiki_mass_car_bombings_0_news_8:3140-3148	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001251	Colombia	wiki_mass_car_bombings_0_news_8:3257-3264	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001252	Colombia	wiki_mass_car_bombings_0_news_8:3634-3641	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001253	Colombian	wiki_mass_car_bombings_0_news_8:3720-3728	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001254	Colombia	wiki_mass_car_bombings_0_news_8:3801-3808	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001255	Bogotá	wiki_mass_car_bombings_0_news_8:3918-3923	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001256	Colombia	wiki_mass_car_bombings_0_news_8:3970-3977	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001257	Miranda	wiki_mass_car_bombings_0_news_8:3999-4005	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001258	Colombia	wiki_mass_car_bombings_0_news_8:4017-4024	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001259	Juan Manuel Santos	wiki_mass_car_bombings_0_news_8:4539-4556	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001261	Bogota	wiki_mass_car_bombings_0_news_8:4678-4683	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001262	Colombia	wiki_mass_car_bombings_0_news_8:4685-4692	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001263	Colombia	wiki_mass_car_bombings_0_news_10:8-15	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001264	Bogota	wiki_mass_car_bombings_0_news_10:129-134	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001265	Colombian	wiki_mass_car_bombings_0_news_10:514-522	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001266	Colombia	wiki_mass_car_bombings_0_news_10:771-778	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001267	United States	96_demonstrate_unspecified:190-202	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001268	Colombia	wiki_mass_car_bombings_0_news_9:15-22	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001269	Bogota	wiki_mass_car_bombings_0_news_9:66-71	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001270	Colombia	wiki_mass_car_bombings_0_news_9:121-128	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001271	Bogota	wiki_mass_car_bombings_0_news_9:287-292	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001272	Colombia	wiki_mass_car_bombings_0_news_9:706-713	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001273	Bogota	wiki_mass_car_bombings_0_news_9:777-782	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001274	Colombia	wiki_mass_car_bombings_0_news_9:1561-1568	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001275	Bogota	wiki_mass_car_bombings_0_news_9:1736-1741	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001276	Colombia	wiki_mass_car_bombings_0_news_9:1914-1921	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001277	Juan Manuel Santos	wiki_mass_car_bombings_0_news_9:2025-2042	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001279	Colombia	wiki_mass_car_bombings_0_news_9:2082-2089	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001280	Santos	wiki_mass_car_bombings_0_news_9:2413-2418	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001281	Associated Press	JC002YBVZ:388-403	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001282	New York	JC002YBVZ:441-448	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001283	Associated Press	JC002YBVZ:2308-2323	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001284	White House	JC002YBVZ:4351-4361	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001285	Associated Press	JC002YBVZ:5719-5734	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001286	Nicolás Maduro	scenario_en_6:0-13	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001288	Venezuela	scenario_en_6:54-62	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001289	Venezuelan	scenario_en_6:86-95	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001290	Nicolás Maduro	scenario_en_6:107-120	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001292	Venezuela	scenario_en_6:308-316	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001293	Maduro	scenario_en_6:363-368	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001294	World Health Organization	scenario_en_6:576-600	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001295	Maracay	scenario_en_6:744-750	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001296	Maracay	scenario_en_6:862-868	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001297	Caracas	scenario_en_6:911-917	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001298	Angel Sarmiento	scenario_en_6:1059-1073	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001300	Aragua	scenario_en_6:1117-1122	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001301	Sarmiento	scenario_en_6:1435-1443	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001302	Aragua	scenario_en_6:1497-1502	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001303	Tareck El Aissami	scenario_en_6:1506-1522	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001304	Sarmiento	scenario_en_6:1668-1676	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001305	Venezuela	scenario_en_6:1751-1759	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001306	Sarmiento	scenario_en_6:1788-1796	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001307	Venezuela	scenario_en_6:2335-2343	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001308	Venezuela	scenario_en_6:2850-2858	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001309	Maduro	scenario_en_6:3426-3431	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001311	New York	backpack_ied_13:0-7	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001312	New York	backpack_ied_13:328-335	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001313	New York	backpack_ied_13:970-977	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001314	New York	backpack_ied_13:1179-1186	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001315	New York	backpack_ied_13:1659-1666	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001316	New York	backpack_ied_13:1930-1937	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001317	New York	backpack_ied_13:2487-2494	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001318	New York	backpack_ied_13:2926-2933	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001319	Associated Press	backpack_ied_13:3562-3577	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001320	New York	backpack_ied_13:3737-3744	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001321	New York	backpack_ied_13:4900-4907	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001322	National Guard	backpack_ied_13:5073-5086	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001323	New York	backpack_ied_13:5096-5103	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001324	New York	backpack_ied_13:7818-7825	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001325	White House	backpack_ied_13:7889-7899	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001326	Donald Trump	backpack_ied_13:8015-8026	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001328	New York	backpack_ied_13:8175-8182	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001329	Trump	backpack_ied_13:8236-8240	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001330	New York	backpack_ied_13:8575-8582	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001331	New York	backpack_ied_13:8838-8845	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001332	New York	backpack_ied_13:9214-9221	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001333	New York	backpack_ied_13:10382-10389	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001334	Washington	backpack_ied_13:10568-10577	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001335	New York	backpack_ied_13:10596-10603	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001336	Washington	backpack_ied_13:10677-10686	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001337	Colombian	wiki_mass_car_bombings_0_news_0:260-268	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001338	Bogotá	wiki_mass_car_bombings_0_news_0:288-293	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001339	Bogotá	wiki_mass_car_bombings_0_news_0:887-892	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001340	Bogota	wiki_mass_car_bombings_0_news_0:898-903	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001341	Iván Duque	wiki_mass_car_bombings_0_news_0:1603-1612	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001342	Rodríguez	wiki_mass_car_bombings_0_news_0:1981-1989	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001343	Colombian	wiki_mass_car_bombings_0_news_0:2027-2035	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001345	Colombian	wiki_mass_car_bombings_0_news_0:2229-2237	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001346	Bogotá	wiki_mass_car_bombings_0_news_0:2423-2428	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001347	Colombia	wiki_mass_car_bombings_0_news_0:2542-2549	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001348	Bogotá	wiki_mass_car_bombings_0_news_0:2812-2817	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001349	Colombia	wiki_mass_car_bombings_0_news_0:3038-3045	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001350	Colombian	wiki_mass_car_bombings_0_news_0:3133-3141	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001351	Venezuela	wiki_mass_car_bombings_0_news_0:3192-3200	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001352	Colombia	wiki_mass_car_bombings_0_news_0:3312-3319	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001353	Venezuela	wiki_mass_car_bombings_0_news_0:3544-3552	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001354	New York	9_VOA_EN_NW_2016.09.19.3515911:10-17	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001355	New York	9_VOA_EN_NW_2016.09.19.3515911:103-110	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001356	New York	9_VOA_EN_NW_2016.09.19.3515911:924-931	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001357	New York	9_VOA_EN_NW_2016.09.19.3515911:1460-1467	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001358	New York	9_VOA_EN_NW_2016.09.19.3515911:1729-1736	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001359	New York	9_VOA_EN_NW_2016.09.19.3515911:2201-2208	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001360	New York	9_VOA_EN_NW_2016.09.19.3515911:2287-2294	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001361	New York	9_VOA_EN_NW_2016.09.19.3515911:2566-2573	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001362	New York	9_VOA_EN_NW_2016.09.19.3515911:2919-2926	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001363	New York	9_VOA_EN_NW_2016.09.19.3515911:4043-4050	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001364	Venezuelans	scenario_en_62:33-43	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001365	Caracas	scenario_en_62:196-202	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001366	Nicolás Maduro	scenario_en_62:418-431	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001368	Venezuela	scenario_en_62:650-658	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001369	Latin America	scenario_en_62:722-734	NIL	LOC	NAM	1.0
+Gazetterr	GAZ_0001370	Caracas	scenario_en_62:1194-1200	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001371	Venezuelan	scenario_en_62:1316-1325	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001372	Venezuela	scenario_en_62:1619-1627	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001373	Caracas	scenario_en_62:1647-1653	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001374	Reuters	scenario_en_62:1676-1682	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001375	Maduro	scenario_en_62:2142-2147	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001376	Caracas	scenario_en_62:2520-2526	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001377	Maduro	scenario_en_62:2648-2653	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001378	Venezuela	scenario_en_62:3829-3837	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001379	Venezuela	scenario_en_62:5300-5308	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001380	Maduro	scenario_en_62:5343-5348	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001381	Venezuela	scenario_en_62:5815-5823	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001382	Maduro	scenario_en_62:6113-6118	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001383	Tareck El Aissami	scenario_en_62:6412-6428	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001384	Trump	scenario_en_62:6678-6682	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001385	Venezuelan	scenario_en_62:6716-6725	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001386	Trump	scenario_en_62:6794-6798	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001387	Venezuelans	scenario_en_62:6823-6833	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001388	Venezuela	scenario_en_62:6955-6963	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001389	Venezuelans	scenario_en_62:7230-7240	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001390	Maduro	scenario_en_62:7325-7330	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001391	Venezuelans	scenario_en_62:7527-7537	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001392	Maduro	scenario_en_62:7720-7725	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001393	Venezuelans	scenario_en_62:7770-7780	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001394	Venezuela	scenario_en_62:8698-8706	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001395	Maduro	scenario_en_62:9085-9090	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001396	Caribbean	scenario_en_62:9624-9632	NIL	LOC	NAM	1.0
+Gazetterr	GAZ_0001397	Rodríguez	scenario_en_62:9873-9881	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001398	Caracas	scenario_en_62:9898-9904	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001399	Maduro	scenario_en_62:10271-10276	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001400	Henrique Capriles	scenario_en_62:10761-10777	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001401	Miranda	scenario_en_62:10831-10837	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001402	Venezuela	scenario_en_62:10953-10961	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001403	Venezuela	scenario_en_62:11000-11008	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001404	Maduro	scenario_en_62:11074-11079	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001405	Washington	scenario_en_62:11218-11227	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001406	National Guard	rare_event_sentences_19:3261-3274	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001407	National Guard	rare_event_sentences_19:4990-5003	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001408	United States	rare_event_sentences_19:5748-5760	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001409	Spain	rare_event_sentences_19:7642-7646	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001410	Interior	rare_event_sentences_19:7888-7895	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001411	Spain	rare_event_sentences_19:7954-7958	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001412	Venezuela	scenario_en_37:10-18	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001413	Venezuela	scenario_en_37:23-31	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001414	Venezuela	scenario_en_37:219-227	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001415	Sucre	scenario_en_37:435-439	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001416	Sucre	scenario_en_37:602-606	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001417	Venezuela	scenario_en_37:630-638	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001418	Caracas	scenario_en_37:936-942	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001419	Venezuela	scenario_en_37:946-954	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001420	Reuters	scenario_en_37:986-992	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001421	Venezuelans	scenario_en_37:1006-1016	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001422	Associated Press	scenario_en_37:1203-1218	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001423	Caracas	scenario_en_37:1405-1411	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001424	AP	scenario_en_37:1831-1832	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001425	Venezuela	scenario_en_37:2531-2539	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001426	Maduro	scenario_en_37:2596-2601	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001427	Venezuelan	scenario_en_37:2699-2708	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001428	Caracas	scenario_en_37:2821-2827	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001429	Nicolas Maduro	scenario_en_37:3126-3139	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001431	Caracas	scenario_en_37:3395-3401	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001432	Venezuela	scenario_en_37:3405-3413	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001433	Reuters	scenario_en_37:3445-3451	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001434	Maduro	scenario_en_37:3782-3787	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001435	Maduro	scenario_en_37:3865-3870	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001436	Maduro	scenario_en_37:3997-4002	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001437	Nicolas Maduro	scenario_en_37:4393-4406	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001439	Reuters	scenario_en_37:4446-4452	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001440	CNE	scenario_en_37:4515-4517	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001441	Maduro	scenario_en_37:4558-4563	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001442	CNE	scenario_en_37:4629-4631	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001443	Maduro	scenario_en_37:4729-4734	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001444	Reuters	scenario_en_37:4840-4846	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001445	Maduro	scenario_en_37:4848-4853	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001446	Colombian	scenario_en_37:5147-5155	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001447	Maduro	scenario_en_37:5339-5344	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001448	Caracas	scenario_en_37:5363-5369	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001449	Maduro	scenario_en_37:5493-5498	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001450	Colombian	scenario_en_37:5511-5519	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001451	Maduro	scenario_en_37:5608-5613	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001452	Colombia	scenario_en_37:5663-5670	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001453	Maduro	scenario_en_37:5682-5687	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001454	Maduro	scenario_en_37:6013-6018	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001455	Venezuela	scenario_en_37:6685-6693	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001456	Venezuelans	scenario_en_37:7086-7096	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001457	Spain	scenario_en_37:7101-7105	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001458	Venezuela	scenario_en_37:7115-7123	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001459	Spain	scenario_en_37:7173-7177	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001460	Reuters	scenario_en_37:7201-7207	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001461	Latin America	scenario_en_37:7221-7233	NIL	LOC	NAM	1.0
+Gazetterr	GAZ_0001462	Venezuela	scenario_en_37:7260-7268	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001463	Maduro	scenario_en_37:7316-7321	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001464	Maduro	scenario_en_37:7901-7906	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001465	Maduro	scenario_en_37:8735-8740	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001466	Venezuela	scenario_en_37:8844-8852	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001467	Trump	scenario_en_37:8995-8999	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001468	Maduro	scenario_en_37:9088-9093	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001469	Colombia	scenario_en_37:9165-9172	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001470	Venezuelan	scenario_en_37:9374-9383	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001471	Maduro	scenario_en_37:9441-9446	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001472	Maduro	scenario_en_37:9500-9505	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001473	New York	60_VOA_EN_NW_2017.06.06.3888881:3128-3135	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001475	Defense	scenario_en_kairos_64:1570-1576	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001476	Associated Press	wiki_drone_strikes_1_news_1:20-35	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001477	AP	wiki_drone_strikes_1_news_1:45-46	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001478	the United States	wiki_drone_strikes_1_news_1:2748-2764	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001480	White House	wiki_drone_strikes_1_news_1:2847-2857	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001481	Venezuelan	scenario_en_124:70-79	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001482	Nicolas Maduro	scenario_en_124:91-104	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001484	Maduro	scenario_en_124:348-353	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001485	Venezuelan	scenario_en_124:380-389	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001486	Associated Press	scenario_en_124:418-433	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001487	Maduro	scenario_en_124:463-468	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001488	Caracas	scenario_en_124:517-523	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001489	Interior	scenario_en_124:720-727	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001490	Nestor Reverol	scenario_en_124:738-751	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001492	Venezuelan	scenario_en_124:759-768	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001493	Maduro	scenario_en_124:915-920	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001494	Reverol	scenario_en_124:959-965	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001495	Maduro	scenario_en_124:1037-1042	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001496	Maduro	scenario_en_124:1141-1146	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001497	Venezuelan	scenario_en_124:1297-1306	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001498	Maduro	scenario_en_124:1332-1337	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001499	Miami	scenario_en_124:1393-1397	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001500	Bogota	scenario_en_124:1403-1408	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001501	Colombia	scenario_en_124:1412-1419	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001502	Maduro	scenario_en_124:1438-1443	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001503	Maduro	scenario_en_124:1545-1550	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001504	Maduro	scenario_en_124:1940-1945	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001505	Miami	scenario_en_124:2004-2008	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001506	Bogota	scenario_en_124:2014-2019	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001507	Colombian	scenario_en_124:2033-2041	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001508	Juan Manuel Santos	scenario_en_124:2053-2070	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001510	Colombia	scenario_en_124:2100-2107	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001511	Maduro	scenario_en_124:2162-2167	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001512	Donald Trump	scenario_en_124:2245-2256	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001514	John Bolton	scenario_en_124:2304-2314	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001515	Trump	scenario_en_124:2318-2322	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001516	Maduro	scenario_en_124:2415-2420	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001517	Venezuela	scenario_en_124:2458-2466	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001518	Fox	scenario_en_124:2640-2642	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001519	Venezuela	scenario_en_124:2708-2716	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001520	Venezuela	scenario_en_124:2720-2728	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001521	the United States	scenario_en_124:2843-2859	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001523	Venezuelans	scenario_en_124:3126-3136	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001524	Colombia	scenario_en_124:3156-3163	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001525	Venezuelans	scenario_en_124:3231-3241	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001526	Maduro	scenario_en_124:3271-3276	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001527	the United States	scenario_en_124:3291-3307	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001529	Trump	scenario_en_124:3546-3550	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001530	Venezuela	scenario_en_124:3601-3609	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001531	Maduro	scenario_en_124:3663-3668	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001532	Reverol	scenario_en_124:3748-3754	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001533	Maduro	scenario_en_124:3844-3849	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001534	Maduro	scenario_en_124:3932-3937	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001535	Venezuelan	scenario_en_124:3979-3988	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001536	Nicolas Maduro	scenario_en_124:4000-4013	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001538	Venezuelan	scenario_en_124:4067-4076	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001539	Washington	89_damagedestroydisabledismantle_destroy:73-82	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001540	Colombian	wiki_mass_car_bombings_0_news_1:186-194	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001541	Bogotá	wiki_mass_car_bombings_0_news_1:214-219	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001542	Bogotá	wiki_mass_car_bombings_0_news_1:877-882	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001543	Bogota	wiki_mass_car_bombings_0_news_1:888-893	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001544	Iván Duque	wiki_mass_car_bombings_0_news_1:1593-1602	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001545	Bogotá	wiki_mass_car_bombings_0_news_1:1928-1933	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001546	Colombia	wiki_mass_car_bombings_0_news_1:2047-2054	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001547	Bogotá	wiki_mass_car_bombings_0_news_1:2317-2322	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001548	Colombia	wiki_mass_car_bombings_0_news_1:2543-2550	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001549	Colombian	wiki_mass_car_bombings_0_news_1:2638-2646	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001550	Venezuela	wiki_mass_car_bombings_0_news_1:2697-2705	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001551	Colombia	wiki_mass_car_bombings_0_news_1:2817-2824	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001552	Venezuela	wiki_mass_car_bombings_0_news_1:3049-3057	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001553	Spain	scenario_en_kairos_53:373-377	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001554	AP	scenario_en_kairos_53:608-609	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001555	Rodríguez	scenario_en_kairos_53:2131-2139	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001556	Washington	scenario_en_kairos_74:306-315	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001557	Washington	scenario_en_kairos_74:1222-1231	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001558	Washington	scenario_en_kairos_74:3542-3551	NIL	ORG	NAM	1.0
+Gazetterr	GAZ_0001559	Maduro	JC002YBMJ:34-39	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001560	Caracas	JC002YBMJ:273-279	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001561	Caracas	JC002YBMJ:489-495	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001562	Venezuela	JC002YBMJ:500-508	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001563	Nicolás Maduro	JC002YBMJ:526-539	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001565	Caracas	JC002YBMJ:2408-2414	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001566	Venezuela	JC002YBMJ:2726-2734	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001567	Venezuela	JC002YBMJ:3520-3528	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001568	Maduro	JC002YBMJ:3710-3715	NIL	PER	NAM	1.0
+Gazetterr	GAZ_0001569	the United States	JC002YBMJ:3742-3758	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001571	Venezuela	JC002YBMJ:3852-3860	NIL	GPE	NAM	1.0
+Gazetterr	GAZ_0001572	Maduro	JC002YBMJ:3925-3930	NIL	PER	NAM	1.0
