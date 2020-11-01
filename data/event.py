@@ -27,6 +27,12 @@ class EventCentricDocument:
         self.doc_tokens = doc_tokens
         assert(len(self.word_starts_indexes) == len(self.words))
 
+        # Build token_windows, mask_windows, and input_masks
+        doc_token_ids = tokenizer.convert_tokens_to_ids(self.doc_tokens)
+        self.token_windows, self.mask_windows = \
+            convert_to_sliding_window(doc_token_ids, 512, tokenizer)
+        self.input_masks = extract_input_masks_from_mask_windows(self.mask_windows)
+
 class EventCentricDocumentPair:
     def __init__(self, doc1, doc2, tokenizer):
         self.doc1 = doc1

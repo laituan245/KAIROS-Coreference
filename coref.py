@@ -11,6 +11,7 @@ from entity_coref import entity_coref
 from event_coref import event_coref
 from utils import create_dir_if_not_exist
 from refine_entity_coref import refine_entity_coref
+from attribute_classifiers import generate_realis_preds, generate_polarity_preds
 from scripts import filter_relation, merge_inputs, remove_entities, separate_files
 from scripts import align_relation, align_event, docs_filtering, string_repr, fix_event_types
 
@@ -30,6 +31,13 @@ if __name__ == "__main__":
         args.linking_output = 'resources/quizlet4/'
         args.coreference_output = 'resources/quizlet4/cross_lingual_coref'
 
+    # Attribtes Classifiers
+    en_event_cs_path = join(args.oneie_output, 'en/oneie/m1_m2/cs/event.cs')
+    en_json_dir = join(args.oneie_output, 'en/oneie/m1_m2/json/')
+    generate_realis_preds(en_event_cs_path, en_json_dir, args.coreference_output)
+    generate_polarity_preds(en_event_cs_path, en_json_dir, args.coreference_output)
+
+    # Merging en and es
     args.merged_input = join(args.coreference_output, 'merged_input')
     create_dir_if_not_exist(args.coreference_output)
 
