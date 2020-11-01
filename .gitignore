@@ -23,6 +23,7 @@ downloads/
 eggs/
 .eggs/
 lib/
+!uncertainty/lib
 lib64/
 parts/
 sdist/
