@@ -11,7 +11,7 @@ from entity_coref import entity_coref
 from event_coref import event_coref
 from utils import create_dir_if_not_exist
 from refine_entity_coref import refine_entity_coref
-from attribute_classifiers import generate_realis_preds, generate_polarity_preds
+from attribute_classifiers import generate_hedge_preds, generate_realis_preds, generate_polarity_preds
 from scripts import filter_relation, merge_inputs, remove_entities, separate_files
 from scripts import align_relation, align_event, docs_filtering, string_repr, fix_event_types
 
@@ -34,6 +34,7 @@ if __name__ == "__main__":
     # Attribtes Classifiers
     en_event_cs_path = join(args.oneie_output, 'en/oneie/m1_m2/cs/event.cs')
     en_json_dir = join(args.oneie_output, 'en/oneie/m1_m2/json/')
+    generate_hedge_preds(en_event_cs_path, en_json_dir, args.coreference_output)
     generate_realis_preds(en_event_cs_path, en_json_dir, args.coreference_output)
     generate_polarity_preds(en_event_cs_path, en_json_dir, args.coreference_output)
 
