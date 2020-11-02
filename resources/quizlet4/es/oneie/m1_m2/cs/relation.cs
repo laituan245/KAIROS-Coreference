@@ -97,7 +97,7 @@
 :Entity_EDL_0000364	OrganizationAffiliation.EmploymentMembership	:Entity_EDL_0000365	K0C047Z5C:994-1078	1.0000
 :Entity_EDL_0000366	PartWhole.Subsidiary	:Entity_EDL_0000367	K0C047Z5C:1081-1174	1.0000
 :Entity_EDL_0000369	OrganizationAffiliation.Leadership	:Entity_EDL_0000366	K0C047Z5C:1081-1174	1.0000
-:Entity_EDL_0000388	Physical.LocatedNear	:Entity_EDL_0000387	K0C047Z5C:1731-1941	0.4837
+:Entity_EDL_0000388	Physical.LocatedNear	:Entity_EDL_0000387	K0C047Z5C:1731-1941	0.4838
 :Entity_EDL_0000393	GeneralAffiliation.MemberOriginReligionEthnicity	:Entity_EDL_0000394	K0C047Z5C:2052-2116	0.5477
 :Entity_EDL_0000397	Physical.LocatedNear	:Entity_EDL_0000398	K0C047Z5C:2119-2239	0.6457
 :Entity_EDL_0000401	Physical.LocatedNear	:Entity_EDL_0000403	K0C047Z5C:2241-2362	0.4624
