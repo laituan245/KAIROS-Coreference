@@ -2896,38 +2896,38 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000001	mention	"instituto Hurricane"	K0C041NI2:1571-1589	1.0
 :Entity_EDL_SPA_0000001	link	NIL90000007
 :Entity_EDL_SPA_0000002	type	PER
-:Entity_EDL_SPA_0000002	canonical_mention	"estudiante"	K0C041NI0:18-27	1.0
-:Entity_EDL_SPA_0000002	nominal_mention	"estudiante"	K0C041NI0:18-27	1.0
-:Entity_EDL_SPA_0000002	nominal_mention	"estudiante"	K0C041NI0:195-204	1.0
-:Entity_EDL_SPA_0000002	canonical_mention	"estudiantes"	K0C041NI2:428-438	1.0
-:Entity_EDL_SPA_0000002	nominal_mention	"estudiantes"	K0C041NI2:428-438	1.0
-:Entity_EDL_SPA_0000002	nominal_mention	"estudiante"	K0C041NI2:21-30	1.0
-:Entity_EDL_SPA_0000002	nominal_mention	"estudiante"	K0C041NI2:157-166	1.0
-:Entity_EDL_SPA_0000002	nominal_mention	"estudiante"	K0C041NI2:742-751	1.0
+:Entity_EDL_SPA_0000002	canonical_mention	"Student"	K0C041NI0:18-27	1.0
+:Entity_EDL_SPA_0000002	nominal_mention	"Student"	K0C041NI0:18-27	1.0
+:Entity_EDL_SPA_0000002	nominal_mention	"Student"	K0C041NI0:195-204	1.0
+:Entity_EDL_SPA_0000002	canonical_mention	"Students"	K0C041NI2:428-438	1.0
+:Entity_EDL_SPA_0000002	nominal_mention	"Students"	K0C041NI2:428-438	1.0
+:Entity_EDL_SPA_0000002	nominal_mention	"Student"	K0C041NI2:21-30	1.0
+:Entity_EDL_SPA_0000002	nominal_mention	"Student"	K0C041NI2:157-166	1.0
+:Entity_EDL_SPA_0000002	nominal_mention	"Student"	K0C041NI2:742-751	1.0
 :Entity_EDL_SPA_0000002	link	NIL90000008
 :Entity_EDL_SPA_0000003	type	WEA
-:Entity_EDL_SPA_0000003	canonical_mention	"explosivos"	K0C041NI0:54-63	1.0
-:Entity_EDL_SPA_0000003	nominal_mention	"explosivos"	K0C041NI0:54-63	1.0
-:Entity_EDL_SPA_0000003	nominal_mention	"explosivos"	K0C041NI0:296-305	1.0
-:Entity_EDL_SPA_0000003	canonical_mention	"explosivos"	K0C041NI2:88-97	1.0
-:Entity_EDL_SPA_0000003	nominal_mention	"explosivos"	K0C041NI2:88-97	1.0
-:Entity_EDL_SPA_0000003	nominal_mention	"explosivos"	K0C041NI2:289-298	1.0
+:Entity_EDL_SPA_0000003	canonical_mention	"Explosives"	K0C041NI0:54-63	1.0
+:Entity_EDL_SPA_0000003	nominal_mention	"Explosives"	K0C041NI0:54-63	1.0
+:Entity_EDL_SPA_0000003	nominal_mention	"Explosives"	K0C041NI0:296-305	1.0
+:Entity_EDL_SPA_0000003	canonical_mention	"Explosives"	K0C041NI2:88-97	1.0
+:Entity_EDL_SPA_0000003	nominal_mention	"Explosives"	K0C041NI2:88-97	1.0
+:Entity_EDL_SPA_0000003	nominal_mention	"Explosives"	K0C041NI2:289-298	1.0
 :Entity_EDL_SPA_0000003	link	NIL90000009
 :Entity_EDL_SPA_0000004	type	FAC
-:Entity_EDL_SPA_0000004	canonical_mention	"instituto"	K0C041NI0:327-335	1.0
-:Entity_EDL_SPA_0000004	nominal_mention	"instituto"	K0C041NI0:327-335	1.0
-:Entity_EDL_SPA_0000004	canonical_mention	"instituto"	K0C041NI2:105-113	1.0
-:Entity_EDL_SPA_0000004	nominal_mention	"instituto"	K0C041NI2:105-113	1.0
-:Entity_EDL_SPA_0000004	nominal_mention	"instituto"	K0C041NI2:255-263	1.0
-:Entity_EDL_SPA_0000004	nominal_mention	"instituto"	K0C041NI2:787-795	1.0
-:Entity_EDL_SPA_0000004	nominal_mention	"instituto"	K0C041NI2:1176-1184	1.0
+:Entity_EDL_SPA_0000004	canonical_mention	"Institute"	K0C041NI0:327-335	1.0
+:Entity_EDL_SPA_0000004	nominal_mention	"Institute"	K0C041NI0:327-335	1.0
+:Entity_EDL_SPA_0000004	canonical_mention	"Institute"	K0C041NI2:105-113	1.0
+:Entity_EDL_SPA_0000004	nominal_mention	"Institute"	K0C041NI2:105-113	1.0
+:Entity_EDL_SPA_0000004	nominal_mention	"Institute"	K0C041NI2:255-263	1.0
+:Entity_EDL_SPA_0000004	nominal_mention	"Institute"	K0C041NI2:787-795	1.0
+:Entity_EDL_SPA_0000004	nominal_mention	"Institute"	K0C041NI2:1176-1184	1.0
 :Entity_EDL_SPA_0000004	link	NIL90000010
 :Entity_EDL_SPA_0000005	type	LOC
-:Entity_EDL_SPA_0000005	canonical_mention	"oeste"	K0C041NI2:213-217	1.0
-:Entity_EDL_SPA_0000005	nominal_mention	"oeste"	K0C041NI2:213-217	1.0
-:Entity_EDL_SPA_0000005	canonical_mention	"oeste"	K0C041NI3:2153-2157	1.0
-:Entity_EDL_SPA_0000005	nominal_mention	"oeste"	K0C041NI3:2153-2157	1.0
-:Entity_EDL_SPA_0000005	nominal_mention	"oeste"	K0C041NI3:3013-3017	1.0
+:Entity_EDL_SPA_0000005	canonical_mention	"West"	K0C041NI2:213-217	1.0
+:Entity_EDL_SPA_0000005	nominal_mention	"West"	K0C041NI2:213-217	1.0
+:Entity_EDL_SPA_0000005	canonical_mention	"West"	K0C041NI3:2153-2157	1.0
+:Entity_EDL_SPA_0000005	nominal_mention	"West"	K0C041NI3:2153-2157	1.0
+:Entity_EDL_SPA_0000005	nominal_mention	"West"	K0C041NI3:3013-3017	1.0
 :Entity_EDL_SPA_0000005	link	NIL90000011
 :Entity_EDL_SPA_0000006	type	ORG
 :Entity_EDL_SPA_0000006	canonical_mention	"grupo"	K0C041NI2:341-345	1.0
@@ -2941,22 +2941,22 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000007	nominal_mention	"autoridades"	K0C041NI2:399-409	1.0
 :Entity_EDL_SPA_0000007	link	NIL90000013
 :Entity_EDL_SPA_0000008	type	LOC
-:Entity_EDL_SPA_0000008	canonical_mention	"zona"	K0C041NI2:532-535	1.0
-:Entity_EDL_SPA_0000008	nominal_mention	"zona"	K0C041NI2:532-535	1.0
-:Entity_EDL_SPA_0000008	canonical_mention	"zona"	K0C041NI3:2145-2148	1.0
-:Entity_EDL_SPA_0000008	nominal_mention	"zona"	K0C041NI3:2145-2148	1.0
-:Entity_EDL_SPA_0000008	nominal_mention	"zona"	K0C041NI3:3008-3011	1.0
+:Entity_EDL_SPA_0000008	canonical_mention	"Zona"	K0C041NI2:532-535	1.0
+:Entity_EDL_SPA_0000008	nominal_mention	"Zona"	K0C041NI2:532-535	1.0
+:Entity_EDL_SPA_0000008	canonical_mention	"Zona"	K0C041NI3:2145-2148	1.0
+:Entity_EDL_SPA_0000008	nominal_mention	"Zona"	K0C041NI3:2145-2148	1.0
+:Entity_EDL_SPA_0000008	nominal_mention	"Zona"	K0C041NI3:3008-3011	1.0
 :Entity_EDL_SPA_0000008	link	NIL90000014
 :Entity_EDL_SPA_0000009	type	PER
-:Entity_EDL_SPA_0000009	canonical_mention	"policía"	K0C041NI0:448-454	1.0
-:Entity_EDL_SPA_0000009	nominal_mention	"policía"	K0C041NI0:448-454	1.0
-:Entity_EDL_SPA_0000009	nominal_mention	"policía"	K0C041NI0:631-637	1.0
-:Entity_EDL_SPA_0000009	canonical_mention	"Policía"	K0C041NI2:611-617	1.0
-:Entity_EDL_SPA_0000009	nominal_mention	"Policía"	K0C041NI2:611-617	1.0
-:Entity_EDL_SPA_0000009	nominal_mention	"Policía"	K0C041NI2:723-729	1.0
-:Entity_EDL_SPA_0000009	nominal_mention	"Policía"	K0C041NI2:995-1001	1.0
-:Entity_EDL_SPA_0000009	nominal_mention	"Policía"	K0C041NI2:1026-1032	1.0
-:Entity_EDL_SPA_0000009	nominal_mention	"Policía"	K0C041NI2:1372-1378	1.0
+:Entity_EDL_SPA_0000009	canonical_mention	"Police"	K0C041NI0:448-454	1.0
+:Entity_EDL_SPA_0000009	nominal_mention	"Police"	K0C041NI0:448-454	1.0
+:Entity_EDL_SPA_0000009	nominal_mention	"Police"	K0C041NI0:631-637	1.0
+:Entity_EDL_SPA_0000009	canonical_mention	"Police"	K0C041NI2:611-617	1.0
+:Entity_EDL_SPA_0000009	nominal_mention	"Police"	K0C041NI2:611-617	1.0
+:Entity_EDL_SPA_0000009	nominal_mention	"Police"	K0C041NI2:723-729	1.0
+:Entity_EDL_SPA_0000009	nominal_mention	"Police"	K0C041NI2:995-1001	1.0
+:Entity_EDL_SPA_0000009	nominal_mention	"Police"	K0C041NI2:1026-1032	1.0
+:Entity_EDL_SPA_0000009	nominal_mention	"Police"	K0C041NI2:1372-1378	1.0
 :Entity_EDL_SPA_0000009	pronominal_mention	"se"	K0C041NI2:619-620	1.0
 :Entity_EDL_SPA_0000009	link	NIL90000015
 :Entity_EDL_SPA_0000010	type	LOC
@@ -2973,16 +2973,16 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000010	nominal_mention	"lugar"	K0C047Z5C:2306-2310	1.0
 :Entity_EDL_SPA_0000010	link	NIL90000016
 :Entity_EDL_SPA_0000011	type	LOC
-:Entity_EDL_SPA_0000011	canonical_mention	"centro"	K0C041NI0:847-852	1.0
-:Entity_EDL_SPA_0000011	nominal_mention	"centro"	K0C041NI0:847-852	1.0
-:Entity_EDL_SPA_0000011	canonical_mention	"centro"	K0C041NI2:678-683	1.0
-:Entity_EDL_SPA_0000011	nominal_mention	"centro"	K0C041NI2:678-683	1.0
-:Entity_EDL_SPA_0000011	canonical_mention	"centro"	K0C041NI3:520-525	1.0
-:Entity_EDL_SPA_0000011	nominal_mention	"centro"	K0C041NI3:520-525	1.0
-:Entity_EDL_SPA_0000011	canonical_mention	"centro"	K0C041NI5:1409-1414	1.0
-:Entity_EDL_SPA_0000011	nominal_mention	"centro"	K0C041NI5:1409-1414	1.0
-:Entity_EDL_SPA_0000011	canonical_mention	"centro"	K0C047Z5C:241-246	1.0
-:Entity_EDL_SPA_0000011	nominal_mention	"centro"	K0C047Z5C:241-246	1.0
+:Entity_EDL_SPA_0000011	canonical_mention	"Centre"	K0C041NI0:847-852	1.0
+:Entity_EDL_SPA_0000011	nominal_mention	"Centre"	K0C041NI0:847-852	1.0
+:Entity_EDL_SPA_0000011	canonical_mention	"Centre"	K0C041NI2:678-683	1.0
+:Entity_EDL_SPA_0000011	nominal_mention	"Centre"	K0C041NI2:678-683	1.0
+:Entity_EDL_SPA_0000011	canonical_mention	"Centre"	K0C041NI3:520-525	1.0
+:Entity_EDL_SPA_0000011	nominal_mention	"Centre"	K0C041NI3:520-525	1.0
+:Entity_EDL_SPA_0000011	canonical_mention	"Centre"	K0C041NI5:1409-1414	1.0
+:Entity_EDL_SPA_0000011	nominal_mention	"Centre"	K0C041NI5:1409-1414	1.0
+:Entity_EDL_SPA_0000011	canonical_mention	"Centre"	K0C047Z5C:241-246	1.0
+:Entity_EDL_SPA_0000011	nominal_mention	"Centre"	K0C047Z5C:241-246	1.0
 :Entity_EDL_SPA_0000011	link	NIL90000017
 :Entity_EDL_SPA_0000012	type	FAC
 :Entity_EDL_SPA_0000012	canonical_mention	"instalaciones"	K0C041NI2:705-717	1.0
@@ -2998,16 +2998,16 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000013	nominal_mention	"artefactos"	K0C047Z5C:680-689	1.0
 :Entity_EDL_SPA_0000013	link	NIL90000019
 :Entity_EDL_SPA_0000014	type	PER
-:Entity_EDL_SPA_0000014	canonical_mention	"equipo"	K0C041NI2:831-836	1.0
-:Entity_EDL_SPA_0000014	nominal_mention	"equipo"	K0C041NI2:831-836	1.0
+:Entity_EDL_SPA_0000014	canonical_mention	"Team"	K0C041NI2:831-836	1.0
+:Entity_EDL_SPA_0000014	nominal_mention	"Team"	K0C041NI2:831-836	1.0
 :Entity_EDL_SPA_0000014	link	NIL90000020
 :Entity_EDL_SPA_0000015	type	PER
 :Entity_EDL_SPA_0000015	canonical_mention	"artificieros"	K0C041NI2:841-852	1.0
 :Entity_EDL_SPA_0000015	nominal_mention	"artificieros"	K0C041NI2:841-852	1.0
 :Entity_EDL_SPA_0000015	link	NIL90000021
 :Entity_EDL_SPA_0000016	type	PER
-:Entity_EDL_SPA_0000016	canonical_mention	"número"	K0C041NI2:936-941	1.0
-:Entity_EDL_SPA_0000016	nominal_mention	"número"	K0C041NI2:936-941	1.0
+:Entity_EDL_SPA_0000016	canonical_mention	"Number"	K0C041NI2:936-941	1.0
+:Entity_EDL_SPA_0000016	nominal_mention	"Number"	K0C041NI2:936-941	1.0
 :Entity_EDL_SPA_0000016	link	NIL90000022
 :Entity_EDL_SPA_0000017	type	PER
 :Entity_EDL_SPA_0000017	canonical_mention	"heridos"	K0C041NI0:745-751	1.0
@@ -3020,16 +3020,16 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000018	nominal_mention	"bomba"	K0C041NI2:1157-1161	1.0
 :Entity_EDL_SPA_0000018	link	NIL90000024
 :Entity_EDL_SPA_0000019	type	PER
-:Entity_EDL_SPA_0000019	canonical_mention	"varón"	K0C041NI0:889-893	1.0
-:Entity_EDL_SPA_0000019	nominal_mention	"varón"	K0C041NI0:889-893	1.0
-:Entity_EDL_SPA_0000019	canonical_mention	"varón"	K0C041NI2:1221-1225	1.0
-:Entity_EDL_SPA_0000019	nominal_mention	"varón"	K0C041NI2:1221-1225	1.0
+:Entity_EDL_SPA_0000019	canonical_mention	"Man"	K0C041NI0:889-893	1.0
+:Entity_EDL_SPA_0000019	nominal_mention	"Man"	K0C041NI0:889-893	1.0
+:Entity_EDL_SPA_0000019	canonical_mention	"Man"	K0C041NI2:1221-1225	1.0
+:Entity_EDL_SPA_0000019	nominal_mention	"Man"	K0C041NI2:1221-1225	1.0
 :Entity_EDL_SPA_0000019	link	NIL90000025
 :Entity_EDL_SPA_0000020	type	ORG
-:Entity_EDL_SPA_0000020	canonical_mention	"organización"	K0C041NI0:997-1008	1.0
-:Entity_EDL_SPA_0000020	nominal_mention	"organización"	K0C041NI0:997-1008	1.0
-:Entity_EDL_SPA_0000020	canonical_mention	"organización"	K0C041NI2:1329-1340	1.0
-:Entity_EDL_SPA_0000020	nominal_mention	"organización"	K0C041NI2:1329-1340	1.0
+:Entity_EDL_SPA_0000020	canonical_mention	"Organization"	K0C041NI0:997-1008	1.0
+:Entity_EDL_SPA_0000020	nominal_mention	"Organization"	K0C041NI0:997-1008	1.0
+:Entity_EDL_SPA_0000020	canonical_mention	"Organization"	K0C041NI2:1329-1340	1.0
+:Entity_EDL_SPA_0000020	nominal_mention	"Organization"	K0C041NI2:1329-1340	1.0
 :Entity_EDL_SPA_0000020	link	NIL90000026
 :Entity_EDL_SPA_0000021	type	PER
 :Entity_EDL_SPA_0000021	canonical_mention	"detenido"	K0C041NI0:1087-1094	1.0
@@ -3044,13 +3044,13 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000021	nominal_mention	"detenidos"	K0C041NI5:4946-4954	1.0
 :Entity_EDL_SPA_0000021	link	NIL90000027
 :Entity_EDL_SPA_0000022	type	PER
-:Entity_EDL_SPA_0000022	canonical_mention	"persona"	K0C041NI2:1490-1496	1.0
-:Entity_EDL_SPA_0000022	nominal_mention	"persona"	K0C041NI2:1490-1496	1.0
-:Entity_EDL_SPA_0000022	canonical_mention	"personas"	K0C041NI5:4252-4259	1.0
-:Entity_EDL_SPA_0000022	nominal_mention	"personas"	K0C041NI5:4252-4259	1.0
-:Entity_EDL_SPA_0000022	canonical_mention	"personas"	K0C0448WH:405-412	1.0
-:Entity_EDL_SPA_0000022	nominal_mention	"personas"	K0C0448WH:405-412	1.0
-:Entity_EDL_SPA_0000022	nominal_mention	"personas"	K0C0448WH:509-516	1.0
+:Entity_EDL_SPA_0000022	canonical_mention	"Person"	K0C041NI2:1490-1496	1.0
+:Entity_EDL_SPA_0000022	nominal_mention	"Person"	K0C041NI2:1490-1496	1.0
+:Entity_EDL_SPA_0000022	canonical_mention	"People"	K0C041NI5:4252-4259	1.0
+:Entity_EDL_SPA_0000022	nominal_mention	"People"	K0C041NI5:4252-4259	1.0
+:Entity_EDL_SPA_0000022	canonical_mention	"People"	K0C0448WH:405-412	1.0
+:Entity_EDL_SPA_0000022	nominal_mention	"People"	K0C0448WH:405-412	1.0
+:Entity_EDL_SPA_0000022	nominal_mention	"People"	K0C0448WH:509-516	1.0
 :Entity_EDL_SPA_0000022	link	NIL90000028
 :Entity_EDL_SPA_0000023	type	PER
 :Entity_EDL_SPA_0000023	canonical_mention	"su"	K0C041NI0:324-325	1.0
@@ -3097,10 +3097,10 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000026	mention	"latinoamericano"	K0C0448WH:965-979	1.0
 :Entity_EDL_SPA_0000026	link	NIL90000045
 :Entity_EDL_SPA_0000027	type	LOC
-:Entity_EDL_SPA_0000027	canonical_mention	"frente"	K0C041NI5:840-845	1.0
-:Entity_EDL_SPA_0000027	nominal_mention	"frente"	K0C041NI5:840-845	1.0
-:Entity_EDL_SPA_0000027	canonical_mention	"frente"	K0C0448WH:20-25	1.0
-:Entity_EDL_SPA_0000027	nominal_mention	"frente"	K0C0448WH:20-25	1.0
+:Entity_EDL_SPA_0000027	canonical_mention	"Front"	K0C041NI5:840-845	1.0
+:Entity_EDL_SPA_0000027	nominal_mention	"Front"	K0C041NI5:840-845	1.0
+:Entity_EDL_SPA_0000027	canonical_mention	"Front"	K0C0448WH:20-25	1.0
+:Entity_EDL_SPA_0000027	nominal_mention	"Front"	K0C0448WH:20-25	1.0
 :Entity_EDL_SPA_0000027	link	NIL90000046
 :Entity_EDL_SPA_0000028	type	FAC
 :Entity_EDL_SPA_0000028	canonical_mention	"churrasquería"	K0C0448WH:133-145	1.0
@@ -3120,26 +3120,26 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000031	nominal_mention	"millones"	K0C0448WH:1034-1041	1.0
 :Entity_EDL_SPA_0000031	link	NIL90000050
 :Entity_EDL_SPA_0000032	type	GPE
-:Entity_EDL_SPA_0000032	canonical_mention	"país"	K0C041NI3:1983-1986	1.0
-:Entity_EDL_SPA_0000032	nominal_mention	"país"	K0C041NI3:1983-1986	1.0
-:Entity_EDL_SPA_0000032	nominal_mention	"país"	K0C041NI3:2530-2533	1.0
-:Entity_EDL_SPA_0000032	canonical_mention	"país"	K0C0448WH:902-905	1.0
-:Entity_EDL_SPA_0000032	nominal_mention	"país"	K0C0448WH:902-905	1.0
-:Entity_EDL_SPA_0000032	canonical_mention	"país"	K0C047Z5C:1724-1727	1.0
-:Entity_EDL_SPA_0000032	nominal_mention	"país"	K0C047Z5C:1724-1727	1.0
-:Entity_EDL_SPA_0000032	nominal_mention	"país"	K0C047Z5C:2198-2201	1.0
+:Entity_EDL_SPA_0000032	canonical_mention	"Country"	K0C041NI3:1983-1986	1.0
+:Entity_EDL_SPA_0000032	nominal_mention	"Country"	K0C041NI3:1983-1986	1.0
+:Entity_EDL_SPA_0000032	nominal_mention	"Country"	K0C041NI3:2530-2533	1.0
+:Entity_EDL_SPA_0000032	canonical_mention	"Country"	K0C0448WH:902-905	1.0
+:Entity_EDL_SPA_0000032	nominal_mention	"Country"	K0C0448WH:902-905	1.0
+:Entity_EDL_SPA_0000032	canonical_mention	"Country"	K0C047Z5C:1724-1727	1.0
+:Entity_EDL_SPA_0000032	nominal_mention	"Country"	K0C047Z5C:1724-1727	1.0
+:Entity_EDL_SPA_0000032	nominal_mention	"Country"	K0C047Z5C:2198-2201	1.0
 :Entity_EDL_SPA_0000032	link	NIL90000051
 :Entity_EDL_SPA_0000033	type	COM
 :Entity_EDL_SPA_0000033	canonical_mention	"medicinas"	K0C0448WH:1091-1099	1.0
 :Entity_EDL_SPA_0000033	nominal_mention	"medicinas"	K0C0448WH:1091-1099	1.0
 :Entity_EDL_SPA_0000033	link	NIL90000052
 :Entity_EDL_SPA_0000034	type	GPE
-:Entity_EDL_SPA_0000034	canonical_mention	"países"	K0C041NI5:2811-2816	1.0
-:Entity_EDL_SPA_0000034	nominal_mention	"países"	K0C041NI5:2811-2816	1.0
-:Entity_EDL_SPA_0000034	nominal_mention	"países"	K0C041NI5:3274-3279	1.0
-:Entity_EDL_SPA_0000034	nominal_mention	"países"	K0C041NI5:3887-3892	1.0
-:Entity_EDL_SPA_0000034	canonical_mention	"países"	K0C0448WH:1149-1154	1.0
-:Entity_EDL_SPA_0000034	nominal_mention	"países"	K0C0448WH:1149-1154	1.0
+:Entity_EDL_SPA_0000034	canonical_mention	"Countries"	K0C041NI5:2811-2816	1.0
+:Entity_EDL_SPA_0000034	nominal_mention	"Countries"	K0C041NI5:2811-2816	1.0
+:Entity_EDL_SPA_0000034	nominal_mention	"Countries"	K0C041NI5:3274-3279	1.0
+:Entity_EDL_SPA_0000034	nominal_mention	"Countries"	K0C041NI5:3887-3892	1.0
+:Entity_EDL_SPA_0000034	canonical_mention	"Countries"	K0C0448WH:1149-1154	1.0
+:Entity_EDL_SPA_0000034	nominal_mention	"Countries"	K0C0448WH:1149-1154	1.0
 :Entity_EDL_SPA_0000034	link	NIL90000053
 :Entity_EDL_SPA_0000035	type	FAC
 :Entity_EDL_SPA_0000035	canonical_mention	"donde"	K0C041NI3:916-920	1.0
@@ -3165,10 +3165,10 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000037	pronominal_mention	"se"	K0C047Z5C:2322-2323	1.0
 :Entity_EDL_SPA_0000037	link	NIL90000056
 :Entity_EDL_SPA_0000038	type	ORG
-:Entity_EDL_SPA_0000038	canonical_mention	"Guardia Nacional"	K0C041NI3:371-386	1.0
-:Entity_EDL_SPA_0000038	mention	"Guardia Nacional"	K0C041NI3:371-386	1.0
-:Entity_EDL_SPA_0000038	canonical_mention	"Guardia Nacional"	K0C047Z5C:1029-1044	1.0
-:Entity_EDL_SPA_0000038	mention	"Guardia Nacional"	K0C047Z5C:1029-1044	1.0
+:Entity_EDL_SPA_0000038	canonical_mention	"National Guard"	K0C041NI3:371-386	1.0
+:Entity_EDL_SPA_0000038	mention	"National Guard"	K0C041NI3:371-386	1.0
+:Entity_EDL_SPA_0000038	canonical_mention	"National Guard"	K0C047Z5C:1029-1044	1.0
+:Entity_EDL_SPA_0000038	mention	"National Guard"	K0C047Z5C:1029-1044	1.0
 :Entity_EDL_SPA_0000038	link	NIL90000059
 :Entity_EDL_SPA_0000039	type	ORG
 :Entity_EDL_SPA_0000039	canonical_mention	"Guardia Nacional Bolivariana"	K0C041NI3:999-1026	1.0
@@ -3204,21 +3204,21 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000045	mention	"manuelberbin"	K0C041NI3:2946-2957	1.0
 :Entity_EDL_SPA_0000045	link	NIL90000075
 :Entity_EDL_SPA_0000046	type	PER
-:Entity_EDL_SPA_0000046	canonical_mention	"funcionario"	K0C041NI3:827-837	1.0
-:Entity_EDL_SPA_0000046	mention	"funcionario"	K0C041NI3:827-837	1.0
+:Entity_EDL_SPA_0000046	canonical_mention	"Civil servant"	K0C041NI3:827-837	1.0
+:Entity_EDL_SPA_0000046	mention	"Civil servant"	K0C041NI3:827-837	1.0
 :Entity_EDL_SPA_0000046	canonical_mention	"funcionarios"	K0C047Z5C:421-432	1.0
 :Entity_EDL_SPA_0000046	nominal_mention	"funcionarios"	K0C047Z5C:421-432	1.0
 :Entity_EDL_SPA_0000046	link	NIL90000077
 :Entity_EDL_SPA_0000047	type	ORG
-:Entity_EDL_SPA_0000047	canonical_mention	"Gobierno"	K0C041NI3:1-8	1.0
-:Entity_EDL_SPA_0000047	nominal_mention	"Gobierno"	K0C041NI3:1-8	1.0
-:Entity_EDL_SPA_0000047	nominal_mention	"gobierno"	K0C041NI3:1667-1674	1.0
-:Entity_EDL_SPA_0000047	canonical_mention	"Gobierno"	K0C041NI5:779-786	1.0
-:Entity_EDL_SPA_0000047	nominal_mention	"Gobierno"	K0C041NI5:779-786	1.0
-:Entity_EDL_SPA_0000047	nominal_mention	"Gobierno"	K0C041NI5:1659-1666	1.0
-:Entity_EDL_SPA_0000047	nominal_mention	"Gobierno"	K0C041NI5:3761-3768	1.0
-:Entity_EDL_SPA_0000047	canonical_mention	"Gobierno"	K0C047Z5C:1084-1091	1.0
-:Entity_EDL_SPA_0000047	nominal_mention	"Gobierno"	K0C047Z5C:1084-1091	1.0
+:Entity_EDL_SPA_0000047	canonical_mention	"Government"	K0C041NI3:1-8	1.0
+:Entity_EDL_SPA_0000047	nominal_mention	"Government"	K0C041NI3:1-8	1.0
+:Entity_EDL_SPA_0000047	nominal_mention	"Government"	K0C041NI3:1667-1674	1.0
+:Entity_EDL_SPA_0000047	canonical_mention	"Government"	K0C041NI5:779-786	1.0
+:Entity_EDL_SPA_0000047	nominal_mention	"Government"	K0C041NI5:779-786	1.0
+:Entity_EDL_SPA_0000047	nominal_mention	"Government"	K0C041NI5:1659-1666	1.0
+:Entity_EDL_SPA_0000047	nominal_mention	"Government"	K0C041NI5:3761-3768	1.0
+:Entity_EDL_SPA_0000047	canonical_mention	"Government"	K0C047Z5C:1084-1091	1.0
+:Entity_EDL_SPA_0000047	nominal_mention	"Government"	K0C047Z5C:1084-1091	1.0
 :Entity_EDL_SPA_0000047	link	NIL90000078
 :Entity_EDL_SPA_0000048	type	PER
 :Entity_EDL_SPA_0000048	canonical_mention	"mandatario"	K0C041NI3:447-456	1.0
@@ -3228,24 +3228,24 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000048	pronominal_mention	"se"	K0C047Z5C:275-276	1.0
 :Entity_EDL_SPA_0000048	link	NIL90000079
 :Entity_EDL_SPA_0000049	type	PER
-:Entity_EDL_SPA_0000049	canonical_mention	"militares"	K0C041NI3:504-512	1.0
-:Entity_EDL_SPA_0000049	nominal_mention	"militares"	K0C041NI3:504-512	1.0
-:Entity_EDL_SPA_0000049	nominal_mention	"militares"	K0C041NI3:1077-1085	1.0
-:Entity_EDL_SPA_0000049	nominal_mention	"militares"	K0C041NI3:1754-1762	1.0
-:Entity_EDL_SPA_0000049	nominal_mention	"militares"	K0C041NI3:2190-2198	1.0
-:Entity_EDL_SPA_0000049	canonical_mention	"militares"	K0C041NI5:810-818	1.0
-:Entity_EDL_SPA_0000049	nominal_mention	"militares"	K0C041NI5:810-818	1.0
-:Entity_EDL_SPA_0000049	nominal_mention	"militares"	K0C041NI5:1598-1606	1.0
-:Entity_EDL_SPA_0000049	nominal_mention	"militares"	K0C041NI5:2698-2706	1.0
-:Entity_EDL_SPA_0000049	nominal_mention	"militares"	K0C041NI5:4404-4412	1.0
-:Entity_EDL_SPA_0000049	canonical_mention	"militares"	K0C047Z5C:1013-1021	1.0
-:Entity_EDL_SPA_0000049	nominal_mention	"militares"	K0C047Z5C:1013-1021	1.0
+:Entity_EDL_SPA_0000049	canonical_mention	"Military personnel"	K0C041NI3:504-512	1.0
+:Entity_EDL_SPA_0000049	nominal_mention	"Military personnel"	K0C041NI3:504-512	1.0
+:Entity_EDL_SPA_0000049	nominal_mention	"Military personnel"	K0C041NI3:1077-1085	1.0
+:Entity_EDL_SPA_0000049	nominal_mention	"Military personnel"	K0C041NI3:1754-1762	1.0
+:Entity_EDL_SPA_0000049	nominal_mention	"Military personnel"	K0C041NI3:2190-2198	1.0
+:Entity_EDL_SPA_0000049	canonical_mention	"Military personnel"	K0C041NI5:810-818	1.0
+:Entity_EDL_SPA_0000049	nominal_mention	"Military personnel"	K0C041NI5:810-818	1.0
+:Entity_EDL_SPA_0000049	nominal_mention	"Military personnel"	K0C041NI5:1598-1606	1.0
+:Entity_EDL_SPA_0000049	nominal_mention	"Military personnel"	K0C041NI5:2698-2706	1.0
+:Entity_EDL_SPA_0000049	nominal_mention	"Military personnel"	K0C041NI5:4404-4412	1.0
+:Entity_EDL_SPA_0000049	canonical_mention	"Military personnel"	K0C047Z5C:1013-1021	1.0
+:Entity_EDL_SPA_0000049	nominal_mention	"Military personnel"	K0C047Z5C:1013-1021	1.0
 :Entity_EDL_SPA_0000049	link	NIL90000080
 :Entity_EDL_SPA_0000050	type	ORG
-:Entity_EDL_SPA_0000050	canonical_mention	"televisión"	K0C041NI3:687-696	1.0
-:Entity_EDL_SPA_0000050	nominal_mention	"televisión"	K0C041NI3:687-696	1.0
-:Entity_EDL_SPA_0000050	canonical_mention	"televisión"	K0C047Z5C:1319-1328	1.0
-:Entity_EDL_SPA_0000050	nominal_mention	"televisión"	K0C047Z5C:1319-1328	1.0
+:Entity_EDL_SPA_0000050	canonical_mention	"Television"	K0C041NI3:687-696	1.0
+:Entity_EDL_SPA_0000050	nominal_mention	"Television"	K0C041NI3:687-696	1.0
+:Entity_EDL_SPA_0000050	canonical_mention	"Television"	K0C047Z5C:1319-1328	1.0
+:Entity_EDL_SPA_0000050	nominal_mention	"Television"	K0C047Z5C:1319-1328	1.0
 :Entity_EDL_SPA_0000050	link	NIL90000081
 :Entity_EDL_SPA_0000051	type	PER
 :Entity_EDL_SPA_0000051	canonical_mention	"testigos"	K0C041NI3:728-735	1.0
@@ -3253,14 +3253,14 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000051	nominal_mention	"Testigos"	K0C041NI3:2171-2178	1.0
 :Entity_EDL_SPA_0000051	link	NIL90000082
 :Entity_EDL_SPA_0000052	type	PER
-:Entity_EDL_SPA_0000052	canonical_mention	"presidente"	K0C041NI3:747-756	1.0
-:Entity_EDL_SPA_0000052	nominal_mention	"presidente"	K0C041NI3:747-756	1.0
-:Entity_EDL_SPA_0000052	canonical_mention	"presidente"	K0C041NI5:338-347	1.0
-:Entity_EDL_SPA_0000052	nominal_mention	"presidente"	K0C041NI5:338-347	1.0
-:Entity_EDL_SPA_0000052	canonical_mention	"presidente"	K0C047Z5C:786-795	1.0
-:Entity_EDL_SPA_0000052	nominal_mention	"presidente"	K0C047Z5C:786-795	1.0
-:Entity_EDL_SPA_0000052	nominal_mention	"presidente"	K0C047Z5C:889-898	1.0
-:Entity_EDL_SPA_0000052	nominal_mention	"presidente"	K0C047Z5C:2551-2560	1.0
+:Entity_EDL_SPA_0000052	canonical_mention	"President"	K0C041NI3:747-756	1.0
+:Entity_EDL_SPA_0000052	nominal_mention	"President"	K0C041NI3:747-756	1.0
+:Entity_EDL_SPA_0000052	canonical_mention	"President"	K0C041NI5:338-347	1.0
+:Entity_EDL_SPA_0000052	nominal_mention	"President"	K0C041NI5:338-347	1.0
+:Entity_EDL_SPA_0000052	canonical_mention	"President"	K0C047Z5C:786-795	1.0
+:Entity_EDL_SPA_0000052	nominal_mention	"President"	K0C047Z5C:786-795	1.0
+:Entity_EDL_SPA_0000052	nominal_mention	"President"	K0C047Z5C:889-898	1.0
+:Entity_EDL_SPA_0000052	nominal_mention	"President"	K0C047Z5C:2551-2560	1.0
 :Entity_EDL_SPA_0000052	link	NIL90000083
 :Entity_EDL_SPA_0000053	type	VEH
 :Entity_EDL_SPA_0000053	canonical_mention	"dron"	K0C041NI3:802-805	1.0
@@ -3287,10 +3287,10 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000057	type	PER
 :Entity_EDL_SPA_0000057	canonical_mention	"utraderecha"	K0C041NI3:1181-1191	1.0
 :Entity_EDL_SPA_0000057	nominal_mention	"utraderecha"	K0C041NI3:1181-1191	1.0
-:Entity_EDL_SPA_0000057	canonical_mention	"ultraderecha"	K0C047Z5C:3095-3106	1.0
-:Entity_EDL_SPA_0000057	nominal_mention	"ultraderecha"	K0C047Z5C:3095-3106	1.0
-:Entity_EDL_SPA_0000057	nominal_mention	"ultraderecha"	K0C047Z5C:3262-3273	1.0
-:Entity_EDL_SPA_0000057	nominal_mention	"ultraderecha"	K0C047Z5C:3305-3316	1.0
+:Entity_EDL_SPA_0000057	canonical_mention	"Farright politics"	K0C047Z5C:3095-3106	1.0
+:Entity_EDL_SPA_0000057	nominal_mention	"Farright politics"	K0C047Z5C:3095-3106	1.0
+:Entity_EDL_SPA_0000057	nominal_mention	"Farright politics"	K0C047Z5C:3262-3273	1.0
+:Entity_EDL_SPA_0000057	nominal_mention	"Farright politics"	K0C047Z5C:3305-3316	1.0
 :Entity_EDL_SPA_0000057	link	NIL90000088
 :Entity_EDL_SPA_0000058	type	PER
 :Entity_EDL_SPA_0000058	canonical_mention	"aquellos"	K0C041NI3:1284-1291	1.0
@@ -3300,8 +3300,8 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000058	pronominal_mention	"que"	K0C047Z5C:1573-1575	1.0
 :Entity_EDL_SPA_0000058	link	NIL90000089
 :Entity_EDL_SPA_0000059	type	GPE
-:Entity_EDL_SPA_0000059	canonical_mention	"nación"	K0C041NI3:1446-1451	1.0
-:Entity_EDL_SPA_0000059	nominal_mention	"nación"	K0C041NI3:1446-1451	1.0
+:Entity_EDL_SPA_0000059	canonical_mention	"Nation"	K0C041NI3:1446-1451	1.0
+:Entity_EDL_SPA_0000059	nominal_mention	"Nation"	K0C041NI3:1446-1451	1.0
 :Entity_EDL_SPA_0000059	link	NIL90000090
 :Entity_EDL_SPA_0000060	type	PER
 :Entity_EDL_SPA_0000060	canonical_mention	"colaboradores"	K0C041NI3:1530-1542	1.0
@@ -3309,29 +3309,29 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000060	pronominal_mention	"sus"	K0C041NI3:1526-1528	1.0
 :Entity_EDL_SPA_0000060	link	NIL90000091
 :Entity_EDL_SPA_0000061	type	PER
-:Entity_EDL_SPA_0000061	canonical_mention	"oposición"	K0C041NI3:1703-1711	1.0
-:Entity_EDL_SPA_0000061	nominal_mention	"oposición"	K0C041NI3:1703-1711	1.0
-:Entity_EDL_SPA_0000061	canonical_mention	"oposición"	K0C041NI5:2208-2216	1.0
-:Entity_EDL_SPA_0000061	nominal_mention	"oposición"	K0C041NI5:2208-2216	1.0
-:Entity_EDL_SPA_0000061	nominal_mention	"oposición"	K0C041NI5:3865-3873	1.0
-:Entity_EDL_SPA_0000061	nominal_mention	"oposición"	K0C041NI5:5383-5391	1.0
+:Entity_EDL_SPA_0000061	canonical_mention	"Opposition"	K0C041NI3:1703-1711	1.0
+:Entity_EDL_SPA_0000061	nominal_mention	"Opposition"	K0C041NI3:1703-1711	1.0
+:Entity_EDL_SPA_0000061	canonical_mention	"Opposition"	K0C041NI5:2208-2216	1.0
+:Entity_EDL_SPA_0000061	nominal_mention	"Opposition"	K0C041NI5:2208-2216	1.0
+:Entity_EDL_SPA_0000061	nominal_mention	"Opposition"	K0C041NI5:3865-3873	1.0
+:Entity_EDL_SPA_0000061	nominal_mention	"Opposition"	K0C041NI5:5383-5391	1.0
 :Entity_EDL_SPA_0000061	pronominal_mention	"él"	K0C041NI5:5400-5401	1.0
 :Entity_EDL_SPA_0000061	link	NIL90000092
 :Entity_EDL_SPA_0000062	type	PER
-:Entity_EDL_SPA_0000062	canonical_mention	"ministro"	K0C041NI3:1806-1813	1.0
-:Entity_EDL_SPA_0000062	nominal_mention	"ministro"	K0C041NI3:1806-1813	1.0
-:Entity_EDL_SPA_0000062	canonical_mention	"ministro"	K0C047Z5C:637-644	1.0
-:Entity_EDL_SPA_0000062	nominal_mention	"ministro"	K0C047Z5C:637-644	1.0
-:Entity_EDL_SPA_0000062	nominal_mention	"ministro"	K0C047Z5C:1274-1281	1.0
-:Entity_EDL_SPA_0000062	nominal_mention	"ministro"	K0C047Z5C:1635-1642	1.0
+:Entity_EDL_SPA_0000062	canonical_mention	"Minister"	K0C041NI3:1806-1813	1.0
+:Entity_EDL_SPA_0000062	nominal_mention	"Minister"	K0C041NI3:1806-1813	1.0
+:Entity_EDL_SPA_0000062	canonical_mention	"Minister"	K0C047Z5C:637-644	1.0
+:Entity_EDL_SPA_0000062	nominal_mention	"Minister"	K0C047Z5C:637-644	1.0
+:Entity_EDL_SPA_0000062	nominal_mention	"Minister"	K0C047Z5C:1274-1281	1.0
+:Entity_EDL_SPA_0000062	nominal_mention	"Minister"	K0C047Z5C:1635-1642	1.0
 :Entity_EDL_SPA_0000062	link	NIL90000093
 :Entity_EDL_SPA_0000063	type	ORG
 :Entity_EDL_SPA_0000063	canonical_mention	"poderes"	K0C041NI3:1962-1968	1.0
 :Entity_EDL_SPA_0000063	nominal_mention	"poderes"	K0C041NI3:1962-1968	1.0
 :Entity_EDL_SPA_0000063	link	NIL90000094
 :Entity_EDL_SPA_0000064	type	LOC
-:Entity_EDL_SPA_0000064	canonical_mention	"planeta"	K0C041NI3:2374-2380	1.0
-:Entity_EDL_SPA_0000064	nominal_mention	"planeta"	K0C041NI3:2374-2380	1.0
+:Entity_EDL_SPA_0000064	canonical_mention	"Planet"	K0C041NI3:2374-2380	1.0
+:Entity_EDL_SPA_0000064	nominal_mention	"Planet"	K0C041NI3:2374-2380	1.0
 :Entity_EDL_SPA_0000064	link	NIL90000095
 :Entity_EDL_SPA_0000065	type	PER
 :Entity_EDL_SPA_0000065	canonical_mention	"guardias"	K0C041NI3:2830-2837	1.0
@@ -3349,11 +3349,11 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000066	nominal_mention	"drones"	K0C047Z5C:74-79	1.0
 :Entity_EDL_SPA_0000066	link	NIL90000097
 :Entity_EDL_SPA_0000067	type	PER
-:Entity_EDL_SPA_0000067	canonical_mention	"son"	K0C041NI3:1681-1683	1.0
-:Entity_EDL_SPA_0000067	nominal_mention	"son"	K0C041NI3:1681-1683	1.0
-:Entity_EDL_SPA_0000067	canonical_mention	"son"	K0C041NI5:4400-4402	1.0
-:Entity_EDL_SPA_0000067	nominal_mention	"son"	K0C041NI5:4400-4402	1.0
-:Entity_EDL_SPA_0000067	nominal_mention	"son"	K0C041NI5:4734-4736	1.0
+:Entity_EDL_SPA_0000067	canonical_mention	"Son"	K0C041NI3:1681-1683	1.0
+:Entity_EDL_SPA_0000067	nominal_mention	"Son"	K0C041NI3:1681-1683	1.0
+:Entity_EDL_SPA_0000067	canonical_mention	"Son"	K0C041NI5:4400-4402	1.0
+:Entity_EDL_SPA_0000067	nominal_mention	"Son"	K0C041NI5:4400-4402	1.0
+:Entity_EDL_SPA_0000067	nominal_mention	"Son"	K0C041NI5:4734-4736	1.0
 :Entity_EDL_SPA_0000067	link	NIL90000098
 :Entity_EDL_SPA_0000068	type	GPE
 :Entity_EDL_SPA_0000068	canonical_mention	"bolivariana"	K0C041NI5:1188-1198	1.0
@@ -3397,13 +3397,13 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000076	nominal_mention	"gobernante"	K0C041NI5:649-658	1.0
 :Entity_EDL_SPA_0000076	link	NIL90000123
 :Entity_EDL_SPA_0000077	type	PER
-:Entity_EDL_SPA_0000077	canonical_mention	"comandante"	K0C041NI5:852-861	1.0
-:Entity_EDL_SPA_0000077	nominal_mention	"comandante"	K0C041NI5:852-861	1.0
+:Entity_EDL_SPA_0000077	canonical_mention	"Commandant"	K0C041NI5:852-861	1.0
+:Entity_EDL_SPA_0000077	nominal_mention	"Commandant"	K0C041NI5:852-861	1.0
 :Entity_EDL_SPA_0000077	pronominal_mention	"su"	K0C041NI5:849-850	1.0
 :Entity_EDL_SPA_0000077	link	NIL90000124
 :Entity_EDL_SPA_0000078	type	PER
-:Entity_EDL_SPA_0000078	canonical_mention	"disidencia"	K0C041NI5:1116-1125	1.0
-:Entity_EDL_SPA_0000078	nominal_mention	"disidencia"	K0C041NI5:1116-1125	1.0
+:Entity_EDL_SPA_0000078	canonical_mention	"Dissident"	K0C041NI5:1116-1125	1.0
+:Entity_EDL_SPA_0000078	nominal_mention	"Dissident"	K0C041NI5:1116-1125	1.0
 :Entity_EDL_SPA_0000078	link	NIL90000125
 :Entity_EDL_SPA_0000079	type	PER
 :Entity_EDL_SPA_0000079	canonical_mention	"enemigos"	K0C041NI5:1142-1149	1.0
@@ -3436,12 +3436,12 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000084	type	PER
 :Entity_EDL_SPA_0000084	canonical_mention	"ellos"	K0C041NI5:2435-2439	1.0
 :Entity_EDL_SPA_0000084	pronominal_mention	"ellos"	K0C041NI5:2435-2439	1.0
-:Entity_EDL_SPA_0000084	nominal_mention	"25"	K0C041NI5:2429-2430	1.0
+:Entity_EDL_SPA_0000084	nominal_mention	"AD 25"	K0C041NI5:2429-2430	1.0
 :Entity_EDL_SPA_0000084	link	NIL90000131
 :Entity_EDL_SPA_0000085	type	ORG
-:Entity_EDL_SPA_0000085	canonical_mention	"Justicia"	K0C041NI5:2462-2469	1.0
-:Entity_EDL_SPA_0000085	nominal_mention	"Justicia"	K0C041NI5:2462-2469	1.0
-:Entity_EDL_SPA_0000085	nominal_mention	"justicia"	K0C041NI5:3021-3028	1.0
+:Entity_EDL_SPA_0000085	canonical_mention	"Justice"	K0C041NI5:2462-2469	1.0
+:Entity_EDL_SPA_0000085	nominal_mention	"Justice"	K0C041NI5:2462-2469	1.0
+:Entity_EDL_SPA_0000085	nominal_mention	"Justice"	K0C041NI5:3021-3028	1.0
 :Entity_EDL_SPA_0000085	link	NIL90000132
 :Entity_EDL_SPA_0000086	type	PER
 :Entity_EDL_SPA_0000086	canonical_mention	"confesos"	K0C041NI5:2491-2498	1.0
@@ -3456,12 +3456,12 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000088	nominal_mention	"patriotas"	K0C041NI5:2718-2726	1.0
 :Entity_EDL_SPA_0000088	link	NIL90000135
 :Entity_EDL_SPA_0000089	type	PER
-:Entity_EDL_SPA_0000089	canonical_mention	"blanco"	K0C041NI5:2940-2945	1.0
-:Entity_EDL_SPA_0000089	nominal_mention	"blanco"	K0C041NI5:2940-2945	1.0
+:Entity_EDL_SPA_0000089	canonical_mention	"Shades of white"	K0C041NI5:2940-2945	1.0
+:Entity_EDL_SPA_0000089	nominal_mention	"Shades of white"	K0C041NI5:2940-2945	1.0
 :Entity_EDL_SPA_0000089	link	NIL90000136
 :Entity_EDL_SPA_0000090	type	ORG
-:Entity_EDL_SPA_0000090	canonical_mention	"Ejecutivo"	K0C041NI5:3131-3139	1.0
-:Entity_EDL_SPA_0000090	nominal_mention	"Ejecutivo"	K0C041NI5:3131-3139	1.0
+:Entity_EDL_SPA_0000090	canonical_mention	"Executive"	K0C041NI5:3131-3139	1.0
+:Entity_EDL_SPA_0000090	nominal_mention	"Executive"	K0C041NI5:3131-3139	1.0
 :Entity_EDL_SPA_0000090	link	NIL90000137
 :Entity_EDL_SPA_0000091	type	PER
 :Entity_EDL_SPA_0000091	canonical_mention	"decena"	K0C041NI5:3217-3222	1.0
@@ -3472,27 +3472,27 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000092	nominal_mention	"señalados"	K0C041NI5:3227-3235	1.0
 :Entity_EDL_SPA_0000092	link	NIL90000139
 :Entity_EDL_SPA_0000093	type	LOC
-:Entity_EDL_SPA_0000093	canonical_mention	"extranjero"	K0C041NI5:3326-3335	1.0
-:Entity_EDL_SPA_0000093	nominal_mention	"extranjero"	K0C041NI5:3326-3335	1.0
+:Entity_EDL_SPA_0000093	canonical_mention	"Alien"	K0C041NI5:3326-3335	1.0
+:Entity_EDL_SPA_0000093	nominal_mention	"Alien"	K0C041NI5:3326-3335	1.0
 :Entity_EDL_SPA_0000093	link	NIL90000140
 :Entity_EDL_SPA_0000094	type	PER
-:Entity_EDL_SPA_0000094	canonical_mention	"concejal"	K0C041NI5:3664-3671	1.0
-:Entity_EDL_SPA_0000094	nominal_mention	"concejal"	K0C041NI5:3664-3671	1.0
+:Entity_EDL_SPA_0000094	canonical_mention	"Councillor"	K0C041NI5:3664-3671	1.0
+:Entity_EDL_SPA_0000094	nominal_mention	"Councillor"	K0C041NI5:3664-3671	1.0
 :Entity_EDL_SPA_0000094	link	NIL90000141
 :Entity_EDL_SPA_0000095	type	PER
-:Entity_EDL_SPA_0000095	canonical_mention	"político"	K0C041NI5:3785-3792	1.0
-:Entity_EDL_SPA_0000095	nominal_mention	"político"	K0C041NI5:3785-3792	1.0
+:Entity_EDL_SPA_0000095	canonical_mention	"Politician"	K0C041NI5:3785-3792	1.0
+:Entity_EDL_SPA_0000095	nominal_mention	"Politician"	K0C041NI5:3785-3792	1.0
 :Entity_EDL_SPA_0000095	pronominal_mention	"se"	K0C041NI5:3794-3795	1.0
 :Entity_EDL_SPA_0000095	link	NIL90000142
 :Entity_EDL_SPA_0000096	type	GPE
-:Entity_EDL_SPA_0000096	canonical_mention	"estado"	K0C041NI0:1231-1236	1.0
-:Entity_EDL_SPA_0000096	nominal_mention	"estado"	K0C041NI0:1231-1236	1.0
-:Entity_EDL_SPA_0000096	canonical_mention	"Estado"	K0C041NI5:3853-3858	1.0
-:Entity_EDL_SPA_0000096	nominal_mention	"Estado"	K0C041NI5:3853-3858	1.0
+:Entity_EDL_SPA_0000096	canonical_mention	"United States Department of State"	K0C041NI0:1231-1236	1.0
+:Entity_EDL_SPA_0000096	nominal_mention	"United States Department of State"	K0C041NI0:1231-1236	1.0
+:Entity_EDL_SPA_0000096	canonical_mention	"State"	K0C041NI5:3853-3858	1.0
+:Entity_EDL_SPA_0000096	nominal_mention	"State"	K0C041NI5:3853-3858	1.0
 :Entity_EDL_SPA_0000096	link	NIL90000143
 :Entity_EDL_SPA_0000097	type	VEH
-:Entity_EDL_SPA_0000097	canonical_mention	"uno"	K0C041NI5:4324-4326	1.0
-:Entity_EDL_SPA_0000097	nominal_mention	"uno"	K0C041NI5:4324-4326	1.0
+:Entity_EDL_SPA_0000097	canonical_mention	"1"	K0C041NI5:4324-4326	1.0
+:Entity_EDL_SPA_0000097	nominal_mention	"1"	K0C041NI5:4324-4326	1.0
 :Entity_EDL_SPA_0000097	link	NIL90000144
 :Entity_EDL_SPA_0000098	type	FAC
 :Entity_EDL_SPA_0000098	canonical_mention	"cuartel"	K0C041NI5:4508-4514	1.0
@@ -3528,31 +3528,31 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000103	nominal_mention	"presos"	K0C041NI5:4738-4743	1.0
 :Entity_EDL_SPA_0000103	link	NIL90000150
 :Entity_EDL_SPA_0000104	type	PER
-:Entity_EDL_SPA_0000104	canonical_mention	"víctimas"	K0C041NI5:5005-5012	1.0
-:Entity_EDL_SPA_0000104	nominal_mention	"víctimas"	K0C041NI5:5005-5012	1.0
-:Entity_EDL_SPA_0000104	canonical_mention	"víctimas"	K0C0448WK:1798-1805	1.0
-:Entity_EDL_SPA_0000104	nominal_mention	"víctimas"	K0C0448WK:1798-1805	1.0
+:Entity_EDL_SPA_0000104	canonical_mention	"Victims"	K0C041NI5:5005-5012	1.0
+:Entity_EDL_SPA_0000104	nominal_mention	"Victims"	K0C041NI5:5005-5012	1.0
+:Entity_EDL_SPA_0000104	canonical_mention	"Victims"	K0C0448WK:1798-1805	1.0
+:Entity_EDL_SPA_0000104	nominal_mention	"Victims"	K0C0448WK:1798-1805	1.0
 :Entity_EDL_SPA_0000104	link	NIL90000151
 :Entity_EDL_SPA_0000105	type	FAC
-:Entity_EDL_SPA_0000105	canonical_mention	"prisión"	K0C041NI5:5027-5033	1.0
-:Entity_EDL_SPA_0000105	nominal_mention	"prisión"	K0C041NI5:5027-5033	1.0
+:Entity_EDL_SPA_0000105	canonical_mention	"Prison"	K0C041NI5:5027-5033	1.0
+:Entity_EDL_SPA_0000105	nominal_mention	"Prison"	K0C041NI5:5027-5033	1.0
 :Entity_EDL_SPA_0000105	link	NIL90000152
 :Entity_EDL_SPA_0000106	type	FAC
 :Entity_EDL_SPA_0000106	canonical_mention	"hotel"	K0C041NI5:5040-5044	1.0
 :Entity_EDL_SPA_0000106	nominal_mention	"hotel"	K0C041NI5:5040-5044	1.0
 :Entity_EDL_SPA_0000106	link	NIL90000153
 :Entity_EDL_SPA_0000107	type	PER
-:Entity_EDL_SPA_0000107	canonical_mention	"magnicidas"	K0C041NI5:5083-5092	1.0
-:Entity_EDL_SPA_0000107	nominal_mention	"magnicidas"	K0C041NI5:5083-5092	1.0
+:Entity_EDL_SPA_0000107	canonical_mention	"Assassins"	K0C041NI5:5083-5092	1.0
+:Entity_EDL_SPA_0000107	nominal_mention	"Assassins"	K0C041NI5:5083-5092	1.0
 :Entity_EDL_SPA_0000107	link	NIL90000154
 :Entity_EDL_SPA_0000108	type	PER
 :Entity_EDL_SPA_0000108	canonical_mention	"cuerpos"	K0C041NI5:5113-5119	1.0
 :Entity_EDL_SPA_0000108	nominal_mention	"cuerpos"	K0C041NI5:5113-5119	1.0
 :Entity_EDL_SPA_0000108	link	NIL90000155
 :Entity_EDL_SPA_0000109	type	VEH
-:Entity_EDL_SPA_0000109	canonical_mention	"planes"	K0C041NI5:5247-5252	1.0
-:Entity_EDL_SPA_0000109	nominal_mention	"planes"	K0C041NI5:5247-5252	1.0
-:Entity_EDL_SPA_0000109	nominal_mention	"planes"	K0C041NI5:5413-5418	1.0
+:Entity_EDL_SPA_0000109	canonical_mention	"Planes Alicante"	K0C041NI5:5247-5252	1.0
+:Entity_EDL_SPA_0000109	nominal_mention	"Planes Alicante"	K0C041NI5:5247-5252	1.0
+:Entity_EDL_SPA_0000109	nominal_mention	"Planes Alicante"	K0C041NI5:5413-5418	1.0
 :Entity_EDL_SPA_0000109	link	NIL90000156
 :Entity_EDL_SPA_0000110	type	PER
 :Entity_EDL_SPA_0000110	canonical_mention	"lo"	K0C041NI5:202-203	1.0
@@ -3575,33 +3575,33 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000114	nominal_mention	"soldados"	K0C047Z5C:436-443	1.0
 :Entity_EDL_SPA_0000114	link	NIL90000164
 :Entity_EDL_SPA_0000115	type	PER
-:Entity_EDL_SPA_0000115	canonical_mention	"dirigentes"	K0C047Z5C:537-546	1.0
-:Entity_EDL_SPA_0000115	nominal_mention	"dirigentes"	K0C047Z5C:537-546	1.0
-:Entity_EDL_SPA_0000115	nominal_mention	"dirigente"	K0C047Z5C:2874-2882	1.0
+:Entity_EDL_SPA_0000115	canonical_mention	"Positions of authority"	K0C047Z5C:537-546	1.0
+:Entity_EDL_SPA_0000115	nominal_mention	"Positions of authority"	K0C047Z5C:537-546	1.0
+:Entity_EDL_SPA_0000115	nominal_mention	"Dirigent"	K0C047Z5C:2874-2882	1.0
 :Entity_EDL_SPA_0000115	link	NIL90000165
 :Entity_EDL_SPA_0000116	type	FAC
-:Entity_EDL_SPA_0000116	canonical_mention	"podio"	K0C047Z5C:572-576	1.0
-:Entity_EDL_SPA_0000116	nominal_mention	"podio"	K0C047Z5C:572-576	1.0
+:Entity_EDL_SPA_0000116	canonical_mention	"Podium"	K0C047Z5C:572-576	1.0
+:Entity_EDL_SPA_0000116	nominal_mention	"Podium"	K0C047Z5C:572-576	1.0
 :Entity_EDL_SPA_0000116	link	NIL90000166
 :Entity_EDL_SPA_0000117	type	ORG
 :Entity_EDL_SPA_0000117	canonical_mention	"cuerpo"	K0C047Z5C:1747-1752	1.0
 :Entity_EDL_SPA_0000117	nominal_mention	"cuerpo"	K0C047Z5C:1747-1752	1.0
 :Entity_EDL_SPA_0000117	link	NIL90000167
 :Entity_EDL_SPA_0000118	type	PER
-:Entity_EDL_SPA_0000118	canonical_mention	"bomberos"	K0C047Z5C:1757-1764	1.0
-:Entity_EDL_SPA_0000118	nominal_mention	"bomberos"	K0C047Z5C:1757-1764	1.0
+:Entity_EDL_SPA_0000118	canonical_mention	"Firefighters"	K0C047Z5C:1757-1764	1.0
+:Entity_EDL_SPA_0000118	nominal_mention	"Firefighters"	K0C047Z5C:1757-1764	1.0
 :Entity_EDL_SPA_0000118	link	NIL90000168
 :Entity_EDL_SPA_0000119	type	WEA
 :Entity_EDL_SPA_0000119	canonical_mention	"bombona"	K0C047Z5C:1857-1863	1.0
 :Entity_EDL_SPA_0000119	nominal_mention	"bombona"	K0C047Z5C:1857-1863	1.0
 :Entity_EDL_SPA_0000119	link	NIL90000169
 :Entity_EDL_SPA_0000120	type	FAC
-:Entity_EDL_SPA_0000120	canonical_mention	"calles"	K0C047Z5C:1891-1896	1.0
-:Entity_EDL_SPA_0000120	nominal_mention	"calles"	K0C047Z5C:1891-1896	1.0
+:Entity_EDL_SPA_0000120	canonical_mention	"Streets"	K0C047Z5C:1891-1896	1.0
+:Entity_EDL_SPA_0000120	nominal_mention	"Streets"	K0C047Z5C:1891-1896	1.0
 :Entity_EDL_SPA_0000120	link	NIL90000170
 :Entity_EDL_SPA_0000121	type	FAC
-:Entity_EDL_SPA_0000121	canonical_mention	"edificio"	K0C047Z5C:1980-1987	1.0
-:Entity_EDL_SPA_0000121	nominal_mention	"edificio"	K0C047Z5C:1980-1987	1.0
+:Entity_EDL_SPA_0000121	canonical_mention	"Building"	K0C047Z5C:1980-1987	1.0
+:Entity_EDL_SPA_0000121	nominal_mention	"Building"	K0C047Z5C:1980-1987	1.0
 :Entity_EDL_SPA_0000121	link	NIL90000171
 :Entity_EDL_SPA_0000122	type	FAC
 :Entity_EDL_SPA_0000122	canonical_mention	"algunas"	K0C047Z5C:2014-2020	1.0
@@ -3655,8 +3655,8 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000133	mention	"Spencer Ricks"	K0C041NI0:144-156	1.0
 :Entity_EDL_SPA_0000133	link	NIL90000183
 :Entity_EDL_SPA_0000134	type	FAC
-:Entity_EDL_SPA_0000134	canonical_mention	"comedor"	K0C041NI0:313-319	1.0
-:Entity_EDL_SPA_0000134	nominal_mention	"comedor"	K0C041NI0:313-319	1.0
+:Entity_EDL_SPA_0000134	canonical_mention	"Dining room"	K0C041NI0:313-319	1.0
+:Entity_EDL_SPA_0000134	nominal_mention	"Dining room"	K0C041NI0:313-319	1.0
 :Entity_EDL_SPA_0000134	link	NIL90000186
 :Entity_EDL_SPA_0000135	type	PER
 :Entity_EDL_SPA_0000135	canonical_mention	"alumnos"	K0C041NI0:364-370	1.0
@@ -3711,31 +3711,31 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000146	nominal_mention	"joven"	K0C0448WK:633-637	1.0
 :Entity_EDL_SPA_0000146	link	NIL90000207
 :Entity_EDL_SPA_0000147	type	FAC
-:Entity_EDL_SPA_0000147	canonical_mention	"casa"	K0C0448WK:657-660	1.0
-:Entity_EDL_SPA_0000147	nominal_mention	"casa"	K0C0448WK:657-660	1.0
-:Entity_EDL_SPA_0000147	nominal_mention	"casa"	K0C0448WK:916-919	1.0
-:Entity_EDL_SPA_0000147	nominal_mention	"casa"	K0C0448WK:1054-1057	1.0
+:Entity_EDL_SPA_0000147	canonical_mention	"House"	K0C0448WK:657-660	1.0
+:Entity_EDL_SPA_0000147	nominal_mention	"House"	K0C0448WK:657-660	1.0
+:Entity_EDL_SPA_0000147	nominal_mention	"House"	K0C0448WK:916-919	1.0
+:Entity_EDL_SPA_0000147	nominal_mention	"House"	K0C0448WK:1054-1057	1.0
 :Entity_EDL_SPA_0000147	link	NIL90000208
 :Entity_EDL_SPA_0000148	type	PER
-:Entity_EDL_SPA_0000148	canonical_mention	"profeta"	K0C0448WK:684-690	1.0
-:Entity_EDL_SPA_0000148	nominal_mention	"profeta"	K0C0448WK:684-690	1.0
+:Entity_EDL_SPA_0000148	canonical_mention	"Prophet"	K0C0448WK:684-690	1.0
+:Entity_EDL_SPA_0000148	nominal_mention	"Prophet"	K0C0448WK:684-690	1.0
 :Entity_EDL_SPA_0000148	link	NIL90000209
 :Entity_EDL_SPA_0000149	type	PER
-:Entity_EDL_SPA_0000149	canonical_mention	"madre"	K0C0448WK:1004-1008	1.0
-:Entity_EDL_SPA_0000149	nominal_mention	"madre"	K0C0448WK:1004-1008	1.0
+:Entity_EDL_SPA_0000149	canonical_mention	"Mother"	K0C0448WK:1004-1008	1.0
+:Entity_EDL_SPA_0000149	nominal_mention	"Mother"	K0C0448WK:1004-1008	1.0
 :Entity_EDL_SPA_0000149	pronominal_mention	"su"	K0C0448WK:1001-1002	1.0
 :Entity_EDL_SPA_0000149	link	NIL90000210
 :Entity_EDL_SPA_0000150	type	PER
-:Entity_EDL_SPA_0000150	canonical_mention	"familiar"	K0C0448WK:1059-1066	1.0
-:Entity_EDL_SPA_0000150	nominal_mention	"familiar"	K0C0448WK:1059-1066	1.0
+:Entity_EDL_SPA_0000150	canonical_mention	"Station wagon"	K0C0448WK:1059-1066	1.0
+:Entity_EDL_SPA_0000150	nominal_mention	"Station wagon"	K0C0448WK:1059-1066	1.0
 :Entity_EDL_SPA_0000150	link	NIL90000211
 :Entity_EDL_SPA_0000151	type	ORG
 :Entity_EDL_SPA_0000151	canonical_mention	"medios"	K0C0448WK:1146-1151	1.0
 :Entity_EDL_SPA_0000151	nominal_mention	"medios"	K0C0448WK:1146-1151	1.0
 :Entity_EDL_SPA_0000151	link	NIL90000212
 :Entity_EDL_SPA_0000152	type	PER
-:Entity_EDL_SPA_0000152	canonical_mention	"investigadores"	K0C0448WK:1246-1259	1.0
-:Entity_EDL_SPA_0000152	nominal_mention	"investigadores"	K0C0448WK:1246-1259	1.0
+:Entity_EDL_SPA_0000152	canonical_mention	"Researchers"	K0C0448WK:1246-1259	1.0
+:Entity_EDL_SPA_0000152	nominal_mention	"Researchers"	K0C0448WK:1246-1259	1.0
 :Entity_EDL_SPA_0000152	link	NIL90000213
 :Entity_EDL_SPA_0000153	type	PER
 :Entity_EDL_SPA_0000153	canonical_mention	"Los más"	K0C0448WK:1504-1510	1.0
@@ -3746,40 +3746,40 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000154	nominal_mention	"nacional"	K0C0448WK:1630-1637	1.0
 :Entity_EDL_SPA_0000154	link	NIL90000215
 :Entity_EDL_SPA_0000155	type	PER
-:Entity_EDL_SPA_0000155	canonical_mention	"niños"	K0C0448WK:1701-1705	1.0
-:Entity_EDL_SPA_0000155	nominal_mention	"niños"	K0C0448WK:1701-1705	1.0
+:Entity_EDL_SPA_0000155	canonical_mention	"Children"	K0C0448WK:1701-1705	1.0
+:Entity_EDL_SPA_0000155	nominal_mention	"Children"	K0C0448WK:1701-1705	1.0
 :Entity_EDL_SPA_0000155	link	NIL90000216
 :Entity_EDL_SPA_0000156	type	PER
 :Entity_EDL_SPA_0000156	canonical_mention	"ella"	K0C0448WK:1360-1363	1.0
 :Entity_EDL_SPA_0000156	pronominal_mention	"ella"	K0C0448WK:1360-1363	1.0
 :Entity_EDL_SPA_0000156	link	NIL90000217
 :Entity_EDL_SPA_0000157	type	ORG
-:Entity_EDL_SPA_0000157	canonical_mention	"Información"	K0C047Z5C:649-659	1.0
-:Entity_EDL_SPA_0000157	mention	"Información"	K0C047Z5C:649-659	1.0
-:Entity_EDL_SPA_0000157	mention	"Información"	K0C047Z5C:1647-1657	1.0
+:Entity_EDL_SPA_0000157	canonical_mention	"Information"	K0C047Z5C:649-659	1.0
+:Entity_EDL_SPA_0000157	mention	"Information"	K0C047Z5C:649-659	1.0
+:Entity_EDL_SPA_0000157	mention	"Information"	K0C047Z5C:1647-1657	1.0
 :Entity_EDL_SPA_0000157	link	Q11028
 :Entity_EDL_SPA_0000158	type	ORG
-:Entity_EDL_SPA_0000158	canonical_mention	"Defensa"	K0C041NI3:1821-1827	1.0
-:Entity_EDL_SPA_0000158	mention	"Defensa"	K0C041NI3:1821-1827	1.0
-:Entity_EDL_SPA_0000158	canonical_mention	"Defensa"	K0C041NI5:1526-1532	1.0
-:Entity_EDL_SPA_0000158	mention	"Defensa"	K0C041NI5:1526-1532	1.0
+:Entity_EDL_SPA_0000158	canonical_mention	"Defense"	K0C041NI3:1821-1827	1.0
+:Entity_EDL_SPA_0000158	mention	"Defense"	K0C041NI3:1821-1827	1.0
+:Entity_EDL_SPA_0000158	canonical_mention	"Defense"	K0C041NI5:1526-1532	1.0
+:Entity_EDL_SPA_0000158	mention	"Defense"	K0C041NI5:1526-1532	1.0
 :Entity_EDL_SPA_0000158	link	Q11209
 :Entity_EDL_SPA_0000159	type	VEH
 :Entity_EDL_SPA_0000159	canonical_mention	"Habanos"	K0C0448WH:578-584	1.0
 :Entity_EDL_SPA_0000159	mention	"Habanos"	K0C0448WH:578-584	1.0
 :Entity_EDL_SPA_0000159	link	Q1142914
 :Entity_EDL_SPA_0000160	type	GPE
-:Entity_EDL_SPA_0000160	canonical_mention	"WASHINGTON"	K0C041NI2:117-126	1.0
-:Entity_EDL_SPA_0000160	mention	"WASHINGTON"	K0C041NI2:117-126	1.0
+:Entity_EDL_SPA_0000160	canonical_mention	"Washington"	K0C041NI2:117-126	1.0
+:Entity_EDL_SPA_0000160	mention	"Washington"	K0C041NI2:117-126	1.0
 :Entity_EDL_SPA_0000160	link	Q1223
 :Entity_EDL_SPA_0000161	type	ORG
 :Entity_EDL_SPA_0000161	canonical_mention	"Efe"	K0C041NI3:739-741	1.0
 :Entity_EDL_SPA_0000161	mention	"Efe"	K0C041NI3:739-741	1.0
-:Entity_EDL_SPA_0000161	mention	"EFE"	K0C041NI3:2696-2698	1.0
-:Entity_EDL_SPA_0000161	canonical_mention	"EFE"	K0C041NI5:5468-5470	1.0
-:Entity_EDL_SPA_0000161	mention	"EFE"	K0C041NI5:5468-5470	1.0
-:Entity_EDL_SPA_0000161	canonical_mention	"EFE"	K0C047Z5C:3413-3415	1.0
-:Entity_EDL_SPA_0000161	mention	"EFE"	K0C047Z5C:3413-3415	1.0
+:Entity_EDL_SPA_0000161	mention	"Efe"	K0C041NI3:2696-2698	1.0
+:Entity_EDL_SPA_0000161	canonical_mention	"Efe"	K0C041NI5:5468-5470	1.0
+:Entity_EDL_SPA_0000161	mention	"Efe"	K0C041NI5:5468-5470	1.0
+:Entity_EDL_SPA_0000161	canonical_mention	"Efe"	K0C047Z5C:3413-3415	1.0
+:Entity_EDL_SPA_0000161	mention	"Efe"	K0C047Z5C:3413-3415	1.0
 :Entity_EDL_SPA_0000161	link	Q1274521
 :Entity_EDL_SPA_0000162	type	ORG
 :Entity_EDL_SPA_0000162	canonical_mention	"Reuters"	K0C047Z5C:3403-3409	1.0
@@ -3837,8 +3837,8 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000170	type	ORG
 :Entity_EDL_SPA_0000170	canonical_mention	"Europa Press"	K0C041NI0:345-356	1.0
 :Entity_EDL_SPA_0000170	mention	"Europa Press"	K0C041NI0:345-356	1.0
-:Entity_EDL_SPA_0000170	canonical_mention	"EUROPA PRESS"	K0C041NI2:137-148	1.0
-:Entity_EDL_SPA_0000170	mention	"EUROPA PRESS"	K0C041NI2:137-148	1.0
+:Entity_EDL_SPA_0000170	canonical_mention	"Europa Press"	K0C041NI2:137-148	1.0
+:Entity_EDL_SPA_0000170	mention	"Europa Press"	K0C041NI2:137-148	1.0
 :Entity_EDL_SPA_0000170	link	Q1659658
 :Entity_EDL_SPA_0000171	type	PER
 :Entity_EDL_SPA_0000171	canonical_mention	"La Patilla"	K0C041NI3:3127-3136	1.0
@@ -3853,20 +3853,20 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000172	nominal_mention	"localidad"	K0C041NI2:581-589	1.0
 :Entity_EDL_SPA_0000172	link	Q17156271
 :Entity_EDL_SPA_0000173	type	ORG
-:Entity_EDL_SPA_0000173	canonical_mention	"Supremo"	K0C041NI5:2071-2077	1.0
-:Entity_EDL_SPA_0000173	mention	"Supremo"	K0C041NI5:2071-2077	1.0
+:Entity_EDL_SPA_0000173	canonical_mention	"Supremum"	K0C041NI5:2071-2077	1.0
+:Entity_EDL_SPA_0000173	mention	"Supremum"	K0C041NI5:2071-2077	1.0
 :Entity_EDL_SPA_0000173	link	Q17502105
 :Entity_EDL_SPA_0000174	type	PER
 :Entity_EDL_SPA_0000174	canonical_mention	"Requesens"	K0C041NI5:4985-4993	1.0
 :Entity_EDL_SPA_0000174	mention	"Requesens"	K0C041NI5:4985-4993	1.0
 :Entity_EDL_SPA_0000174	link	Q182094
 :Entity_EDL_SPA_0000175	type	ORG
-:Entity_EDL_SPA_0000175	canonical_mention	"Parlamento"	K0C041NI5:1881-1890	1.0
-:Entity_EDL_SPA_0000175	mention	"Parlamento"	K0C041NI5:1881-1890	1.0
+:Entity_EDL_SPA_0000175	canonical_mention	"Parliament"	K0C041NI5:1881-1890	1.0
+:Entity_EDL_SPA_0000175	mention	"Parliament"	K0C041NI5:1881-1890	1.0
 :Entity_EDL_SPA_0000175	link	Q1892425
 :Entity_EDL_SPA_0000176	type	PER
-:Entity_EDL_SPA_0000176	canonical_mention	"Dios"	K0C0448WK:1395-1398	1.0
-:Entity_EDL_SPA_0000176	mention	"Dios"	K0C0448WK:1395-1398	1.0
+:Entity_EDL_SPA_0000176	canonical_mention	"God"	K0C0448WK:1395-1398	1.0
+:Entity_EDL_SPA_0000176	mention	"God"	K0C0448WK:1395-1398	1.0
 :Entity_EDL_SPA_0000176	link	Q190
 :Entity_EDL_SPA_0000177	type	PER
 :Entity_EDL_SPA_0000177	canonical_mention	"Vladimir Padrino"	K0C041NI3:1830-1845	1.0
@@ -3876,16 +3876,16 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000177	nominal_mention	"tres"	K0C041NI5:1557-1560	1.0
 :Entity_EDL_SPA_0000177	link	Q19519696
 :Entity_EDL_SPA_0000178	type	PER
-:Entity_EDL_SPA_0000178	canonical_mention	"Padrino"	K0C041NI3:1887-1893	1.0
-:Entity_EDL_SPA_0000178	mention	"Padrino"	K0C041NI3:1887-1893	1.0
+:Entity_EDL_SPA_0000178	canonical_mention	"Godparent"	K0C041NI3:1887-1893	1.0
+:Entity_EDL_SPA_0000178	mention	"Godparent"	K0C041NI3:1887-1893	1.0
 :Entity_EDL_SPA_0000178	link	Q223973
 :Entity_EDL_SPA_0000179	type	GPE
-:Entity_EDL_SPA_0000179	canonical_mention	"Salt Lake City"	K0C0448WK:924-937	1.0
-:Entity_EDL_SPA_0000179	mention	"Salt Lake City"	K0C0448WK:924-937	1.0
+:Entity_EDL_SPA_0000179	canonical_mention	"Salt Lake City Utah"	K0C0448WK:924-937	1.0
+:Entity_EDL_SPA_0000179	mention	"Salt Lake City Utah"	K0C0448WK:924-937	1.0
 :Entity_EDL_SPA_0000179	link	Q23337
 :Entity_EDL_SPA_0000180	type	ORG
-:Entity_EDL_SPA_0000180	canonical_mention	"Comunicación"	K0C041NI3:182-193	1.0
-:Entity_EDL_SPA_0000180	mention	"Comunicación"	K0C041NI3:182-193	1.0
+:Entity_EDL_SPA_0000180	canonical_mention	"Communication"	K0C041NI3:182-193	1.0
+:Entity_EDL_SPA_0000180	mention	"Communication"	K0C041NI3:182-193	1.0
 :Entity_EDL_SPA_0000180	link	Q2736535
 :Entity_EDL_SPA_0000181	type	GPE
 :Entity_EDL_SPA_0000181	canonical_mention	"Bogotá"	K0C041NI5:1941-1946	1.0
@@ -3901,8 +3901,8 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000182	pronominal_mention	"que"	K0C0448WH:205-207	1.0
 :Entity_EDL_SPA_0000182	link	Q28778443
 :Entity_EDL_SPA_0000183	type	PER
-:Entity_EDL_SPA_0000183	canonical_mention	"Óscar Pérez"	K0C041NI5:4567-4577	1.0
-:Entity_EDL_SPA_0000183	mention	"Óscar Pérez"	K0C041NI5:4567-4577	1.0
+:Entity_EDL_SPA_0000183	canonical_mention	"Oscar Perez"	K0C041NI5:4567-4577	1.0
+:Entity_EDL_SPA_0000183	mention	"Oscar Perez"	K0C041NI5:4567-4577	1.0
 :Entity_EDL_SPA_0000183	nominal_mention	"expolicía"	K0C041NI5:4557-4565	1.0
 :Entity_EDL_SPA_0000183	link	Q293437
 :Entity_EDL_SPA_0000184	type	PER
@@ -3911,17 +3911,17 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000184	nominal_mention	"vagabundo"	K0C0448WK:976-984	1.0
 :Entity_EDL_SPA_0000184	link	Q29451
 :Entity_EDL_SPA_0000185	type	GPE
-:Entity_EDL_SPA_0000185	canonical_mention	"colombiano"	K0C041NI5:1748-1757	1.0
-:Entity_EDL_SPA_0000185	mention	"colombiano"	K0C041NI5:1748-1757	1.0
+:Entity_EDL_SPA_0000185	canonical_mention	"Colombian people"	K0C041NI5:1748-1757	1.0
+:Entity_EDL_SPA_0000185	mention	"Colombian people"	K0C041NI5:1748-1757	1.0
 :Entity_EDL_SPA_0000185	link	Q2997267
 :Entity_EDL_SPA_0000186	type	GPE
-:Entity_EDL_SPA_0000186	canonical_mention	"Estados Unidos"	K0C041NI2:222-235	1.0
-:Entity_EDL_SPA_0000186	mention	"Estados Unidos"	K0C041NI2:222-235	1.0
-:Entity_EDL_SPA_0000186	canonical_mention	"Estados Unidos"	K0C041NI5:3164-3177	1.0
-:Entity_EDL_SPA_0000186	mention	"Estados Unidos"	K0C041NI5:3164-3177	1.0
-:Entity_EDL_SPA_0000186	mention	"Estados Unidos"	K0C041NI5:3387-3400	1.0
-:Entity_EDL_SPA_0000186	canonical_mention	"EEUU"	K0C0448WK:623-626	1.0
-:Entity_EDL_SPA_0000186	mention	"EEUU"	K0C0448WK:623-626	1.0
+:Entity_EDL_SPA_0000186	canonical_mention	"United States"	K0C041NI2:222-235	1.0
+:Entity_EDL_SPA_0000186	mention	"United States"	K0C041NI2:222-235	1.0
+:Entity_EDL_SPA_0000186	canonical_mention	"United States"	K0C041NI5:3164-3177	1.0
+:Entity_EDL_SPA_0000186	mention	"United States"	K0C041NI5:3164-3177	1.0
+:Entity_EDL_SPA_0000186	mention	"United States"	K0C041NI5:3387-3400	1.0
+:Entity_EDL_SPA_0000186	canonical_mention	"United States"	K0C0448WK:623-626	1.0
+:Entity_EDL_SPA_0000186	mention	"United States"	K0C0448WK:623-626	1.0
 :Entity_EDL_SPA_0000186	link	Q30
 :Entity_EDL_SPA_0000187	type	PER
 :Entity_EDL_SPA_0000187	canonical_mention	"Jorge Rodríguez"	K0C041NI3:209-223	1.0
@@ -3940,20 +3940,20 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000189	nominal_mention	"agencia"	K0C047Z5C:1780-1786	1.0
 :Entity_EDL_SPA_0000189	link	Q40469
 :Entity_EDL_SPA_0000190	type	GPE
-:Entity_EDL_SPA_0000190	canonical_mention	"Estambul"	K0C0448WH:311-318	1.0
-:Entity_EDL_SPA_0000190	mention	"Estambul"	K0C0448WH:311-318	1.0
+:Entity_EDL_SPA_0000190	canonical_mention	"Istanbul"	K0C0448WH:311-318	1.0
+:Entity_EDL_SPA_0000190	mention	"Istanbul"	K0C0448WH:311-318	1.0
 :Entity_EDL_SPA_0000190	link	Q406
 :Entity_EDL_SPA_0000191	type	GPE
-:Entity_EDL_SPA_0000191	canonical_mention	"Perú"	K0C041NI5:3158-3161	1.0
-:Entity_EDL_SPA_0000191	mention	"Perú"	K0C041NI5:3158-3161	1.0
+:Entity_EDL_SPA_0000191	canonical_mention	"Peru"	K0C041NI5:3158-3161	1.0
+:Entity_EDL_SPA_0000191	mention	"Peru"	K0C041NI5:3158-3161	1.0
 :Entity_EDL_SPA_0000191	link	Q419
 :Entity_EDL_SPA_0000192	type	GPE
-:Entity_EDL_SPA_0000192	canonical_mention	"Turquía"	K0C0448WH:780-786	1.0
-:Entity_EDL_SPA_0000192	mention	"Turquía"	K0C0448WH:780-786	1.0
+:Entity_EDL_SPA_0000192	canonical_mention	"Turkey"	K0C0448WH:780-786	1.0
+:Entity_EDL_SPA_0000192	mention	"Turkey"	K0C0448WH:780-786	1.0
 :Entity_EDL_SPA_0000192	link	Q43
 :Entity_EDL_SPA_0000193	type	ORG
-:Entity_EDL_SPA_0000193	canonical_mention	"America’s Most Wanted"	K0C0448WK:278-298	1.0
-:Entity_EDL_SPA_0000193	mention	"America’s Most Wanted"	K0C0448WK:278-298	1.0
+:Entity_EDL_SPA_0000193	canonical_mention	"Americas Most Wanted"	K0C0448WK:278-298	1.0
+:Entity_EDL_SPA_0000193	mention	"Americas Most Wanted"	K0C0448WK:278-298	1.0
 :Entity_EDL_SPA_0000193	link	Q467577
 :Entity_EDL_SPA_0000194	type	PER
 :Entity_EDL_SPA_0000194	canonical_mention	"Rodríguez"	K0C041NI3:401-409	1.0
@@ -3968,18 +3968,18 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000194	nominal_mention	"ministro"	K0C047Z5C:1118-1125	1.0
 :Entity_EDL_SPA_0000194	link	Q4714652
 :Entity_EDL_SPA_0000195	type	ORG
-:Entity_EDL_SPA_0000195	canonical_mention	"Estado Islámico"	K0C041NI0:955-969	1.0
-:Entity_EDL_SPA_0000195	mention	"Estado Islámico"	K0C041NI0:955-969	1.0
-:Entity_EDL_SPA_0000195	mention	"Estado Islámico"	K0C041NI0:1151-1165	1.0
-:Entity_EDL_SPA_0000195	canonical_mention	"Estado Islámico"	K0C041NI2:46-60	1.0
-:Entity_EDL_SPA_0000195	mention	"Estado Islámico"	K0C041NI2:46-60	1.0
-:Entity_EDL_SPA_0000195	mention	"Estado Islámico"	K0C041NI2:358-372	1.0
-:Entity_EDL_SPA_0000195	mention	"Estado Islámico"	K0C041NI2:1287-1301	1.0
-:Entity_EDL_SPA_0000195	mention	"Estado Islámico"	K0C041NI2:1538-1552	1.0
+:Entity_EDL_SPA_0000195	canonical_mention	"Islamic State of Iraq and the Levant"	K0C041NI0:955-969	1.0
+:Entity_EDL_SPA_0000195	mention	"Islamic State of Iraq and the Levant"	K0C041NI0:955-969	1.0
+:Entity_EDL_SPA_0000195	mention	"Islamic State of Iraq and the Levant"	K0C041NI0:1151-1165	1.0
+:Entity_EDL_SPA_0000195	canonical_mention	"Islamic State of Iraq and the Levant"	K0C041NI2:46-60	1.0
+:Entity_EDL_SPA_0000195	mention	"Islamic State of Iraq and the Levant"	K0C041NI2:46-60	1.0
+:Entity_EDL_SPA_0000195	mention	"Islamic State of Iraq and the Levant"	K0C041NI2:358-372	1.0
+:Entity_EDL_SPA_0000195	mention	"Islamic State of Iraq and the Levant"	K0C041NI2:1287-1301	1.0
+:Entity_EDL_SPA_0000195	mention	"Islamic State of Iraq and the Levant"	K0C041NI2:1538-1552	1.0
 :Entity_EDL_SPA_0000195	link	Q47543
 :Entity_EDL_SPA_0000196	type	LOC
-:Entity_EDL_SPA_0000196	canonical_mention	"norteamericano"	K0C041NI0:206-219	1.0
-:Entity_EDL_SPA_0000196	mention	"norteamericano"	K0C041NI0:206-219	1.0
+:Entity_EDL_SPA_0000196	canonical_mention	"North American"	K0C041NI0:206-219	1.0
+:Entity_EDL_SPA_0000196	mention	"North American"	K0C041NI0:206-219	1.0
 :Entity_EDL_SPA_0000196	link	Q49
 :Entity_EDL_SPA_0000197	type	ORG
 :Entity_EDL_SPA_0000197	canonical_mention	"GNB"	K0C041NI3:1029-1031	1.0
@@ -4055,36 +4055,36 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000200	mention	"Mitchell"	K0C0448WK:1330-1337	1.0
 :Entity_EDL_SPA_0000200	link	Q6881119
 :Entity_EDL_SPA_0000201	type	GPE
-:Entity_EDL_SPA_0000201	canonical_mention	"venezolana"	K0C041NI3:112-121	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolana"	K0C041NI3:112-121	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolano"	K0C041NI3:758-767	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolana"	K0C041NI3:1193-1202	1.0
+:Entity_EDL_SPA_0000201	canonical_mention	"Venezuela"	K0C041NI3:112-121	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C041NI3:112-121	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C041NI3:758-767	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C041NI3:1193-1202	1.0
 :Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C041NI3:13-21	1.0
 :Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C041NI3:198-206	1.0
 :Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C041NI3:2312-2320	1.0
 :Entity_EDL_SPA_0000201	nominal_mention	"país"	K0C041NI3:2326-2329	1.0
-:Entity_EDL_SPA_0000201	canonical_mention	"venezolanos"	K0C041NI5:694-704	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolanos"	K0C041NI5:694-704	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolano"	K0C041NI5:1892-1901	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolana"	K0C041NI5:2218-2227	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolana"	K0C041NI5:2471-2480	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolano"	K0C041NI5:3523-3532	1.0
+:Entity_EDL_SPA_0000201	canonical_mention	"Venezuela"	K0C041NI5:694-704	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C041NI5:694-704	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C041NI5:1892-1901	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C041NI5:2218-2227	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C041NI5:2471-2480	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C041NI5:3523-3532	1.0
 :Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C041NI5:169-177	1.0
 :Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C041NI5:996-1004	1.0
-:Entity_EDL_SPA_0000201	canonical_mention	"venezolanos"	K0C0448WH:1046-1056	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolanos"	K0C0448WH:1046-1056	1.0
-:Entity_EDL_SPA_0000201	nominal_mention	"Venezolanos"	K0C0448WH:61-71	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolana"	K0C0448WH:944-953	1.0
+:Entity_EDL_SPA_0000201	canonical_mention	"Venezuela"	K0C0448WH:1046-1056	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C0448WH:1046-1056	1.0
+:Entity_EDL_SPA_0000201	nominal_mention	"Venezuela"	K0C0448WH:61-71	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C0448WH:944-953	1.0
 :Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C0448WH:521-529	1.0
 :Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C0448WH:807-815	1.0
 :Entity_EDL_SPA_0000201	nominal_mention	"país"	K0C0448WH:960-963	1.0
-:Entity_EDL_SPA_0000201	canonical_mention	"venezolano"	K0C047Z5C:1093-1102	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolano"	K0C047Z5C:1093-1102	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolana"	K0C047Z5C:1467-1476	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolana"	K0C047Z5C:2077-2086	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolano"	K0C047Z5C:2884-2893	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolana"	K0C047Z5C:3108-3117	1.0
-:Entity_EDL_SPA_0000201	mention	"venezolana"	K0C047Z5C:3275-3284	1.0
+:Entity_EDL_SPA_0000201	canonical_mention	"Venezuela"	K0C047Z5C:1093-1102	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C047Z5C:1093-1102	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C047Z5C:1467-1476	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C047Z5C:2077-2086	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C047Z5C:2884-2893	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C047Z5C:3108-3117	1.0
+:Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C047Z5C:3275-3284	1.0
 :Entity_EDL_SPA_0000201	mention	"Venezuela"	K0C047Z5C:136-144	1.0
 :Entity_EDL_SPA_0000201	link	Q717
 :Entity_EDL_SPA_0000202	type	ORG
@@ -4122,8 +4122,8 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000206	mention	"Florida"	K0C047Z5C:3197-3203	1.0
 :Entity_EDL_SPA_0000206	link	Q812
 :Entity_EDL_SPA_0000207	type	LOC
-:Entity_EDL_SPA_0000207	canonical_mention	"América"	K0C0448WK:1524-1530	1.0
-:Entity_EDL_SPA_0000207	mention	"América"	K0C0448WK:1524-1530	1.0
+:Entity_EDL_SPA_0000207	canonical_mention	"Americas"	K0C0448WK:1524-1530	1.0
+:Entity_EDL_SPA_0000207	mention	"Americas"	K0C0448WK:1524-1530	1.0
 :Entity_EDL_SPA_0000207	link	Q828
 :Entity_EDL_SPA_0000208	type	GPE
 :Entity_EDL_SPA_0000208	canonical_mention	"Utah"	K0C041NI0:13-16	1.0
@@ -4140,23 +4140,23 @@ RPI_BLENDER1
 :Entity_EDL_SPA_0000208	mention	"Utah"	K0C0448WK:617-620	1.0
 :Entity_EDL_SPA_0000208	link	Q829
 :Entity_EDL_SPA_0000209	type	ORG
-:Entity_EDL_SPA_0000209	canonical_mention	"FBI"	K0C041NI5:3451-3453	1.0
-:Entity_EDL_SPA_0000209	mention	"FBI"	K0C041NI5:3451-3453	1.0
+:Entity_EDL_SPA_0000209	canonical_mention	"Federal Bureau of Investigation"	K0C041NI5:3451-3453	1.0
+:Entity_EDL_SPA_0000209	mention	"Federal Bureau of Investigation"	K0C041NI5:3451-3453	1.0
 :Entity_EDL_SPA_0000209	link	Q8333
 :Entity_EDL_SPA_0000210	type	ORG
 :Entity_EDL_SPA_0000210	canonical_mention	"Interpol"	K0C041NI5:3106-3113	1.0
 :Entity_EDL_SPA_0000210	mention	"Interpol"	K0C041NI5:3106-3113	1.0
 :Entity_EDL_SPA_0000210	link	Q8475
 :Entity_EDL_SPA_0000211	type	GPE
-:Entity_EDL_SPA_0000211	canonical_mention	"Miami"	K0C0448WH:53-57	1.0
-:Entity_EDL_SPA_0000211	mention	"Miami"	K0C0448WH:53-57	1.0
-:Entity_EDL_SPA_0000211	mention	"Miami"	K0C0448WH:76-80	1.0
+:Entity_EDL_SPA_0000211	canonical_mention	"Miami Florida"	K0C0448WH:53-57	1.0
+:Entity_EDL_SPA_0000211	mention	"Miami Florida"	K0C0448WH:53-57	1.0
+:Entity_EDL_SPA_0000211	mention	"Miami Florida"	K0C0448WH:76-80	1.0
 :Entity_EDL_SPA_0000211	link	Q8652
 :Entity_EDL_SPA_0000212	type	GPE
-:Entity_EDL_SPA_0000212	canonical_mention	"colombiana"	K0C047Z5C:2093-2102	1.0
-:Entity_EDL_SPA_0000212	mention	"colombiana"	K0C047Z5C:2093-2102	1.0
-:Entity_EDL_SPA_0000212	mention	"colombiana"	K0C047Z5C:3121-3130	1.0
-:Entity_EDL_SPA_0000212	mention	"colombiana"	K0C047Z5C:3318-3327	1.0
+:Entity_EDL_SPA_0000212	canonical_mention	"Colombiana"	K0C047Z5C:2093-2102	1.0
+:Entity_EDL_SPA_0000212	mention	"Colombiana"	K0C047Z5C:2093-2102	1.0
+:Entity_EDL_SPA_0000212	mention	"Colombiana"	K0C047Z5C:3121-3130	1.0
+:Entity_EDL_SPA_0000212	mention	"Colombiana"	K0C047Z5C:3318-3327	1.0
 :Entity_EDL_SPA_0000212	link	Q868329
 :Entity_EDL_SPA_0000213	type	ORG
 :Entity_EDL_SPA_0000213	canonical_mention	"Twitter"	K0C041NI0:135-141	1.0

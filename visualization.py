@@ -36,11 +36,14 @@ def read_coref(coref_fp):
             if not es[0] in cluster2mention:
                 cluster2mention[es[0]] = {
                     'mentions': [],
-                    'type': []
+                    'type': [],
+                    'modality': []
                 }
             if len(es) <= 4:
                 if 'type' in es[1].lower():
                     cluster2mention[es[0]]['type'].append(es[2])
+                if 'modality' in es[1].lower():
+                    cluster2mention[es[0]]['modality'].append(es[2])
                 continue
             if not 'mention' in es[1]: continue
             if not es[-2] in cluster2mention[es[0]]['mentions']:
@@ -50,11 +53,15 @@ def read_coref(coref_fp):
 def generate_visualization(docs, cluster2mention, output):
     with open(output, 'w+', encoding='utf-8') as f:
         for ix, c in enumerate(cluster2mention):
+            if len(cluster2mention[c]['modality']) > 0:
+                modality_info = cluster2mention[c]['modality'][0]
+            else:
+                modality_info = 'N/A'
             if len(cluster2mention[c]['type']) == 1:
                 type_info = cluster2mention[c]['type'][0]
-                f.write('<hr><h3>Cluster {} (Type = {})</h3>'.format(ix+1, type_info))
+                f.write('<hr><h3>Cluster {} (Type = {}) (Modality = {})</h3>'.format(ix+1, type_info, modality_info))
             else:
-                f.write('<hr><h3>Cluster {}</h3>'.format(ix+1))
+                f.write('<hr><h3>Cluster {} (Modality = {})</h3>'.format(ix+1, modality_info))
             for m_index, m in enumerate(cluster2mention[c]['mentions']):
                 doc_id, m_start, m_end = locstr_to_loc(m)
                 if not doc_id in docs: continue

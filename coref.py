@@ -12,7 +12,7 @@ from event_coref import event_coref
 from utils import create_dir_if_not_exist
 from refine_entity_coref import refine_entity_coref
 from attribute_classifiers import generate_hedge_preds, generate_realis_preds, generate_polarity_preds
-from scripts import filter_relation, merge_inputs, remove_entities, separate_files
+from scripts import filter_relation, merge_inputs, remove_entities, separate_files, apply_attrs
 from scripts import align_relation, align_event, docs_filtering, use_es_translation, string_repr, fix_event_types
 
 # Main code
@@ -118,6 +118,9 @@ if __name__ == "__main__":
 
     # Fix event types
     fix_event_types(output_event)
+
+    # apply_attrs
+    apply_attrs(args.coreference_output)
 
     # Separate files into English / Spanish
     separate_files(output_entity, output_event, output_relation, english_docs, spanish_docs)
