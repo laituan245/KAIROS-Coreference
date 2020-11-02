@@ -1,4 +1,5 @@
 import nltk
+import json
 nltk.download('treebank')
 nltk.download('conll2000')
 nltk.download('wordnet')
