@@ -9,3 +9,4 @@ from scripts.separate_files import separate_files
 from scripts.fix_event_types import fix_event_types
 from scripts.use_es_translation import use_es_translation
 from scripts.apply_attrs import apply_attrs
+from scripts.remove_arguments import remove_arguments

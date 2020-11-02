@@ -87,7 +87,6 @@
 ::Event_0000000	mention.actual	"exploded"	K0C041O37:4021-4028	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O37:4021-4028	1.0000
 ::Event_0000000	Conflict.Attack.DetonateExplode_ExplosiveDevice.actual	:Entity_EDL_0000086	K0C041O37:4003-4007	1.0000
-::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000476	K0C041O37:4090-4094	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"detonaron"	K0C041NI3:876-884	1.0000
@@ -100,7 +99,6 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attack"	K0C047Z5A:1774-1779	0.3999
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C047Z5A:1774-1779	0.3999
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000618	K0C047Z5A:1725-1731	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attack"	K0C041O3D:2683-2688	1.0000
@@ -387,14 +385,12 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attack"	K0C047Z5A:2554-2559	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C047Z5A:2554-2559	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Attacker.actual	:Entity_EDL_0000000	K0C047Z5A:2537-2542	0.7204
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"exploding"	K0C041O3D:2795-2803	0.4509
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O3D:2795-2803	0.4509
 ::Event_0000000	mention.actual	"exploding"	K0C041O3D:2795-2803	0.4509
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O3D:2795-2803	0.4509
-::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000754	K0C041O3D:2772-2778	1.0000
 ::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C041O3D:2805-2809	1.0000
 ::Event_0000000	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000002	K0C041O3D:2866-2872	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
@@ -629,7 +625,6 @@
 ::Event_0000002	modality	actual
 ::Event_0000002	mention.actual	"sentencing"	K0C047Z59:5177-5186	1.0000
 ::Event_0000002	canonical_mention.actual	"Michael Westfall court or judge sentenced Martin Farnsworth for <arg3> crime to <arg4> sentence in <arg5> place"	K0C047Z59:5177-5186	1.0000
-::Event_0000002	Justice.Sentence.Unspecified_Defendant.actual	:Entity_EDL_0000009	K0C047Z59:5133-5140	1.0000
 ::Event_0000002	Justice.Sentence.Unspecified_Defendant.actual	:Entity_EDL_0000001	K0C047Z59:5157-5166	1.0000
 ::Event_0000002	type	Justice.Sentence.Unspecified
 ::Event_0000002	modality	actual

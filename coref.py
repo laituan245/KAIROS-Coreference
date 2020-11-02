@@ -12,7 +12,7 @@ from event_coref import event_coref
 from utils import create_dir_if_not_exist
 from refine_entity_coref import refine_entity_coref
 from attribute_classifiers import generate_hedge_preds, generate_realis_preds, generate_polarity_preds
-from scripts import filter_relation, merge_inputs, remove_entities, separate_files, apply_attrs
+from scripts import filter_relation, merge_inputs, remove_entities, separate_files, apply_attrs, remove_arguments
 from scripts import align_relation, align_event, docs_filtering, use_es_translation, string_repr, fix_event_types
 
 # Main code
@@ -100,6 +100,9 @@ if __name__ == "__main__":
 
         # Run aligning event
         align_event(output_entity, output_event)
+
+        # Run remove arguments
+        remove_arguments(output_entity, output_event, args.coreference_output)
 
         # Run string_repr
         string_repr(output_entity, output_event)
