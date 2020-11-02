@@ -13,7 +13,7 @@ from utils import create_dir_if_not_exist
 from refine_entity_coref import refine_entity_coref
 from attribute_classifiers import generate_hedge_preds, generate_realis_preds, generate_polarity_preds
 from scripts import filter_relation, merge_inputs, remove_entities, separate_files
-from scripts import align_relation, align_event, docs_filtering, string_repr, fix_event_types
+from scripts import align_relation, align_event, docs_filtering, use_es_translation, string_repr, fix_event_types
 
 # Main code
 if __name__ == "__main__":
@@ -38,6 +38,9 @@ if __name__ == "__main__":
     generate_realis_preds(en_event_cs_path, en_json_dir, args.coreference_output)
     generate_polarity_preds(en_event_cs_path, en_json_dir, args.coreference_output)
     torch.cuda.empty_cache()
+
+    # Use ES translation
+    use_es_translation(join(args.linking_output, 'es/linking'))
 
     # Merging en and es
     args.merged_input = join(args.coreference_output, 'merged_input')

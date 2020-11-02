@@ -7,3 +7,4 @@ from scripts.merge_inputs import merge_inputs
 from scripts.remove_entities import remove_entities
 from scripts.separate_files import separate_files
 from scripts.fix_event_types import fix_event_types
+from scripts.use_es_translation import use_es_translation
