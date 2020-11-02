@@ -76,6 +76,6 @@ def separate_files(entity_output, event_output, relation_output, english_docs, s
             # Output
             base_output_path = join(output_path, language)
             create_dir_if_not_exist(base_output_path)
-            with open(join(base_output_path, '{}.cs'.format(name)), 'w+') as f:
+            with open(join(base_output_path, '{}.cs'.format(name)), 'w+', encoding='utf-8') as f:
                 for line in filtered_lines:
                     f.write('{}\n'.format(line.strip()))
