@@ -11,6 +11,13 @@ def read_cs(path):
     with open(path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
         lines = [line.strip() for line in lines]
+        # Filter out modality lines
+        filtered_lines = []
+        for l in lines:
+            es = l.strip().split('\t')
+            if es[1] == 'modality': continue
+            filtered_lines.append(l)
+        lines = filtered_lines
         return lines
 
 def separate_files(entity_output, event_output, relation_output, english_docs, spanish_docs):
