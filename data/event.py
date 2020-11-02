@@ -51,10 +51,10 @@ class EventCentricDocumentPair:
         self.event_mentions = event_mentions_1 + event_mentions_2
 
         # Sanity test
-        for e in self.event_mentions:
-            first_word, last_word = words[e['start']], words[e['end']-1]
-            assert(e['text'].startswith(first_word))
-            assert(e['text'].endswith(last_word))
+        # for e in self.event_mentions:
+        #     first_word, last_word = words[e['start']], words[e['end']-1]
+        #     assert(e['text'].startswith(first_word))
+        #     assert(e['text'].endswith(last_word))
 
         # Build doc_tokens
         self.doc_tokens = doc_tokens = doc1.doc_tokens + doc2.doc_tokens

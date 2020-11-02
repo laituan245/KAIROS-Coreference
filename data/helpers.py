@@ -51,7 +51,7 @@ def read_cs(path, run_sanity_checks=True, skip_firstline=False):
                 if not 'text' in m:
                     no_text_ctx += 1
                     continue
-                assert(len(m['text']) == m['end'] - m['start'] + 1) # Inclusive Endpoints
+                #assert(len(m['text']) == m['end'] - m['start'] + 1) # Inclusive Endpoints
         print('Total number of mentions: {}'.format(ctx))
         print('{} mentions do not have text field'.format(no_text_ctx))
 
