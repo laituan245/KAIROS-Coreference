@@ -37,6 +37,7 @@ if __name__ == "__main__":
     generate_hedge_preds(en_event_cs_path, en_json_dir, args.coreference_output)
     generate_realis_preds(en_event_cs_path, en_json_dir, args.coreference_output)
     generate_polarity_preds(en_event_cs_path, en_json_dir, args.coreference_output)
+    torch.cuda.empty_cache()
 
     # Merging en and es
     args.merged_input = join(args.coreference_output, 'merged_input')

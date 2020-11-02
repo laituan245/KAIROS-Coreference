@@ -194,4 +194,5 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                 f.write('{}\n'.format(link_line))
 
 
+    model.to(torch.device('cpu'))
     return predicted_pairs

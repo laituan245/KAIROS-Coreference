@@ -283,3 +283,5 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
 
     # Remove INTERMEDIATE_PRED_EVENT_PAIRS
     os.remove(INTERMEDIATE_PRED_EVENT_PAIRS)
+
+    model.to(torch.device('cpu'))
