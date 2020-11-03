@@ -72,14 +72,17 @@ def remove_arguments(output_entity_cs, output_event_cs, output_path):
                 has_major_proper_noun = False
                 proper_nouns = [entity2mention[a[0]] for a in args1 if a[0] in entity2mention]
                 proper_nouns = [p for p in proper_nouns if p[0].isupper()]
-                if find_majority(proper_nouns)[1] > 1:
+                majority_proper_noun = find_majority(proper_nouns)[1]
+                if majority_proper_noun > 1:
                     has_major_proper_noun = True
                 if has_major_proper_noun:
                     for a in args1:
                         if a[0] in entity2mention:
                             mention = entity2mention[a[0]]
                             if mention[0].islower(): removed_lines.add(a[1])
-
+                            else:
+                                cur_ctx = proper_nouns.count(mention)
+                                if cur_ctx < majority_proper_noun - 1: removed_lines.add(a[1])
 
     # arg1 and arg2 must not be the same
     for e in event2args:
@@ -111,4 +114,4 @@ def remove_arguments(output_entity_cs, output_event_cs, output_path):
             event_mention = event2mention[es[0]]
             arg_name = es[1]
             entity_mention = entity2mention[es[2]]
-            print('In event <b>{}</b>, remove <span style="color:red;">{}</span> as <span style="color:blue;">{}</span>'.format(event_mention, entity_mention, arg_name))
+            log_f.write('In event <b>{}</b>, remove <span style="color:red;">{}</span> as <span style="color:blue;">{}</span></br>'.format(event_mention, entity_mention, arg_name))

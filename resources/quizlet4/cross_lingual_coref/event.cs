@@ -134,7 +134,6 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"ataque"	K0C041NI5:2254-2259	0.4214
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041NI5:2254-2259	0.4214
-::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000034	K0C041NI5:2208-2216	1.0000
 ::Event_0000000	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000002	K0C041NI5:2218-2227	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
@@ -369,7 +368,6 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"shot down"	K0C041O37:4651-4659	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O37:4651-4659	1.0000
-::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000003	K0C041O37:4639-4644	0.6432
 ::Event_0000000	Conflict.Attack.DetonateExplode_Attacker.actual	:Entity_EDL_0000927	K0C041O37:4675-4681	0.6432
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
