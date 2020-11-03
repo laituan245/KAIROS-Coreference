@@ -15,13 +15,13 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"atentado"	K0C041NI5:4089-4096	0.5137
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041NI5:4089-4096	0.5137
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041NI5:4050-4055	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041NI5:4050-4055	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"atentado"	K0C041NI5:18-25	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041NI5:18-25	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C041NI5:31-36	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041NI5:45-50	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C041NI5:31-36	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041NI5:45-50	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"kill"	K0C047Z5A:1961-1964	1.0000
@@ -53,25 +53,25 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attack"	K0C041O3D:1364-1369	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O3D:1364-1369	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041O3D:1389-1402	0.7040
-::Event_0000000	Conflict.Attack.Unspecified_Place.actual	:Entity_EDL_0000002	K0C041O3D:1407-1415	0.7040
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041O3D:1389-1402	0.7040
+::Event_0000000	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000002	K0C041O3D:1407-1415	0.7040
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attack"	K0C041O3D:2954-2959	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O3D:2954-2959	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Attacker.actual	:Entity_EDL_0000012	K0C041O3D:2928-2937	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Attacker.actual	:Entity_EDL_0000012	K0C041O3D:2928-2937	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"assassinate"	K0C047Z5A:2047-2057	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C047Z5A:2047-2057	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Attacker.actual	:Entity_EDL_0000972	K0C047Z5A:2029-2032	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C047Z5A:2059-2060	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Attacker.actual	:Entity_EDL_0000972	K0C047Z5A:2029-2032	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C047Z5A:2059-2060	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attempt"	K0C041O37:351-357	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O37:351-357	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041O37:398-411	0.6662
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C041O37:423-428	0.6662
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041O37:398-411	0.6662
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C041O37:423-428	0.6662
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"explosion"	K0C041O37:3329-3337	1.0000
@@ -103,7 +103,7 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attack"	K0C041O3D:2683-2688	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O3D:2683-2688	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C041O3D:2677-2681	0.5651
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C041O3D:2677-2681	0.5651
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"assassination"	K0C041O3D:1795-1807	0.6820
@@ -120,8 +120,8 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"atentado"	K0C041NI3:133-140	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041NI3:133-140	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Place.actual	:Entity_EDL_0000002	K0C041NI3:112-121	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041NI3:149-162	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000002	K0C041NI3:112-121	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041NI3:149-162	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"atentado"	K0C041NI5:716-723	1.0000
@@ -134,14 +134,14 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"ataque"	K0C041NI5:2254-2259	0.4214
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041NI5:2254-2259	0.4214
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000034	K0C041NI5:2208-2216	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Place.actual	:Entity_EDL_0000002	K0C041NI5:2218-2227	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000034	K0C041NI5:2208-2216	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000002	K0C041NI5:2218-2227	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"atentado"	K0C041NI3:3072-3079	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041NI3:3072-3079	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Place.actual	:Entity_EDL_0000035	K0C041NI3:3008-3011	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041NI3:3102-3115	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000035	K0C041NI3:3008-3011	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041NI3:3102-3115	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"explotó"	K0C047Z5C:2579-2585	1.0000
@@ -152,7 +152,7 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attack"	K0C041O37:1472-1477	0.3477
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O37:1472-1477	0.3477
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C041O37:1466-1470	0.7019
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C041O37:1466-1470	0.7019
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"explosion"	K0C047Z5A:146-154	1.0000
@@ -163,14 +163,14 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attacks"	K0C041O3D:1464-1470	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O3D:1464-1470	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C041O3D:1458-1462	0.7726
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C041O3D:1458-1462	0.7726
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"fly"	K0C047Z5A:2862-2864	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C047Z5A:2862-2864	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Attacker.actual	:Entity_EDL_0000010	K0C047Z5A:2846-2849	0.7162
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000636	K0C047Z5A:2870-2875	0.7162
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C047Z5A:2884-2892	0.7162
+::Event_0000000	Conflict.Attack.DetonateExplode_Attacker.actual	:Entity_EDL_0000010	K0C047Z5A:2846-2849	0.7162
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000636	K0C047Z5A:2870-2875	0.7162
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C047Z5A:2884-2892	0.7162
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"atentado"	K0C047Z5C:1255-1262	1.0000
@@ -198,8 +198,8 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attack"	K0C041O37:42-47	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O37:42-47	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C041O37:22-27	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041O37:61-69	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C041O37:22-27	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041O37:61-69	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"explosión"	K0C047Z5C:2489-2497	1.0000
@@ -210,15 +210,15 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"atentado"	K0C047Z5C:226-233	0.4300
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C047Z5C:226-233	0.4300
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C047Z5C:147-160	0.9957
-::Event_0000000	Conflict.Attack.Unspecified_Place.actual	:Entity_EDL_0000035	K0C047Z5C:241-246	0.9957
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C047Z5C:147-160	0.9957
+::Event_0000000	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000035	K0C047Z5C:241-246	0.9957
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attack"	K0C041O37:242-247	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O37:242-247	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C041O37:171-176	0.5623
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000703	K0C041O37:213-217	0.5623
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041O37:256-264	0.5623
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C041O37:171-176	0.5623
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000703	K0C041O37:213-217	0.5623
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041O37:256-264	0.5623
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"detonated"	K0C041O37:1640-1648	1.0000
@@ -236,14 +236,14 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"atentado"	K0C047Z5C:60-67	0.4137
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C047Z5C:60-67	0.4137
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C047Z5C:15-28	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C047Z5C:74-79	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Place.actual	:Entity_EDL_0000002	K0C047Z5C:84-90	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C047Z5C:15-28	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C047Z5C:74-79	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000002	K0C047Z5C:84-90	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"ataque"	K0C041NI5:2532-2537	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041NI5:2532-2537	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Attacker.actual	:Entity_EDL_0000165	K0C041NI5:2543-2547	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Attacker.actual	:Entity_EDL_0000165	K0C041NI5:2543-2547	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"explosion"	K0C041O37:956-964	0.4000
@@ -254,35 +254,35 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"atentado"	K0C041NI3:243-250	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041NI3:243-250	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041NI3:282-295	0.6061
-::Event_0000000	Conflict.Attack.Unspecified_Place.actual	:Entity_EDL_0000002	K0C041NI3:392-398	0.6061
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041NI3:282-295	0.6061
+::Event_0000000	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000002	K0C041NI3:392-398	0.6061
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"killing"	K0C041O3D:2244-2250	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O3D:2244-2250	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C041O3D:2238-2242	0.5900
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C041O3D:2238-2242	0.5900
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"shot down"	K0C047Z5A:2915-2923	0.5906
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C047Z5A:2915-2923	0.5906
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C047Z5A:2884-2892	0.7162
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C047Z5A:2884-2892	0.7162
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attack"	K0C041O37:2468-2473	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O37:2468-2473	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000078	K0C041O37:2557-2561	0.7520
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000078	K0C041O37:2557-2561	0.7520
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"assassinate"	K0C041O37:376-386	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O37:376-386	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041O37:398-411	0.6913
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C041O37:423-428	0.6913
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C041O37:442-451	0.6913
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041O37:398-411	0.6913
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C041O37:423-428	0.6913
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C041O37:442-451	0.6913
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attack"	K0C041O37:1857-1862	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O37:1857-1862	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C041O37:1932-1940	0.7531
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C041O37:1932-1940	0.7531
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attack"	K0C041O37:3531-3536	1.0000
@@ -291,9 +291,9 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attack"	K0C047Z5A:60-65	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C047Z5A:60-65	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C047Z5A:22-35	0.7398
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C047Z5A:54-58	0.7398
-::Event_0000000	Conflict.Attack.Unspecified_Place.actual	:Entity_EDL_0000002	K0C047Z5A:70-76	0.7398
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C047Z5A:22-35	0.7398
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C047Z5A:54-58	0.7398
+::Event_0000000	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000002	K0C047Z5A:70-76	0.7398
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"atentado"	K0C041NI5:4763-4770	1.0000
@@ -302,12 +302,12 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attacks"	K0C041O3D:23-29	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O3D:23-29	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C041O3D:17-21	0.8829
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C041O3D:17-21	0.8829
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"explosiones"	K0C041NI5:1314-1324	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041NI5:1314-1324	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Place.actual	:Entity_EDL_0000035	K0C041NI5:1409-1414	0.8064
+::Event_0000000	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000035	K0C041NI5:1409-1414	0.8064
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attacks"	K0C041O3D:1857-1863	1.0000
@@ -321,7 +321,7 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"atentado"	K0C041NI3:32-39	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041NI3:32-39	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041NI3:48-61	0.7473
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041NI3:48-61	0.7473
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"incident"	K0C041O37:547-554	1.0000
@@ -334,14 +334,14 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"atacado"	K0C041NI3:773-779	0.7329
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041NI3:773-779	0.7329
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041NI3:747-756	0.9570
-::Event_0000000	Conflict.Attack.Unspecified_Place.actual	:Entity_EDL_0000002	K0C041NI3:758-767	0.9570
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000415	K0C041NI3:802-805	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041NI3:747-756	0.9570
+::Event_0000000	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000002	K0C041NI3:758-767	0.9570
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000415	K0C041NI3:802-805	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attack"	K0C041O37:901-906	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O37:901-906	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000003	K0C041O37:895-899	0.6053
+::Event_0000000	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000003	K0C041O37:895-899	0.6053
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"detonaron"	K0C047Z5C:749-757	1.0000
@@ -369,14 +369,14 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"shot down"	K0C041O37:4651-4659	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O37:4651-4659	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000003	K0C041O37:4639-4644	0.6432
-::Event_0000000	Conflict.Attack.Unspecified_Attacker.actual	:Entity_EDL_0000927	K0C041O37:4675-4681	0.6432
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000003	K0C041O37:4639-4644	0.6432
+::Event_0000000	Conflict.Attack.DetonateExplode_Attacker.actual	:Entity_EDL_0000927	K0C041O37:4675-4681	0.6432
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"explotó"	K0C047Z5C:1876-1882	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C047Z5C:1876-1882	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Place.actual	:Entity_EDL_0000769	K0C047Z5C:1891-1896	0.7259
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C047Z5C:1935-1940	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000769	K0C047Z5C:1891-1896	0.7259
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C047Z5C:1935-1940	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"explosion"	K0C047Z5A:1252-1260	1.0000
@@ -420,7 +420,7 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"atentado"	K0C041NI3:1549-1556	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041NI3:1549-1556	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041NI3:1573-1578	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041NI3:1573-1578	1.0000
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"ataque"	K0C041NI5:3476-3481	0.5713
@@ -433,8 +433,8 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"explosiones"	K0C041NI5:190-200	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041NI5:190-200	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Place.actual	:Entity_EDL_0000002	K0C041NI5:169-177	0.9731
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041NI5:202-203	0.9731
+::Event_0000000	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000002	K0C041NI5:169-177	0.9731
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041NI5:202-203	0.9731
 ::Event_0000000	type	Conflict.Attack.DetonateExplode
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"detonated"	K0C041O37:3837-3845	1.0000
@@ -447,7 +447,7 @@
 ::Event_0000000	modality	actual
 ::Event_0000000	mention.actual	"attacks"	K0C041O3D:3208-3214	1.0000
 ::Event_0000000	canonical_mention.actual	"Nicolás Maduro attacked Nicolás Maduro using DBIEDs at Venezuela place"	K0C041O3D:3208-3214	1.0000
-::Event_0000000	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000000	K0C041O3D:3221-3226	1.0000
+::Event_0000000	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000000	K0C041O3D:3221-3226	1.0000
 ::Event_0000001	type	Justice.ArrestJailDetain.Unspecified
 ::Event_0000001	modality	actual
 ::Event_0000001	mention.actual	"detuvieron"	K0C041NI0:588-597	1.0000
@@ -641,10 +641,10 @@
 ::Event_0000003	modality	actual
 ::Event_0000003	mention.actual	"desalojar"	K0C041NI2:691-699	1.0000
 ::Event_0000003	canonical_mention.actual	"Police transported Students in <arg3> from Pine View High School place to <arg5> place"	K0C041NI2:691-699	1.0000
-::Event_0000003	Movement.Transportation.Unspecified_Origin.actual	:Entity_EDL_0000327	K0C041NI2:705-717	1.0000
-::Event_0000003	Movement.Transportation.Unspecified_Transporter.actual	:Entity_EDL_0000032	K0C041NI2:723-729	0.8390
-::Event_0000003	Movement.Transportation.Unspecified_Transporter.actual	:Entity_EDL_0000001	K0C041NI2:742-751	1.0000
-::Event_0000003	Movement.Transportation.Unspecified_Origin.actual	:Entity_EDL_0000033	K0C041NI2:787-795	1.0000
+::Event_0000003	Movement.Transportation.Evacuation_Origin.actual	:Entity_EDL_0000327	K0C041NI2:705-717	1.0000
+::Event_0000003	Movement.Transportation.Evacuation_Transporter.actual	:Entity_EDL_0000032	K0C041NI2:723-729	0.8390
+::Event_0000003	Movement.Transportation.Evacuation_Transporter.actual	:Entity_EDL_0000001	K0C041NI2:742-751	1.0000
+::Event_0000003	Movement.Transportation.Evacuation_Origin.actual	:Entity_EDL_0000033	K0C041NI2:787-795	1.0000
 ::Event_0000003	type	Movement.Transportation.Evacuation
 ::Event_0000003	modality	actual
 ::Event_0000003	mention.actual	"evacuated"	K0C041NHV:1306-1314	1.0000
@@ -656,8 +656,8 @@
 ::Event_0000003	modality	actual
 ::Event_0000003	mention.actual	"escorted off"	K0C041NHY:91-102	1.0000
 ::Event_0000003	canonical_mention.actual	"Police transported Students in <arg3> from Pine View High School place to <arg5> place"	K0C041NHY:91-102	1.0000
-::Event_0000003	Movement.Transportation.Unspecified_PassengerArtifact.actual	:Entity_EDL_0000001	K0C041NHY:83-89	1.0000
-::Event_0000003	Movement.Transportation.Unspecified_Origin.actual	:Entity_EDL_0000005	K0C041NHY:117-121	1.0000
+::Event_0000003	Movement.Transportation.Evacuation_PassengerArtifact.actual	:Entity_EDL_0000001	K0C041NHY:83-89	1.0000
+::Event_0000003	Movement.Transportation.Evacuation_Origin.actual	:Entity_EDL_0000005	K0C041NHY:117-121	1.0000
 ::Event_0000003	type	Movement.Transportation.Evacuation
 ::Event_0000003	modality	actual
 ::Event_0000003	mention.actual	"evacuated"	K0C041NHV:539-547	1.0000
@@ -691,8 +691,8 @@
 ::Event_0000003	modality	actual
 ::Event_0000003	mention.actual	"evacuaron"	K0C041NI0:556-564	1.0000
 ::Event_0000003	canonical_mention.actual	"Police transported Students in <arg3> from Pine View High School place to <arg5> place"	K0C041NI0:556-564	1.0000
-::Event_0000003	Movement.Transportation.Unspecified_Transporter.actual	:Entity_EDL_0000032	K0C041NI0:540-541	1.0000
-::Event_0000003	Movement.Transportation.Unspecified_Origin.actual	:Entity_EDL_0000141	K0C041NI0:569-573	1.0000
+::Event_0000003	Movement.Transportation.Evacuation_Transporter.actual	:Entity_EDL_0000032	K0C041NI0:540-541	1.0000
+::Event_0000003	Movement.Transportation.Evacuation_Origin.actual	:Entity_EDL_0000141	K0C041NI0:569-573	1.0000
 ::Event_0000003	type	Movement.Transportation.Evacuation
 ::Event_0000003	modality	actual
 ::Event_0000003	mention.actual	"evacuated"	K0C041NHV:175-183	1.0000
@@ -814,14 +814,14 @@
 ::Event_0000006	modality	irrealis,negated
 ::Event_0000006	mention.actual	"estallar"	K0C041NI2:1143-1150	1.0000
 ::Event_0000006	canonical_mention.actual	"<arg1> attacked <arg2> using IED at <arg4> place"	K0C041NI2:1143-1150	1.0000
-::Event_0000006	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000004	K0C041NI2:1157-1161	0.6843
-::Event_0000006	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000033	K0C041NI2:1176-1184	0.6843
+::Event_0000006	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000004	K0C041NI2:1157-1161	0.6843
+::Event_0000006	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000033	K0C041NI2:1176-1184	0.6843
 ::Event_0000006	type	Conflict.Attack.DetonateExplode
 ::Event_0000006	modality	irrealis,negated
 ::Event_0000006	mention.actual	"explotar"	K0C041NI0:813-820	1.0000
 ::Event_0000006	canonical_mention.actual	"<arg1> attacked <arg2> using IED at <arg4> place"	K0C041NI0:813-820	1.0000
-::Event_0000006	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000004	K0C041NI0:827-838	1.0000
-::Event_0000006	Conflict.Attack.Unspecified_Place.actual	:Entity_EDL_0000119	K0C041NI0:847-852	1.0000
+::Event_0000006	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000004	K0C041NI0:827-838	1.0000
+::Event_0000006	Conflict.Attack.DetonateExplode_Place.actual	:Entity_EDL_0000119	K0C041NI0:847-852	1.0000
 ::Event_0000006	type	Conflict.Attack.DetonateExplode
 ::Event_0000006	modality	irrealis,negated
 ::Event_0000006	mention.actual	"ignite"	K0C047Z59:2361-2366	1.0000
@@ -846,8 +846,8 @@
 ::Event_0000006	modality	irrealis,negated
 ::Event_0000006	mention.actual	"gone off"	K0C047Z59:2409-2416	1.0000
 ::Event_0000006	canonical_mention.actual	"<arg1> attacked <arg2> using IED at <arg4> place"	K0C047Z59:2409-2416	1.0000
-::Event_0000006	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000004	K0C047Z59:2402-2403	0.6181
-::Event_0000006	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000457	K0C047Z59:2481-2485	0.6181
+::Event_0000006	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000004	K0C047Z59:2402-2403	0.6181
+::Event_0000006	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000457	K0C047Z59:2481-2485	0.6181
 ::Event_0000006	type	Conflict.Attack.DetonateExplode
 ::Event_0000006	modality	irrealis,negated
 ::Event_0000006	mention.actual	"detonate"	K0C041NHY:1341-1348	1.0000
@@ -860,8 +860,8 @@
 ::Event_0000006	modality	irrealis,negated
 ::Event_0000006	mention.actual	"gone off"	K0C047Z59:5420-5427	1.0000
 ::Event_0000006	canonical_mention.actual	"<arg1> attacked <arg2> using IED at <arg4> place"	K0C047Z59:5420-5427	1.0000
-::Event_0000006	Conflict.Attack.Unspecified_Instrument.actual	:Entity_EDL_0000004	K0C047Z59:5402-5418	1.0000
-::Event_0000006	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000091	K0C047Z59:5433-5439	1.0000
+::Event_0000006	Conflict.Attack.DetonateExplode_Instrument.actual	:Entity_EDL_0000004	K0C047Z59:5402-5418	1.0000
+::Event_0000006	Conflict.Attack.DetonateExplode_Target.actual	:Entity_EDL_0000091	K0C047Z59:5433-5439	1.0000
 ::Event_0000007	type	Justice.ReleaseParole.Unspecified
 ::Event_0000007	modality	actual
 ::Event_0000007	mention.actual	"released"	K0C047Z59:6982-6989	1.0000
@@ -980,7 +980,7 @@
 ::Event_0000012	modality	actual
 ::Event_0000012	mention.actual	"evacuaron"	K0C041NI3:1793-1801	1.0000
 ::Event_0000012	canonical_mention.actual	"<arg1> transported Nicolás Maduro in <arg3> from <arg4> place to <arg5> place"	K0C041NI3:1793-1801	1.0000
-::Event_0000012	Movement.Transportation.Unspecified_Transporter.actual	:Entity_EDL_0000025	K0C041NI3:1754-1762	1.0000
+::Event_0000012	Movement.Transportation.Evacuation_Transporter.actual	:Entity_EDL_0000025	K0C041NI3:1754-1762	1.0000
 ::Event_0000012	type	Movement.Transportation.Evacuation
 ::Event_0000012	modality	actual
 ::Event_0000012	mention.actual	"evacuado"	K0C047Z5C:176-183	1.0000
@@ -1070,7 +1070,7 @@
 ::Event_0000019	modality	actual
 ::Event_0000019	mention.actual	"dice"	K0C041NI3:411-414	1.0000
 ::Event_0000019	canonical_mention.actual	"<arg1> communicated with <arg2> about <arg3> topic at <arg4> place (document does not specify in person or not, or one-way or not)"	K0C041NI3:411-414	1.0000
-::Event_0000019	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000954	K0C041NI3:401-409	1.0000
+::Event_0000019	Contact.Contact.Broadcast_Participant.actual	:Entity_EDL_0000954	K0C041NI3:401-409	1.0000
 ::Event_0000020	type	Life.Injure.Unspecified
 ::Event_0000020	modality	actual
 ::Event_0000020	mention.actual	"heridos"	K0C041NI2:970-976	1.0000

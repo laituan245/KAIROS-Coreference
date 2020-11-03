@@ -13,7 +13,7 @@ from utils import create_dir_if_not_exist
 from refine_entity_coref import refine_entity_coref
 from attribute_classifiers import generate_hedge_preds, generate_realis_preds, generate_polarity_preds
 from scripts import filter_relation, merge_inputs, remove_entities, separate_files, apply_attrs, remove_arguments
-from scripts import align_relation, align_event, docs_filtering, use_es_translation, string_repr, fix_event_types
+from scripts import align_relation, align_event, docs_filtering, use_es_translation, string_repr, fix_event_types, fix_event_args
 
 # Main code
 if __name__ == "__main__":
@@ -121,6 +121,9 @@ if __name__ == "__main__":
 
     # Fix event types
     fix_event_types(output_event)
+
+    # Fix event arguments
+    fix_event_args(output_event)
 
     # apply_attrs
     apply_attrs(args.coreference_output)
