@@ -58,9 +58,7 @@ if __name__ == "__main__":
             f.write('{}\n'.format(json.dumps([_id])))
 
     # Run document clustering
-    # Cluster 1 ~ 2018 Caracas drone attack | Cluster 2 ~ Utah High School backpack bombing
-    clusters = [['K0C041NI3', 'K0C047Z5C', 'K0C041NI5', 'K0C047Z5A', 'K0C041O37', 'K0C041O3D'],
-                ['K0C041NHV', 'K0C041NI2', 'K0C041NHW', 'K0C041NHY', 'K0C041NI0', 'K0C047Z59', 'K0C047Z57']]
+    clusters = [list(filtered_doc_ids)]
     output_cluster = join(args.coreference_output, 'clusters.txt')
     with open(output_cluster, 'w+') as f:
         for c in clusters:
