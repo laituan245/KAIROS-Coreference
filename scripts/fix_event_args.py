@@ -36,7 +36,8 @@ def fix_event_args(event_output):
                     if 'Conflict.Attack' in old_type:
                         if arg_name in ['Target', 'Instrument', 'Place', 'Attacker']:
                             line = line.replace(old_type, type)
-                        elif arg_name == 'Victim':
+                    if 'Life.Die' in old_type:
+                        if arg_name == 'Victim':
                             line = line.replace(old_type, type)
                             line = line.replace('Victim', 'Target')
                 elif type == 'Movement.Transportation.Evacuation':
