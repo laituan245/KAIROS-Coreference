@@ -13,7 +13,7 @@ def _jsonify(dir):
         data[f] = content
     return data
 
-def jsonify(coref_output):
+def jsonify_coref(coref_output):
     data = _jsonify(coref_output)
     data['en'] = _jsonify(join(coref_output, 'en'))
     data['es'] = _jsonify(join(coref_output, 'en'))

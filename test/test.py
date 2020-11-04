@@ -15,3 +15,5 @@ input_data['oneie']['es'] = input_data['oneie']['en']
 input_data['edl']['es'] = input_data['oneie']['es']
 
 response = requests.post('http://localhost:20202/process', json={'data': input_data})
+with open('test/sample_response.txt', 'w+') as f:
+    f.write(response.text)

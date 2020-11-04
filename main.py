@@ -9,8 +9,8 @@ import json
 from os.path import join
 from shutil import rmtree
 from coref import main_coref
-from jsonify_coref import jsonify
-from flask import Flask, request, jsonify
+from jsonify_coref import jsonify_coref
+from flask import Flask, request
 
 TMP_DIR = None
 KEEP_DISTRACTORS = False
@@ -74,10 +74,12 @@ def process():
     os.makedirs(coreference_output, exist_ok=True)
     main_coref(run_tmp_dir, run_tmp_dir, coreference_output, KEEP_DISTRACTORS)
 
+    final_output = jsonify_coref(coreference_output)
+
     # Remove the tmp dir
     rmtree(run_tmp_dir)
 
-    return jsonify({'coref': jsonify(coreference_output)})
+    return final_output
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
