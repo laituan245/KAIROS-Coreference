@@ -16,69 +16,55 @@ from scripts import filter_relation, merge_inputs, remove_entities, separate_fil
 from scripts import align_relation, align_event, docs_filtering, use_es_translation, string_repr, fix_event_types, fix_event_args
 
 # Main code
-if __name__ == "__main__":
-    # Parse argument
-    parser = ArgumentParser()
-    parser.add_argument('--oneie_output', default='/shared/nas/data/m1/tuanml2/tmpfile/docker-compose/output/')
-    parser.add_argument('--linking_output', default='/shared/nas/data/m1/tuanml2/tmpfile/docker-compose/output/')
-    parser.add_argument('--coreference_output', default='/shared/nas/data/m1/tuanml2/tmpfile/docker-compose/output/cross_lingual_coref')
-    parser.add_argument('--keep_distractors', action='store_true')
-    parser.add_argument('--debug', action='store_true')
-    args = parser.parse_args()
-
-    if args.debug:
-        args.oneie_output = 'resources/quizlet4/'
-        args.linking_output = 'resources/quizlet4/'
-        args.coreference_output = 'resources/quizlet4/cross_lingual_coref'
-
+def main_coref(oneie_output, linking_output, coreference_output, keep_distractors):
     # Attribtes Classifiers
-    en_event_cs_path = join(args.oneie_output, 'en/oneie/m1_m2/cs/event.cs')
-    en_json_dir = join(args.oneie_output, 'en/oneie/m1_m2/json/')
-    generate_hedge_preds(en_event_cs_path, en_json_dir, args.coreference_output)
-    generate_realis_preds(en_event_cs_path, en_json_dir, args.coreference_output)
-    generate_polarity_preds(en_event_cs_path, en_json_dir, args.coreference_output)
+    en_event_cs_path = join(oneie_output, 'en/oneie/m1_m2/cs/event.cs')
+    en_json_dir = join(oneie_output, 'en/oneie/m1_m2/json/')
+    generate_hedge_preds(en_event_cs_path, en_json_dir, coreference_output)
+    generate_realis_preds(en_event_cs_path, en_json_dir, coreference_output)
+    generate_polarity_preds(en_event_cs_path, en_json_dir, coreference_output)
     torch.cuda.empty_cache()
 
     # Use ES translation
-    use_es_translation(join(args.linking_output, 'es/linking'))
+    use_es_translation(join(linking_output, 'es/linking'))
 
     # Merging en and es
-    args.merged_input = join(args.coreference_output, 'merged_input')
-    create_dir_if_not_exist(args.coreference_output)
+    merged_input = join(coreference_output, 'merged_input')
+    create_dir_if_not_exist(coreference_output)
 
     # Create a merged input folder
     event_cs, entity_cs, relation_cs, json_dir, linking_output, english_docs, spanish_docs = \
-        merge_inputs(args.oneie_output, args.linking_output, args.merged_input)
+        merge_inputs(oneie_output, linking_output, merged_input)
 
     # Run document filtering
     filtered_doc_ids, distracted_doc_ids = docs_filtering(event_cs, json_dir)
-    output_distractors = join(args.coreference_output, 'distrators.txt')
+    output_distractors = join(coreference_output, 'distrators.txt')
     with open(output_distractors, 'w+') as f:
         for _id in distracted_doc_ids:
             f.write('{}\n'.format(json.dumps([_id])))
 
     # Run document clustering
     clusters = [list(filtered_doc_ids)]
-    output_cluster = join(args.coreference_output, 'clusters.txt')
+    output_cluster = join(coreference_output, 'clusters.txt')
     with open(output_cluster, 'w+') as f:
         for c in clusters:
             f.write('{}\n'.format(json.dumps(c)))
-    if args.keep_distractors:
+    if keep_distractors:
         for distractor in distracted_doc_ids:
             clusters.append([distractor])
 
     # Update filtered_doc_ids to contain all docs if keep_distractors
-    if args.keep_distractors:
+    if keep_distractors:
         filtered_doc_ids = filtered_doc_ids.union(distracted_doc_ids)
 
     # Run entity coref (English)
-    output_entity =  join(args.coreference_output, 'entity.cs')
+    output_entity =  join(coreference_output, 'entity.cs')
     filtered_eng_doc_ids = [f for f in filtered_doc_ids if f in english_docs]
     english_entity_pairs = \
         entity_coref(entity_cs, json_dir, linking_output, output_entity, 'en', filtered_eng_doc_ids, clusters, english_docs, spanish_docs)
 
     # Run entity coref (Spanish)
-    output_entity =  join(args.coreference_output, 'entity.cs')
+    output_entity =  join(coreference_output, 'entity.cs')
     filtered_spanish_doc_ids = [f for f in filtered_doc_ids if f in spanish_docs]
     mono_entity_pairs = \
         entity_coref(entity_cs, json_dir, linking_output, output_entity, 'es', filtered_spanish_doc_ids, clusters, english_docs, spanish_docs, predicted_pairs=english_entity_pairs)
@@ -89,18 +75,18 @@ if __name__ == "__main__":
     # The loop stops when refinement process does not modify entity coref anymore
     while True:
         # Run event coref
-        output_event = join(args.coreference_output, 'event.cs')
+        output_event = join(coreference_output, 'event.cs')
         event_coref(event_cs, json_dir, output_event, entity_cs, output_entity, filtered_doc_ids, clusters)
 
         # Run aligning relation
-        output_relation = join(args.coreference_output, 'relation.cs')
+        output_relation = join(coreference_output, 'relation.cs')
         align_relation(entity_cs, output_entity, relation_cs, output_relation)
 
         # Run aligning event
         align_event(output_entity, output_event)
 
         # Run remove arguments
-        remove_arguments(output_entity, output_event, args.coreference_output)
+        remove_arguments(output_entity, output_event, coreference_output)
 
         # Run string_repr
         string_repr(output_entity, output_event)
@@ -124,7 +110,7 @@ if __name__ == "__main__":
     fix_event_args(output_event)
 
     # apply_attrs
-    apply_attrs(args.coreference_output)
+    apply_attrs(coreference_output)
 
     # Separate files into English / Spanish
     separate_files(output_entity, output_event, output_relation, english_docs, spanish_docs)

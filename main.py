@@ -8,9 +8,12 @@ import json
 
 from os.path import join
 from shutil import rmtree
+from coref import main_coref
+from jsonify_coref import jsonify
 from flask import Flask, request, jsonify
 
 TMP_DIR = None
+KEEP_DISTRACTORS = False
 LANGUAGES = ['en', 'es']
 app = Flask(__name__)
 
@@ -38,8 +41,8 @@ def process():
     for lang in LANGUAGES:
         input_lang_dir = os.path.join(run_tmp_dir, lang)
         os.makedirs(input_lang_dir, exist_ok=True)
-        oneie_data = json.loads(data['oneie'][lang])['oneie']
-        edl_data = json.loads(data['edl'][lang])
+        oneie_data = data['oneie'][lang]
+        edl_data = data['edl'][lang]
         # oneie cs folder
         oneie_dir = os.path.join(input_lang_dir, 'oneie/m1_m2')
         os.makedirs(oneie_dir, exist_ok=True)
@@ -54,26 +57,36 @@ def process():
             with open(join(json_dir, '{}.json'.format(doc_id)), 'w+') as output_json_dir:
                 output_json_dir.write(oneie_data['json'][doc_id])
         # edl folder
+        print(edl_data.keys())
         edl_dir = os.path.join(input_lang_dir, 'linking')
         os.makedirs(edl_dir, exist_ok=True)
         # cs file
         edl_cs_filepath = join(edl_dir, '{}.linking.wikidata.cs'.format(lang))
         with open(edl_cs_filepath, 'w+') as output_edl_cs_file:
-            output_edl_cs_file.write('{}'.format(edl_data['cs']['entity']))
+            output_edl_cs_file.write('{}'.format(edl_data['cs']))
         # tab file
         edl_tab_filepath = join(edl_dir, '{}.linking.wikidata.tab'.format(lang))
         with open(edl_tab_filepath, 'w+') as output_edl_tab_file:
-            output_edl_tab_file.write('{}'.format(edl_data['tab']['entity']))
+            output_edl_tab_file.write('{}'.format(edl_data['tab']))
+
+    # Run coref
+    coreference_output = os.path.join(run_tmp_dir, 'coref')
+    os.makedirs(coreference_output, exist_ok=True)
+    main_coref(run_tmp_dir, run_tmp_dir, coreference_output, KEEP_DISTRACTORS)
 
     # Remove the tmp dir
-    #rmtree(run_tmp_dir)
+    rmtree(run_tmp_dir)
+
+    return jsonify({'coref': jsonify(coreference_output)})
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--tmp_dir', help='Temporary output directory', default='./tmp', required=True)
+    parser.add_argument('--tmp_dir', help='Temporary output directory', required=True)
     parser.add_argument('--port', default=20202)
+    parser.add_argument('--keep_distractors', action='store_true')
     args = parser.parse_args()
     TMP_DIR = args.tmp_dir
+    KEEP_DISTRACTORS = args.keep_distractors
 
     logger.info('done.')
     logger.info('start...')

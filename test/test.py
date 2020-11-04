@@ -9,19 +9,9 @@ def read_data(json_file):
     f.close()
     return data
 
-en_edl = read_data('test/data/en_edl.json')
-en_oneie = read_data('test/data/en_oneie.json')
-es_edl = read_data('test/data/es_edl.json')
-es_oneie = read_data('test/data/es_oneie.json')
+input_data = read_data('test/sample_input.json')
+input_data = json.loads(input_data)
+input_data['oneie']['es'] = input_data['oneie']['en']
+input_data['edl']['es'] = input_data['oneie']['es']
 
-data = {
-    'oneie': {},
-    'edl': {}
-}
-
-data['oneie']['en'] = en_oneie
-data['oneie']['es'] = es_oneie
-data['edl']['en'] = en_edl
-data['edl']['es'] = es_edl
-
-response = requests.post('http://localhost:20202/process', json={'data': data})
+response = requests.post('http://localhost:20202/process', json={'data': input_data})
