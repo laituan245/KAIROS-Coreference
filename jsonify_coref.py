@@ -2,7 +2,7 @@ import json
 from os import listdir
 from os.path import isfile, join
 
-MAIN_FILES = ['entity.cs', 'event.cs', 'relation.cs', 'clusters.txt', 'distractors.txt']
+MAIN_FILES = ['entity.cs', 'event.cs', 'relation.cs', 'clusters.txt', 'distrators.txt']
 
 def _jsonify(dir):
     data = {}

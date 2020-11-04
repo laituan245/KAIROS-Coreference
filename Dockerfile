@@ -37,7 +37,12 @@ RUN wget --quiet https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86
 
 RUN /opt/conda/bin/conda create -n aida_coreference python=3.6 && \
     /opt/conda/envs/aida_coreference/bin/pip install torch torchvision && \
-    /opt/conda/envs/aida_coreference/bin/pip install -r requirements.txt
+    /opt/conda/envs/aida_coreference/bin/pip install -r requirements.txt && \
+    /opt/conda/envs/aida_coreference/bin/python3.6 -m nltk.downloader punkt && \
+    /opt/conda/envs/aida_coreference/bin/python3.6 -m nltk.downloader treebank && \
+    /opt/conda/envs/aida_coreference/bin/python3.6 -m nltk.downloader conll2000 && \
+    /opt/conda/envs/aida_coreference/bin/python3.6 -m nltk.downloader wordnet && \
+    /opt/conda/envs/aida_coreference/bin/python3.6 -m nltk.downloader averaged_perceptron_tagger
 
 RUN /opt/conda/bin/conda clean -tipsy
 RUN chmod +x ./wait-for-it.sh
