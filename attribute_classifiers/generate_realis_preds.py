@@ -26,7 +26,7 @@ def generate_realis_preds(cs_path, json_dir, output_path):
     model = BaseAttributesClassifier(configs, device, REALIS_TYPES)
     assert(os.path.exists(TRAINED_MODEL))
     if os.path.exists(TRAINED_MODEL):
-        checkpoint = torch.load(TRAINED_MODEL)
+        checkpoint = torch.load(TRAINED_MODEL, map_location=model.device)
         model.load_state_dict(checkpoint['model_state_dict'])
         print('Reloaded the model')
 
