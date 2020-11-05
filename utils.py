@@ -1,5 +1,6 @@
 import os
 import math
+import json
 import torch
 import pyhocon
 import numpy as np
@@ -9,6 +10,13 @@ from constants import *
 from transformers import *
 from models import EventCorefModel, EntityCorefModel
 from boltons.iterutils import pairwise, windowed
+
+def read_cluster_info(cluster_fp):
+    clusters = []
+    with open(cluster_fp, 'r') as f:
+        for line in f:
+            clusters.append(json.loads(line))
+    return clusters
 
 def read_event_types(fp):
     types = {}
