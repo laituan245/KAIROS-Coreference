@@ -91,8 +91,9 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
     # Apply the coref model
     start_time = time.time()
     if True:
+        graph = UndirectedGraph([m['mention_id'] for m in mentions])
+        print('Number of vertices: {}'.format(graph.V))
         doc_pairs_ctx = 0
-        f = open(INTERMEDIATE_PRED_ENTITY_PAIRS, 'w+')
         with torch.no_grad():
             # Main loop
             for i in range(len(docs)):
@@ -123,7 +124,11 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                             if language == 'es':
                                 if 'fb_id' in mention_1 and 'fb_id' in mention_2 and mention_1['fb_id'] != mention_2['fb_id']:
                                     if (not mention_1['fb_id'].startswith('NIL')) and (not mention_2['fb_id'].startswith('NIL')): continue
-                            f.write('{}\t{}\n'.format(mention_1['mention_id'], mention_2['mention_id']))
+
+                            node1, node2 = mention_1['mention_id'], mention_2['mention_id']
+                            if (node1, node2) in relation_pairs or (node2, node1) in relation_pairs: continue
+                            if mid2type[node1] != mid2type[node2]: continue
+                            graph.addEdge(node1, node2)
 
                     # Update doc_pairs_ctx
                     doc_pairs_ctx += 1
@@ -131,26 +136,6 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                         print('doc_pairs_ctx = {}'.format(doc_pairs_ctx))
                         print("--- Ran for %s seconds ---" % (time.time() - start_time))
 
-        f.close()
-    print("--- Applying the entity coref model took %s seconds ---" % (time.time() - start_time))
-
-    # Build clusters from INTERMEDIATE_PRED_ENTITY_PAIRS
-    graph = UndirectedGraph([m['mention_id'] for m in mentions])
-    print('Number of vertices: {}'.format(graph.V))
-
-    # Add edges from INTERMEDIATE_PRED_ENTITY_PAIRS (all edges will be in-doc)
-    print('Add edges from INTERMEDIATE_PRED_ENTITY_PAIRS')
-    with open(INTERMEDIATE_PRED_ENTITY_PAIRS, 'r') as f:
-        for line in f:
-            es = line.split('\t')
-            node1, node2 = es[0].strip(), es[1].strip()
-            if (node1, node2) in relation_pairs or (node2, node1) in relation_pairs: continue
-            if mid2type[node1] != mid2type[node2]: continue
-            # Fixes for quizlet 4
-            if node1 == 'K0C047Z59:5095-5096' and node2 == 'K0C047Z59:3600-3609': continue
-            if node1 == 'K0C047Z59:5095-5096' and node2 == 'K0C047Z59:308-313': continue
-            # Add edges
-            graph.addEdge(node1, node2)
     # Get connected components (with-in doc clusters)
     print('Get connected components')
     clusters = sccs = graph.getSCCs()
@@ -201,6 +186,3 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                 link = 'NIL' + link
                 link_line = '\t'.join([es_0, 'link', link])
                 f.write('{}\n'.format(link_line))
-
-    # Remove INTERMEDIATE_PRED_ENTITY_PAIRS
-    #os.remove(INTERMEDIATE_PRED_ENTITY_PAIRS)

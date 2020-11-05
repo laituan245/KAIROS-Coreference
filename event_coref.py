@@ -10,8 +10,6 @@ from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten, 
 from data import EventCentricDocument, EventCentricDocumentPair, load_event_centric_dataset
 from algorithms import UndirectedGraph
 
-INTERMEDIATE_PRED_EVENT_PAIRS = 'event_pred_pairs.txt'
-
 def args_overlap(argi, argj):
     if argi is None: return False
     if argj is None: return False
@@ -101,7 +99,9 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
     doc_pairs_ctx = 0
     start_time = time.time()
     if True:
-        f = open(INTERMEDIATE_PRED_EVENT_PAIRS, 'w+')
+        edge_pairs = set()
+        graph = UndirectedGraph([m['mention_id'] for m in mentions])
+        print('Number of vertices: {}'.format(graph.V))
         # Main loop
         for i in range(len(docs)):
             doci = docs[i]
@@ -140,32 +140,18 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
                     if len(c) <= 1: continue
                     for ix in range(len(c)):
                         for jx in range(ix+1, len(c)):
-                            f.write('{}\t{}\n'.format(c[ix]['mention_id'], c[jx]['mention_id']))
+                            node1, node2 = c[ix]['mention_id'], c[jx]['mention_id']
+                            graph.addEdge(node1, node2)
+                            edge_pairs.add((node1, node2))
+                            edge_pairs.add((node2, node1))
 
                 # Update doc_pairs_ctx
                 doc_pairs_ctx += 1
                 if doc_pairs_ctx % 1000 == 0:
                     print('doc_pairs_ctx = {}'.format(doc_pairs_ctx))
                     print("--- Ran for %s seconds ---" % (time.time() - start_time))
-        f.close()
     print("--- Applying the event coref model took %s seconds ---" % (time.time() - start_time))
 
-    # Build clusters from INTERMEDIATE_PRED_EVENT_PAIRS
-    graph = UndirectedGraph([m['mention_id'] for m in mentions])
-    print('Number of vertices: {}'.format(graph.V))
-
-    # Add edges from INTERMEDIATE_PRED_EVENT_PAIRS (all edges will be in-doc)
-    edge_pairs = set()
-    print('Add edges from INTERMEDIATE_PRED_EVENT_PAIRS')
-    with open(INTERMEDIATE_PRED_EVENT_PAIRS, 'r') as f:
-        for line in f:
-            es = line.split('\t')
-            node1, node2 = es[0].strip(), es[1].strip()
-            node1_args = event2args.get(node1, {})
-            node2_args = event2args.get(node2, {})
-            graph.addEdge(node1, node2)
-            edge_pairs.add((node1, node2))
-            edge_pairs.add((node2, node1))
 
     # Add edge between two event mentions if they have the same subtype and same args1/args2
     mid2type = {}
@@ -271,6 +257,3 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
                     line[0] = es_0
                     mention_line = '\t'.join(line)
                     f.write('{}\n'.format(mention_line))
-
-    # Remove INTERMEDIATE_PRED_EVENT_PAIRS
-    #os.remove(INTERMEDIATE_PRED_EVENT_PAIRS)
