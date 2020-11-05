@@ -273,4 +273,4 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
                     f.write('{}\n'.format(mention_line))
 
     # Remove INTERMEDIATE_PRED_EVENT_PAIRS
-    os.remove(INTERMEDIATE_PRED_EVENT_PAIRS)
+    #os.remove(INTERMEDIATE_PRED_EVENT_PAIRS)

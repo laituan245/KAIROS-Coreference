@@ -91,6 +91,7 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
     # Apply the coref model
     start_time = time.time()
     if True:
+        doc_pairs_ctx = 0
         f = open(INTERMEDIATE_PRED_ENTITY_PAIRS, 'w+')
         with torch.no_grad():
             # Main loop
@@ -123,6 +124,12 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                                 if 'fb_id' in mention_1 and 'fb_id' in mention_2 and mention_1['fb_id'] != mention_2['fb_id']:
                                     if (not mention_1['fb_id'].startswith('NIL')) and (not mention_2['fb_id'].startswith('NIL')): continue
                             f.write('{}\t{}\n'.format(mention_1['mention_id'], mention_2['mention_id']))
+
+                    # Update doc_pairs_ctx
+                    doc_pairs_ctx += 1
+                    if doc_pairs_ctx % 1000 == 0:
+                        print('doc_pairs_ctx = {}'.format(doc_pairs_ctx))
+                        print("--- Ran for %s seconds ---" % (time.time() - start_time))
 
         f.close()
     print("--- Applying the entity coref model took %s seconds ---" % (time.time() - start_time))
@@ -196,4 +203,4 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                 f.write('{}\n'.format(link_line))
 
     # Remove INTERMEDIATE_PRED_ENTITY_PAIRS
-    os.remove(INTERMEDIATE_PRED_ENTITY_PAIRS)
+    #os.remove(INTERMEDIATE_PRED_ENTITY_PAIRS)
