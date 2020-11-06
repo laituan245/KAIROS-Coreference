@@ -194,25 +194,26 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
                     cond_met = True
             # considering <arg2>
             if type in ['Conflict.Attack', 'Movement.Transportation', 'Justice.Sentence', 'Justice.ChargeIndict', 'Justice.TrialHearing']:
+                cond_ctx = 0
+                if args_overlap(args_seti.get('<arg1>'), args_setj.get('<arg1>')):
+                    cond_ctx += 1
                 if args_overlap(args_seti.get('<arg2>'), args_setj.get('<arg2>')):
-                    cond_met = True
-            # considering Attack.DetonateExplode with Attack.Unspecified
-            if 'Attack.DetonateExplode' in subtypei and 'Attack.Unspecified' in subtypej:
-                if args_overlap(args_seti.get('<arg3>'), args_setj.get('<arg3>')):
-                    cond_met = True
-                if args_overlap(args_seti.get('<arg4>'), args_setj.get('<arg3>')):
-                    cond_met = True
+                    cond_ctx += 1
+                if cond_ctx == 2: cond_met = True
             # considering Attack.DetonateExplode
             if 'Attack.DetonateExplode' in subtypei and 'Attack.DetonateExplode' in subtypej:
+                cond_ctx = 0
                 for ix in range(5):
                     argi = args_seti.get('<arg{}>'.format(i+1))
                     argj = args_setj.get('<arg{}>'.format(i+1))
-                    if args_overlap(argi, argj): cond_met = True
+                    if args_overlap(argi, argj): cond_ctx += 1
+                if cond_ctx == 2: cond_met = True
             if cond_met:
                 mid_i, mid_j = mentions[i]['mention_id'], mentions[j]['mention_id']
                 edge_pairs.add((mid_i, mid_j))
                 edge_pairs.add((mid_j, mid_i))
                 graph.addEdge(mid_i, mid_j)
+
 
     # Get connected components (with-in doc clusters)
     print('Get connected components')
