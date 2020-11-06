@@ -106,6 +106,7 @@ def string_repr(new_input_entity, new_input_event):
                 if event_type in event_types: # Consider only events in the KAIROS ontology
                     event_args = event_types[event_type]['args']
                     arg_name = es[1].split('.')[-2].split('_')[-1]
+                    if not arg_name in event_args: continue
                     arg_nb = event_args[arg_name]
                     if not es[0] in event2args: event2args[es[0]] = {}
                     if not arg_nb in event2args[es[0]]: event2args[es[0]][arg_nb] = []

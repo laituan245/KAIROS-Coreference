@@ -96,7 +96,7 @@ if __name__ == "__main__":
         align_event(output_entity, output_event)
 
         # Run string_repr
-        #string_repr(output_entity, output_event)
+        string_repr(output_entity, output_event)
 
         # Run filter_relation
         if args.ta == 2:
