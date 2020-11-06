@@ -47,6 +47,8 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
                 if es[1] == 'type':
                     event2type[es[0]] = es[-2]
                 continue
+            cur_doc_id = es[3].split(':')[0]
+            if not cur_doc_id in filtered_doc_ids: continue
             if not (es[1].startswith('mention') or es[1].startswith('canonical_mention')):
                 event_type = event2type[es[0]]
                 if event_type in event_types: # Consider only events in the KAIROS ontology
@@ -61,8 +63,7 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
                 oldevs2mid[es[0]] = es[-2].strip()
 
     # Load tokenizer and model
-    if language == 'en': tokenizer, model = load_tokenizer_and_model(EN_EVENT_MODEL)
-    elif language == 'es': tokenizer, model = load_tokenizer_and_model(ES_EVENT_MODEL)
+    tokenizer, model = load_tokenizer_and_model(EN_EVENT_MODEL)
 
     # Load dataset
     print('Loading dataset')
@@ -175,20 +176,20 @@ def event_coref(cs_path, json_dir, output_path, language, original_input_entity,
                     cond_met = True
             # considering <arg2>
             if type in ['Conflict.Attack', 'Movement.Transportation', 'Justice.Sentence', 'Justice.TrialHearing']:
+                cond_ctx = 0
+                if args_overlap(args_seti.get('<arg1>'), args_setj.get('<arg1>')):
+                    cond_ctx += 1
                 if args_overlap(args_seti.get('<arg2>'), args_setj.get('<arg2>')):
-                    cond_met = True
-            # considering Attack.DetonateExplode with Attack.Unspecified
-            if 'Attack.DetonateExplode' in subtypei and 'Attack.Unspecified' in subtypej:
-                if args_overlap(args_seti.get('<arg3>'), args_setj.get('<arg3>')):
-                    cond_met = True
-                if args_overlap(args_seti.get('<arg4>'), args_setj.get('<arg3>')):
-                    cond_met = True
+                    cond_ctx += 1
+                if cond_ctx == 2: cond_met = True
             # considering Attack.DetonateExplode
             if 'Attack.DetonateExplode' in subtypei and 'Attack.DetonateExplode' in subtypej:
+                cond_ctx = 0
                 for ix in range(5):
                     argi = args_seti.get('<arg{}>'.format(i+1))
                     argj = args_setj.get('<arg{}>'.format(i+1))
-                    if args_overlap(argi, argj): cond_met = True
+                    if args_overlap(argi, argj): cond_ctx += 1
+                if cond_ctx == 2: cond_met = True
             if cond_met:
                 mid_i, mid_j = mentions[i]['mention_id'], mentions[j]['mention_id']
                 edge_pairs.add((mid_i, mid_j))

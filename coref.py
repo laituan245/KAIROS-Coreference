@@ -34,7 +34,7 @@ def coref_main(oneie_output, linking_output, coreference_output, clusters):
         time.sleep(15)
 
     # Dummy distractor txt file
-    filtered_doc_ids = flatten(clusters)
+    filtered_doc_ids = set(flatten(clusters))
     output_distractors = join(coreference_output, 'distrators.txt')
     with open(output_distractors, 'w+') as f:
         pass
