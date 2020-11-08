@@ -39,9 +39,13 @@ def align_relation(original_input_entity, new_input_entity, input_relation, outp
                 if len(line) == 0: continue
                 es = line.split('\t')
                 assert(len(es) == 5)
-                es[0] = mid2eid[olde2mid[es[0]]]
-                es[2] = mid2eid[olde2mid[es[2]]]
-                if es[0] == es[2]:
+                try:
+                    es[0] = mid2eid[olde2mid[es[0]]]
+                    es[2] = mid2eid[olde2mid[es[2]]]
+                    if es[0] == es[2]:
+                        skipped += 1
+                        continue
+                except:
                     skipped += 1
                     continue
                 output_f.write('{}\n'.format('\t'.join(es)))
