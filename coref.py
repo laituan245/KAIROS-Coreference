@@ -10,7 +10,7 @@ from os.path import dirname, join
 from entity_coref import entity_coref
 from event_coref import event_coref
 from utils import create_dir_if_not_exist, flatten
-from scripts import align_relation, align_event, filter_relation
+from scripts import align_relation, align_event, filter_relation, fix_event_args, fix_event_types
 
 logger = logging.getLogger()
 logging.basicConfig(format='%(asctime)s: %(levelname)s: %(message)s')
@@ -67,6 +67,12 @@ def coref_main(oneie_output, linking_output, coreference_output, clusters):
 
     # Run filter_relation
     filter_relation(output_event, output_relation)
+
+    # Fix event types
+    fix_event_types(output_event)
+
+    # Fix event arguments
+    fix_event_args(output_event)
 
     # Write a new success file
     success_file_path = join(coreference_output, '_success')

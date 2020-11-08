@@ -5,3 +5,5 @@ from scripts.filter_relation import filter_relation
 from scripts.docs_filtering import docs_filtering
 from scripts.docs_clustering import docs_clustering
 from scripts.remove_entities import remove_entities
+from scripts.fix_event_args import fix_event_args
+from scripts.fix_event_types import fix_event_types
