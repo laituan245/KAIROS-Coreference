@@ -101,6 +101,7 @@ def generate_visualization_for_cluster(docs, event2mention, temporal_orders, clu
     for event in removed_events: del event2mention[event]
 
     # Build DirectedGraph
+    temporal_orders = [e for e in temporal_orders if e[0] in event2mention and e[1] in event2mention]
     graph = DirectedGraph([e for e in event2mention])
     print('Number of vertices: {}'.format(graph.V))
     for (e1, e2) in temporal_orders:
