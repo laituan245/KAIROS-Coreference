@@ -35,16 +35,21 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
     merged_input = join(coreference_output, 'merged_input')
     create_dir_if_not_exist(coreference_output)
 
-    # Create a merged input folder
-    event_cs, entity_cs, relation_cs, json_dir, linking_output, english_docs, spanish_docs = \
-        merge_inputs(oneie_output, linking_output, merged_input)
-
     # Run document filtering
-    filtered_doc_ids, distracted_doc_ids = docs_filtering(event_cs, json_dir)
+    en_json_dir = join(oneie_output, 'en/oneie/m1_m2/json/')
+    es_json_dir = join(oneie_output, 'es/oneie/m1_m2/json/')
+    en_filtered_doc_ids, en_distracted_doc_ids = docs_filtering(en_json_dir)
+    es_filtered_doc_ids, es_distracted_doc_ids = docs_filtering(es_json_dir)
+    filtered_doc_ids = en_filtered_doc_ids.union(es_filtered_doc_ids)
+    distracted_doc_ids = en_distracted_doc_ids.union(es_distracted_doc_ids)
     output_distractors = join(coreference_output, 'distrators.txt')
     with open(output_distractors, 'w+') as f:
         for _id in distracted_doc_ids:
             f.write('{}\n'.format(json.dumps([_id])))
+
+    # Create a merged input folder
+    event_cs, entity_cs, relation_cs, json_dir, linking_output, english_docs, spanish_docs = \
+        merge_inputs(oneie_output, linking_output, merged_input)
 
     # Run document clustering
     clusters = [list(filtered_doc_ids)]

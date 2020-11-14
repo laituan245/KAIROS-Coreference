@@ -34,7 +34,7 @@ def read_json_docs(base_path):
 def flatten(l):
     return [item for sublist in l for item in sublist]
 
-def docs_filtering(event_cs_path, json_dir):
+def docs_filtering(json_dir):
     json_base_path = json_dir
     # Build doc2text and doc2sents
     doc2text = {}
@@ -64,7 +64,7 @@ def docs_filtering(event_cs_path, json_dir):
             ctx += 1
 
     # DBSCAN
-    clustering = DBSCAN(eps=0.42, min_samples=2, metric='precomputed').fit(X)
+    clustering = DBSCAN(eps=0.45, min_samples=2, metric='precomputed').fit(X)
     labels = clustering.labels_.tolist()
 
     distracted_docs = []
