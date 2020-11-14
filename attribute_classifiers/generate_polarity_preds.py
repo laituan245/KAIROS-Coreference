@@ -41,8 +41,9 @@ def generate_polarity_preds(cs_path, json_dir, output_path):
 
     with torch.no_grad():
         for inst in docs:
-            preds, _ = model(inst, is_training=False)
             event_mentions = inst.event_mentions
+            if len(event_mentions) == 0: continue
+            preds, _ = model(inst, is_training=False)
             for ix, e in enumerate(event_mentions):
                 e_id = e['mention_id']
                 if not e_id in loc2preds: loc2preds[e_id] = {}
