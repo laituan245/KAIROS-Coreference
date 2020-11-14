@@ -9,7 +9,7 @@ from os.path import dirname, join
 from argparse import ArgumentParser
 from entity_coref import entity_coref
 from event_coref import event_coref
-from utils import create_dir_if_not_exist
+from utils import create_dir_if_not_exist, flatten
 from refine_entity_coref import refine_entity_coref
 from attribute_classifiers import generate_hedge_preds, generate_realis_preds, generate_polarity_preds
 from scripts import filter_relation, merge_inputs, remove_entities, separate_files, apply_attrs, remove_arguments
@@ -58,7 +58,11 @@ if __name__ == "__main__":
             f.write('{}\n'.format(json.dumps([_id])))
 
     # Run document clustering
-    clusters = [list(filtered_doc_ids)]
+    # Cluster 1 ~ 2018 Caracas drone attack | Cluster 2 ~ Utah High School backpack bombing
+    clusters = [['K0C041NI3', 'K0C047Z5C', 'K0C041NI5', 'K0C047Z5A', 'K0C041O37', 'K0C041O3D'],
+                ['K0C041NHV', 'K0C041NI2', 'K0C041NHW', 'K0C041NHY', 'K0C041NI0', 'K0C047Z59', 'K0C047Z57']]
+    assert(set(flatten(clusters)) == filtered_doc_ids)
+
     output_cluster = join(args.coreference_output, 'clusters.txt')
     with open(output_cluster, 'w+') as f:
         for c in clusters:
