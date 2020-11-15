@@ -11,8 +11,6 @@ def read_data(json_file):
 
 input_data = read_data('test/sample_input.json')
 input_data = json.loads(input_data)
-input_data['oneie']['es'] = input_data['oneie']['en']
-input_data['edl']['es'] = input_data['oneie']['es']
 
 response = requests.post('http://localhost:20202/process', json={'data': input_data})
 with open('test/sample_response.txt', 'w+') as f:
