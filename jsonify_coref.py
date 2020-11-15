@@ -16,5 +16,5 @@ def _jsonify(dir):
 def jsonify_coref(coref_output):
     data = _jsonify(coref_output)
     data['en'] = _jsonify(join(coref_output, 'en'))
-    data['es'] = _jsonify(join(coref_output, 'en'))
+    data['es'] = _jsonify(join(coref_output, 'es'))
     return json.dumps(data)
