@@ -13,7 +13,7 @@ from entity_coref import entity_coref
 from event_coref import event_coref
 from utils import create_dir_if_not_exist
 from refine_entity_coref import refine_entity_coref
-from scripts import align_relation, align_event, docs_filtering, string_repr, filter_relation, remove_entities
+from scripts import align_relation, align_event, docs_filtering, docs_clustering, string_repr, filter_relation, remove_entities
 
 ONEIE = 'oneie'
 app = Flask(__name__)
@@ -70,7 +70,8 @@ if __name__ == "__main__":
             f.write('{}\n'.format(json.dumps([_id])))
 
     # Run document clustering
-    clusters = [list(filtered_doc_ids)]
+    #clusters = [list(filtered_doc_ids)]
+    clusters = docs_clustering(args.linking_output, filtered_doc_ids)
     output_cluster = join(args.coreference_output, 'clusters.txt')
     with open(output_cluster, 'w+') as f:
         for c in clusters:
