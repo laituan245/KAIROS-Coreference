@@ -53,3 +53,7 @@ def generate_polarity_preds(cs_path, json_dir, output_path):
         json.dump(loc2preds, outfile)
 
     model.to(torch.device('cpu'))
+
+    # Delete unused objects
+    del(model)
+    del(tokenizer)

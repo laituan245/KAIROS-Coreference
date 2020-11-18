@@ -285,3 +285,7 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
     os.remove(INTERMEDIATE_PRED_EVENT_PAIRS)
 
     model.to(torch.device('cpu'))
+
+    # Delete unused objects
+    del(model)
+    del(tokenizer)

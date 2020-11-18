@@ -195,4 +195,9 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
 
 
     model.to(torch.device('cpu'))
+
+    # Delete unused objects
+    del(model)
+    del(tokenizer)
+
     return predicted_pairs

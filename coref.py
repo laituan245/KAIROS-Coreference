@@ -1,4 +1,5 @@
 import os
+import gc
 import json
 import time
 import torch
@@ -21,8 +22,11 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
     en_event_cs_path = join(oneie_output, 'en/oneie/m1_m2/cs/event.cs')
     en_json_dir = join(oneie_output, 'en/oneie/m1_m2/json/')
     generate_hedge_preds(en_event_cs_path, en_json_dir, coreference_output)
+    gc.collect()
     generate_realis_preds(en_event_cs_path, en_json_dir, coreference_output)
+    gc.collect()
     generate_polarity_preds(en_event_cs_path, en_json_dir, coreference_output)
+    gc.collect()
     torch.cuda.empty_cache()
 
     # Use ES translation
@@ -70,21 +74,25 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
     filtered_eng_doc_ids = [f for f in filtered_doc_ids if f in english_docs]
     english_entity_pairs = \
         entity_coref(entity_cs, json_dir, linking_output, output_entity, 'en', filtered_eng_doc_ids, clusters, english_docs, spanish_docs)
+    gc.collect()
 
     # Run entity coref (Spanish)
     output_entity =  join(coreference_output, 'entity.cs')
     filtered_spanish_doc_ids = [f for f in filtered_doc_ids if f in spanish_docs]
     mono_entity_pairs = \
         entity_coref(entity_cs, json_dir, linking_output, output_entity, 'es', filtered_spanish_doc_ids, clusters, english_docs, spanish_docs, predicted_pairs=english_entity_pairs)
+    gc.collect()
 
     # Run cross-lingual coref
     entity_coref(entity_cs, json_dir, linking_output, output_entity, 'cross', filtered_doc_ids, clusters, english_docs, spanish_docs, predicted_pairs=mono_entity_pairs)
+    gc.collect()
 
     # The loop stops when refinement process does not modify entity coref anymore
     while True:
         # Run event coref
         output_event = join(coreference_output, 'event.cs')
         event_coref(event_cs, json_dir, output_event, entity_cs, output_entity, filtered_doc_ids, clusters)
+        gc.collect()
 
         # Run aligning relation
         output_relation = join(coreference_output, 'relation.cs')

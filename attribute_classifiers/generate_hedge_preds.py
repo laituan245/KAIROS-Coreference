@@ -39,3 +39,8 @@ def generate_hedge_preds(cs_path, json_dir, output_path):
 
     with open(output_file_path, 'w+') as outfile:
         json.dump(loc2preds, outfile)
+
+
+    # Delete unused objects
+    del(classifier)
+    del(tokenizer)
