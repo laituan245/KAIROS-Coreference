@@ -5,6 +5,7 @@ import shutil
 import argparse
 import time
 import json
+import gc
 
 from os.path import join
 from shutil import rmtree
@@ -78,6 +79,8 @@ def process():
 
     # Remove the tmp dir
     rmtree(run_tmp_dir)
+
+    gc.collect()
 
     return final_output
 
