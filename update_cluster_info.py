@@ -26,6 +26,11 @@ for doc in new_docs:
     clusters.append([doc])
 
 f = open('resources/original/clusters.txt', 'w+')
-for cluster in clusters: f.write('{}\n'.format(json.dumps(cluster)))
+for cluster in clusters:
+    _filtered_cluster = []
+    for c in cluster:
+        if c in json_docs:
+            _filtered_cluster.append(c)
+    if len(_filtered_cluster) > 0:
+        f.write('{}\n'.format(json.dumps(_filtered_cluster)))
 f.close()
-
