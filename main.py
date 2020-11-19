@@ -6,5 +6,5 @@ LINKING_OUTPUT = '/shared/nas/data/m1/xiaoman6/tmp/20200920_kairos_linking/outpu
 COREFERENCE_OUTPUT = '/shared/nas/data/m1/tuanml2/tmp/coref/'
 
 if __name__ == "__main__":
-    clusters = read_cluster_info('resources/processed/clusters.txt')
+    clusters = read_cluster_info('resources/original/clusters.txt')
     coref_main(ONEIE_OUTPUT, LINKING_OUTPUT, COREFERENCE_OUTPUT, clusters)
