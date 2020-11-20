@@ -6,6 +6,8 @@ import argparse
 import time
 import json
 import gc
+import threading
+import concurrent.futures
 
 from os.path import join
 from shutil import rmtree
@@ -28,11 +30,7 @@ def parse_cs_data(data, output_file):
         for line in lines:
             f.write('{}\n'.format(line.strip()))
 
-@app.route('/process', methods=['POST'])
-def process():
-    form = request.get_json()
-    data = form.get('data')
-
+def process_data(data):
     # Create tmp dir
     run_tmp_dir = os.path.join(TMP_DIR, str(uuid.uuid4()))
     os.makedirs(run_tmp_dir, exist_ok=True)
@@ -79,6 +77,17 @@ def process():
 
     # Remove the tmp dir
     rmtree(run_tmp_dir)
+
+    return final_output
+
+@app.route('/process', methods=['POST'])
+def process():
+    form = request.get_json()
+    data = form.get('data')
+
+    with concurrent.futures.ProcessPoolExecutor(max_workers=1) as executor:
+        future = executor.submit(process_data, data)
+        final_output = future.result()
 
     gc.collect()
 
