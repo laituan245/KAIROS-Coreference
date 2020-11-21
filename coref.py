@@ -26,9 +26,9 @@ logging.root.setLevel(level=logging.INFO)
 if __name__ == "__main__":
     # Parse argument
     parser = ArgumentParser()
-    parser.add_argument('--oneie_output', default='/shared/nas/data/m1/tuanml2/tmpfile/docker-compose/output/en/oneie/m1_m2')
-    parser.add_argument('--linking_output', default='/shared/nas/data/m1/tuanml2/tmpfile/docker-compose/output/en/linking/en.linking.wikidata.cs')
-    parser.add_argument('--coreference_output', default='/shared/nas/data/m1/tuanml2/tmpfile/docker-compose/output/en/coref/')
+    parser.add_argument('--oneie_output', default='/shared/nas/data/m1/yinglin8/kairos/result/LDC_schema_corpus_oct27/m1_m2')
+    parser.add_argument('--linking_output', default='/shared/nas/data/m1/xiaoman6/tmp/20200920_kairos_linking/output/LDC_schema_corpus_oct27/m1_m2/linking/en.linking.wikidata.cs')
+    parser.add_argument('--coreference_output', default='/shared/nas/data/m1/tuanml2/LDC_schema_corpus_oct27/coref/')
     parser.add_argument('--ta', default=1)
     parser.add_argument('--language', default='en')
     parser.add_argument('--port', default=3300)
