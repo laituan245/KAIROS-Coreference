@@ -5,12 +5,10 @@ import copy
 import random
 
 from constants import *
-from os.path import dirname
+from os.path import dirname, join
 from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten, create_dir_if_not_exist, read_event_types
 from data import EventCentricDocument, EventCentricDocumentPair, load_event_centric_dataset
 from algorithms import UndirectedGraph
-
-INTERMEDIATE_PRED_EVENT_PAIRS = 'event_pred_pairs.txt'
 
 def args_overlap(argi, argj):
     if argi is None: return False
@@ -20,6 +18,7 @@ def args_overlap(argi, argj):
 # Main Function
 def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input_entity, filtered_doc_ids, clusters):
     create_dir_if_not_exist(dirname(output_path))
+    INTERMEDIATE_PRED_EVENT_PAIRS = join(dirname(output_path), 'event_pred_pairs.txt')
 
     # Build olde2mid
     olde2mid = {}
