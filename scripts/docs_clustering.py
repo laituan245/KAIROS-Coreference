@@ -79,6 +79,9 @@ def docs_clustering(json_dir, distracted_docs=set(), verbose=True):
         if cur_label >= len(clusters): clusters.append([])
         clusters[cur_label].append(doc_ids[ix])
 
+    # Sorting
+    clusters.sort(key=lambda x: len(x), reverse=True)
+
     if verbose:
         print('There are {} clusters: {}'.format(len(clusters), clusters))
 

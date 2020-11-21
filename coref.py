@@ -60,6 +60,8 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
     clusters = docs_clustering(join(merged_input, 'json'), distracted_doc_ids)
     assert(len(set(flatten(clusters))) == len(filtered_doc_ids))
     assert(set(flatten(clusters)) == set(filtered_doc_ids))
+    for distracted_doc in distracted_doc_ids:
+        clusters.append([distracted_doc])
     output_cluster = join(coreference_output, 'clusters.txt')
     with open(output_cluster, 'w+') as f:
         for c in clusters:
