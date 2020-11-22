@@ -15,7 +15,6 @@ from refine_entity_coref import refine_entity_coref
 from attribute_classifiers import generate_hedge_preds, generate_realis_preds, generate_polarity_preds
 from scripts import filter_relation, merge_inputs, remove_entities, separate_files, apply_attrs, remove_arguments
 from scripts import align_relation, align_event, docs_filtering, use_es_translation, string_repr, fix_event_types, fix_event_args
-from scripts import docs_clustering
 
 # Main code
 def main_coref(oneie_output, linking_output, coreference_output, keep_distractors):
@@ -57,11 +56,7 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
         merge_inputs(oneie_output, linking_output, merged_input)
 
     # Run document clustering
-    clusters = docs_clustering(join(merged_input, 'json'), distracted_doc_ids)
-    assert(len(set(flatten(clusters))) == len(filtered_doc_ids))
-    assert(set(flatten(clusters)) == set(filtered_doc_ids))
-    for distracted_doc in distracted_doc_ids:
-        clusters.append([distracted_doc])
+    clusters = [list(filtered_doc_ids)]
     output_cluster = join(coreference_output, 'clusters.txt')
     with open(output_cluster, 'w+') as f:
         for c in clusters:

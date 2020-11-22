@@ -5,7 +5,7 @@ import requests
 
 from os.path import join
 
-BASE_PATH = 'test/end2end'
+BASE_PATH = 'test/end2end_test2'
 
 def read_data(json_file):
     f = open(json_file, 'r')

@@ -11,4 +11,3 @@ from scripts.use_es_translation import use_es_translation
 from scripts.apply_attrs import apply_attrs
 from scripts.remove_arguments import remove_arguments
 from scripts.fix_event_args import fix_event_args
-from scripts.docs_clustering import docs_clustering
