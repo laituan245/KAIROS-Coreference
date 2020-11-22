@@ -96,7 +96,7 @@ if __name__ == '__main__':
             words = flatten(doc2sents[doc])
             doc2words[doc] = [w[0] for w in words]
 
-        filtered_docs, distracted_docs = docs_filtering(test_path)
+        filtered_docs, distracted_docs = docs_filtering(test_path, language='en')
 
         f.write('<h1>Test {}</h1>\n'.format(test_nb+1))
         f.write('<h3>Relevant Docs</h3>\n')
