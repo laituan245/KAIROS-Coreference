@@ -5,6 +5,12 @@ from sklearn.cluster import DBSCAN
 from os.path import isfile, join
 from sentence_transformers import SentenceTransformer, util
 
+ATTACK_EN_KEYWORDS = ['bomb', 'bombs', 'explosive', 'explosives', 'drone', 'drones',
+                      'strike', 'strikes', 'attack', 'attacks', 'shoot', 'shoots']
+ATTACK_ES_KEYWORDS = ['bomba', 'bombas', 'explosivo', 'explosiva', 'explosivos',
+                      'dron', 'drones', 'huelga', 'huelgas', 'ataque', 'ataques', 'disparan']
+
+
 def locstr_to_loc(loc_str):
     doc_id, offset_info = loc_str.split(':')
     start, end = offset_info.split('-')
@@ -79,6 +85,31 @@ def docs_filtering(json_dir, language):
     distracted_docs = set(distracted_docs)
     filtered_docs = all_doc_ids - distracted_docs
 
-    print('[AFTER FILTERING] Remaining doc ids: {}'.format(filtered_docs))
+    print('[AFTER DBSCAN FILTERING] Remaining doc ids: {}'.format(filtered_docs))
     print('Distracted doc ids: {}'.format(distracted_docs))
+
+    if len(distracted_docs) == 0:
+        # Fall back to keyword-based filtering
+        filtered_docs = list(filtered_docs)
+        has_attack_keywords = []
+        for doc in filtered_docs:
+            check = False
+            words = doc2text[doc].split(' ')
+            for w in words:
+                if language == 'en': attack_keywords = ATTACK_EN_KEYWORDS
+                if language == 'es': attack_keywords = ATTACK_ES_KEYWORDS
+                for keyword in attack_keywords:
+                    if keyword.lower() in w.lower():
+                        check = True
+                        break
+            has_attack_keywords.append(int(check))
+        # Check if majority has attack keywords
+        ctx_1 = has_attack_keywords.count(1)
+        if ctx_1 >= len(filtered_docs) / 2:
+            distracted_docs = set()
+            for ix in range(len(has_attack_keywords)):
+                if not has_attack_keywords[ix]:
+                    distracted_docs.add(filtered_docs[ix])
+            filtered_docs = all_doc_ids - distracted_docs
+
     return filtered_docs, distracted_docs
