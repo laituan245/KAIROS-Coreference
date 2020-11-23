@@ -46,10 +46,8 @@ def docs_filtering(json_dir, language):
     # model
     assert(language in ['en', 'es'])
     if language == 'en':
-        eps = 0.48
         model = SentenceTransformer('bert-large-nli-stsb-mean-tokens')
     if language == 'es':
-        eps = 0.45
         model = SentenceTransformer('xlm-r-distilroberta-base-paraphrase-v1')
 
     # doc_ids, texts, embeddings
@@ -70,7 +68,7 @@ def docs_filtering(json_dir, language):
             ctx += 1
 
     # DBSCAN
-    clustering = DBSCAN(eps=eps, min_samples=2, metric='precomputed').fit(X)
+    clustering = DBSCAN(eps=0.5, min_samples=2, metric='precomputed').fit(X)
     labels = clustering.labels_.tolist()
 
     distracted_docs = []
