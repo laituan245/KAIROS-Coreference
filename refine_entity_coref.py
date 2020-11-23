@@ -45,6 +45,8 @@ def refine_entity_coref(new_input_entity, new_input_event):
                 if event_type in event_types: # Consider only events in the KAIROS ontology
                     event_args = event_types[event_type]['args']
                     arg_name = es[1].split('.')[-2].split('_')[-1]
+                    if not arg_name in event_args:
+                        continue
                     arg_nb = event_args[arg_name]
                     if not es[0] in event2args: event2args[es[0]] = {}
                     if not arg_nb in event2args[es[0]]: event2args[es[0]][arg_nb] = []
@@ -61,6 +63,10 @@ def refine_entity_coref(new_input_entity, new_input_event):
                 for j in range(i+1, len(arg_values)):
                     a1, a2 = arg_values[i], arg_values[j]
                     if a1 != a2 and entity2type[a1] == entity2type[a2] and arg_values.count(a1) > 1 and arg_values.count(a2) > 1:
+                        a1, a2 = min(a1, a2), max(a1, a2)
+                        new_link.add((a1, a2))
+                    elif a1 != a2 and entity2type[a1] == entity2type[a2] and 'DetonateExplode' in event2type[event] \
+                    and arg_name == '<arg3>': # DetonateExplode Explosive Device
                         a1, a2 = min(a1, a2), max(a1, a2)
                         new_link.add((a1, a2))
     #
