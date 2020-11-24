@@ -1,4 +1,5 @@
 from os.path import join
+from nltk.tag import pos_tag
 from collections import Counter
 from utils import read_event_types
 
@@ -53,6 +54,19 @@ def read_event(event_cs, event_types):
                 event2mention[es[0]] = es[2][1:-1]
     return all_lines, event2type, event2args, event2mention
 
+def is_proper_noun(text):
+    if not text[0].isupper(): return False
+    tagged = pos_tag(text.split())
+    tags = [t[1] for t in tagged]
+    if not 'NNP' in tags: return False
+    if len(text.split()) == 1:
+        token = text.strip()
+        if 'NNP' in pos_tag(token)[0][1]:
+            return True
+        return False
+    else:
+        return True
+
 def remove_arguments(output_entity_cs, output_event_cs, output_path):
     event_types = read_event_types('resources/event_types.tsv')
     entity2type, mid2entity, entity2mention = read_entity(output_entity_cs)
@@ -64,14 +78,14 @@ def remove_arguments(output_entity_cs, output_event_cs, output_path):
     # Clean up arg1/arg2
     for e in event2args:
         cur_args = event2args[e]
-        if (not 'attack' in event2type[e].lower()): continue
-        for arg_name in ['<arg1>', '<arg2>']:
+        #if (not 'attack' in event2type[e].lower()): continue
+        for arg_name in ['<arg1>', '<arg2>', '<arg3>', '<arg4>', '<arg5>']:
             if arg_name in cur_args:
                 args1 = cur_args[arg_name]
                 # Build proper_nouns
                 has_major_proper_noun = False
                 proper_nouns = [entity2mention[a[0]] for a in args1 if a[0] in entity2mention]
-                proper_nouns = [p for p in proper_nouns if p[0].isupper()]
+                proper_nouns = [p for p in proper_nouns if is_proper_noun(p)]
                 majority_proper_noun = find_majority(proper_nouns)[1]
                 if majority_proper_noun > 1:
                     has_major_proper_noun = True
