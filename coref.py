@@ -57,13 +57,13 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
 
     # Run document clustering
     clusters = [list(filtered_doc_ids)]
+    if keep_distractors:
+        for distractor in distracted_doc_ids:
+            clusters.append([distractor])
     output_cluster = join(coreference_output, 'clusters.txt')
     with open(output_cluster, 'w+') as f:
         for c in clusters:
             f.write('{}\n'.format(json.dumps(c)))
-    if keep_distractors:
-        for distractor in distracted_doc_ids:
-            clusters.append([distractor])
 
     # Update filtered_doc_ids to contain all docs if keep_distractors
     if keep_distractors:

@@ -101,6 +101,8 @@ if __name__ == '__main__':
     args = parser.parse_args()
     TMP_DIR = args.tmp_dir
     KEEP_DISTRACTORS = args.keep_distractors
+    # Always turn on KEEP_DISTRACTORS
+    KEEP_DISTRACTORS = True
 
     logger.info('done.')
     logger.info('start...')
