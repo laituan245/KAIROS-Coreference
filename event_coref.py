@@ -15,8 +15,14 @@ def args_overlap(argi, argj):
     if argj is None: return False
     return len(argi.intersection(argj)) > 0
 
+def locstr_to_loc(loc_str):
+    doc_id, offset_info = loc_str.split(':')
+    start, end = offset_info.split('-')
+    start, end = int(start), int(end)
+    return (doc_id, start, end)
+
 # Main Function
-def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input_entity, filtered_doc_ids, clusters):
+def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input_entity, filtered_doc_ids, clusters, english_docs, spanish_docs):
     create_dir_if_not_exist(dirname(output_path))
     INTERMEDIATE_PRED_EVENT_PAIRS = join(dirname(output_path), 'event_pred_pairs.txt')
 
@@ -266,6 +272,11 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
             while len(ix_str) < 7: ix_str = '0' + ix_str
             es_0 = prefix + ix_str
             # Element in clusters
+            if len(cluster) == 1:
+                doc_id = locstr_to_loc(id2mention[list(cluster)[0]]['mention_id'])[0]
+                if doc_id in spanish_docs:
+                    continue
+
             for m in cluster:
                 mention = id2mention[m]
                 mid = mention['mention_id']

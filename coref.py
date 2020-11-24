@@ -91,7 +91,7 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
     while True:
         # Run event coref
         output_event = join(coreference_output, 'event.cs')
-        event_coref(event_cs, json_dir, output_event, entity_cs, output_entity, filtered_doc_ids, clusters)
+        event_coref(event_cs, json_dir, output_event, entity_cs, output_entity, filtered_doc_ids, clusters, english_docs, spanish_docs)
         gc.collect()
 
         # Run aligning relation
