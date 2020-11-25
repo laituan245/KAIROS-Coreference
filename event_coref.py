@@ -10,6 +10,8 @@ from utils import load_tokenizer_and_model, get_predicted_antecedents, flatten, 
 from data import EventCentricDocument, EventCentricDocumentPair, load_event_centric_dataset
 from algorithms import UndirectedGraph
 
+BOMBING_KEYWORDS = ['gone off', 'bomb', 'detonate']
+
 def args_overlap(argi, argj):
     if argi is None: return False
     if argj is None: return False
@@ -162,6 +164,13 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
     mid2type = {}
     for i in range(len(mentions)):
         mid2type[mentions[i]['mention_id']] = mentions[i]['event_type']
+        if mentions[i]['event_type'] == 'Conflict.Attack.Unspecified':
+            should_change = False
+            for bomb_kw in BOMBING_KEYWORDS:
+                if bomb_kw in mentions[i]['text'].lower():
+                    should_change = True
+            if should_change:
+                mid2type[mentions[i]['mention_id']] = 'Conflict.Attack.DetonateExplode'
 
     # Add edges from INTERMEDIATE_PRED_EVENT_PAIRS (all edges will be in-doc)
     edge_pairs = set()
