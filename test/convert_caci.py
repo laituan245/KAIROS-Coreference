@@ -3,7 +3,9 @@ import json
 import argparse
 
 from os.path import join
-from utils import create_dir_if_not_exist
+
+def create_dir_if_not_exist(dir):
+    if not os.path.exists(dir): os.makedirs(dir)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -23,7 +25,8 @@ if __name__ == '__main__':
         oneie_data = data['oneie']
         oneie_data_en = oneie_data['en']['json']
         oneie_data_es = oneie_data['es']['json']
-        print(oneie_data_en.keys())
+        temporal_en = data['temporal_relation']['en']['temporal_relation.cs']
+        temporal_es = data['temporal_relation']['es']['temporal_relation.cs']
 
     # Write files (All)
     with open(join(ALL_BASE_PATH, 'entity.cs'), 'w+') as f:
@@ -34,6 +37,9 @@ if __name__ == '__main__':
         f.write(coref_data['clusters.txt'])
     with open(join(ALL_BASE_PATH, 'distractors.txt'), 'w+') as f:
         f.write(coref_data['distrators.txt'])
+    with open(join(ALL_BASE_PATH, 'temporal.cs'), 'w+') as f:
+        f.write(temporal_en)
+        f.write(temporal_es)
 
     # Create json files
     oneie_data = {}

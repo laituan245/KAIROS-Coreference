@@ -110,15 +110,14 @@ def generate_visualization_for_cluster(docs, entity2mention, event2mention, clus
     for event in removed_events: del event2mention[event]
 
     # Generate visualization files
-    generate_visualization(docs, entity2mention, join(base_output_path, 'cluster_{}_entity_coref.html'.format(cluster_nb)))
-    generate_visualization(docs, event2mention, join(base_output_path, 'cluster_{}_event_coref.html'.format(cluster_nb)))
+    generate_visualization(docs, entity2mention, join(join(base_output_path, 'visualizations'), 'cluster_{}_entity_coref.html'.format(cluster_nb)))
+    generate_visualization(docs, event2mention, join(join(base_output_path, 'visualizations'), 'cluster_{}_event_coref.html'.format(cluster_nb)))
 
 # Main code
 if __name__ == "__main__":
     # Parse argument
     parser = ArgumentParser()
     parser.add_argument('--test_nb', default=1)
-    parser.add_argument('--coref_dir', default='resources/quizlet4/cross_lingual_coref/')
     args = parser.parse_args()
     args.json_dir = 'test/caci/all{}/json'.format(args.test_nb)
     args.coref_dir = 'test/caci/all{}'.format(args.test_nb)
