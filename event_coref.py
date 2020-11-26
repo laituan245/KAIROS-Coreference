@@ -226,6 +226,10 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
                     argi = args_seti.get('<arg{}>'.format(i+1))
                     argj = args_setj.get('<arg{}>'.format(i+1))
                     if args_overlap(argi, argj): cond_met = True
+            # considering ArtifactExistence.ManufactureAssemble
+            if 'ArtifactExistence.ManufactureAssemble' in subtypei and 'ArtifactExistence.ManufactureAssemble' in subtypej:
+                if len(args_seti) == 0 or len(args_setj) == 0: cond_met = True
+                if args_overlap(args_seti.get('<arg2>'), args_setj.get('<arg2>')): cond_met = True
             if cond_met:
                 mid_i, mid_j = mentions[i]['mention_id'], mentions[j]['mention_id']
                 edge_pairs.add((mid_i, mid_j))
