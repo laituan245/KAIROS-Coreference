@@ -48,7 +48,7 @@ def apply_attrs(output_path):
     # Find majority
     for e in event2hedge:
         hedge_values = event2hedge[e]
-        if hedge_values.count('C') / len(hedge_values) > 0.25:
+        if hedge_values.count('C') / len(hedge_values) > 0.5:
             event2hedge[e] = 'C'
         else:
             event2hedge[e] = find_majority(event2hedge[e])
@@ -56,7 +56,7 @@ def apply_attrs(output_path):
         event2polarity[e] = find_majority(event2polarity[e])
 
         realis_values = event2realis[e]
-        if realis_values.count('actual') / len(realis_values) > 0.25:
+        if realis_values.count('actual') / len(realis_values) > 0.5:
             event2realis[e] = 'actual'
         else:
             event2realis[e] = find_majority(event2realis[e])
@@ -73,7 +73,7 @@ def apply_attrs(output_path):
                     values = []
                     if event2realis[es[0]] == 'generic': values.append('generic')
                     if event2hedge[es[0]] == 'U' and not event2realis[es[0]] == 'actual': values.append('hedged')
-                    if event2realis[es[0]] == 'other' and not (event2hedge[es[0]] == 'C' and event2polarity[es[0]] == 'Positive'): values.append('irrealis')
+                    if event2realis[es[0]] == 'other': values.append('irrealis')
                     if event2polarity[es[0]] == 'Negative': values.append('negated')
                     if len(values) == 0: values.append('actual')
                     attr_es[-1] = ','.join(values)
