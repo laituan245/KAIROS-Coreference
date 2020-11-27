@@ -55,6 +55,9 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
     event_cs, entity_cs, relation_cs, json_dir, linking_output, english_docs, spanish_docs = \
         merge_inputs(oneie_output, linking_output, merged_input)
 
+    # Remove non-participating-entities (Before main processing)
+    remove_entities(entity_cs, event_cs, relation_cs)
+
     # Run document clustering
     clusters = [list(filtered_doc_ids)]
     if keep_distractors:
