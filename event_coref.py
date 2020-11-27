@@ -220,6 +220,12 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
                     cond_met = True
                 if args_overlap(args_seti.get('<arg4>'), args_setj.get('<arg3>')):
                     cond_met = True
+                ctx = 0
+                for ix in range(5):
+                    argi = args_seti.get('<arg{}>'.format(i+1))
+                    argj = args_setj.get('<arg{}>'.format(i+1))
+                    if args_overlap(argi, argj): ctx += 1
+                if ctx >= 2: cond_met = True
             # considering Attack.DetonateExplode
             if 'Attack.DetonateExplode' in subtypei and 'Attack.DetonateExplode' in subtypej:
                 for ix in range(5):

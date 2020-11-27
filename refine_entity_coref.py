@@ -62,13 +62,15 @@ def refine_entity_coref(new_input_entity, new_input_event):
             for i in range(len(arg_values)):
                 for j in range(i+1, len(arg_values)):
                     a1, a2 = arg_values[i], arg_values[j]
-                    if a1 != a2 and entity2type[a1] == entity2type[a2] and arg_values.count(a1) > 1 and arg_values.count(a2) > 1:
-                        a1, a2 = min(a1, a2), max(a1, a2)
-                        new_link.add((a1, a2))
-                    elif a1 != a2 and entity2type[a1] == entity2type[a2] and 'DetonateExplode' in event2type[event] \
-                    and arg_name == '<arg3>': # DetonateExplode Explosive Device
-                        a1, a2 = min(a1, a2), max(a1, a2)
-                        new_link.add((a1, a2))
+                    if a1 != a2 and entity2type[a1] == entity2type[a2]:
+                        if arg_values.count(a1) > 1 and arg_values.count(a2) > 1:
+                            # Add link (a1, a2)
+                            a1, a2 = min(a1, a2), max(a1, a2)
+                            new_link.add((a1, a2))
+                        elif ('Conflict.Attack' in event2type[event]) and \
+                        (arg_name == '<arg3>' or arg_name == '<arg4>'): # Attack/DetonateExplode  Device/Instrument
+                            a1, a2 = min(a1, a2), max(a1, a2)
+                            new_link.add((a1, a2))
     #
     changed = False
     if len(new_link) > 0:

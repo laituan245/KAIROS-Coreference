@@ -119,8 +119,6 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                             antecedent_idx = predicted_antecedents[ix]
                             mention_1 = doc_entities[ix]
                             mention_2 = doc_entities[antecedent_idx]
-                            if 'fb_id' in mention_1 and 'fb_id' in mention_2 and mention_1['fb_id'] != mention_2['fb_id']:
-                                if (not mention_1['fb_id'].startswith('NIL')) and (not mention_2['fb_id'].startswith('NIL')): continue
                             if language == 'cross':
                                 if (not 'fb_id' in mention_1) or (not 'fb_id' in mention_2): continue
                                 if mention_1['fb_id'] != mention_2['fb_id']: continue
