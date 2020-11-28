@@ -18,10 +18,24 @@ def translate(model, tokenizer, text):
         tgt_text = [tokenizer.decode(t, skip_special_tokens=True) for t in translated]
         return tgt_text[0]
 
+def read_en_linking_cs(en_linking_cs):
+    english_mentions = set()
+    with open(en_linking_cs, 'r') as f:
+        for line in f:
+            es = line.split('\t')
+            if len(es) <= 3:
+                continue
+            english_mentions.add(es[2][1:-1].lower())
+    return english_mentions
 
-def es_translation(es_linking_path):
+def es_translation(es_linking_path, en_linking_path):
+    en_linking_cs = join(en_linking_path, 'en.linking.wikidata.cs')
     es_linking_cs = join(es_linking_path, 'es.linking.wikidata.cs')
 
+    # Read en linking cs
+    english_mentions = read_en_linking_cs(en_linking_cs)
+
+    # Prepare translation model
     model_name = 'Helsinki-NLP/opus-mt-es-en'
     model = MarianMTModel.from_pretrained(model_name)
     tokenizer = MarianTokenizer.from_pretrained(model_name)
@@ -35,6 +49,8 @@ def es_translation(es_linking_path):
                 continue
             else:
                 text = es[2][1:-1]
+                if text.lower() in english_mentions:
+                    en2es[text] = text
                 if not text in en2es:
                     en2es[text] = translate(model, tokenizer, text)
                 text = en2es[text]
