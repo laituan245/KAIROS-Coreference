@@ -14,7 +14,7 @@ def translate(model, tokenizer, text):
         src_text = [
             text
         ]
-        translated = model.generate(**tokenizer.prepare_seq2seq_batch(src_text))
+        translated = model.generate(**tokenizer.prepare_translation_batch(src_text))
         tgt_text = [tokenizer.decode(t, skip_special_tokens=True) for t in translated]
         return tgt_text[0]
 
