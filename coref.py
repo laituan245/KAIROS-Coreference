@@ -14,7 +14,7 @@ from utils import create_dir_if_not_exist, flatten
 from refine_entity_coref import refine_entity_coref
 from attribute_classifiers import generate_hedge_preds, generate_realis_preds, generate_polarity_preds
 from scripts import filter_relation, merge_inputs, remove_entities, separate_files, apply_attrs, remove_arguments
-from scripts import align_relation, align_event, docs_filtering, use_es_translation, string_repr, fix_event_types, fix_event_args
+from scripts import align_relation, align_event, docs_filtering, es_translation, string_repr, fix_event_types, fix_event_args
 
 # Main code
 def main_coref(oneie_output, linking_output, coreference_output, keep_distractors):
@@ -30,10 +30,7 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
     torch.cuda.empty_cache()
 
     # Use ES translation
-    try:
-        use_es_translation(join(linking_output, 'es/linking'))
-    except:
-        pass
+    es_translation(join(linking_output, 'es/linking'))
 
     # Merging en and es
     merged_input = join(coreference_output, 'merged_input')
@@ -108,7 +105,7 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
         remove_arguments(output_entity, output_event, coreference_output)
 
         # Run string_repr
-        string_repr(output_entity, output_event)
+        string_repr(output_entity, output_event, english_docs)
 
         # Run filter_relation
         filter_relation(output_event, output_relation)

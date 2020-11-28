@@ -20,6 +20,25 @@ def find_majority(k):
 
     return maximum
 
+def find_majority_2(kvs, english_docs):
+    ks = [a[0] for a in kvs]
+    vs = [a[1] for a in kvs]
+    majority_k = find_majority(ks)[0]
+
+    majority_vs, majority_vs_english = [], []
+    for i in range(len(vs)):
+        if ks[i] == majority_k:
+            majority_vs.append(vs[i])
+            if vs[i].split(':')[0] in english_docs:
+                majority_vs_english.append(vs[i])
+
+    if len(majority_vs_english) > 0:
+        majority_v = majority_vs_english[0]
+    else:
+        majority_v = majority_vs[0]
+
+    return majority_k, majority_v
+
 def read_event_types(fp):
     types = {}
     with open(fp, 'r') as f:
@@ -40,7 +59,7 @@ def read_event_types(fp):
             }
     return types
 
-def string_repr(new_input_entity, new_input_event):
+def string_repr(new_input_entity, new_input_event, english_docs):
     output_entity = dirname(new_input_entity) + 'entity_2.cs'
     output_event = dirname(new_input_event) + 'event_2.cs'
 
@@ -59,35 +78,39 @@ def string_repr(new_input_entity, new_input_event):
             if not entity_id in entity2mention: entity2mention[entity_id] = []
             if es[1] == 'canonical_mention':
                 cur_mention = es[2][1:-1].strip()
+                cur_loc = es[3].strip()
                 if len(cur_mention) == 0: continue
-                entity2mention[entity_id].append(cur_mention)
+                entity2mention[entity_id].append((cur_mention, cur_loc))
                 if cur_mention in ['Teen', 'I', 'He', 'She', 'They', 'It']: continue
                 if cur_mention[0].islower(): continue
-                entity2canonical[entity_id].append(cur_mention)
+                entity2canonical[entity_id].append((cur_mention, cur_loc))
             if es[1] == 'nominal_mention':
                 cur_mention = es[2][1:-1].strip()
+                cur_loc = es[3].strip()
                 if len(cur_mention) == 0: continue
-                entity2mention[entity_id].append(cur_mention)
-                entity2nominal[entity_id].append(cur_mention)
+                entity2mention[entity_id].append((cur_mention, cur_loc))
+                entity2nominal[entity_id].append((cur_mention, cur_loc))
             if es[1] == 'pronominal_mention':
                 cur_mention = es[2][1:-1].strip()
+                cur_loc = es[3].strip()
                 if len(cur_mention) == 0: continue
-                entity2mention[entity_id].append(cur_mention)
-                entity2pronominal[entity_id].append(cur_mention)
+                entity2mention[entity_id].append((cur_mention, cur_loc))
+                entity2pronominal[entity_id].append((cur_mention, cur_loc))
             if es[1] == 'mention':
                 cur_mention = es[2][1:-1].strip()
+                cur_loc = es[3].strip()
                 if len(cur_mention) == 0: continue
-                entity2mention[entity_id].append(cur_mention)
+                entity2mention[entity_id].append((cur_mention, cur_loc))
     entity2repr = {}
     for entity in entity2canonical:
         if len(entity2canonical[entity]) > 0:
-            entity2repr[entity] = find_majority(entity2canonical[entity])[0]
+            entity2repr[entity] = find_majority_2(entity2canonical[entity], english_docs)
         elif len(entity2nominal[entity]) > 0:
-            entity2repr[entity] = find_majority(entity2nominal[entity])[0]
+            entity2repr[entity] = find_majority_2(entity2nominal[entity], english_docs)
         elif len(entity2pronominal[entity]) > 0:
-            entity2repr[entity] = find_majority(entity2pronominal[entity])[0]
+            entity2repr[entity] = find_majority_2(entity2pronominal[entity], english_docs)
         else:
-            entity2repr[entity] = find_majority(entity2mention[entity])[0]
+            entity2repr[entity] = find_majority_2(entity2mention[entity], english_docs)
 
     # Read event_types
     event_types = read_event_types('resources/event_types.tsv')
@@ -110,8 +133,8 @@ def string_repr(new_input_entity, new_input_event):
                     arg_nb = event_args[arg_name]
                     if not es[0] in event2args: event2args[es[0]] = {}
                     if not arg_nb in event2args[es[0]]: event2args[es[0]][arg_nb] = []
-                    if len(entity2repr[es[2]].strip()) > 0:
-                        event2args[es[0]][arg_nb].append(entity2repr[es[2]].strip())
+                    if len(entity2repr[es[2]][0].strip()) > 0:
+                        event2args[es[0]][arg_nb].append(entity2repr[es[2]][0].strip())
 
     # Find majority for each args
     for e in event2args:
@@ -131,7 +154,8 @@ def string_repr(new_input_entity, new_input_event):
                 if es[1] != 'canonical_mention':
                     output_f.write('{}\n'.format(line))
                 else:
-                    es[2] = '"{}"'.format(entity2repr[es[0]])
+                    es[2] = '"{}"'.format(entity2repr[es[0]][0])
+                    es[3] = entity2repr[es[0]][1].strip()
                     line = '\t'.join(es)
                     output_f.write('{}\n'.format(line))
 
