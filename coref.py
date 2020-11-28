@@ -101,9 +101,6 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
         # Run aligning event
         align_event(output_entity, output_event)
 
-        # Run remove arguments
-        remove_arguments(output_entity, output_event, coreference_output)
-
         # Run string_repr
         string_repr(output_entity, output_event, english_docs)
 
@@ -115,6 +112,9 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
         print('changed = {}'.format(changed))
         if not changed:
             break
+
+    # Run remove arguments
+    remove_arguments(output_entity, output_event, coreference_output)
 
     # Remove non-participating-entities
     remove_entities(output_entity, output_event, output_relation)
