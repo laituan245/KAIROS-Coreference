@@ -3,6 +3,7 @@ import time
 import torch
 import random
 import shutil
+from nltk.tag import pos_tag
 
 from os.path import dirname, join
 from utils import create_dir_if_not_exist
@@ -45,14 +46,20 @@ def es_translation(es_linking_path, en_linking_path):
         for line in f:
             es = line.split('\t')
             if len(es) <= 3:
-                lines.append(line.strip())
+                lines.append(line)
                 continue
             else:
                 text = es[2][1:-1]
                 if text.lower() in english_mentions:
                     en2es[text] = text
                 if not text in en2es:
-                    en2es[text] = translate(model, tokenizer, text)
+                    if text.strip() == 'Sus': translation = 'Their'
+                    elif text.strip() == 'Vladimir Padrino': translation = 'Vladimir Padrino'
+                    else: translation = translate(model, tokenizer, text)
+                    if 'I-I-I-I' in translation: translation = text # Give up lol
+                    if '...............' in translation: translation = text # Give up lol
+                    if text.islower(): translation = translation.lower()
+                    en2es[text] = translation
                 text = en2es[text]
                 text = es[2][0] + text + es[2][-1]
                 es[2] = text
@@ -61,4 +68,6 @@ def es_translation(es_linking_path, en_linking_path):
 
     with open(es_linking_cs, 'w+') as f:
         for line in lines:
-            f.write('{}\n'.format(line))
+            f.write('{}'.format(line))
+
+    return en2es
