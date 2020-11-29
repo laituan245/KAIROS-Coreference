@@ -14,6 +14,7 @@ from shutil import rmtree
 from coref import main_coref
 from jsonify_coref import jsonify_coref
 from flask import Flask, request
+from scripts import translate_extensions
 
 TMP_DIR = None
 KEEP_DISTRACTORS = False
@@ -37,6 +38,7 @@ def process_data(data):
     logger.info('Created tmp output directory: {}'.format(run_tmp_dir))
 
     # Create input folder
+    ext_data = []
     for lang in LANGUAGES:
         input_lang_dir = os.path.join(run_tmp_dir, lang)
         os.makedirs(input_lang_dir, exist_ok=True)
@@ -73,6 +75,11 @@ def process_data(data):
         ext_filepath = join(ext_dir, 'extension.json')
         with open(ext_filepath, 'w+') as f:
             f.write(data['ext'][lang])
+        if lang == 'es':
+            translate_extensions(ext_filepath)
+
+        with open(ext_filepath, 'r') as f:
+            ext_data[lang] = json.loads(f.read())
 
     # Run coref
     coreference_output = os.path.join(run_tmp_dir, 'coref')
@@ -80,6 +87,11 @@ def process_data(data):
     main_coref(run_tmp_dir, run_tmp_dir, coreference_output, KEEP_DISTRACTORS)
 
     final_output = jsonify_coref(coreference_output)
+
+    # Also add extension field
+    final_output = json.loads(final_output)
+    final_output['ext'] = ext_data
+    final_output = json.dumps(final_output)
 
     # Remove the tmp dir
     rmtree(run_tmp_dir)
