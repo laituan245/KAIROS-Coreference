@@ -7,3 +7,4 @@ nltk
 stanza==1.1.1
 Flask
 sentence-transformers==0.3.5
+langdetect

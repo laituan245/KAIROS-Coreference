@@ -12,3 +12,4 @@ from scripts.apply_attrs import apply_attrs
 from scripts.remove_arguments import remove_arguments
 from scripts.fix_event_args import fix_event_args
 from scripts.es_translation import es_translation
+from scripts.translate_extensions import translate_extensions
