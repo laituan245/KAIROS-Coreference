@@ -38,7 +38,7 @@ def process_data(data):
     logger.info('Created tmp output directory: {}'.format(run_tmp_dir))
 
     # Create input folder
-    ext_data = []
+    ext_data = {}
     for lang in LANGUAGES:
         input_lang_dir = os.path.join(run_tmp_dir, lang)
         os.makedirs(input_lang_dir, exist_ok=True)
