@@ -67,6 +67,12 @@ def process_data(data):
         edl_tab_filepath = join(edl_dir, '{}.linking.wikidata.tab'.format(lang))
         with open(edl_tab_filepath, 'w+') as output_edl_tab_file:
             output_edl_tab_file.write('{}'.format(edl_data['tab']))
+        # extension file
+        ext_dir = os.path.join(input_lang_dir, 'extension')
+        os.makedirs(ext_dir, exist_ok=True)
+        ext_filepath = join(ext_dir, 'extension.json')
+        with open(ext_filepath, 'w+') as f:
+            f.write(data['ext'][lang])
 
     # Run coref
     coreference_output = os.path.join(run_tmp_dir, 'coref')
