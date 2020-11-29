@@ -62,17 +62,20 @@ def fix_event_args(event_output):
     event_lines = copy.deepcopy(fixed_lines)
     fixed_lines, stage2_discarded = [], 0
     for line in event_lines:
-        es = line.split('\t')
-        if len(es) > 3 and (not 'mention' in es[1]):
-            type = event2type[es[0]]
-            arg_name = es[1].split('.')[-2].split('_')[-1]
-            event_args = event_types[type]['args']
-            if not arg_name in event_args:
-                stage2_discarded += 1
-                continue
+        try:
+            es = line.split('\t')
+            if len(es) > 3 and (not 'mention' in es[1]):
+                type = event2type[es[0]]
+                arg_name = es[1].split('.')[-2].split('_')[-1]
+                event_args = event_types[type]['args']
+                if not arg_name in event_args:
+                    stage2_discarded += 1
+                    continue
+                else:
+                    fixed_lines.append(line)
             else:
                 fixed_lines.append(line)
-        else:
+        except:
             fixed_lines.append(line)
     print('stage2_discarded = {}'.format(stage2_discarded))
 
