@@ -77,6 +77,15 @@ def process_data(data):
             f.write(data['ext'][lang])
         if lang == 'es':
             translate_extensions(ext_filepath)
+        # relation.cs from relation_enrichment (English only)
+        try:
+            if lang == 'en':
+                relation_cs = join(join(oneie_dir,'cs'), 'relation.cs')
+                enriched_relation_data = data['relation_enrichment']
+                with open(relation_cs, 'w+') as f:
+                    f.write(enriched_relation_data)
+        except:
+            print('error may occur when accessing relation_enrichment')
 
         with open(ext_filepath, 'r') as f:
             ext_data[lang] = f.read()
