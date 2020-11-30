@@ -79,7 +79,7 @@ def process_data(data):
             translate_extensions(ext_filepath)
 
         with open(ext_filepath, 'r') as f:
-            ext_data[lang] = json.loads(f.read())
+            ext_data[lang] = f.read()
 
     # Run coref
     coreference_output = os.path.join(run_tmp_dir, 'coref')
