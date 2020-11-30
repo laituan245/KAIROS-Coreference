@@ -121,11 +121,11 @@ def remove_arguments(output_entity_cs, output_event_cs, output_path):
             f.write('{}'.format(line))
 
     # Log
-    log_output_path = join(output_path, 'remove_args_logs.html')
-    with open(log_output_path, 'w+') as log_f:
-        for remove_line in removed_lines:
-            es = remove_line.strip().split('\t')
-            event_mention = event2mention[es[0]]
-            arg_name = es[1]
-            entity_mention = entity2mention[es[2]]
-            log_f.write('In event <b>{}</b>, remove <span style="color:red;">{}</span> as <span style="color:blue;">{}</span></br>'.format(event_mention, entity_mention, arg_name))
+    # log_output_path = join(output_path, 'remove_args_logs.html')
+    # with open(log_output_path, 'w+') as log_f:
+    #     for remove_line in removed_lines:
+    #         es = remove_line.strip().split('\t')
+    #         event_mention = event2mention[es[0]]
+    #         arg_name = es[1]
+    #         entity_mention = entity2mention[es[2]]
+    #         log_f.write('In event <b>{}</b>, remove <span style="color:red;">{}</span> as <span style="color:blue;">{}</span></br>'.format(event_mention, entity_mention, arg_name))
