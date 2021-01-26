@@ -156,6 +156,15 @@ def load_event_centric_dataset(tokenizer, cs_path, json_base_path, filtered_docs
 
     test_docs.sort(key=lambda x: x.doc_id)
 
+    for i in range(len(test_docs)):
+        for j in range(i+1, len(test_docs)):
+            di = test_docs[i].doc_id
+            dj = test_docs[j].doc_id
+            di = parse(di[di.find('__')+2:di.rfind('__')])
+            dj = parse(dj[dj.find('__')+2:dj.rfind('__')])
+            if di > dj:
+                test_docs[i], test_docs[j] = test_docs[j], test_docs[i]
+
     # Info
     doc_ids = [x.doc_id for x in test_docs]
     print('Number of splitted docs: {}'.format(len(doc_ids)))
