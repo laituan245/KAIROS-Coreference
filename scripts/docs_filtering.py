@@ -64,6 +64,9 @@ def docs_filtering(json_dir, language):
         embeddings.append(model.encode(doc2text[doc]))
     all_doc_ids = set(doc_ids)
 
+    return all_doc_ids, set()
+
+
     # Clustering
     total, ctx = 0,0
     X = np.zeros((len(doc_ids), len(doc_ids)))

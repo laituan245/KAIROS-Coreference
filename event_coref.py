@@ -182,8 +182,7 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
             node1_args = event2args.get(node1, {})
             node2_args = event2args.get(node2, {})
             # Rules
-            if mid2type[node1] == 'Justice.Sentence.Unspecified' and mid2type[node2] == 'Justice.ReleaseParole.Unspecified': continue
-            if mid2type[node1] == 'Justice.ReleaseParole.Unspecified' and mid2type[node2] == 'Justice.Sentence.Unspecified': continue
+            if mid2type[node1] != mid2type[node2]: continue
 
             graph.addEdge(node1, node2)
             edge_pairs.add((node1, node2))

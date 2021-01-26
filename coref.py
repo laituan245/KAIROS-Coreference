@@ -88,7 +88,7 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
     gc.collect()
 
     # The loop stops when refinement process does not modify entity coref anymore
-    while True:
+    if True:
         # Run event coref
         output_event = join(coreference_output, 'event.cs')
         event_coref(event_cs, json_dir, output_event, entity_cs, output_entity, filtered_doc_ids, clusters, english_docs, spanish_docs)
@@ -101,17 +101,8 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
         # Run aligning event
         align_event(output_entity, output_event)
 
-        # Run string_repr
-        string_repr(output_entity, output_event, english_docs)
-
         # Run filter_relation
         filter_relation(output_event, output_relation)
-
-        print('refinement')
-        changed = refine_entity_coref(output_entity, output_event)
-        print('changed = {}'.format(changed))
-        if not changed:
-            break
 
     # Run remove arguments
     remove_arguments(output_entity, output_event, coreference_output)
