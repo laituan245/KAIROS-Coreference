@@ -1,6 +1,8 @@
 import json
 import copy
 
+from dateutil.parser import parse
+
 from os import listdir
 from os.path import isfile, join
 from utils import flatten
@@ -211,5 +213,14 @@ def load_entity_centric_dataset(tokenizer, cs_path, json_base_path, fb_linking_p
             del m['end']
 
         test_docs.append(EntityCentricDocument(doc_id, words, mentions, tokenizer))
+
+    for i in range(len(test_docs)):
+        for j in range(i+1, len(test_docs)):
+            di = test_docs[i].doc_id
+            dj = test_docs[j].doc_id
+            di = parse(di[di.find('__')+2:di.rfind('__')])
+            dj = parse(dj[dj.find('__')+2:dj.rfind('__')])
+            if di > dj:
+                test_docs[i], test_docs[j] = test_docs[j], test_docs[i]
 
     return entities, test_docs
