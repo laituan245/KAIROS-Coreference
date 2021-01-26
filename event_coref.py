@@ -109,15 +109,11 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
     if True:
         f = open(INTERMEDIATE_PRED_EVENT_PAIRS, 'w+')
         # Main loop
-        for i in range(len(docs)):
+        for i in range(len(docs)-1):
             doci = docs[i]
-            end_range = len(docs) if len(clusters[doc2cluster[doci.doc_id]]) > 1 else len(docs)+1
-            for j in range(i+1, end_range):
-                if j == len(docs):
-                    # Dummy doc
-                    docj = EventCentricDocument(doci.doc_id, [], [])
-                else:
-                    docj = docs[j]
+            if True:
+                j = i + 1
+                docj = docs[j]
                 if len(doci.words) == 0 and len(docj.words) == 0: continue
                 if doc2cluster[doci.doc_id] != doc2cluster[docj.doc_id]: continue
                 inst = EventCentricDocumentPair(doci, docj, tokenizer)

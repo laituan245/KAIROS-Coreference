@@ -91,15 +91,11 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
     if True:
         with torch.no_grad():
             # Main loop
-            for i in range(len(docs)):
+            for i in range(len(docs)-1):
                 doci = docs[i]
-                end_range = len(docs) if len(clusters[doc2cluster[doci.doc_id]]) > 1 else len(docs)+1
-                for j in range(i+1, end_range):
-                    if j == len(docs):
-                        # Dummy doc
-                        docj = EntityCentricDocument(doci.doc_id, [], [], None)
-                    else:
-                        docj = docs[j]
+                if True:
+                    j = i + 1
+                    docj = docs[j]
                     if language == 'cross':
                         if doci.doc_id in english_docs and docj.doc_id in english_docs: continue
                         if doci.doc_id in spanish_docs and docj.doc_id in spanish_docs: continue
