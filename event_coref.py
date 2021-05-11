@@ -48,6 +48,7 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
     event_types = read_event_types('resources/event_types.tsv')
 
     # Read old event_cs file
+    eventarg_errors_ctx = 0
     event2type, event2args, oldevs2mid, event2text = {}, {}, {}, {}
     with open(cs_path, 'r', encoding='utf-8') as f:
         for line in f:
@@ -65,9 +66,13 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
                     mid = oldevs2mid[es[0]]
                     if not mid in event2args: event2args[mid] = {}
                     if not arg_nb in event2args[mid]: event2args[mid][arg_nb] = set()
-                    event2args[mid][arg_nb].add(mid2eid[olde2mid[es[2]]])
+                    try:
+                        event2args[mid][arg_nb].add(mid2eid[olde2mid[es[2]]])
+                    except:
+                        eventarg_errors_ctx += 1
             else:
                 oldevs2mid[es[0]] = es[-2].strip()
+    print(f'eventarg_errors_ctx: {eventarg_errors_ctx}')
 
     # Load tokenizer and model
     tokenizer, model = load_tokenizer_and_model(EVENT_MODEL)

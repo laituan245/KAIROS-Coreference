@@ -53,7 +53,7 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
         merge_inputs(oneie_output, linking_output, merged_input)
 
     # Remove non-participating-entities (Before main processing)
-    remove_entities(entity_cs, event_cs, relation_cs)
+    #remove_entities(entity_cs, event_cs, relation_cs)
 
     # Run document clustering
     clusters = [list(filtered_doc_ids)]
@@ -117,7 +117,7 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
     remove_arguments(output_entity, output_event, coreference_output)
 
     # Remove non-participating-entities
-    remove_entities(output_entity, output_event, output_relation)
+    #remove_entities(output_entity, output_event, output_relation)
 
     # Fix event types
     fix_event_types(output_event)
