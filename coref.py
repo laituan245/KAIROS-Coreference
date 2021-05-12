@@ -30,7 +30,6 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
     torch.cuda.empty_cache()
 
     # Use ES translation
-    es_translation(join(linking_output, 'es/linking'), join(linking_output, 'en/linking'))
 
     # Merging en and es
     merged_input = join(coreference_output, 'merged_input')
