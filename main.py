@@ -75,8 +75,8 @@ def process_data(data):
         ext_filepath = join(ext_dir, 'extension.json')
         with open(ext_filepath, 'w+') as f:
             f.write(data['ext'][lang])
-        if lang == 'es':
-            translate_extensions(ext_filepath)
+        #if lang == 'es':
+        #    translate_extensions(ext_filepath)
         # relation.cs from relation_enrichment (English only)
         try:
             if lang == 'en':
