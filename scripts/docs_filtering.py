@@ -112,4 +112,4 @@ def docs_filtering(json_dir, language):
                     distracted_docs.add(filtered_docs[ix])
             filtered_docs = all_doc_ids - distracted_docs
 
-    return filtered_docs, distracted_docs
+    return set(filtered_docs), set(distracted_docs)
