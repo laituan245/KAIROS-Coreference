@@ -36,7 +36,7 @@ RUN wget --quiet https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86
     echo "conda activate base" >> ~/.bashrc
 
 RUN /opt/conda/bin/conda create -n aida_coreference python=3.6 && \
-    /opt/conda/envs/aida_coreference/bin/pip install torch torchvision && \
+    /opt/conda/envs/aida_coreference/bin/pip install torch==1.6.0 && \
     /opt/conda/envs/aida_coreference/bin/pip install -r requirements.txt && \
     /opt/conda/envs/aida_coreference/bin/python3.6 -m nltk.downloader punkt && \
     /opt/conda/envs/aida_coreference/bin/python3.6 -m nltk.downloader treebank && \
