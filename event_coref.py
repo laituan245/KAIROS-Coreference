@@ -164,13 +164,6 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
     mid2type = {}
     for i in range(len(mentions)):
         mid2type[mentions[i]['mention_id']] = mentions[i]['event_type']
-        if mentions[i]['event_type'] == 'Conflict.Attack.Unspecified':
-            should_change = False
-            for bomb_kw in BOMBING_KEYWORDS:
-                if bomb_kw in mentions[i]['text'].lower():
-                    should_change = True
-            if should_change:
-                mid2type[mentions[i]['mention_id']] = 'Conflict.Attack.DetonateExplode'
 
     # Add edges from INTERMEDIATE_PRED_EVENT_PAIRS (all edges will be in-doc)
     edge_pairs = set()
@@ -181,89 +174,15 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
             node1, node2 = es[0].strip(), es[1].strip()
             node1_args = event2args.get(node1, {})
             node2_args = event2args.get(node2, {})
-            # Rules
-            if mid2type[node1] == 'Justice.Sentence.Unspecified' and mid2type[node2] == 'Justice.ReleaseParole.Unspecified': continue
-            if mid2type[node1] == 'Justice.ReleaseParole.Unspecified' and mid2type[node2] == 'Justice.Sentence.Unspecified': continue
 
             graph.addEdge(node1, node2)
             edge_pairs.add((node1, node2))
             edge_pairs.add((node2, node1))
 
-    # Add edge between two event mentions if they have the same subtype and same args1/args2
-    for i in range(len(mentions)):
-        for j in range(len(mentions)):
-            if i == j: continue
-            if originaldoc2cluster[mentions[i]['doc_id']] != originaldoc2cluster[mentions[j]['doc_id']]: continue
-            subtypei, subtypej = mentions[i]['event_type'], mentions[j]['event_type']
-            typei, typej = subtypei[:subtypei.rfind('.')], subtypej[:subtypej.rfind('.')]
-            if typei != typej: continue
-            type = typei = typej
-            # Extract arguments of two mentions
-            args_seti = event2args.get(mentions[i]['mention_id'], {})
-            args_setj = event2args.get(mentions[j]['mention_id'], {})
-            # Consider special event types (e.g., attack, justice, die ...)
-            cond_met = False
-            # Assuming all crime investigations are about 1 central crime / attack event
-            if type in ['Justice.InvestigateCrime']:
-                cond_met = True
-            # considering <arg1>
-            if type in ['Life.Die']:
-                if args_overlap(args_seti.get('<arg1>'), args_setj.get('<arg1>')):
-                    cond_met = True
-            # considering <arg2>
-            if type in ['Conflict.Attack', 'Movement.Transportation', 'Justice.Sentence', 'Justice.TrialHearing']:
-                if args_overlap(args_seti.get('<arg2>'), args_setj.get('<arg2>')):
-                    cond_met = True
-            # considering Attack.DetonateExplode with Attack.Unspecified
-            if 'Attack.DetonateExplode' in subtypei and 'Attack.Unspecified' in subtypej:
-                if args_overlap(args_seti.get('<arg3>'), args_setj.get('<arg3>')):
-                    cond_met = True
-                if args_overlap(args_seti.get('<arg4>'), args_setj.get('<arg3>')):
-                    cond_met = True
-                ctx = 0
-                for ix in range(5):
-                    argi = args_seti.get('<arg{}>'.format(i+1))
-                    argj = args_setj.get('<arg{}>'.format(i+1))
-                    if args_overlap(argi, argj): ctx += 1
-                if ctx >= 2: cond_met = True
-            # considering Attack.DetonateExplode
-            if 'Attack.DetonateExplode' in subtypei and 'Attack.DetonateExplode' in subtypej:
-                for ix in range(5):
-                    argi = args_seti.get('<arg{}>'.format(i+1))
-                    argj = args_setj.get('<arg{}>'.format(i+1))
-                    if args_overlap(argi, argj): cond_met = True
-            # considering ArtifactExistence.ManufactureAssemble
-            if 'ArtifactExistence.ManufactureAssemble' in subtypei and 'ArtifactExistence.ManufactureAssemble' in subtypej:
-                if len(args_seti) == 0 or len(args_setj) == 0: cond_met = True
-                if args_overlap(args_seti.get('<arg2>'), args_setj.get('<arg2>')): cond_met = True
-            if cond_met:
-                mid_i, mid_j = mentions[i]['mention_id'], mentions[j]['mention_id']
-                edge_pairs.add((mid_i, mid_j))
-                edge_pairs.add((mid_j, mid_i))
-                graph.addEdge(mid_i, mid_j)
-
     # Get connected components (with-in doc clusters)
     print('Get connected components')
     clusters = graph.getSCCs()
     assert(len(flatten(clusters)) == graph.V)
-
-    # If there is one single big "explode" cluster and several singleton "explode" clusters
-    # then merge them all together
-    doc_clusters = set(originaldoc2cluster.values())
-    for doc_cluster in doc_clusters:
-        big_explodes, singleton_explodes = [], []
-        for index, c in enumerate(clusters):
-            did = list(c)[0].split(':')[0]
-            if not originaldoc2cluster[did] == doc_cluster: continue
-            types = [mid2type[mid] for mid in c]
-            if types.count('Conflict.Attack.DetonateExplode') > 1: big_explodes.append(index)
-            if types.count('Conflict.Attack.DetonateExplode') == 1 and len(types) == 1: singleton_explodes.append(index)
-        if len(big_explodes) == 1:
-            big_explode_index = big_explodes[0]
-            for single_index in singleton_explodes:
-                clusters[big_explode_index] = clusters[big_explode_index].union(copy.deepcopy(clusters[single_index]))
-                clusters[single_index] = []
-            clusters = [c for c in clusters if len(c) > 0]
 
     # Read the original event.cs to get lines ...
     mid2lines, oid2mid = {}, {}
@@ -311,7 +230,7 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
                     f.write('{}\n'.format(mention_line))
 
     # Remove INTERMEDIATE_PRED_EVENT_PAIRS
-    os.remove(INTERMEDIATE_PRED_EVENT_PAIRS)
+    #os.remove(INTERMEDIATE_PRED_EVENT_PAIRS)
 
     model.to(torch.device('cpu'))
 

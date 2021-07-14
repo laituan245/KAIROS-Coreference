@@ -119,31 +119,43 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                             antecedent_idx = predicted_antecedents[ix]
                             mention_1 = doc_entities[ix]
                             mention_2 = doc_entities[antecedent_idx]
-                            if language == 'cross':
-                                if (not 'fb_id' in mention_1) or (not 'fb_id' in mention_2): continue
-                                if mention_1['fb_id'] != mention_2['fb_id']: continue
+                            if ('fb_id' in mention_1) and ('fb_id' in mention_2):
+                                m1_fb_id, m2_fb_id = mention_1['fb_id'], mention_2['fb_id']
+                                if (not m1_fb_id.startswith('NIL')) and (not m2_fb_id.startswith('NIL')):
+                                    if m1_fb_id != m2_fb_id: continue
                             predicted_pairs.add((mention_1['mention_id'], mention_2['mention_id']))
 
-        f.close()
     print("--- Applying the entity coref model took %s seconds ---" % (time.time() - start_time))
+
+    # Add pairs that are linked to the same entity
+    for ix in range(len(mentions)):
+        for jx in range(ix+1, len(mentions)):
+            m1, m2 = mentions[ix], mentions[jx]
+            if 'fb_id' in m1 and 'fb_id' in m2:
+                if m1['fb_id'] == m2['fb_id']:
+                    predicted_pairs.add((m1['mention_id'], m2['mention_id']))
 
     # Build clusters
     graph = UndirectedGraph([m['mention_id'] for m in mentions])
     print('Number of vertices: {}'.format(graph.V))
 
     # Add edges from predicted_pairs
+    INTERMEDIATE_PRED_ENTITY_PAIRS = join(dirname(output_path), 'entity_pred_pairs.txt')
+    f = open(INTERMEDIATE_PRED_ENTITY_PAIRS, 'w+')
     for node1, node2 in predicted_pairs:
         if (node1, node2) in relation_pairs or (node2, node1) in relation_pairs: continue
-        if mid2type[node1] != mid2type[node2]: continue
-        # Fixes for quizlet 4
-        if node1 == 'K0C047Z59:5095-5096' and node2 == 'K0C047Z59:3600-3609': continue
-        if node1 == 'K0C047Z59:5095-5096' and node2 == 'K0C047Z59:308-313': continue
+        #if mid2type[node1] != mid2type[node2]: continue
         # Add edges
         graph.addEdge(node1, node2)
+        f.write(f'{node1}\t{node2}\n')
+    f.close()
     # Get connected components (with-in doc clusters)
     print('Get connected components')
     clusters = sccs = graph.getSCCs()
     assert(len(flatten(sccs)) == graph.V)
+
+    # Remove INTERMEDIATE_PRED_ENTITY_PAIRS (uncomment the following line)
+    #os.remove(INTERMEDIATE_PRED_ENTITY_PAIRS)
 
     # Read the fb_linking_path to get canonical_mention and mention
     in_fb_linking = set()

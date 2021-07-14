@@ -69,26 +69,6 @@ def process_data(data):
         edl_tab_filepath = join(edl_dir, '{}.linking.wikidata.tab'.format(lang))
         with open(edl_tab_filepath, 'w+') as output_edl_tab_file:
             output_edl_tab_file.write('{}'.format(edl_data['tab']))
-        # extension file
-        ext_dir = os.path.join(input_lang_dir, 'extension')
-        os.makedirs(ext_dir, exist_ok=True)
-        ext_filepath = join(ext_dir, 'extension.json')
-        with open(ext_filepath, 'w+') as f:
-            f.write(data['ext'][lang])
-        if lang == 'es':
-            translate_extensions(ext_filepath)
-        # relation.cs from relation_enrichment (English only)
-        try:
-            if lang == 'en':
-                relation_cs = join(join(oneie_dir,'cs'), 'relation.cs')
-                enriched_relation_data = data['relation_enrichment']
-                with open(relation_cs, 'w+') as f:
-                    f.write(enriched_relation_data)
-        except:
-            print('error may occur when accessing relation_enrichment')
-
-        with open(ext_filepath, 'r') as f:
-            ext_data[lang] = f.read()
 
     # Run coref
     coreference_output = os.path.join(run_tmp_dir, 'coref')
@@ -96,11 +76,6 @@ def process_data(data):
     main_coref(run_tmp_dir, run_tmp_dir, coreference_output, KEEP_DISTRACTORS)
 
     final_output = jsonify_coref(coreference_output)
-
-    # Also add extension field
-    final_output = json.loads(final_output)
-    final_output['ext'] = ext_data
-    final_output = json.dumps(final_output)
 
     # Remove the tmp dir
     rmtree(run_tmp_dir)

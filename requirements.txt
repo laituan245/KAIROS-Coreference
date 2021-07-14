@@ -8,3 +8,5 @@ stanza==1.1.1
 Flask
 sentence-transformers==0.3.5
 langdetect
+wikitextparser>=0.47.5
+pywikibot==6.4.0

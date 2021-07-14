@@ -2,8 +2,7 @@ import os
 import json
 from os.path import join
 
-TEST_NB = 1
-BASE_PATH = 'test/end2end_test{}'.format(TEST_NB)
+BASE_PATH = 'test/quizlet6_test'
 EN_BASE_PATH = join(BASE_PATH, 'en')
 ES_BASE_PATH = join(BASE_PATH, 'es')
 ALL_BASE_PATH = join(BASE_PATH, 'all')

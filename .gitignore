@@ -1,3 +1,7 @@
+*.lwp
+*.ctrl
+apicache-py3/
+
 .DS_Store
 resources/samples
 event_pred_pairs.txt
