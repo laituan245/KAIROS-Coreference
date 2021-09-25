@@ -49,19 +49,11 @@ def docs_filtering(json_dir, language):
         words = flatten(doc2sents[doc])
         doc2text[doc] = ' '.join([w[0] for w in words])
 
-    # model
-    assert(language in ['en', 'es'])
-    if language == 'en':
-        model = SentenceTransformer('bert-large-nli-stsb-mean-tokens')
-    if language == 'es':
-        model = SentenceTransformer('xlm-r-distilroberta-base-paraphrase-v1')
-
     # doc_ids, texts, embeddings
     doc_ids, texts, embeddings = [], [], []
     for doc in doc2text:
         doc_ids.append(doc)
         texts.append(doc2text[doc])
-        embeddings.append(model.encode(doc2text[doc]))
     all_doc_ids = set(doc_ids)
 
     return all_doc_ids, set()  # No filtering

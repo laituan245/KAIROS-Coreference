@@ -42,8 +42,10 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
 
     # Run document clustering
     clusters = [
-        ['L0C04AT6B', 'L0C04AT6J', 'L0C04AT6W', 'L0C04AT6Y', 'L0C04CJ13'], # Chipotle
-        ['L0C04D4DA', 'L0C04D4DB', 'L0C04D4DS', 'L0C04D4RB'],              # Peanut Butter Outbreak
+        ['L0C049DQW'],
+        ['L0C0495AR'],
+        ['L0C04959D'],
+        ['L0C049599'],
     ]
     output_cluster = join(coreference_output, 'clusters.txt')
     with open(output_cluster, 'w+') as f:
