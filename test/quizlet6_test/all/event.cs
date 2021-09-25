@@ -1,550 +1,346 @@
-::Event_0000000	type	Justice.TrialHearing.Unspecified
-::Event_0000000	mention.actual	"trial"	L0C04D4RB:2736-2740	1.0000
-::Event_0000000	canonical_mention.actual	"United States tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:2736-2740	1.0000
-::Event_0000000	Justice.TrialHearing.Unspecified_Defendant.actual	:Entity_EDL_0000095	L0C04D4RB:2621-2634	1.0000
-::Event_0000000	Justice.TrialHearing.Unspecified_Prosecutor.actual	:Entity_EDL_0000004	L0C04D4RB:2722-2731	1.0000
-::Event_0000000	type	Justice.TrialHearing.Unspecified
-::Event_0000000	mention.actual	"trial"	L0C04D4RB:5325-5329	1.0000
-::Event_0000000	canonical_mention.actual	"United States tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:5325-5329	1.0000
-::Event_0000000	Justice.TrialHearing.Unspecified_Prosecutor.actual	:Entity_EDL_0000004	L0C04D4RB:5276-5285	0.5617
-::Event_0000000	type	Justice.TrialHearing.Unspecified
-::Event_0000000	mention.actual	"trial"	L0C04D4RB:4670-4674	1.0000
-::Event_0000000	canonical_mention.actual	"United States tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:4670-4674	1.0000
-::Event_0000000	Justice.TrialHearing.Unspecified_JudgeCourt.actual	:Entity_EDL_0000165	L0C04D4RB:4676-4680	1.0000
-::Event_0000000	Justice.TrialHearing.Unspecified_Defendant.actual	:Entity_EDL_0000002	L0C04D4RB:4693-4695	1.0000
-::Event_0000000	type	Justice.TrialHearing.Unspecified
-::Event_0000000	mention.actual	"trial"	L0C04D4RB:4911-4915	1.0000
-::Event_0000000	canonical_mention.actual	"United States tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:4911-4915	1.0000
-::Event_0000000	Justice.TrialHearing.Unspecified_Defendant.actual	:Entity_EDL_0000005	L0C04D4RB:4850-4852	0.6482
-::Event_0000000	type	Justice.TrialHearing.Unspecified
-::Event_0000000	mention.actual	"trial"	L0C04D4RB:4257-4261	1.0000
-::Event_0000000	canonical_mention.actual	"United States tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:4257-4261	1.0000
-::Event_0000000	Justice.TrialHearing.Unspecified_Prosecutor.actual	:Entity_EDL_0000070	L0C04D4RB:4224-4234	0.5401
-::Event_0000000	Justice.TrialHearing.Unspecified_Prosecutor.actual	:Entity_EDL_0000070	L0C04D4RB:4241-4242	0.5401
-::Event_0000000	type	Justice.TrialHearing.Unspecified
-::Event_0000000	mention.actual	"trial"	L0C04D4RB:6310-6314	1.0000
-::Event_0000000	canonical_mention.actual	"United States tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:6310-6314	1.0000
-::Event_0000000	Justice.TrialHearing.Unspecified_Defendant.actual	:Entity_EDL_0000018	L0C04D4RB:6393-6395	0.7373
-::Event_0000000	type	Justice.TrialHearing.Unspecified
-::Event_0000000	mention.actual	"trial"	L0C04D4RB:8279-8283	1.0000
-::Event_0000000	canonical_mention.actual	"United States tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:8279-8283	1.0000
-::Event_0000000	type	Justice.TrialHearing.Unspecified
-::Event_0000000	mention.actual	"trial"	L0C04D4RB:6659-6663	1.0000
-::Event_0000000	canonical_mention.actual	"United States tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:6659-6663	1.0000
-::Event_0000000	Justice.TrialHearing.Unspecified_Defendant.actual	:Entity_EDL_0000018	L0C04D4RB:6673-6676	0.5145
-::Event_0000000	Justice.TrialHearing.Unspecified_Defendant.actual	:Entity_EDL_0000313	L0C04D4RB:6693-6703	0.5145
-::Event_0000000	Justice.TrialHearing.Unspecified_Defendant.actual	:Entity_EDL_0000228	L0C04D4RB:6709-6724	1.0000
-::Event_0000000	type	Justice.TrialHearing.Unspecified
-::Event_0000000	mention.actual	"trial"	L0C04D4RB:5917-5921	1.0000
-::Event_0000000	canonical_mention.actual	"United States tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:5917-5921	1.0000
-::Event_0000000	Justice.TrialHearing.Unspecified_JudgeCourt.actual	:Entity_EDL_0000027	L0C04D4RB:5964-5967	0.5509
-::Event_0000000	type	Justice.TrialHearing.Unspecified
-::Event_0000000	mention.actual	"trial"	L0C04D4RB:8085-8089	1.0000
-::Event_0000000	canonical_mention.actual	"United States tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:8085-8089	1.0000
-::Event_0000000	type	Justice.TrialHearing.Unspecified
-::Event_0000000	mention.actual	"Trial"	L0C04D4RB:4512-4516	1.0000
-::Event_0000000	canonical_mention.actual	"United States tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:4512-4516	1.0000
-::Event_0000000	type	Justice.TrialHearing.Unspecified
-::Event_0000000	mention.actual	"trial"	L0C04D4RB:2907-2911	1.0000
-::Event_0000000	canonical_mention.actual	"United States tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:2907-2911	1.0000
-::Event_0000000	Justice.TrialHearing.Unspecified_Defendant.actual	:Entity_EDL_0000040	L0C04D4RB:2879-2882	1.0000
-::Event_0000001	type	Life.Die.Unspecified
-::Event_0000001	mention.actual	"dies"	L0C04D4DB:6673-6676	1.0000
-::Event_0000001	canonical_mention.actual	"Shirley Mae Almer died at <arg2> place from <arg4> medical issue, killed by <arg3> killer"	L0C04D4DB:6673-6676	1.0000
-::Event_0000001	Life.Die.Unspecified_Victim.actual	:Entity_EDL_0000260	L0C04D4DB:6666-6671	1.0000
-::Event_0000001	type	Life.Die.Unspecified
-::Event_0000001	mention.actual	"deaths"	L0C04D4DS:1760-1765	1.0000
-::Event_0000001	canonical_mention.actual	"Shirley Mae Almer died at <arg2> place from <arg4> medical issue, killed by <arg3> killer"	L0C04D4DS:1760-1765	1.0000
-::Event_0000001	Life.Die.Unspecified_Place.actual	:Entity_EDL_0000060	L0C04D4DS:1768-1772	1.0000
-::Event_0000001	Life.Die.Unspecified_Place.actual	:Entity_EDL_0000011	L0C04D4DS:1779-1787	1.0000
-::Event_0000001	Life.Die.Unspecified_Place.actual	:Entity_EDL_0000055	L0C04D4DS:1794-1807	1.0000
-::Event_0000001	Life.Die.Unspecified_Place.actual	:Entity_EDL_0000008	L0C04D4DS:1814-1817	1.0000
-::Event_0000001	Life.Die.Unspecified_Place.actual	:Entity_EDL_0000025	L0C04D4DS:1828-1835	1.0000
-::Event_0000001	type	Life.Die.Unspecified
-::Event_0000001	mention.actual	"death"	L0C04D4DS:16195-16199	1.0000
-::Event_0000001	canonical_mention.actual	"Shirley Mae Almer died at <arg2> place from <arg4> medical issue, killed by <arg3> killer"	L0C04D4DS:16195-16199	1.0000
-::Event_0000001	Life.Die.Unspecified_Victim.actual	:Entity_EDL_0000050	L0C04D4DS:16212-16217	1.0000
-::Event_0000001	type	Life.Die.Unspecified
-::Event_0000001	mention.actual	"death"	L0C04D4DB:1568-1572	1.0000
-::Event_0000001	canonical_mention.actual	"Shirley Mae Almer died at <arg2> place from <arg4> medical issue, killed by <arg3> killer"	L0C04D4DB:1568-1572	1.0000
-::Event_0000001	Life.Die.Unspecified_Victim.actual	:Entity_EDL_0000061	L0C04D4DB:1564-1566	1.0000
-::Event_0000001	type	Life.Die.Unspecified
-::Event_0000001	mention.actual	"death"	L0C04D4DA:1057-1061	1.0000
-::Event_0000001	canonical_mention.actual	"Shirley Mae Almer died at <arg2> place from <arg4> medical issue, killed by <arg3> killer"	L0C04D4DA:1057-1061	1.0000
-::Event_0000001	Life.Die.Unspecified_Place.actual	:Entity_EDL_0000011	L0C04D4DA:1066-1074	0.5841
-::Event_0000001	Life.Die.Unspecified_Place.actual	:Entity_EDL_0000025	L0C04D4DA:1087-1094	0.5841
-::Event_0000001	type	Life.Die.Unspecified
-::Event_0000001	mention.actual	"died"	L0C04D4DA:1229-1232	1.0000
-::Event_0000001	canonical_mention.actual	"Shirley Mae Almer died at <arg2> place from <arg4> medical issue, killed by <arg3> killer"	L0C04D4DA:1229-1232	1.0000
-::Event_0000001	Life.Die.Unspecified_Victim.actual	:Entity_EDL_0000040	L0C04D4DA:1172-1177	1.0000
-::Event_0000001	type	Life.Die.Unspecified
-::Event_0000001	mention.actual	"dies"	L0C04D4DB:1359-1362	1.0000
-::Event_0000001	canonical_mention.actual	"Shirley Mae Almer died at <arg2> place from <arg4> medical issue, killed by <arg3> killer"	L0C04D4DB:1359-1362	1.0000
-::Event_0000001	Life.Die.Unspecified_Victim.actual	:Entity_EDL_0000061	L0C04D4DB:1336-1352	1.0000
-::Event_0000001	Life.Die.Unspecified_Place.actual	:Entity_EDL_0000321	L0C04D4DB:1377-1380	0.7301
-::Event_0000001	Life.Die.Unspecified_Place.actual	:Entity_EDL_0000265	L0C04D4DB:1385-1392	1.0000
-::Event_0000001	type	Life.Die.Unspecified
-::Event_0000001	mention.actual	"deaths"	L0C04D4RB:8291-8296	0.3811
-::Event_0000001	canonical_mention.actual	"Shirley Mae Almer died at <arg2> place from <arg4> medical issue, killed by <arg3> killer"	L0C04D4RB:8291-8296	0.3811
-::Event_0000001	type	Life.Die.Unspecified
-::Event_0000001	mention.actual	"deaths"	L0C04D4RB:7936-7941	1.0000
-::Event_0000001	canonical_mention.actual	"Shirley Mae Almer died at <arg2> place from <arg4> medical issue, killed by <arg3> killer"	L0C04D4RB:7936-7941	1.0000
-::Event_0000001	Life.Die.Unspecified_Place.actual	:Entity_EDL_0000211	L0C04D4RB:8025-8031	0.8195
-::Event_0000001	type	Life.Die.Unspecified
-::Event_0000001	mention.actual	"death"	L0C04D4DB:1538-1542	1.0000
-::Event_0000001	canonical_mention.actual	"Shirley Mae Almer died at <arg2> place from <arg4> medical issue, killed by <arg3> killer"	L0C04D4DB:1538-1542	1.0000
-::Event_0000001	Life.Die.Unspecified_Victim.actual	:Entity_EDL_0000061	L0C04D4DB:1534-1536	0.7728
-::Event_0000002	type	Contaminate
-::Event_0000002	mention.actual	"contamination"	L0C04D4DA:421-433	1.0000
-::Event_0000002	canonical_mention.actual	"contamination"	L0C04D4DA:421-433	1.0000
-::Event_0000002	type	Contaminate
-::Event_0000002	mention.actual	"contaminated"	L0C04D4DB:6197-6208	1.0000
-::Event_0000002	canonical_mention.actual	"contaminated"	L0C04D4DB:6197-6208	1.0000
-::Event_0000002	Contaminate_Thing_contaminated.actual	:Entity_EDL_0000045	L0C04D4DB:6144-6165	1.0000
-::Event_0000002	type	Contaminate
-::Event_0000002	mention.actual	"cross-contamination"	L0C04D4DA:2757-2775	1.0000
-::Event_0000002	canonical_mention.actual	"cross-contamination"	L0C04D4DA:2757-2775	1.0000
-::Event_0000002	type	Contaminate
-::Event_0000002	mention.actual	"salmonella-contaminated"	L0C04D4DA:236-258	1.0000
-::Event_0000002	canonical_mention.actual	"salmonella-contaminated"	L0C04D4DA:236-258	1.0000
-::Event_0000002	type	Contaminate
-::Event_0000002	mention.actual	"tainted"	L0C04D4DB:7763-7769	1.0000
-::Event_0000002	canonical_mention.actual	"tainted"	L0C04D4DB:7763-7769	1.0000
-::Event_0000002	type	Contaminate
-::Event_0000002	mention.actual	"contamination"	L0C04D4DB:3092-3104	1.0000
-::Event_0000002	canonical_mention.actual	"contamination"	L0C04D4DB:3092-3104	1.0000
-::Event_0000002	type	Contaminate
-::Event_0000002	mention.actual	"contamination"	L0C04D4DB:2648-2660	1.0000
-::Event_0000002	canonical_mention.actual	"contamination"	L0C04D4DB:2648-2660	1.0000
-::Event_0000002	type	Contaminate
-::Event_0000002	mention.actual	"tainted"	L0C04D4DA:1865-1871	1.0000
-::Event_0000002	canonical_mention.actual	"tainted"	L0C04D4DA:1865-1871	1.0000
-::Event_0000003	type	Assess
-::Event_0000003	mention.actual	"assessment"	L0C04D4DB:1237-1246	1.0000
-::Event_0000003	canonical_mention.actual	"assessment"	L0C04D4DB:1237-1246	1.0000
-::Event_0000003	Assess _Assessor.actual	:Entity_EDL_0000007	L0C04D4DB:1167-1169	1.0000
-::Event_0000003	type	Assess
-::Event_0000003	mention.actual	"assessment"	L0C04D4DS:2190-2199	1.0000
-::Event_0000003	canonical_mention.actual	"assessment"	L0C04D4DS:2190-2199	1.0000
-::Event_0000003	type	Assess
-::Event_0000003	mention.actual	"assessment"	L0C04D4DS:2311-2320	1.0000
-::Event_0000003	canonical_mention.actual	"assessment"	L0C04D4DS:2311-2320	1.0000
-::Event_0000003	Assess _Assessor.actual	:Entity_EDL_0000007	L0C04D4DS:2269-2271	1.0000
-::Event_0000003	Assess _Assessor.actual	:Entity_EDL_0000019	L0C04D4DS:2277-2281	1.0000
-::Event_0000003	Assess _Assessor.actual	:Entity_EDL_0000073	L0C04D4DS:2293-2300	1.0000
-::Event_0000004	type	Contaminate
-::Event_0000004	mention.actual	"contamination"	L0C04AT6J:50-62	1.0000
-::Event_0000004	canonical_mention.actual	"contamination"	L0C04AT6J:50-62	1.0000
-::Event_0000004	Contaminate_Place.actual	:Entity_EDL_0000008	L0C04AT6J:67-70	1.0000
-::Event_0000004	type	Contaminate
-::Event_0000004	mention.actual	"contaminated"	L0C04AT6W:1194-1205	1.0000
-::Event_0000004	canonical_mention.actual	"contaminated"	L0C04AT6W:1194-1205	1.0000
-::Event_0000004	type	Contaminate
-::Event_0000004	mention.actual	"poisoning"	L0C04AT6W:1327-1335	1.0000
-::Event_0000004	canonical_mention.actual	"poisoning"	L0C04AT6W:1327-1335	1.0000
-::Event_0000004	mention.actual	"poisoning"	L0C04AT6W:1327-1335	1.0000
-::Event_0000004	canonical_mention.actual	"poisoning"	L0C04AT6W:1327-1335	1.0000
-::Event_0000004	Contaminate_Agent.actual	:Entity_EDL_0000000	L0C04AT6W:1283-1290	1.0000
-::Event_0000005	type	Control_ComplyObey
-::Event_0000005	mention.actual	"complied"	L0C04AT6Y:1329-1336	1.0000
-::Event_0000005	canonical_mention.actual	"complied"	L0C04AT6Y:1329-1336	1.0000
-::Event_0000005	Control_ComplyObey _Complier.actual	:Entity_EDL_0000022	L0C04AT6Y:1299-1307	1.0000
-::Event_0000005	Control_ComplyObey _Complier.actual	:Entity_EDL_0000000	L0C04AT6Y:1264-1271	1.0000
-::Event_0000005	type	Control_ComplyObey
-::Event_0000005	mention.actual	"follow"	L0C04AT6Y:2772-2777	1.0000
-::Event_0000005	canonical_mention.actual	"follow"	L0C04AT6Y:2772-2777	1.0000
-::Event_0000005	type	Control_ComplyObey
-::Event_0000005	mention.actual	"complies"	L0C04AT6Y:721-728	1.0000
-::Event_0000005	canonical_mention.actual	"complies"	L0C04AT6Y:721-728	1.0000
-::Event_0000006	type	Justice.Sentence.Unspecified
-::Event_0000006	mention.actual	"sentence"	L0C04D4RB:1802-1809	1.0000
-::Event_0000006	canonical_mention.actual	"<arg1> court or judge sentenced Wilkerson for <arg3> crime to <arg4> sentence in <arg5> place"	L0C04D4RB:1802-1809	1.0000
-::Event_0000006	Justice.Sentence.Unspecified_Defendant.actual	:Entity_EDL_0000002	L0C04D4RB:1755-1757	0.8077
-::Event_0000006	type	Justice.Sentence.Unspecified
-::Event_0000006	mention.actual	"sentence"	L0C04D4RB:2838-2845	1.0000
-::Event_0000006	canonical_mention.actual	"<arg1> court or judge sentenced Wilkerson for <arg3> crime to <arg4> sentence in <arg5> place"	L0C04D4RB:2838-2845	1.0000
-::Event_0000006	Justice.Sentence.Unspecified_Defendant.actual	:Entity_EDL_0000095	L0C04D4RB:2803-2809	1.0000
-::Event_0000006	type	Justice.Sentence.Unspecified
-::Event_0000006	mention.actual	"sentence"	L0C04D4RB:308-315	0.4397
-::Event_0000006	canonical_mention.actual	"<arg1> court or judge sentenced Wilkerson for <arg3> crime to <arg4> sentence in <arg5> place"	L0C04D4RB:308-315	0.4397
-::Event_0000006	Justice.Sentence.Unspecified_Defendant.actual	:Entity_EDL_0000002	L0C04D4RB:289-291	0.4634
-::Event_0000007	type	Contact.Contact.Unspecified
-::Event_0000007	mention.actual	"email"	L0C04D4RB:6734-6738	1.0000
-::Event_0000007	canonical_mention.actual	"<arg1> communicated with <arg2> about <arg3> topic at <arg4> place (document does not specify in person or not, or one-way or not)"	L0C04D4RB:6734-6738	1.0000
-::Event_0000007	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000018	L0C04D4RB:6741-6744	1.0000
-::Event_0000007	type	Contact.Contact.Unspecified
-::Event_0000007	mention.actual	"interview"	L0C04D4RB:7020-7028	0.4497
-::Event_0000007	canonical_mention.actual	"<arg1> communicated with <arg2> about <arg3> topic at <arg4> place (document does not specify in person or not, or one-way or not)"	L0C04D4RB:7020-7028	0.4497
-::Event_0000007	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000102	L0C04D4RB:7057-7069	0.7937
-::Event_0000007	type	Contact.Contact.Unspecified
-::Event_0000007	mention.actual	"interview"	L0C04D4DS:12215-12223	1.0000
-::Event_0000007	canonical_mention.actual	"<arg1> communicated with <arg2> about <arg3> topic at <arg4> place (document does not specify in person or not, or one-way or not)"	L0C04D4DS:12215-12223	1.0000
-::Event_0000007	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000309	L0C04D4DS:12170-12176	0.6018
-::Event_0000008	type	Transaction.ExchangeBuySell.Unspecified
-::Event_0000008	mention.actual	"purchased"	L0C04AT6W:863-871	1.0000
-::Event_0000008	canonical_mention.actual	"<arg1> bought, sold, or traded <arg3> to <arg2> in exchange for <arg4> for the benefit of <arg5> at <arg6> place"	L0C04AT6W:863-871	1.0000
-::Event_0000008	type	Transaction.ExchangeBuySell.Unspecified
-::Event_0000008	mention.actual	"purchased"	L0C04AT6J:1065-1073	1.0000
-::Event_0000008	canonical_mention.actual	"<arg1> bought, sold, or traded <arg3> to <arg2> in exchange for <arg4> for the benefit of <arg5> at <arg6> place"	L0C04AT6J:1065-1073	1.0000
-::Event_0000008	Transaction.ExchangeBuySell.Unspecified_Recipient.actual	:Entity_EDL_0000017	L0C04AT6J:1062-1063	0.5777
-::Event_0000008	Transaction.ExchangeBuySell.Unspecified_Giver.actual	:Entity_EDL_0000000	L0C04AT6J:1111-1118	0.5777
-::Event_0000009	type	Justice.ArrestJailDetain.Unspecified
-::Event_0000009	mention.actual	"incarcerated"	L0C04D4RB:1555-1566	1.0000
-::Event_0000009	canonical_mention.actual	"<arg1> arrested or jailed <arg2> for <arg3> crime at <arg4> place"	L0C04D4RB:1555-1566	1.0000
-::Event_0000009	Justice.ArrestJailDetain.Unspecified_Detainee.actual	:Entity_EDL_0000002	L0C04D4RB:1537-1545	1.0000
-::Event_0000009	type	Justice.ArrestJailDetain.Unspecified
-::Event_0000009	mention.actual	"incarceration"	L0C04D4RB:6258-6270	1.0000
-::Event_0000009	canonical_mention.actual	"<arg1> arrested or jailed <arg2> for <arg3> crime at <arg4> place"	L0C04D4RB:6258-6270	1.0000
-::Event_0000009	Justice.ArrestJailDetain.Unspecified_Detainee.actual	:Entity_EDL_0000348	L0C04D4RB:6279-6286	1.0000
-::Event_0000010	type	Justice.Convict.Unspecified
-::Event_0000010	mention.actual	"found guilty"	L0C04D4RB:7386-7397	1.0000
-::Event_0000010	canonical_mention.actual	"<arg1> court or judge convicted Wilkerson of <arg3> crime in <arg4> place"	L0C04D4RB:7386-7397	1.0000
-::Event_0000010	Justice.Convict.Unspecified_Defendant.actual	:Entity_EDL_0000002	L0C04D4RB:7372-7380	1.0000
-::Event_0000010	type	Justice.Convict.Unspecified
-::Event_0000010	mention.actual	"conviction"	L0C04D4RB:293-302	1.0000
-::Event_0000010	canonical_mention.actual	"<arg1> court or judge convicted Wilkerson of <arg3> crime in <arg4> place"	L0C04D4RB:293-302	1.0000
-::Event_0000010	Justice.Convict.Unspecified_Defendant.actual	:Entity_EDL_0000002	L0C04D4RB:289-291	0.4634
-::Event_0000011	type	Contact.Contact.Unspecified
-::Event_0000011	mention.actual	"pass along"	L0C04AT6Y:3267-3276	0.3986
-::Event_0000011	canonical_mention.actual	"<arg1> communicated with restaurant about <arg3> topic at <arg4> place (document does not specify in person or not, or one-way or not)"	L0C04AT6Y:3267-3276	0.3986
-::Event_0000011	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000096	L0C04AT6Y:3248-3257	0.6043
-::Event_0000011	type	Contact.Contact.Unspecified
-::Event_0000011	mention.actual	"report"	L0C04AT6Y:3131-3136	1.0000
-::Event_0000011	canonical_mention.actual	"<arg1> communicated with restaurant about <arg3> topic at <arg4> place (document does not specify in person or not, or one-way or not)"	L0C04AT6Y:3131-3136	1.0000
-::Event_0000011	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000096	L0C04AT6Y:3117-3126	0.6043
-::Event_0000011	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000275	L0C04AT6Y:3184-3192	0.6043
-::Event_0000012	type	Justice.ChargeIndict.Unspecified
-::Event_0000012	mention.actual	"charges"	L0C04AT6Y:227-233	1.0000
-::Event_0000012	canonical_mention.actual	"<arg1> charged or indicted <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04AT6Y:227-233	1.0000
-::Event_0000012	type	Justice.ChargeIndict.Unspecified
-::Event_0000012	mention.actual	"charges"	L0C04AT6Y:474-480	1.0000
-::Event_0000012	canonical_mention.actual	"<arg1> charged or indicted <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04AT6Y:474-480	1.0000
-::Event_0000012	Justice.ChargeIndict.Unspecified_Place.actual	:Entity_EDL_0000157	L0C04AT6Y:462-472	0.9872
-::Event_0000012	Justice.ChargeIndict.Unspecified_Defendant.actual	:Entity_EDL_0000000	L0C04AT6Y:482-489	0.9872
-::Event_0000013	type	Transaction.ExchangeBuySell.Unspecified
-::Event_0000013	mention.actual	"purchased"	L0C04D4DS:5868-5876	1.0000
-::Event_0000013	canonical_mention.actual	"<arg1> bought, sold, or traded <arg3> to <arg2> in exchange for <arg4> for the benefit of <arg5> at <arg6> place"	L0C04D4DS:5868-5876	1.0000
-::Event_0000013	Transaction.ExchangeBuySell.Unspecified_Giver.actual	:Entity_EDL_0000067	L0C04D4DS:5905-5909	0.9757
-::Event_0000013	type	Transaction.ExchangeBuySell.Unspecified
-::Event_0000013	mention.actual	"purchased"	L0C04D4DS:7739-7747	1.0000
-::Event_0000013	canonical_mention.actual	"<arg1> bought, sold, or traded <arg3> to <arg2> in exchange for <arg4> for the benefit of <arg5> at <arg6> place"	L0C04D4DS:7739-7747	1.0000
-::Event_0000013	Transaction.ExchangeBuySell.Unspecified_Place.actual	:Entity_EDL_0000004	L0C04D4DS:7756-7768	0.7060
-::Event_0000014	type	Justice.TrialHearing.Unspecified
-::Event_0000014	mention.actual	"trial"	L0C04D4RB:7782-7786	1.0000
-::Event_0000014	canonical_mention.actual	"<arg1> tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:7782-7786	1.0000
-::Event_0000014	Justice.TrialHearing.Unspecified_Defendant.actual	:Entity_EDL_0000002	L0C04D4RB:7792-7800	1.0000
-::Event_0000015	type	Life.Injure.Unspecified
-::Event_0000015	mention.actual	"harmed"	L0C04D4RB:4753-4758	1.0000
-::Event_0000015	canonical_mention.actual	"<arg1> was injured by <arg2> using <arg3> in <arg4> body part with <arg5> medical issue at <arg6> place"	L0C04D4RB:4753-4758	1.0000
-::Event_0000015	Life.Injure.Unspecified_Injurer.actual	:Entity_EDL_0000002	L0C04D4RB:4693-4695	1.0000
-::Event_0000015	Life.Injure.Unspecified_Victim.actual	:Entity_EDL_0000120	L0C04D4RB:4738-4742	1.0000
-::Event_0000016	type	Contact.Contact.Correspondence
-::Event_0000016	mention.actual	"telephone"	L0C04D4DS:14465-14473	1.0000
-::Event_0000016	canonical_mention.actual	"<arg1> communicated remotely with <arg2> about <arg4> topic using <arg3> at <arg5> place"	L0C04D4DS:14465-14473	1.0000
-::Event_0000016	Contact.Contact.Correspondence_Participant.actual	:Entity_EDL_0000232	L0C04D4DS:14427-14435	1.0000
-::Event_0000017	type	Contact.Contact.Correspondence
-::Event_0000017	mention.actual	"telephone"	L0C04D4DS:14338-14346	1.0000
-::Event_0000017	canonical_mention.actual	"<arg1> communicated remotely with <arg2> about <arg4> topic using <arg3> at <arg5> place"	L0C04D4DS:14338-14346	1.0000
-::Event_0000017	Contact.Contact.Correspondence_Participant.actual	:Entity_EDL_0000010	L0C04D4DS:14284-14292	1.0000
-::Event_0000017	Contact.Contact.Correspondence_Participant.actual	:Entity_EDL_0000140	L0C04D4DS:14352-14358	1.0000
-::Event_0000018	type	Conflict.Attack.Unspecified
-::Event_0000018	mention.actual	"poisoned"	L0C04D4RB:4621-4628	1.0000
-::Event_0000018	canonical_mention.actual	"<arg1> attacked <arg2> using <arg3> at <arg4> place"	L0C04D4RB:4621-4628	1.0000
-::Event_0000018	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000120	L0C04D4RB:4605-4613	0.5398
-::Event_0000019	type	Justice.Convict.Unspecified
-::Event_0000019	mention.actual	"conviction"	L0C04AT6Y:704-713	1.0000
-::Event_0000019	canonical_mention.actual	"conviction"	L0C04AT6Y:704-713	1.0000
-::Event_0000020	type	Movement.Transportation.Unspecified
-::Event_0000020	mention.actual	"brought"	L0C04D4DS:12320-12326	1.0000
-::Event_0000020	canonical_mention.actual	"<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place"	L0C04D4DS:12320-12326	1.0000
-::Event_0000020	Movement.Transportation.Unspecified_Transporter.actual	:Entity_EDL_0000252	L0C04D4DS:12313-12318	1.0000
-::Event_0000020	Movement.Transportation.Unspecified_Destination.actual	:Entity_EDL_0000065	L0C04D4DS:12361-12370	1.0000
-::Event_0000021	type	ArtifactExistence.ManufactureAssemble.Unspecified
-::Event_0000021	mention.actual	"manufactured"	L0C04D4DA:2453-2464	1.0000
-::Event_0000021	canonical_mention.actual	"<arg1> manufactured or assembled or produced <arg2> from <arg3> components using <arg4> at <arg5> place"	L0C04D4DA:2453-2464	1.0000
-::Event_0000021	ArtifactExistence.ManufactureAssemble.Unspecified_ManufacturerAssembler.actual	:Entity_EDL_0000001	L0C04D4DA:2469-2479	1.0000
-::Event_0000022	type	Sanitize
-::Event_0000022	mention.actual	"cleaning"	L0C04AT6B:3358-3365	1.0000
-::Event_0000022	canonical_mention.actual	"cleaning"	L0C04AT6B:3358-3365	1.0000
-::Event_0000023	type	ArtifactExistence.ManufactureAssemble.Unspecified
-::Event_0000023	mention.actual	"production"	L0C04D4DB:1946-1955	1.0000
-::Event_0000023	canonical_mention.actual	"<arg1> manufactured or assembled or produced <arg2> from <arg3> components using <arg4> at <arg5> place"	L0C04D4DB:1946-1955	1.0000
-::Event_0000023	ArtifactExistence.ManufactureAssemble.Unspecified_ManufacturerAssembler.actual	:Entity_EDL_0000001	L0C04D4DB:1924-1926	0.9824
-::Event_0000024	type	Justice.ChargeIndict.Unspecified
-::Event_0000024	mention.actual	"charges"	L0C04D4RB:2545-2551	0.4346
-::Event_0000024	canonical_mention.actual	"<arg1> charged or indicted <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:2545-2551	0.4346
-::Event_0000024	Justice.ChargeIndict.Unspecified_Defendant.actual	:Entity_EDL_0000378	L0C04D4RB:2517-2524	1.0000
-::Event_0000025	type	Movement.Transportation.Unspecified
-::Event_0000025	mention.actual	"arrived"	L0C04AT6B:2801-2807	1.0000
-::Event_0000025	canonical_mention.actual	"<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place"	L0C04AT6B:2801-2807	1.0000
-::Event_0000025	Movement.Transportation.Unspecified_PassengerArtifact.actual	:Entity_EDL_0000081	L0C04AT6B:2791-2799	1.0000
-::Event_0000025	Movement.Transportation.Unspecified_Destination.actual	:Entity_EDL_0000000	L0C04AT6B:2816-2834	1.0000
-::Event_0000026	type	Justice.TrialHearing.Unspecified
-::Event_0000026	mention.actual	"trial"	L0C04D4RB:2571-2575	1.0000
-::Event_0000026	canonical_mention.actual	"<arg1> tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:2571-2575	1.0000
-::Event_0000026	Justice.TrialHearing.Unspecified_Defendant.actual	:Entity_EDL_0000378	L0C04D4RB:2517-2524	1.0000
-::Event_0000027	type	Contaminate
-::Event_0000027	mention.actual	"tainted"	L0C04AT6J:2051-2057	1.0000
-::Event_0000027	canonical_mention.actual	"tainted"	L0C04AT6J:2051-2057	1.0000
-::Event_0000028	type	Personnel.EndPosition.Unspecified
-::Event_0000028	mention.actual	"employed"	L0C04D4RB:485-492	1.0000
-::Event_0000028	canonical_mention.actual	"<arg1> stopped working in <arg3> position at <arg2> organization in <arg4> place"	L0C04D4RB:485-492	1.0000
-::Event_0000028	Personnel.EndPosition.Unspecified_Employee.actual	:Entity_EDL_0000002	L0C04D4RB:466-468	0.8436
-::Event_0000028	Personnel.EndPosition.Unspecified_Place.actual	:Entity_EDL_0000014	L0C04D4RB:503-509	0.8436
-::Event_0000028	Personnel.EndPosition.Unspecified_PlaceOfEmployment.actual	:Entity_EDL_0000003	L0C04D4RB:516-520	0.8436
-::Event_0000029	type	Movement.Transportation.Unspecified
-::Event_0000029	mention.actual	"hospitalized"	L0C04D4DB:7890-7901	1.0000
-::Event_0000029	canonical_mention.actual	"<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place"	L0C04D4DB:7890-7901	1.0000
-::Event_0000029	Movement.Transportation.Unspecified_PassengerArtifact.actual	:Entity_EDL_0000282	L0C04D4DB:7876-7878	0.8753
-::Event_0000030	type	Movement.Transportation.Unspecified
-::Event_0000030	mention.actual	"shipped"	L0C04D4DB:1017-1023	1.0000
-::Event_0000030	canonical_mention.actual	"shipped"	L0C04D4DB:1017-1023	1.0000
-::Event_0000031	type	Conflict.Attack.Unspecified
-::Event_0000031	mention.actual	"bullets"	L0C04D4RB:6855-6861	0.3807
-::Event_0000031	canonical_mention.actual	"<arg1> attacked <arg2> using <arg3> at <arg4> place"	L0C04D4RB:6855-6861	0.3807
-::Event_0000031	Conflict.Attack.Unspecified_Attacker.actual	:Entity_EDL_0000163	L0C04D4RB:6830-6831	1.0000
-::Event_0000032	type	Movement.Transportation.Unspecified
-::Event_0000032	mention.actual	"hospitalized"	L0C04D4DA:3197-3208	1.0000
-::Event_0000032	canonical_mention.actual	"<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place"	L0C04D4DA:3197-3208	1.0000
-::Event_0000032	Movement.Transportation.Unspecified_PassengerArtifact.actual	:Entity_EDL_0000375	L0C04D4DA:3162-3168	0.8665
-::Event_0000033	type	Personnel.EndPosition.Unspecified
-::Event_0000033	mention.actual	"removes"	L0C04D4DB:5769-5775	1.0000
-::Event_0000033	canonical_mention.actual	"<arg1> stopped working in <arg3> position at <arg2> organization in <arg4> place"	L0C04D4DB:5769-5775	1.0000
-::Event_0000033	Personnel.EndPosition.Unspecified_Employee.actual	:Entity_EDL_0000013	L0C04D4DB:5777-5791	0.8819
-::Event_0000033	Personnel.EndPosition.Unspecified_PlaceOfEmployment.actual	:Entity_EDL_0000376	L0C04D4DB:5825-5846	0.8819
-::Event_0000034	type	Movement.Transportation.Unspecified
-::Event_0000034	mention.actual	"sent"	L0C04D4DB:5915-5918	1.0000
-::Event_0000034	canonical_mention.actual	"<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place"	L0C04D4DB:5915-5918	1.0000
-::Event_0000034	Movement.Transportation.Unspecified_Destination.actual	:Entity_EDL_0000088	L0C04D4DB:5923-5930	1.0000
-::Event_0000035	type	Justice.ArrestJailDetain.Unspecified
-::Event_0000035	mention.actual	"custody"	L0C04D4RB:2783-2789	0.4313
-::Event_0000035	canonical_mention.actual	"<arg1> arrested or jailed <arg2> for <arg3> crime at <arg4> place"	L0C04D4RB:2783-2789	0.4313
-::Event_0000035	Justice.ArrestJailDetain.Unspecified_Detainee.actual	:Entity_EDL_0000066	L0C04D4RB:2743-2750	1.0000
-::Event_0000036	type	Assess
-::Event_0000036	mention.actual	"evaluate"	L0C04AT6Y:4649-4656	1.0000
-::Event_0000036	canonical_mention.actual	"evaluate"	L0C04AT6Y:4649-4656	1.0000
-::Event_0000036	Assess _Assessor.actual	:Entity_EDL_0000000	L0C04AT6Y:4593-4600	1.0000
-::Event_0000036	Assess _Thing_assessed.actual	:Entity_EDL_0000022	L0C04AT6Y:4717-4724	1.0000
-::Event_0000037	type	Life_Mutate
-::Event_0000037	mention.actual	"strain"	L0C04D4DS:4483-4488	1.0000
-::Event_0000037	canonical_mention.actual	"strain"	L0C04D4DS:4483-4488	1.0000
-::Event_0000038	type	Sanitize
-::Event_0000038	mention.actual	"cleaned"	L0C04AT6W:1800-1806	1.0000
-::Event_0000038	canonical_mention.actual	"cleaned"	L0C04AT6W:1800-1806	1.0000
-::Event_0000038	Sanitize _Agent.actual	:Entity_EDL_0000000	L0C04AT6W:1749-1752	1.0000
-::Event_0000039	type	Justice.Sentence.Unspecified
-::Event_0000039	mention.actual	"sentence"	L0C04D4RB:2371-2378	0.5060
-::Event_0000039	canonical_mention.actual	"<arg1> court or judge sentenced <arg2> for <arg3> crime to <arg4> sentence in <arg5> place"	L0C04D4RB:2371-2378	0.5060
-::Event_0000039	Justice.Sentence.Unspecified_Defendant.actual	:Entity_EDL_0000013	L0C04D4RB:2334-2348	1.0000
-::Event_0000040	type	Contact.Contact.Correspondence
-::Event_0000040	mention.actual	"calls"	L0C04AT6B:412-416	1.0000
-::Event_0000040	canonical_mention.actual	"<arg1> communicated remotely with <arg2> about <arg4> topic using <arg3> at <arg5> place"	L0C04AT6B:412-416	1.0000
-::Event_0000040	Contact.Contact.Correspondence_Participant.actual	:Entity_EDL_0000042	L0C04AT6B:370-385	0.9788
-::Event_0000040	Contact.Contact.Correspondence_Participant.actual	:Entity_EDL_0000023	L0C04AT6B:392-393	0.9788
-::Event_0000041	type	Justice.ArrestJailDetain.Unspecified
-::Event_0000041	mention.actual	"serving"	L0C04D4RB:2353-2359	1.0000
-::Event_0000041	canonical_mention.actual	"<arg1> arrested or jailed <arg2> for <arg3> crime at <arg4> place"	L0C04D4RB:2353-2359	1.0000
-::Event_0000041	Justice.ArrestJailDetain.Unspecified_Detainee.actual	:Entity_EDL_0000013	L0C04D4RB:2334-2348	1.0000
-::Event_0000042	type	Contact.Contact.Unspecified
-::Event_0000042	mention.actual	"requested"	L0C04D4RB:894-902	1.0000
-::Event_0000042	canonical_mention.actual	"<arg1> communicated with <arg2> about <arg3> topic at <arg4> place (document does not specify in person or not, or one-way or not)"	L0C04D4RB:894-902	1.0000
-::Event_0000042	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000031	L0C04D4RB:858-866	1.0000
-::Event_0000042	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000294	L0C04D4RB:917-921	1.0000
-::Event_0000043	type	Contact.Contact.Unspecified
-::Event_0000043	mention.actual	"speaks"	L0C04D4DB:7973-7978	0.3836
-::Event_0000043	canonical_mention.actual	"<arg1> communicated with <arg2> about <arg3> topic at <arg4> place (document does not specify in person or not, or one-way or not)"	L0C04D4DB:7973-7978	0.3836
-::Event_0000043	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000030	L0C04D4DB:7941-7946	1.0000
-::Event_0000043	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000253	L0C04D4DB:7983-7996	1.0000
-::Event_0000044	type	Control_Impede_Prevent
-::Event_0000044	mention.actual	"prevention"	L0C04D4DS:16507-16516	1.0000
-::Event_0000044	canonical_mention.actual	"prevention"	L0C04D4DS:16507-16516	1.0000
-::Event_0000044	Control_Impede_Prevent _Preventer.actual	:Entity_EDL_0000007	L0C04D4DS:16362-16364	1.0000
-::Event_0000045	type	Personnel.StartPosition.Unspecified
-::Event_0000045	mention.actual	"started"	L0C04D4DB:8202-8208	1.0000
-::Event_0000045	canonical_mention.actual	"<arg1> started working in <arg3> position at <arg2> organization in <arg4> place"	L0C04D4DB:8202-8208	1.0000
-::Event_0000045	Personnel.StartPosition.Unspecified_Employee.actual	:Entity_EDL_0000030	L0C04D4DB:8193-8194	1.0000
-::Event_0000045	Personnel.StartPosition.Unspecified_PlaceOfEmployment.actual	:Entity_EDL_0000001	L0C04D4DB:8221-8223	1.0000
-::Event_0000046	type	Medical_Intervention_Cure
-::Event_0000046	mention.actual	"recover"	L0C04D4DS:15883-15889	1.0000
-::Event_0000046	canonical_mention.actual	"recover"	L0C04D4DS:15883-15889	1.0000
-::Event_0000046	Medical_Intervention_Cure _Patient.actual	:Entity_EDL_0000050	L0C04D4DS:15876-15881	1.0000
-::Event_0000047	type	Movement.Transportation.Unspecified
-::Event_0000047	mention.actual	"shipped"	L0C04D4DB:6180-6186	1.0000
-::Event_0000047	canonical_mention.actual	"<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place"	L0C04D4DB:6180-6186	1.0000
-::Event_0000047	Movement.Transportation.Unspecified_Transporter.actual	:Entity_EDL_0000045	L0C04D4DB:6177-6178	0.5290
-::Event_0000047	Movement.Transportation.Unspecified_Destination.actual	:Entity_EDL_0000052	L0C04D4DB:6273-6282	0.5290
-::Event_0000047	Movement.Transportation.Unspecified_Destination.actual	:Entity_EDL_0000011	L0C04D4DB:6285-6293	0.5290
-::Event_0000047	Movement.Transportation.Unspecified_Destination.actual	:Entity_EDL_0000060	L0C04D4DB:6299-6303	0.5290
-::Event_0000048	type	Contaminate
-::Event_0000048	mention.actual	"infected"	L0C04D4DB:1618-1625	1.0000
-::Event_0000048	canonical_mention.actual	"infected"	L0C04D4DB:1618-1625	1.0000
-::Event_0000049	type	Contact.Contact.Unspecified
-::Event_0000049	mention.actual	"told"	L0C04D4DB:7258-7261	1.0000
-::Event_0000049	canonical_mention.actual	"<arg1> communicated with <arg2> about <arg3> topic at <arg4> place (document does not specify in person or not, or one-way or not)"	L0C04D4DB:7258-7261	1.0000
-::Event_0000049	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000100	L0C04D4DB:7227-7232	1.0000
-::Event_0000050	type	Contaminate
-::Event_0000050	mention.actual	"adulterated"	L0C04AT6Y:1907-1917	1.0000
-::Event_0000050	canonical_mention.actual	"adulterated"	L0C04AT6Y:1907-1917	1.0000
-::Event_0000051	type	Justice.ChargeIndict.Unspecified
-::Event_0000051	mention.actual	"charges"	L0C04D4RB:6896-6902	1.0000
-::Event_0000051	canonical_mention.actual	"<arg1> charged or indicted <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:6896-6902	1.0000
-::Event_0000051	Justice.ChargeIndict.Unspecified_Prosecutor.actual	:Entity_EDL_0000005	L0C04D4RB:6888-6894	1.0000
-::Event_0000051	Justice.ChargeIndict.Unspecified_Defendant.actual	:Entity_EDL_0000356	L0C04D4RB:6923-6930	1.0000
-::Event_0000052	type	Personnel.EndPosition.Unspecified
-::Event_0000052	mention.actual	"Former"	L0C04D4RB:1-6	1.0000
-::Event_0000052	canonical_mention.actual	"<arg1> stopped working in <arg3> position at <arg2> organization in <arg4> place"	L0C04D4RB:1-6	1.0000
-::Event_0000052	Personnel.EndPosition.Unspecified_Employee.actual	:Entity_EDL_0000002	L0C04D4RB:20-26	1.0000
-::Event_0000052	Personnel.EndPosition.Unspecified_PlaceOfEmployment.actual	:Entity_EDL_0000001	L0C04D4RB:32-34	1.0000
-::Event_0000053	type	Conflict.Attack.Unspecified
-::Event_0000053	mention.actual	"this"	L0C04D4DA:1647-1650	1.0000
-::Event_0000053	canonical_mention.actual	"this"	L0C04D4DA:1647-1650	1.0000
-::Event_0000054	type	Justice.TrialHearing.Unspecified
-::Event_0000054	mention.actual	"hear"	L0C04D4RB:1502-1505	1.0000
-::Event_0000054	canonical_mention.actual	"<arg1> tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:1502-1505	1.0000
-::Event_0000054	Justice.TrialHearing.Unspecified_JudgeCourt.actual	:Entity_EDL_0000142	L0C04D4RB:1475-1482	0.7700
-::Event_0000055	type	Personnel.EndPosition.Unspecified
-::Event_0000055	mention.actual	"former"	L0C04D4RB:2506-2511	1.0000
-::Event_0000055	canonical_mention.actual	"<arg1> stopped working in <arg3> position at <arg2> organization in <arg4> place"	L0C04D4RB:2506-2511	1.0000
-::Event_0000055	Personnel.EndPosition.Unspecified_PlaceOfEmployment.actual	:Entity_EDL_0000001	L0C04D4RB:2513-2515	1.0000
-::Event_0000055	Personnel.EndPosition.Unspecified_Employee.actual	:Entity_EDL_0000378	L0C04D4RB:2517-2524	1.0000
-::Event_0000056	type	Transaction.ExchangeBuySell.Unspecified
-::Event_0000056	mention.actual	"Pay"	L0C04AT6Y:34-36	1.0000
-::Event_0000056	canonical_mention.actual	"<arg1> bought, sold, or traded <arg3> to <arg2> in exchange for <arg4> for the benefit of <arg5> at <arg6> place"	L0C04AT6Y:34-36	1.0000
-::Event_0000056	Transaction.ExchangeBuySell.Unspecified_Giver.actual	:Entity_EDL_0000000	L0C04AT6Y:1-22	1.0000
-::Event_0000057	type	Transaction.ExchangeBuySell.Unspecified
-::Event_0000057	mention.actual	"restitution"	L0C04D4RB:4723-4733	0.4235
-::Event_0000057	canonical_mention.actual	"<arg1> bought, sold, or traded <arg3> to <arg2> in exchange for <arg4> for the benefit of <arg5> at <arg6> place"	L0C04D4RB:4723-4733	0.4235
-::Event_0000057	Transaction.ExchangeBuySell.Unspecified_Giver.actual	:Entity_EDL_0000002	L0C04D4RB:4693-4695	1.0000
-::Event_0000057	Transaction.ExchangeBuySell.Unspecified_Recipient.actual	:Entity_EDL_0000120	L0C04D4RB:4738-4742	1.0000
-::Event_0000058	type	Personnel.EndPosition.Unspecified
-::Event_0000058	mention.actual	"former"	L0C04D4DB:7930-7935	1.0000
-::Event_0000058	canonical_mention.actual	"<arg1> stopped working in <arg3> position at <arg2> organization in <arg4> place"	L0C04D4DB:7930-7935	1.0000
-::Event_0000058	Personnel.EndPosition.Unspecified_PlaceOfEmployment.actual	:Entity_EDL_0000001	L0C04D4DB:7937-7939	1.0000
-::Event_0000058	Personnel.EndPosition.Unspecified_Employee.actual	:Entity_EDL_0000030	L0C04D4DB:7941-7946	1.0000
-::Event_0000058	Personnel.EndPosition.Unspecified_Place.actual	:Entity_EDL_0000209	L0C04D4DB:7957-7965	1.0000
-::Event_0000058	Personnel.EndPosition.Unspecified_PlaceOfEmployment.actual	:Entity_EDL_0000003	L0C04D4DB:7967-7971	1.0000
-::Event_0000059	type	Contact.Contact.Meet
-::Event_0000059	mention.actual	"visits"	L0C04D4DB:1737-1742	1.0000
-::Event_0000059	canonical_mention.actual	"<arg1> met face-to-face with <arg2> about <arg3> topic at <arg4> place"	L0C04D4DB:1737-1742	1.0000
-::Event_0000059	Contact.Contact.Meet_Participant.actual	:Entity_EDL_0000006	L0C04D4DB:1708-1735	1.0000
-::Event_0000059	Contact.Contact.Meet_Participant.actual	:Entity_EDL_0000247	L0C04D4DB:1752-1762	0.8698
-::Event_0000060	type	Contact.Contact.Unspecified
-::Event_0000060	mention.actual	"report"	L0C04D4DB:7469-7474	1.0000
-::Event_0000060	canonical_mention.actual	"<arg1> communicated with <arg2> about <arg3> topic at <arg4> place (document does not specify in person or not, or one-way or not)"	L0C04D4DB:7469-7474	1.0000
-::Event_0000060	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000100	L0C04D4DB:7462-7467	1.0000
-::Event_0000060	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000231	L0C04D4DB:7492-7504	1.0000
-::Event_0000061	type	Contact.Contact.Unspecified
-::Event_0000061	mention.actual	"inform"	L0C04D4DS:15348-15353	1.0000
-::Event_0000061	canonical_mention.actual	"<arg1> communicated with <arg2> about <arg3> topic at <arg4> place (document does not specify in person or not, or one-way or not)"	L0C04D4DS:15348-15353	1.0000
-::Event_0000061	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000076	L0C04D4DS:15336-15339	0.9074
-::Event_0000061	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000010	L0C04D4DS:15355-15363	0.9074
-::Event_0000062	type	Control_Impede_Prevent
-::Event_0000062	mention.actual	"prevent"	L0C04D4DS:13553-13559	1.0000
-::Event_0000062	canonical_mention.actual	"prevent"	L0C04D4DS:13553-13559	1.0000
-::Event_0000062	Control_Impede_Prevent _Prevented_thing.actual	:Entity_EDL_0000010	L0C04D4DS:13561-13566	1.0000
-::Event_0000063	type	Transaction.ExchangeBuySell.Unspecified
-::Event_0000063	mention.actual	"spent"	L0C04AT6Y:1599-1603	1.0000
-::Event_0000063	canonical_mention.actual	"<arg1> bought, sold, or traded <arg3> to <arg2> in exchange for <arg4> for the benefit of <arg5> at <arg6> place"	L0C04AT6Y:1599-1603	1.0000
-::Event_0000063	Transaction.ExchangeBuySell.Unspecified_Giver.actual	:Entity_EDL_0000000	L0C04AT6Y:1578-1585	1.0000
-::Event_0000064	type	Assess
-::Event_0000064	mention.actual	"monitor"	L0C04D4DS:16478-16484	1.0000
-::Event_0000064	canonical_mention.actual	"monitor"	L0C04D4DS:16478-16484	1.0000
-::Event_0000064	Assess _Thing_assessed.actual	:Entity_EDL_0000007	L0C04D4DS:16362-16364	1.0000
-::Event_0000064	Assess _Assessor.actual	:Entity_EDL_0000007	L0C04D4DS:16362-16364	1.0000
-::Event_0000065	type	Personnel.EndPosition.Unspecified
-::Event_0000065	mention.actual	"former"	L0C04D4RB:2595-2600	1.0000
-::Event_0000065	canonical_mention.actual	"<arg1> stopped working in <arg3> position at <arg2> organization in <arg4> place"	L0C04D4RB:2595-2600	1.0000
-::Event_0000065	Personnel.EndPosition.Unspecified_Employee.actual	:Entity_EDL_0000066	L0C04D4RB:2578-2592	1.0000
-::Event_0000065	Personnel.EndPosition.Unspecified_PlaceOfEmployment.actual	:Entity_EDL_0000262	L0C04D4RB:2602-2606	0.8974
-::Event_0000066	type	Contact.Contact.Correspondence
-::Event_0000066	mention.actual	"calls"	L0C04AT6J:902-906	1.0000
-::Event_0000066	canonical_mention.actual	"<arg1> communicated remotely with <arg2> about <arg4> topic using <arg3> at <arg5> place"	L0C04AT6J:902-906	1.0000
-::Event_0000066	Contact.Contact.Correspondence_Participant.actual	:Entity_EDL_0000049	L0C04AT6J:864-872	1.0000
-::Event_0000067	type	Control_ComplyObey
-::Event_0000067	mention.actual	"observed"	L0C04D4DB:3399-3406	1.0000
-::Event_0000067	canonical_mention.actual	"observed"	L0C04D4DB:3399-3406	1.0000
-::Event_0000067	Control_ComplyObey _Complier.actual	:Entity_EDL_0000143	L0C04D4DB:3415-3427	1.0000
-::Event_0000068	type	Conflict.Attack.Unspecified
-::Event_0000068	mention.actual	"victims"	L0C04D4DB:7833-7839	1.0000
-::Event_0000068	canonical_mention.actual	"<arg1> attacked <arg2> using <arg3> at <arg4> place"	L0C04D4DB:7833-7839	1.0000
-::Event_0000068	Conflict.Attack.Unspecified_Place.actual	:Entity_EDL_0000034	L0C04D4DB:7824-7831	1.0000
-::Event_0000068	Conflict.Attack.Unspecified_Target.actual	:Entity_EDL_0000193	L0C04D4DB:7833-7839	1.0000
-::Event_0000069	type	Control_Impede_Prevent
-::Event_0000069	mention.actual	"endanger"	L0C04AT6Y:1865-1872	1.0000
-::Event_0000069	canonical_mention.actual	"endanger"	L0C04AT6Y:1865-1872	1.0000
-::Event_0000069	Control_Impede_Prevent _Preventer.actual	:Entity_EDL_0000094	L0C04AT6Y:1833-1841	1.0000
-::Event_0000070	type	Justice.Convict.Unspecified
-::Event_0000070	mention.actual	"convicted"	L0C04D4RB:2069-2077	1.0000
-::Event_0000070	canonical_mention.actual	"<arg1> court or judge convicted <arg2> of <arg3> crime in <arg4> place"	L0C04D4RB:2069-2077	1.0000
-::Event_0000070	Justice.Convict.Unspecified_JudgeCourt.actual	:Entity_EDL_0000144	L0C04D4RB:2064-2067	1.0000
-::Event_0000070	Justice.Convict.Unspecified_Defendant.actual	:Entity_EDL_0000013	L0C04D4RB:2110-2127	1.0000
-::Event_0000071	type	Justice.TrialHearing.Unspecified
-::Event_0000071	mention.actual	"rehearing"	L0C04D4RB:3101-3109	0.5028
-::Event_0000071	canonical_mention.actual	"<arg1> tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place"	L0C04D4RB:3101-3109	0.5028
-::Event_0000071	Justice.TrialHearing.Unspecified_JudgeCourt.actual	:Entity_EDL_0000087	L0C04D4RB:3062-3066	0.8448
-::Event_0000071	Justice.TrialHearing.Unspecified_JudgeCourt.actual	:Entity_EDL_0000320	L0C04D4RB:3123-3127	1.0000
-::Event_0000071	Justice.TrialHearing.Unspecified_JudgeCourt.actual	:Entity_EDL_0000243	L0C04D4RB:3143-3148	0.8448
-::Event_0000072	type	Justice.ReleaseParole.Unspecified
-::Event_0000072	mention.actual	"probation"	L0C04D4RB:1878-1886	1.0000
-::Event_0000072	canonical_mention.actual	"probation"	L0C04D4RB:1878-1886	1.0000
-::Event_0000073	type	Contact.Contact.Correspondence
-::Event_0000073	mention.actual	"calls"	L0C04AT6B:1722-1726	1.0000
-::Event_0000073	canonical_mention.actual	"<arg1> communicated remotely with department about <arg4> topic using <arg3> at <arg5> place"	L0C04AT6B:1722-1726	1.0000
-::Event_0000073	Contact.Contact.Correspondence_Participant.actual	:Entity_EDL_0000023	L0C04AT6B:1636-1641	1.0000
-::Event_0000073	Contact.Contact.Correspondence_Participant.actual	:Entity_EDL_0000023	L0C04AT6B:1662-1663	1.0000
-::Event_0000074	type	Justice.Acquit.Unspecified
-::Event_0000074	mention.actual	"acquitted"	L0C04D4RB:1934-1942	1.0000
-::Event_0000074	canonical_mention.actual	"<arg1> court or judge acquitted <arg2> of <arg3> crime in <arg4> place"	L0C04D4RB:1934-1942	1.0000
-::Event_0000074	Justice.Acquit.Unspecified_JudgeCourt.actual	:Entity_EDL_0000144	L0C04D4RB:1914-1917	1.0000
-::Event_0000074	Justice.Acquit.Unspecified_Place.actual	:Entity_EDL_0000203	L0C04D4RB:1922-1927	1.0000
-::Event_0000074	Justice.Acquit.Unspecified_Defendant.actual	:Entity_EDL_0000002	L0C04D4RB:1944-1952	1.0000
-::Event_0000075	type	Contaminate
-::Event_0000075	mention.actual	"poisoning"	L0C04D4DB:6461-6469	1.0000
-::Event_0000075	canonical_mention.actual	"poisoning"	L0C04D4DB:6461-6469	1.0000
-::Event_0000076	type	Contact.Contact.Unspecified
-::Event_0000076	mention.actual	"interviews"	L0C04D4DS:6767-6776	1.0000
-::Event_0000076	canonical_mention.actual	"<arg1> communicated with persons about <arg3> topic at <arg4> place (document does not specify in person or not, or one-way or not)"	L0C04D4DS:6767-6776	1.0000
-::Event_0000076	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000346	L0C04D4DS:6801-6807	1.0000
-::Event_0000076	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000312	L0C04D4DS:6862-6868	1.0000
-::Event_0000077	type	ArtifactExistence.ManufactureAssemble.Unspecified
-::Event_0000077	mention.actual	"maker"	L0C04D4DB:534-538	1.0000
-::Event_0000077	canonical_mention.actual	"<arg1> manufactured or assembled or produced <arg2> from <arg3> components using <arg4> at <arg5> place"	L0C04D4DB:534-538	1.0000
-::Event_0000077	ArtifactExistence.ManufactureAssemble.Unspecified_ManufacturerAssembler.actual	:Entity_EDL_0000004	L0C04D4DB:490-499	1.0000
-::Event_0000078	type	Movement.Transportation.Unspecified
-::Event_0000078	mention.actual	"delivered"	L0C04AT6J:1776-1784	1.0000
-::Event_0000078	canonical_mention.actual	"<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place"	L0C04AT6J:1776-1784	1.0000
-::Event_0000078	Movement.Transportation.Unspecified_Transporter.actual	:Entity_EDL_0000020	L0C04AT6J:1718-1719	0.6611
-::Event_0000079	type	Justice.Convict.Unspecified
-::Event_0000079	mention.actual	"found"	L0C04D4RB:1997-2001	0.6378
-::Event_0000079	canonical_mention.actual	"<arg1> court or judge convicted <arg2> of <arg3> crime in <arg4> place"	L0C04D4RB:1997-2001	0.6378
-::Event_0000079	Justice.Convict.Unspecified_Defendant.actual	:Entity_EDL_0000002	L0C04D4RB:2003-2005	1.0000
-::Event_0000080	type	Contact.Contact.Unspecified
-::Event_0000080	mention.actual	"statement"	L0C04AT6W:1006-1014	1.0000
-::Event_0000080	canonical_mention.actual	"<arg1> communicated with <arg2> about <arg3> topic at <arg4> place (document does not specify in person or not, or one-way or not)"	L0C04AT6W:1006-1014	1.0000
-::Event_0000080	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000043	L0C04AT6W:1019-1042	0.8210
-::Event_0000081	type	Justice.ReleaseParole.Unspecified
-::Event_0000081	mention.actual	"released"	L0C04D4RB:2761-2768	1.0000
-::Event_0000081	canonical_mention.actual	"<arg1> court or judge released or paroled <arg2> from <arg3> crime in <arg4> place"	L0C04D4RB:2761-2768	1.0000
-::Event_0000081	Justice.ReleaseParole.Unspecified_Defendant.actual	:Entity_EDL_0000066	L0C04D4RB:2743-2750	1.0000
-::Event_0000082	type	Movement.Transportation.Unspecified
-::Event_0000082	mention.actual	"delivered"	L0C04AT6B:2174-2182	1.0000
-::Event_0000082	canonical_mention.actual	"<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place"	L0C04AT6B:2174-2182	1.0000
-::Event_0000082	Movement.Transportation.Unspecified_PassengerArtifact.actual	:Entity_EDL_0000183	L0C04AT6B:2195-2200	0.9575
-::Event_0000083	type	Life.Die.Unspecified
-::Event_0000083	mention.actual	"killed"	L0C04D4RB:419-424	1.0000
-::Event_0000083	canonical_mention.actual	"<arg1> died at <arg2> place from <arg4> medical issue, killed by <arg3> killer"	L0C04D4RB:419-424	1.0000
-::Event_0000083	Life.Die.Unspecified_Victim.actual	:Entity_EDL_0000145	L0C04D4RB:426-429	0.8052
-::Event_0000084	type	Personnel.EndPosition.Unspecified
-::Event_0000084	mention.actual	"former"	L0C04D4RB:2637-2642	0.3593
-::Event_0000084	canonical_mention.actual	"<arg1> stopped working in <arg3> position at <arg2> organization in <arg4> place"	L0C04D4RB:2637-2642	0.3593
-::Event_0000084	Personnel.EndPosition.Unspecified_Employee.actual	:Entity_EDL_0000095	L0C04D4RB:2621-2634	1.0000
-::Event_0000085	type	Contact.Contact.Correspondence
-::Event_0000085	mention.actual	"email"	L0C04AT6B:1964-1968	1.0000
-::Event_0000085	canonical_mention.actual	"<arg1> communicated remotely with <arg2> about <arg4> topic using <arg3> at <arg5> place"	L0C04AT6B:1964-1968	1.0000
-::Event_0000085	Contact.Contact.Correspondence_Participant.actual	:Entity_EDL_0000062	L0C04AT6B:1943-1951	0.6408
-::Event_0000085	Contact.Contact.Correspondence_Participant.actual	:Entity_EDL_0000042	L0C04AT6B:1973-1988	0.6408
-::Event_0000086	type	Contact.Contact.Unspecified
-::Event_0000086	mention.actual	"told"	L0C04AT6J:1562-1565	1.0000
-::Event_0000086	canonical_mention.actual	"<arg1> communicated with <arg2> about <arg3> topic at <arg4> place (document does not specify in person or not, or one-way or not)"	L0C04AT6J:1562-1565	1.0000
-::Event_0000086	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000000	L0C04AT6J:1550-1556	1.0000
-::Event_0000086	Contact.Contact.Unspecified_Participant.actual	:Entity_EDL_0000048	L0C04AT6J:1567-1570	1.0000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"cure"	L0C049DQW:70-73	1.000
+::Event_0000000	canonical_mention.actual	"cure"	L0C049DQW:70-73	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"cure"	L0C049DQW:1411-1414	1.000
+::Event_0000000	canonical_mention.actual	"cure"	L0C049DQW:1411-1414	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"cure"	L0C049DQW:3168-3171	1.000
+::Event_0000000	canonical_mention.actual	"cure"	L0C049DQW:3168-3171	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"cure"	L0C049DQW:5437-5440	1.000
+::Event_0000000	canonical_mention.actual	"cure"	L0C049DQW:5437-5440	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"treating"	L0C049DQW:3721-3728	1.000
+::Event_0000000	canonical_mention.actual	"treating"	L0C049DQW:3721-3728	1.000
+::Event_0000000	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure_Patient.actual	:Entity_EDL_0000019	L0C049DQW:3734-3736	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"prevent"	L0C049DQW:3444-3450	1.000
+::Event_0000000	canonical_mention.actual	"prevent"	L0C049DQW:3444-3450	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"prevent"	L0C049DQW:59-65	1.000
+::Event_0000000	canonical_mention.actual	"prevent"	L0C049DQW:59-65	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"prevent"	L0C049DQW:315-321	1.000
+::Event_0000000	canonical_mention.actual	"prevent"	L0C049DQW:315-321	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"cure"	L0C049DQW:2702-2705	1.000
+::Event_0000000	canonical_mention.actual	"cure"	L0C049DQW:2702-2705	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"cured"	L0C049DQW:2489-2493	1.000
+::Event_0000000	canonical_mention.actual	"cured"	L0C049DQW:2489-2493	1.000
+::Event_0000000	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure_Patient.actual	:Entity_EDL_0000023	L0C049DQW:2476-2480	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"treat"	L0C049DQW:2000-2004	1.000
+::Event_0000000	canonical_mention.actual	"treat"	L0C049DQW:2000-2004	1.000
+::Event_0000000	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure_Patient.actual	:Entity_EDL_0000083	L0C049DQW:2017-2020	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"treat"	L0C049DQW:3582-3586	1.000
+::Event_0000000	canonical_mention.actual	"treat"	L0C049DQW:3582-3586	1.000
+::Event_0000000	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure_Patient.actual	:Entity_EDL_0000019	L0C049DQW:3592-3594	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"prevent"	L0C049DQW:5246-5252	1.000
+::Event_0000000	canonical_mention.actual	"prevent"	L0C049DQW:5246-5252	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"prevent"	L0C049DQW:1988-1994	1.000
+::Event_0000000	canonical_mention.actual	"prevent"	L0C049DQW:1988-1994	1.000
+::Event_0000000	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure_Prevented_Thing.actual	:Entity_EDL_0000083	L0C049DQW:2017-2020	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"cure"	L0C049DQW:1215-1218	1.000
+::Event_0000000	canonical_mention.actual	"cure"	L0C049DQW:1215-1218	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"cure"	L0C049DQW:326-329	1.000
+::Event_0000000	canonical_mention.actual	"cure"	L0C049DQW:326-329	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"prevent"	L0C049DQW:1204-1210	1.000
+::Event_0000000	canonical_mention.actual	"prevent"	L0C049DQW:1204-1210	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"prevent"	L0C049DQW:2254-2260	1.000
+::Event_0000000	canonical_mention.actual	"prevent"	L0C049DQW:2254-2260	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"prevent"	L0C049DQW:3836-3842	1.000
+::Event_0000000	canonical_mention.actual	"prevent"	L0C049DQW:3836-3842	1.000
+::Event_0000000	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure_Prevented_Thing.actual	:Entity_EDL_0000023	L0C049DQW:3844-3854	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"cure"	L0C049DQW:5237-5240	1.000
+::Event_0000000	canonical_mention.actual	"cure"	L0C049DQW:5237-5240	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"cure"	L0C049DQW:144-147	1.000
+::Event_0000000	canonical_mention.actual	"cure"	L0C049DQW:144-147	1.000
+::Event_0000000	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000000	mention.actual	"prevent"	L0C049DQW:3961-3967	1.000
+::Event_0000000	canonical_mention.actual	"prevent"	L0C049DQW:3961-3967	1.000
+::Event_0000000	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure_Prevented_Thing.actual	:Entity_EDL_0000064	L0C049DQW:3971-3976	1.000
+::Event_0000000	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure_Preventer.actual	:Entity_EDL_0000021	L0C049DQW:3879-3906	1.000
+::Event_0000001	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000001	mention.actual	"eat"	L0C049599:11032-11034	1.000
+::Event_0000001	canonical_mention.actual	"eat"	L0C049599:11032-11034	1.000
+::Event_0000001	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000001	mention.actual	"eat"	L0C049599:5523-5525	1.000
+::Event_0000001	canonical_mention.actual	"eat"	L0C049599:5523-5525	1.000
+::Event_0000001	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified_ConsumingEntity.actual	:Entity_EDL_0000018	L0C049599:5512-5517	1.000
+::Event_0000001	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000001	mention.actual	"eat"	L0C049599:5624-5626	1.000
+::Event_0000001	canonical_mention.actual	"eat"	L0C049599:5624-5626	1.000
+::Event_0000001	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified_ConsumingEntity.actual	:Entity_EDL_0000046	L0C049599:5606-5611	1.000
+::Event_0000001	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000001	mention.actual	"eating"	L0C049599:7073-7078	1.000
+::Event_0000001	canonical_mention.actual	"eating"	L0C049599:7073-7078	1.000
+::Event_0000001	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified_ConsumingEntity.actual	:Entity_EDL_0000003	L0C049599:7056-7058	1.000
+::Event_0000001	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000001	mention.actual	"eat"	L0C049599:13133-13135	1.000
+::Event_0000001	canonical_mention.actual	"eat"	L0C049599:13133-13135	1.000
+::Event_0000001	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified_ConsumingEntity.actual	:Entity_EDL_0000003	L0C049599:13121-13123	1.000
+::Event_0000001	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000001	mention.actual	"eating"	L0C049599:4901-4906	1.000
+::Event_0000001	canonical_mention.actual	"eating"	L0C049599:4901-4906	1.000
+::Event_0000001	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified_ConsumingEntity.actual	:Entity_EDL_0000018	L0C049599:4894-4899	1.000
+::Event_0000001	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000001	mention.actual	"eat"	L0C049599:6029-6031	1.000
+::Event_0000001	canonical_mention.actual	"eat"	L0C049599:6029-6031	1.000
+::Event_0000001	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified_ConsumingEntity.actual	:Entity_EDL_0000003	L0C049599:6025-6027	1.000
+::Event_0000002	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.unspecified
+::Event_0000002	mention.actual	"treating"	L0C0495AR:933-940	1.000
+::Event_0000002	canonical_mention.actual	"treating"	L0C0495AR:933-940	1.000
+::Event_0000002	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.unspecified_Patient.actual	:Entity_EDL_0000043	L0C0495AR:951-958	1.000
+::Event_0000002	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.unspecified_Treater.actual	:Entity_EDL_0000050	L0C0495AR:881-890	1.000
+::Event_0000002	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.unspecified
+::Event_0000002	mention.actual	"treat"	L0C0495AR:1053-1057	1.000
+::Event_0000002	canonical_mention.actual	"treat"	L0C0495AR:1053-1057	1.000
+::Event_0000002	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.unspecified
+::Event_0000002	mention.actual	"cure"	L0C0495AR:1060-1063	1.000
+::Event_0000002	canonical_mention.actual	"cure"	L0C0495AR:1060-1063	1.000
+::Event_0000002	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.unspecified
+::Event_0000002	mention.actual	"treat"	L0C0495AR:2192-2196	1.000
+::Event_0000002	canonical_mention.actual	"treat"	L0C0495AR:2192-2196	1.000
+::Event_0000002	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.unspecified
+::Event_0000002	mention.actual	"treating"	L0C0495AR:770-777	1.000
+::Event_0000002	canonical_mention.actual	"treating"	L0C0495AR:770-777	1.000
+::Event_0000002	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.unspecified_Treater.actual	:Entity_EDL_0000086	L0C0495AR:750-756	1.000
+::Event_0000003	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000003	mention.actual	"eating"	L0C049DQW:599-604	1.000
+::Event_0000003	canonical_mention.actual	"eating"	L0C049DQW:599-604	1.000
+::Event_0000003	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000003	mention.actual	"eating"	L0C049DQW:5162-5167	1.000
+::Event_0000003	canonical_mention.actual	"eating"	L0C049DQW:5162-5167	1.000
+::Event_0000003	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified_ConsumedThing.actual	:Entity_EDL_0000023	L0C049DQW:5254-5264	1.000
+::Event_0000003	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000003	mention.actual	"eating"	L0C049DQW:1190-1195	1.000
+::Event_0000003	canonical_mention.actual	"eating"	L0C049DQW:1190-1195	1.000
+::Event_0000003	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000003	mention.actual	"consumed"	L0C049DQW:3264-3271	1.000
+::Event_0000003	canonical_mention.actual	"consumed"	L0C049DQW:3264-3271	1.000
+::Event_0000003	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000003	mention.actual	"eating"	L0C049DQW:2498-2503	1.000
+::Event_0000003	canonical_mention.actual	"eating"	L0C049DQW:2498-2503	1.000
+::Event_0000003	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified_ConsumingEntity.actual	:Entity_EDL_0000023	L0C049DQW:2476-2480	1.000
+::Event_0000004	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000004	mention.actual	"cure"	L0C049599:40-43	1.000
+::Event_0000004	canonical_mention.actual	"cure"	L0C049599:40-43	1.000
+::Event_0000004	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000004	mention.actual	"cure"	L0C049599:7502-7505	1.000
+::Event_0000004	canonical_mention.actual	"cure"	L0C049599:7502-7505	1.000
+::Event_0000004	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000004	mention.actual	"cure"	L0C049599:4770-4773	1.000
+::Event_0000004	canonical_mention.actual	"cure"	L0C049599:4770-4773	1.000
+::Event_0000004	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000004	mention.actual	"cure"	L0C049599:9444-9447	1.000
+::Event_0000004	canonical_mention.actual	"cure"	L0C049599:9444-9447	1.000
+::Event_0000004	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure_Treater.actual	:Entity_EDL_0000039	L0C049599:9393-9398	1.000
+::Event_0000004	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000004	mention.actual	"cure"	L0C049599:5327-5330	1.000
+::Event_0000004	canonical_mention.actual	"cure"	L0C049599:5327-5330	1.000
+::Event_0000005	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000005	mention.actual	"eat"	L0C04959D:1856-1858	1.000
+::Event_0000005	canonical_mention.actual	"eat"	L0C04959D:1856-1858	1.000
+::Event_0000005	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000005	mention.actual	"eat"	L0C04959D:2580-2582	1.000
+::Event_0000005	canonical_mention.actual	"eat"	L0C04959D:2580-2582	1.000
+::Event_0000005	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified_ConsumingEntity.actual	:Entity_EDL_0000049	L0C04959D:2569-2574	1.000
+::Event_0000005	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000005	mention.actual	"Eating"	L0C04959D:1941-1946	1.000
+::Event_0000005	canonical_mention.actual	"Eating"	L0C04959D:1941-1946	1.000
+::Event_0000005	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000005	mention.actual	"eat"	L0C04959D:607-609	1.000
+::Event_0000005	canonical_mention.actual	"eat"	L0C04959D:607-609	1.000
+::Event_0000006	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# control.impedeinterferewith.prevent
+::Event_0000006	mention.actual	"prevent"	L0C0495AR:2311-2317	1.000
+::Event_0000006	canonical_mention.actual	"prevent"	L0C0495AR:2311-2317	1.000
+::Event_0000006	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# control.impedeinterferewith.prevent
+::Event_0000006	mention.actual	"prevent"	L0C0495AR:1069-1075	1.000
+::Event_0000006	canonical_mention.actual	"prevent"	L0C0495AR:1069-1075	1.000
+::Event_0000006	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# control.impedeinterferewith.prevent_Preventer.actual	:Entity_EDL_0000037	L0C0495AR:1130-1136	1.000
+::Event_0000006	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# control.impedeinterferewith.prevent
+::Event_0000006	mention.actual	"prevent"	L0C0495AR:2180-2186	1.000
+::Event_0000006	canonical_mention.actual	"prevent"	L0C0495AR:2180-2186	1.000
+::Event_0000007	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# control.impedeinterferewith.prevent
+::Event_0000007	mention.actual	"preventive"	L0C04959D:2069-2078	1.000
+::Event_0000007	canonical_mention.actual	"preventive"	L0C04959D:2069-2078	1.000
+::Event_0000007	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# control.impedeinterferewith.prevent
+::Event_0000007	mention.actual	"preventive"	L0C04959D:1984-1993	1.000
+::Event_0000007	canonical_mention.actual	"preventive"	L0C04959D:1984-1993	1.000
+::Event_0000008	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.infect.unspecified
+::Event_0000008	mention.actual	"infection"	L0C049599:8017-8025	1.000
+::Event_0000008	canonical_mention.actual	"infection"	L0C049599:8017-8025	1.000
+::Event_0000008	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.infect.unspecified_Victim.actual	:Entity_EDL_0000004	L0C049599:7994-7994	1.000
+::Event_0000008	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.infect.unspecified
+::Event_0000008	mention.actual	"infection"	L0C049599:8143-8151	1.000
+::Event_0000008	canonical_mention.actual	"infection"	L0C049599:8143-8151	1.000
+::Event_0000009	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Life.Die
+::Event_0000009	mention.actual	"deaths"	L0C049599:3538-3543	1.000
+::Event_0000009	canonical_mention.actual	"deaths"	L0C049599:3538-3543	1.000
+::Event_0000009	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Life.Die_Victim.actual	:Entity_EDL_0000056	L0C049599:3512-3516	1.000
+::Event_0000009	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Life.Die
+::Event_0000009	mention.actual	"death"	L0C049599:3490-3494	1.000
+::Event_0000009	canonical_mention.actual	"death"	L0C049599:3490-3494	1.000
+::Event_0000010	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Life.Die
+::Event_0000010	mention.actual	"deaths"	L0C0495AR:1929-1934	1.000
+::Event_0000010	canonical_mention.actual	"deaths"	L0C0495AR:1929-1934	1.000
+::Event_0000010	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Life.Die_Victim.actual	:Entity_EDL_0000052	L0C0495AR:1989-1996	1.000
+::Event_0000010	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Life.Die
+::Event_0000010	mention.actual	"death"	L0C0495AR:2353-2357	1.000
+::Event_0000010	canonical_mention.actual	"death"	L0C0495AR:2353-2357	1.000
+::Event_0000011	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.infect.unspecified
+::Event_0000011	mention.actual	"infections"	L0C049DQW:5985-5994	1.000
+::Event_0000011	canonical_mention.actual	"infections"	L0C049DQW:5985-5994	1.000
+::Event_0000011	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.infect.unspecified
+::Event_0000011	mention.actual	"infections"	L0C049DQW:3179-3188	1.000
+::Event_0000011	canonical_mention.actual	"infections"	L0C049DQW:3179-3188	1.000
+::Event_0000012	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Movement.TransportPerson
+::Event_0000012	mention.actual	"sent"	L0C049599:11714-11717	1.000
+::Event_0000012	canonical_mention.actual	"sent"	L0C049599:11714-11717	1.000
+::Event_0000012	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Movement.TransportPerson_Agent.actual	:Entity_EDL_0000024	L0C049599:11710-11712	1.000
+::Event_0000012	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Movement.TransportPerson_Person.actual	:Entity_EDL_0000001	L0C049599:11719-11720	1.000
+::Event_0000013	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.unspecified
+::Event_0000013	mention.actual	"hospitalized"	L0C0495AR:1956-1967	1.000
+::Event_0000013	canonical_mention.actual	"hospitalized"	L0C0495AR:1956-1967	1.000
+::Event_0000013	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.unspecified_Patient.actual	:Entity_EDL_0000052	L0C0495AR:1989-1996	1.000
+::Event_0000014	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# disaster.diseaseoutbreak.unspecified
+::Event_0000014	mention.actual	"outbreak"	L0C0495AR:320-327	1.000
+::Event_0000014	canonical_mention.actual	"outbreak"	L0C0495AR:320-327	1.000
+::Event_0000015	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# disaster.diseaseoutbreak.unspecified
+::Event_0000015	mention.actual	"outbreak"	L0C04959D:1497-1504	1.000
+::Event_0000015	canonical_mention.actual	"outbreak"	L0C04959D:1497-1504	1.000
+::Event_0000016	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Transaction.TransferOwnership
+::Event_0000016	mention.actual	"hands on"	L0C049599:270-277	1.000
+::Event_0000016	canonical_mention.actual	"hands on"	L0C049599:270-277	1.000
+::Event_0000017	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.mutate.unspecified
+::Event_0000017	mention.actual	"helped"	L0C049599:3765-3770	1.000
+::Event_0000017	canonical_mention.actual	"helped"	L0C049599:3765-3770	1.000
+::Event_0000018	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# ArtifactExistence.DamageDestroy.Destroy
+::Event_0000018	mention.actual	"destroy"	L0C049599:10417-10423	1.000
+::Event_0000018	canonical_mention.actual	"destroy"	L0C049599:10417-10423	1.000
+::Event_0000019	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# socialbehavior.complyobey.unspecified
+::Event_0000019	mention.actual	"following"	L0C049DQW:4583-4591	1.000
+::Event_0000019	canonical_mention.actual	"following"	L0C049DQW:4583-4591	1.000
+::Event_0000019	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# socialbehavior.complyobey.unspecified_Complier.actual	:Entity_EDL_0000033	L0C049DQW:4439-4444	1.000
+::Event_0000020	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000020	mention.actual	"cure"	L0C0495AR:725-728	1.000
+::Event_0000020	canonical_mention.actual	"cure"	L0C0495AR:725-728	1.000
+::Event_0000021	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# cognitive.inspection.assesstestmeasure
+::Event_0000021	mention.actual	"tested"	L0C049599:11682-11687	1.000
+::Event_0000021	canonical_mention.actual	"tested"	L0C049599:11682-11687	1.000
+::Event_0000021	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# cognitive.inspection.assesstestmeasure_Assessor.actual	:Entity_EDL_0000024	L0C049599:11663-11665	1.000
+::Event_0000021	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# cognitive.inspection.assesstestmeasure_Assessed.actual	:Entity_EDL_0000001	L0C049599:11639-11639	1.000
+::Event_0000022	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000022	mention.actual	"eat"	L0C049DQW:4725-4727	1.000
+::Event_0000022	canonical_mention.actual	"eat"	L0C049DQW:4725-4727	1.000
+::Event_0000022	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified_ConsumingEntity.actual	:Entity_EDL_0000112	L0C049DQW:4640-4645	1.000
+::Event_0000022	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified_ConsumingEntity.actual	:Entity_EDL_0000021	L0C049DQW:4624-4626	1.000
+::Event_0000023	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# medical.intervention.cure
+::Event_0000023	mention.actual	"cure"	L0C04959D:2006-2009	1.000
+::Event_0000023	canonical_mention.actual	"cure"	L0C04959D:2006-2009	1.000
+::Event_0000024	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Contact.Contact
+::Event_0000024	mention.actual	"telling"	L0C049599:11006-11012	1.000
+::Event_0000024	canonical_mention.actual	"telling"	L0C049599:11006-11012	1.000
+::Event_0000024	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Contact.Contact_Participant.actual	:Entity_EDL_0000001	L0C049599:10986-10986	1.000
+::Event_0000024	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Contact.Contact_Participant.actual	:Entity_EDL_0000115	L0C049599:11014-11019	1.000
+::Event_0000025	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# disaster.diseaseoutbreak.unspecified
+::Event_0000025	mention.actual	"outbreak"	L0C049DQW:178-185	1.000
+::Event_0000025	canonical_mention.actual	"outbreak"	L0C049DQW:178-185	1.000
+::Event_0000026	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# cognitive.inspection.assesstestmeasure
+::Event_0000026	mention.actual	"tested"	L0C049599:11728-11733	1.000
+::Event_0000026	canonical_mention.actual	"tested"	L0C049599:11728-11733	1.000
+::Event_0000026	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# cognitive.inspection.assesstestmeasure_Assessed.actual	:Entity_EDL_0000028	L0C049599:11701-11703	1.000
+::Event_0000027	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# artifactexistence.contamination.unspecified
+::Event_0000027	mention.actual	"compromised"	L0C049599:12932-12942	1.000
+::Event_0000027	canonical_mention.actual	"compromised"	L0C049599:12932-12942	1.000
+::Event_0000028	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Transaction.TransferOwnership
+::Event_0000028	mention.actual	"get"	L0C049599:8045-8047	1.000
+::Event_0000028	canonical_mention.actual	"get"	L0C049599:8045-8047	1.000
+::Event_0000029	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.infect.unspecified
+::Event_0000029	mention.actual	"infected"	L0C04959D:1157-1164	1.000
+::Event_0000029	canonical_mention.actual	"infected"	L0C04959D:1157-1164	1.000
+::Event_0000030	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# socialbehavior.complyobey.unspecified
+::Event_0000030	mention.actual	"following"	L0C049DQW:623-631	1.000
+::Event_0000030	canonical_mention.actual	"following"	L0C049DQW:623-631	1.000
+::Event_0000031	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# cognitive.inspection.assesstestmeasure
+::Event_0000031	mention.actual	"testing"	L0C049599:844-850	1.000
+::Event_0000031	canonical_mention.actual	"testing"	L0C049599:844-850	1.000
+::Event_0000032	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000032	mention.actual	"consuming"	L0C049599:1417-1425	1.000
+::Event_0000032	canonical_mention.actual	"consuming"	L0C049599:1417-1425	1.000
+::Event_0000033	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# artifactexistence.creation.unspecified
+::Event_0000033	mention.actual	"create"	L0C04959D:1315-1320	1.000
+::Event_0000033	canonical_mention.actual	"create"	L0C04959D:1315-1320	1.000
+::Event_0000034	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Transaction.TransferMoney
+::Event_0000034	mention.actual	"grant"	L0C04959D:3438-3442	1.000
+::Event_0000034	canonical_mention.actual	"grant"	L0C04959D:3438-3442	1.000
+::Event_0000034	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Transaction.TransferMoney_Recipient.actual	:Entity_EDL_0000006	L0C04959D:3392-3394	1.000
+::Event_0000034	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Transaction.TransferMoney_Giver.actual	:Entity_EDL_0000006	L0C04959D:3449-3456	1.000
+::Event_0000035	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# control.impedeinterferewith.prevent
+::Event_0000035	mention.actual	"prevent"	L0C04959D:2630-2636	1.000
+::Event_0000035	canonical_mention.actual	"prevent"	L0C04959D:2630-2636	1.000
+::Event_0000035	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# control.impedeinterferewith.prevent_Preventer.actual	:Entity_EDL_0000049	L0C04959D:2569-2574	1.000
+::Event_0000036	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Contact.Meet
+::Event_0000036	mention.actual	"see"	L0C049599:8292-8294	1.000
+::Event_0000036	canonical_mention.actual	"see"	L0C049599:8292-8294	1.000
+::Event_0000036	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Contact.Meet_Participant.actual	:Entity_EDL_0000004	L0C049599:8259-8259	1.000
+::Event_0000036	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Contact.Meet_Participant.actual	:Entity_EDL_0000073	L0C049599:8300-8305	1.000
+::Event_0000037	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# ArtifactExistence.Shortage.Shortage
+::Event_0000037	mention.actual	"shortage"	L0C0495AR:426-433	1.000
+::Event_0000037	canonical_mention.actual	"shortage"	L0C0495AR:426-433	1.000
+::Event_0000037	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# ArtifactExistence.Shortage.Shortage_Supply.actual	:Entity_EDL_0000081	L0C0495AR:443-447	1.000
+::Event_0000038	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.infect.unspecified
+::Event_0000038	mention.actual	"infected"	L0C049599:5543-5550	1.000
+::Event_0000038	canonical_mention.actual	"infected"	L0C049599:5543-5550	1.000
+::Event_0000039	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# socialbehavior.clean.wash
+::Event_0000039	mention.actual	"washing"	L0C049DQW:4522-4528	1.000
+::Event_0000039	canonical_mention.actual	"washing"	L0C049DQW:4522-4528	1.000
+::Event_0000039	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# socialbehavior.clean.wash_Washer.actual	:Entity_EDL_0000033	L0C049DQW:4439-4444	1.000
+::Event_0000040	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Contact.Broadcast
+::Event_0000040	mention.actual	"advise"	L0C049DQW:4633-4638	1.000
+::Event_0000040	canonical_mention.actual	"advise"	L0C049DQW:4633-4638	1.000
+::Event_0000040	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Contact.Broadcast_Broadcaster.actual	:Entity_EDL_0000021	L0C049DQW:4624-4626	1.000
+::Event_0000040	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Contact.Broadcast_Audience.actual	:Entity_EDL_0000112	L0C049DQW:4640-4645	1.000
+::Event_0000041	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Contact.Broadcast
+::Event_0000041	mention.actual	"announced"	L0C0495AR:903-911	1.000
+::Event_0000041	canonical_mention.actual	"announced"	L0C0495AR:903-911	1.000
+::Event_0000041	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Contact.Broadcast_Broadcaster.actual	:Entity_EDL_0000050	L0C0495AR:881-890	1.000
+::Event_0000042	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Transaction.TransferOwnership
+::Event_0000042	mention.actual	"equip"	L0C0495AR:147-151	1.000
+::Event_0000042	canonical_mention.actual	"equip"	L0C0495AR:147-151	1.000
+::Event_0000042	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Transaction.TransferOwnership_Recipient.actual	:Entity_EDL_0000031	L0C0495AR:129-137	1.000
+::Event_0000043	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Life.Die
+::Event_0000043	mention.actual	"died"	L0C049599:2267-2270	1.000
+::Event_0000043	canonical_mention.actual	"died"	L0C049599:2267-2270	1.000
+::Event_0000043	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Life.Die_Victim.actual	:Entity_EDL_0000082	L0C049599:2257-2260	1.000
+::Event_0000044	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Life.Die
+::Event_0000044	mention.actual	"deaths"	L0C0495AR:1679-1684	1.000
+::Event_0000044	canonical_mention.actual	"deaths"	L0C0495AR:1679-1684	1.000
+::Event_0000045	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Transaction.TransferOwnership
+::Event_0000045	mention.actual	"took"	L0C049599:2964-2967	1.000
+::Event_0000045	canonical_mention.actual	"took"	L0C049599:2964-2967	1.000
+::Event_0000045	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# Transaction.TransferOwnership_Recipient.actual	:Entity_EDL_0000000	L0C049599:2962-2962	1.000
+::Event_0000046	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified
+::Event_0000046	mention.actual	"consume"	L0C049DQW:4053-4059	1.000
+::Event_0000046	canonical_mention.actual	"consume"	L0C049DQW:4053-4059	1.000
+::Event_0000046	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# life.consume.unspecified_ConsumingEntity.actual	:Entity_EDL_0000033	L0C049DQW:4043-4048	1.000
+::Event_0000047	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# control.impedeinterferewith.prevent
+::Event_0000047	mention.actual	"prevent"	L0C0495AR:184-190	1.000
+::Event_0000047	canonical_mention.actual	"prevent"	L0C0495AR:184-190	1.000
+::Event_0000047	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# control.impedeinterferewith.prevent_Preventer.actual	:Entity_EDL_0000031	L0C0495AR:129-137	1.000
+::Event_0000048	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# cognitive.inspection.assesstestmeasure
+::Event_0000048	mention.actual	"tests"	L0C049599:4794-4798	1.000
+::Event_0000048	canonical_mention.actual	"tests"	L0C049599:4794-4798	1.000
+::Event_0000048	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# cognitive.inspection.assesstestmeasure_Assessor.actual	:Entity_EDL_0000017	L0C049599:4786-4788	1.000

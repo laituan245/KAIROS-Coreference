@@ -78,7 +78,7 @@ def process_data(data):
     final_output = jsonify_coref(coreference_output)
 
     # Remove the tmp dir
-    rmtree(run_tmp_dir)
+    #rmtree(run_tmp_dir)
 
     return final_output
 
