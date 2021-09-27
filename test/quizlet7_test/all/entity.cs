@@ -1650,6 +1650,136 @@
 :Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC22:12-23	1.0
 :Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC22:5017-5028	1.0
 :Entity_EDL_0000021	mention	"Legionnaires"	L0C04GC22:4301-4312	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
+:Entity_EDL_0000021	mention	"Legionnaires"	L0C04GC26:4967-4978	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC26:3740-3751	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC26:4919-4930	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC26:256-267	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC26:5992-6003	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC26:36-47	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaire"	L0C04GC21:4869-4879	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC21:14-25	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC21:216-227	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC21:5510-5521	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
+:Entity_EDL_0000021	mention	"Legionnaires"	L0C04GC21:379-390	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC21:5083-5094	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC21:4828-4839	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaire"	L0C04GC21:3457-3467	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
+:Entity_EDL_0000021	mention	"Legionnaires"	L0C04GC21:873-884	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC21:5883-5894	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
+:Entity_EDL_0000021	nominal_mention	"legionnaires"	L0C04GC27:949-960	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC27:1-12	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC27:5133-5144	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
+:Entity_EDL_0000021	nominal_mention	"legionnaires"	L0C04GC27:4211-4222	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC27:5872-5883	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC27:297-308	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
+:Entity_EDL_0000021	nominal_mention	"legionnaires"	L0C04GC27:2092-2103	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
+:Entity_EDL_0000021	pronominal_mention	"their"	L0C04GC27:2228-2232	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC27:5990-6001	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC23:138-149	1.0
+:Entity_EDL_0000021	mention	"Legionnaires"	L0C04GC23:138-149	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC23:138-149	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC23:40-51	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC23:138-149	1.0
+:Entity_EDL_0000021	mention	"Legionnaires"	L0C04GC23:324-335	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC23:138-149	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC23:3739-3750	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC23:138-149	1.0
+:Entity_EDL_0000021	mention	"Legionnaires"	L0C04GC23:450-461	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC23:138-149	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC23:4259-4270	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC23:138-149	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC23:4444-4455	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC25:1565-1576	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC25:1565-1576	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC25:1565-1576	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC25:1752-1763	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC25:1565-1576	1.0
+:Entity_EDL_0000021	nominal_mention	"legionnaires"	L0C04GC25:1838-1849	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC29:2031-2042	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC29:2031-2042	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC29:2031-2042	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC29:28-39	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC29:2031-2042	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC29:1833-1844	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC2A:1356-1367	1.0
+:Entity_EDL_0000021	nominal_mention	"members"	L0C04GC2A:118-124	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC2A:1356-1367	1.0
+:Entity_EDL_0000021	pronominal_mention	"their"	L0C04GC2A:187-191	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC2A:1356-1367	1.0
+:Entity_EDL_0000021	pronominal_mention	"who"	L0C04GC2A:1369-1371	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC2A:1356-1367	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC2A:1356-1367	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:2745-2756	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC21:2745-2756	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:2745-2756	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC21:3122-3133	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:2745-2756	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC21:2911-2922	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:2745-2756	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC21:2808-2819	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC21:2745-2756	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC21:1442-1453	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC23:1232-1243	1.0
+:Entity_EDL_0000021	pronominal_mention	"their"	L0C04GC23:1154-1158	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC23:1232-1243	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC23:1232-1243	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC23:1232-1243	1.0
+:Entity_EDL_0000021	nominal_mention	"conventioneers"	L0C04GC23:2268-2281	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC23:1232-1243	1.0
+:Entity_EDL_0000021	nominal_mention	"attendees"	L0C04GC23:2204-2212	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC23:1232-1243	1.0
+:Entity_EDL_0000021	nominal_mention	"members"	L0C04GC23:1123-1129	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC23:1232-1243	1.0
+:Entity_EDL_0000021	nominal_mention	"attendees"	L0C04GC23:1864-1872	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC26:2437-2448	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC26:2437-2448	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC24:387-398	1.0
+:Entity_EDL_0000021	mention	"Legionnaires"	L0C04GC24:387-398	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC29:655-666	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC29:655-666	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC29:655-666	1.0
+:Entity_EDL_0000021	nominal_mention	"members"	L0C04GC29:1211-1217	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC25:3069-3080	1.0
+:Entity_EDL_0000021	mention	"Legionnaires"	L0C04GC25:3069-3080	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC25:3069-3080	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC25:793-804	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC25:3069-3080	1.0
+:Entity_EDL_0000021	nominal_mention	"legionnaires"	L0C04GC25:2163-2174	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC28:5855-5866	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC28:5855-5866	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC28:5855-5866	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC28:5642-5653	1.0
+:Entity_EDL_0000021	canonical_mention	"Legionnaires"	L0C04GC28:5855-5866	1.0
+:Entity_EDL_0000021	nominal_mention	"Legionnaires"	L0C04GC28:17-28	1.0
 :Entity_EDL_0000021	link	NIL000000003
 :Entity_EDL_0000022	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# FAC
 :Entity_EDL_0000022	canonical_mention	"plant"	L0C04D4DB:6607-6611	1.0
@@ -1720,30 +1850,6 @@
 :Entity_EDL_0000024	nominal_mention	"court"	L0C04D4RB:561-565	1.0
 :Entity_EDL_0000024	mention	"Supreme Court"	L0C04D4RB:1729-1741	1.0
 :Entity_EDL_0000024	link	Q11201
-:Entity_EDL_0000025	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000025	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
-:Entity_EDL_0000025	nominal_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
-:Entity_EDL_0000025	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
-:Entity_EDL_0000025	nominal_mention	"Legionnaire"	L0C04GC21:4869-4879	1.0
-:Entity_EDL_0000025	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
-:Entity_EDL_0000025	nominal_mention	"Legionnaires"	L0C04GC21:14-25	1.0
-:Entity_EDL_0000025	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
-:Entity_EDL_0000025	nominal_mention	"Legionnaires"	L0C04GC21:216-227	1.0
-:Entity_EDL_0000025	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
-:Entity_EDL_0000025	nominal_mention	"Legionnaires"	L0C04GC21:5510-5521	1.0
-:Entity_EDL_0000025	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
-:Entity_EDL_0000025	mention	"Legionnaires"	L0C04GC21:379-390	1.0
-:Entity_EDL_0000025	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
-:Entity_EDL_0000025	nominal_mention	"Legionnaires"	L0C04GC21:5083-5094	1.0
-:Entity_EDL_0000025	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
-:Entity_EDL_0000025	nominal_mention	"Legionnaires"	L0C04GC21:4828-4839	1.0
-:Entity_EDL_0000025	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
-:Entity_EDL_0000025	nominal_mention	"Legionnaire"	L0C04GC21:3457-3467	1.0
-:Entity_EDL_0000025	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
-:Entity_EDL_0000025	mention	"Legionnaires"	L0C04GC21:873-884	1.0
-:Entity_EDL_0000025	canonical_mention	"Legionnaires"	L0C04GC21:5486-5497	1.0
-:Entity_EDL_0000025	nominal_mention	"Legionnaires"	L0C04GC21:5883-5894	1.0
-:Entity_EDL_0000025	link	NIL000000005
 :Entity_EDL_0000026	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# GPE
 :Entity_EDL_0000026	mention	"Va"	L0C04D4DA:346-347	1.0
 :Entity_EDL_0000026	canonical_mention	"Virginia"	L0C04D4DB:7647-7654	1.0
@@ -1893,26 +1999,6 @@
 :Entity_EDL_0000032	canonical_mention	"sick"	L0C04GC27:3111-3114	1.0
 :Entity_EDL_0000032	pronominal_mention	"they"	L0C04GC27:1985-1988	1.0
 :Entity_EDL_0000032	link	NIL000000010
-:Entity_EDL_0000033	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000033	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
-:Entity_EDL_0000033	nominal_mention	"legionnaires"	L0C04GC27:949-960	1.0
-:Entity_EDL_0000033	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
-:Entity_EDL_0000033	nominal_mention	"Legionnaires"	L0C04GC27:1-12	1.0
-:Entity_EDL_0000033	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
-:Entity_EDL_0000033	nominal_mention	"Legionnaires"	L0C04GC27:5133-5144	1.0
-:Entity_EDL_0000033	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
-:Entity_EDL_0000033	nominal_mention	"legionnaires"	L0C04GC27:4211-4222	1.0
-:Entity_EDL_0000033	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
-:Entity_EDL_0000033	nominal_mention	"Legionnaires"	L0C04GC27:5872-5883	1.0
-:Entity_EDL_0000033	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
-:Entity_EDL_0000033	nominal_mention	"Legionnaires"	L0C04GC27:297-308	1.0
-:Entity_EDL_0000033	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
-:Entity_EDL_0000033	nominal_mention	"legionnaires"	L0C04GC27:2092-2103	1.0
-:Entity_EDL_0000033	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
-:Entity_EDL_0000033	pronominal_mention	"their"	L0C04GC27:2228-2232	1.0
-:Entity_EDL_0000033	canonical_mention	"Legionnaires"	L0C04GC27:1-12	1.0
-:Entity_EDL_0000033	nominal_mention	"Legionnaires"	L0C04GC27:5990-6001	1.0
-:Entity_EDL_0000033	link	NIL000000011
 :Entity_EDL_0000034	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# GPE
 :Entity_EDL_0000034	mention	"Plainview"	L0C04D4DB:8355-8363	1.0
 :Entity_EDL_0000034	canonical_mention	"Plainview"	L0C04D4DE:1020-1028	1.0
@@ -2056,22 +2142,6 @@
 :Entity_EDL_0000042	canonical_mention	"We"	L0C04GC23:3844-3845	1.0
 :Entity_EDL_0000042	pronominal_mention	"We"	L0C04GC23:3323-3324	1.0
 :Entity_EDL_0000042	link	NIL000000016
-:Entity_EDL_0000043	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000043	canonical_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
-:Entity_EDL_0000043	nominal_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
-:Entity_EDL_0000043	canonical_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
-:Entity_EDL_0000043	mention	"Legionnaires"	L0C04GC26:4967-4978	1.0
-:Entity_EDL_0000043	canonical_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
-:Entity_EDL_0000043	nominal_mention	"Legionnaires"	L0C04GC26:3740-3751	1.0
-:Entity_EDL_0000043	canonical_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
-:Entity_EDL_0000043	nominal_mention	"Legionnaires"	L0C04GC26:4919-4930	1.0
-:Entity_EDL_0000043	canonical_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
-:Entity_EDL_0000043	nominal_mention	"Legionnaires"	L0C04GC26:256-267	1.0
-:Entity_EDL_0000043	canonical_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
-:Entity_EDL_0000043	nominal_mention	"Legionnaires"	L0C04GC26:5992-6003	1.0
-:Entity_EDL_0000043	canonical_mention	"Legionnaires"	L0C04GC26:1045-1056	1.0
-:Entity_EDL_0000043	nominal_mention	"Legionnaires"	L0C04GC26:36-47	1.0
-:Entity_EDL_0000043	link	NIL000000017
 :Entity_EDL_0000044	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
 :Entity_EDL_0000044	canonical_mention	"officials"	L0C04CJ16:801-809	1.0
 :Entity_EDL_0000044	nominal_mention	"officials"	L0C04CJ16:801-809	1.0
@@ -2099,22 +2169,6 @@
 :Entity_EDL_0000045	mention	"AP"	L0C04D4DA:1618-1619	1.0
 :Entity_EDL_0000045	mention	"Associated Press"	L0C04D4DB:8789-8804	1.0
 :Entity_EDL_0000045	link	Q40469
-:Entity_EDL_0000046	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000046	canonical_mention	"Legionnaires"	L0C04GC23:138-149	1.0
-:Entity_EDL_0000046	mention	"Legionnaires"	L0C04GC23:138-149	1.0
-:Entity_EDL_0000046	canonical_mention	"Legionnaires"	L0C04GC23:138-149	1.0
-:Entity_EDL_0000046	nominal_mention	"Legionnaires"	L0C04GC23:40-51	1.0
-:Entity_EDL_0000046	canonical_mention	"Legionnaires"	L0C04GC23:138-149	1.0
-:Entity_EDL_0000046	mention	"Legionnaires"	L0C04GC23:324-335	1.0
-:Entity_EDL_0000046	canonical_mention	"Legionnaires"	L0C04GC23:138-149	1.0
-:Entity_EDL_0000046	nominal_mention	"Legionnaires"	L0C04GC23:3739-3750	1.0
-:Entity_EDL_0000046	canonical_mention	"Legionnaires"	L0C04GC23:138-149	1.0
-:Entity_EDL_0000046	mention	"Legionnaires"	L0C04GC23:450-461	1.0
-:Entity_EDL_0000046	canonical_mention	"Legionnaires"	L0C04GC23:138-149	1.0
-:Entity_EDL_0000046	nominal_mention	"Legionnaires"	L0C04GC23:4259-4270	1.0
-:Entity_EDL_0000046	canonical_mention	"Legionnaires"	L0C04GC23:138-149	1.0
-:Entity_EDL_0000046	nominal_mention	"Legionnaires"	L0C04GC23:4444-4455	1.0
-:Entity_EDL_0000046	link	NIL000000019
 :Entity_EDL_0000047	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
 :Entity_EDL_0000047	canonical_mention	"Ray Brennan"	L0C04GC21:1691-1701	1.0
 :Entity_EDL_0000047	mention	"Ray Brennan"	L0C04GC21:1691-1701	1.0
@@ -2204,20 +2258,6 @@
 :Entity_EDL_0000052	canonical_mention	"Three"	L0C04GC21:2232-2236	1.0
 :Entity_EDL_0000052	nominal_mention	"Legionnaires"	L0C04GC21:2071-2082	1.0
 :Entity_EDL_0000052	link	NIL000000023
-:Entity_EDL_0000053	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000053	canonical_mention	"Legionnaires"	L0C04GC23:1232-1243	1.0
-:Entity_EDL_0000053	pronominal_mention	"their"	L0C04GC23:1154-1158	1.0
-:Entity_EDL_0000053	canonical_mention	"Legionnaires"	L0C04GC23:1232-1243	1.0
-:Entity_EDL_0000053	nominal_mention	"Legionnaires"	L0C04GC23:1232-1243	1.0
-:Entity_EDL_0000053	canonical_mention	"Legionnaires"	L0C04GC23:1232-1243	1.0
-:Entity_EDL_0000053	nominal_mention	"conventioneers"	L0C04GC23:2268-2281	1.0
-:Entity_EDL_0000053	canonical_mention	"Legionnaires"	L0C04GC23:1232-1243	1.0
-:Entity_EDL_0000053	nominal_mention	"attendees"	L0C04GC23:2204-2212	1.0
-:Entity_EDL_0000053	canonical_mention	"Legionnaires"	L0C04GC23:1232-1243	1.0
-:Entity_EDL_0000053	nominal_mention	"members"	L0C04GC23:1123-1129	1.0
-:Entity_EDL_0000053	canonical_mention	"Legionnaires"	L0C04GC23:1232-1243	1.0
-:Entity_EDL_0000053	nominal_mention	"attendees"	L0C04GC23:1864-1872	1.0
-:Entity_EDL_0000053	link	NIL000000024
 :Entity_EDL_0000054	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# FAC
 :Entity_EDL_0000054	canonical_mention	"9733 Sawmill Parkaway"	L0C04AT5V:1334-1354	1.0
 :Entity_EDL_0000054	nominal_mention	"location"	L0C04AT5V:1322-1329	1.0
@@ -2308,6 +2348,28 @@
 :Entity_EDL_0000060	nominal_mention	"Epidemiologists"	L0C04GC26:3690-3704	1.0
 :Entity_EDL_0000060	canonical_mention	"Epidemiologists"	L0C04GC26:3690-3704	1.0
 :Entity_EDL_0000060	nominal_mention	"scientists"	L0C04GC26:4728-4737	1.0
+:Entity_EDL_0000060	canonical_mention	"Epidemiologists"	L0C04GC27:3939-3953	1.0
+:Entity_EDL_0000060	nominal_mention	"epidemiologists"	L0C04GC27:2319-2333	1.0
+:Entity_EDL_0000060	canonical_mention	"Epidemiologists"	L0C04GC27:3939-3953	1.0
+:Entity_EDL_0000060	nominal_mention	"Epidemiologists"	L0C04GC27:3939-3953	1.0
+:Entity_EDL_0000060	canonical_mention	"Epidemiologists"	L0C04GC27:3939-3953	1.0
+:Entity_EDL_0000060	nominal_mention	"epidemiologists"	L0C04GC27:2658-2672	1.0
+:Entity_EDL_0000060	canonical_mention	"epidemiologists"	L0C04GC28:2700-2714	1.0
+:Entity_EDL_0000060	nominal_mention	"epidemiologists"	L0C04GC28:2700-2714	1.0
+:Entity_EDL_0000060	canonical_mention	"epidemiologists"	L0C04GC28:2700-2714	1.0
+:Entity_EDL_0000060	nominal_mention	"sleuths"	L0C04GC28:2964-2970	1.0
+:Entity_EDL_0000060	canonical_mention	"epidemiologists"	L0C04GC28:2700-2714	1.0
+:Entity_EDL_0000060	pronominal_mention	"themselves"	L0C04GC28:4107-4116	1.0
+:Entity_EDL_0000060	canonical_mention	"epidemiologists"	L0C04GC28:2700-2714	1.0
+:Entity_EDL_0000060	nominal_mention	"investigators"	L0C04GC28:4093-4105	1.0
+:Entity_EDL_0000060	canonical_mention	"epidemiologists"	L0C04GC22:1375-1389	1.0
+:Entity_EDL_0000060	nominal_mention	"epidemiologists"	L0C04GC22:1375-1389	1.0
+:Entity_EDL_0000060	canonical_mention	"epidemiologists"	L0C04GC2A:2237-2251	1.0
+:Entity_EDL_0000060	nominal_mention	"epidemiologists"	L0C04GC2A:2237-2251	1.0
+:Entity_EDL_0000060	canonical_mention	"epidemiologists"	L0C04GC25:2534-2548	1.0
+:Entity_EDL_0000060	nominal_mention	"epidemiologists"	L0C04GC25:2534-2548	1.0
+:Entity_EDL_0000060	canonical_mention	"epidemiologists"	L0C04GC23:3403-3417	1.0
+:Entity_EDL_0000060	nominal_mention	"epidemiologists"	L0C04GC23:3403-3417	1.0
 :Entity_EDL_0000060	link	NIL000000027
 :Entity_EDL_0000061	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
 :Entity_EDL_0000061	canonical_mention	"We"	L0C04CJ16:3109-3110	1.0
@@ -2467,16 +2529,40 @@
 :Entity_EDL_0000073	nominal_mention	"person"	L0C04GC26:2509-2514	1.0
 :Entity_EDL_0000073	link	NIL000000037
 :Entity_EDL_0000074	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# ORG
-:Entity_EDL_0000074	canonical_mention	"King Nut"	L0C04D4DS:5059-5066	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut Company"	L0C04D4DS:5059-5066	1.0
 :Entity_EDL_0000074	mention	"King Nut"	L0C04D4DS:5059-5066	1.0
-:Entity_EDL_0000074	canonical_mention	"King Nut"	L0C04D4DS:5059-5066	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut Company"	L0C04D4DS:5059-5066	1.0
 :Entity_EDL_0000074	mention	"King Nut"	L0C04D4DS:4552-4559	1.0
-:Entity_EDL_0000074	canonical_mention	"King Nut"	L0C04D4DS:5059-5066	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut Company"	L0C04D4DS:5059-5066	1.0
 :Entity_EDL_0000074	mention	"King Nut"	L0C04D4DS:5688-5695	1.0
-:Entity_EDL_0000074	canonical_mention	"King Nut"	L0C04D4DS:5059-5066	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut Company"	L0C04D4DS:5059-5066	1.0
 :Entity_EDL_0000074	mention	"King Nut"	L0C04D4DS:4291-4298	1.0
-:Entity_EDL_0000074	canonical_mention	"King Nut"	L0C04D4DS:5059-5066	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut Company"	L0C04D4DS:5059-5066	1.0
 :Entity_EDL_0000074	mention	"King Nut"	L0C04D4DS:5417-5424	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut Company"	L0C04D4DA:568-583	1.0
+:Entity_EDL_0000074	mention	"King Nut Company"	L0C04D4DA:568-583	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut Company"	L0C04D4DA:568-583	1.0
+:Entity_EDL_0000074	mention	"King Nut"	L0C04D4DA:2295-2302	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut Company"	L0C04D4DA:568-583	1.0
+:Entity_EDL_0000074	pronominal_mention	"it"	L0C04D4DA:2331-2332	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut Company"	L0C04D4DA:568-583	1.0
+:Entity_EDL_0000074	mention	"King Nut Company"	L0C04D4DA:3971-3986	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut Company"	L0C04D4D9:3031-3038	1.0
+:Entity_EDL_0000074	mention	"King Nut"	L0C04D4D9:3031-3038	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut Company"	L0C04D4D9:3031-3038	1.0
+:Entity_EDL_0000074	nominal_mention	"distributor"	L0C04D4D9:2926-2936	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut Company"	L0C04D4DJ:908-915	1.0
+:Entity_EDL_0000074	mention	"King Nut"	L0C04D4DJ:908-915	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut"	L0C04D4DB:2323-2330	1.0
+:Entity_EDL_0000074	mention	"King Nut"	L0C04D4DB:2323-2330	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut"	L0C04D4DB:2323-2330	1.0
+:Entity_EDL_0000074	mention	"King Nut Cos"	L0C04D4DB:1489-1500	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut"	L0C04D4DB:2323-2330	1.0
+:Entity_EDL_0000074	mention	"King Nut"	L0C04D4DB:2039-2046	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut"	L0C04D4DB:2323-2330	1.0
+:Entity_EDL_0000074	mention	"King Nut"	L0C04D4DB:2130-2137	1.0
+:Entity_EDL_0000074	canonical_mention	"King Nut"	L0C04D4DB:2323-2330	1.0
+:Entity_EDL_0000074	nominal_mention	"distributor"	L0C04D4DB:1477-1487	1.0
 :Entity_EDL_0000074	link	NIL000000038
 :Entity_EDL_0000075	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# ORG
 :Entity_EDL_0000075	canonical_mention	"Delaware General Health District"	L0C04AT6B:2662-2693	1.0
@@ -2490,18 +2576,6 @@
 :Entity_EDL_0000075	canonical_mention	"Delaware General Health District"	L0C04AT6B:2662-2693	1.0
 :Entity_EDL_0000075	mention	"Delaware General Health District"	L0C04AT6B:1824-1855	1.0
 :Entity_EDL_0000075	link	NIL000000039
-:Entity_EDL_0000076	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000076	canonical_mention	"Legionnaires"	L0C04GC21:2745-2756	1.0
-:Entity_EDL_0000076	nominal_mention	"Legionnaires"	L0C04GC21:2745-2756	1.0
-:Entity_EDL_0000076	canonical_mention	"Legionnaires"	L0C04GC21:2745-2756	1.0
-:Entity_EDL_0000076	nominal_mention	"Legionnaires"	L0C04GC21:3122-3133	1.0
-:Entity_EDL_0000076	canonical_mention	"Legionnaires"	L0C04GC21:2745-2756	1.0
-:Entity_EDL_0000076	nominal_mention	"Legionnaires"	L0C04GC21:2911-2922	1.0
-:Entity_EDL_0000076	canonical_mention	"Legionnaires"	L0C04GC21:2745-2756	1.0
-:Entity_EDL_0000076	nominal_mention	"Legionnaires"	L0C04GC21:2808-2819	1.0
-:Entity_EDL_0000076	canonical_mention	"Legionnaires"	L0C04GC21:2745-2756	1.0
-:Entity_EDL_0000076	nominal_mention	"Legionnaires"	L0C04GC21:1442-1453	1.0
-:Entity_EDL_0000076	link	NIL000000040
 :Entity_EDL_0000077	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# GPE
 :Entity_EDL_0000077	canonical_mention	"state"	L0C04D4DS:2141-2145	1.0
 :Entity_EDL_0000077	nominal_mention	"state"	L0C04D4DS:2141-2145	1.0
@@ -2574,18 +2648,6 @@
 :Entity_EDL_0000082	canonical_mention	"department"	L0C04AT7E:901-910	1.0
 :Entity_EDL_0000082	pronominal_mention	"they"	L0C04AT7E:415-418	1.0
 :Entity_EDL_0000082	link	NIL000000046
-:Entity_EDL_0000083	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# ORG
-:Entity_EDL_0000083	canonical_mention	"King Nut"	L0C04D4DB:2323-2330	1.0
-:Entity_EDL_0000083	mention	"King Nut"	L0C04D4DB:2323-2330	1.0
-:Entity_EDL_0000083	canonical_mention	"King Nut"	L0C04D4DB:2323-2330	1.0
-:Entity_EDL_0000083	mention	"King Nut Cos"	L0C04D4DB:1489-1500	1.0
-:Entity_EDL_0000083	canonical_mention	"King Nut"	L0C04D4DB:2323-2330	1.0
-:Entity_EDL_0000083	mention	"King Nut"	L0C04D4DB:2039-2046	1.0
-:Entity_EDL_0000083	canonical_mention	"King Nut"	L0C04D4DB:2323-2330	1.0
-:Entity_EDL_0000083	mention	"King Nut"	L0C04D4DB:2130-2137	1.0
-:Entity_EDL_0000083	canonical_mention	"King Nut"	L0C04D4DB:2323-2330	1.0
-:Entity_EDL_0000083	nominal_mention	"distributor"	L0C04D4DB:1477-1487	1.0
-:Entity_EDL_0000083	link	NIL000000047
 :Entity_EDL_0000084	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
 :Entity_EDL_0000084	canonical_mention	"Laurie Schalow"	L0C04AT6C:548-561	1.0
 :Entity_EDL_0000084	mention	"Laurie Schalow"	L0C04AT6C:548-561	1.0
@@ -2843,16 +2905,6 @@
 :Entity_EDL_0000108	canonical_mention	"patients"	L0C04GC28:2984-2991	1.0
 :Entity_EDL_0000108	pronominal_mention	"their"	L0C04GC28:2999-3003	1.0
 :Entity_EDL_0000108	link	NIL000000066
-:Entity_EDL_0000109	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000109	canonical_mention	"epidemiologists"	L0C04GC28:2700-2714	1.0
-:Entity_EDL_0000109	nominal_mention	"epidemiologists"	L0C04GC28:2700-2714	1.0
-:Entity_EDL_0000109	canonical_mention	"epidemiologists"	L0C04GC28:2700-2714	1.0
-:Entity_EDL_0000109	nominal_mention	"sleuths"	L0C04GC28:2964-2970	1.0
-:Entity_EDL_0000109	canonical_mention	"epidemiologists"	L0C04GC28:2700-2714	1.0
-:Entity_EDL_0000109	pronominal_mention	"themselves"	L0C04GC28:4107-4116	1.0
-:Entity_EDL_0000109	canonical_mention	"epidemiologists"	L0C04GC28:2700-2714	1.0
-:Entity_EDL_0000109	nominal_mention	"investigators"	L0C04GC28:4093-4105	1.0
-:Entity_EDL_0000109	link	NIL000000067
 :Entity_EDL_0000110	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# ORG
 :Entity_EDL_0000110	canonical_mention	"USA Today"	L0C04AT6R:766-774	1.0
 :Entity_EDL_0000110	mention	"USA Today"	L0C04AT6R:766-774	1.0
@@ -2934,16 +2986,6 @@
 :Entity_EDL_0000118	canonical_mention	"I"	L0C04GC25:416-416	1.0
 :Entity_EDL_0000118	pronominal_mention	"I"	L0C04GC25:391-391	1.0
 :Entity_EDL_0000118	link	NIL000000070
-:Entity_EDL_0000119	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# ORG
-:Entity_EDL_0000119	canonical_mention	"King Nut Company"	L0C04D4DA:568-583	1.0
-:Entity_EDL_0000119	mention	"King Nut Company"	L0C04D4DA:568-583	1.0
-:Entity_EDL_0000119	canonical_mention	"King Nut Company"	L0C04D4DA:568-583	1.0
-:Entity_EDL_0000119	mention	"King Nut"	L0C04D4DA:2295-2302	1.0
-:Entity_EDL_0000119	canonical_mention	"King Nut Company"	L0C04D4DA:568-583	1.0
-:Entity_EDL_0000119	pronominal_mention	"it"	L0C04D4DA:2331-2332	1.0
-:Entity_EDL_0000119	canonical_mention	"King Nut Company"	L0C04D4DA:568-583	1.0
-:Entity_EDL_0000119	mention	"King Nut Company"	L0C04D4DA:3971-3986	1.0
-:Entity_EDL_0000119	link	NIL000000071
 :Entity_EDL_0000120	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
 :Entity_EDL_0000120	canonical_mention	"consumer"	L0C04CJ16:2271-2278	1.0
 :Entity_EDL_0000120	pronominal_mention	"her"	L0C04CJ16:2289-2291	1.0
@@ -3012,16 +3054,6 @@
 :Entity_EDL_0000126	canonical_mention	"Consumers"	L0C04D4DS:13805-13813	1.0
 :Entity_EDL_0000126	nominal_mention	"Consumers"	L0C04D4DS:13805-13813	1.0
 :Entity_EDL_0000126	link	NIL000000074
-:Entity_EDL_0000127	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000127	canonical_mention	"Legionnaires"	L0C04GC2A:1356-1367	1.0
-:Entity_EDL_0000127	nominal_mention	"members"	L0C04GC2A:118-124	1.0
-:Entity_EDL_0000127	canonical_mention	"Legionnaires"	L0C04GC2A:1356-1367	1.0
-:Entity_EDL_0000127	pronominal_mention	"their"	L0C04GC2A:187-191	1.0
-:Entity_EDL_0000127	canonical_mention	"Legionnaires"	L0C04GC2A:1356-1367	1.0
-:Entity_EDL_0000127	pronominal_mention	"who"	L0C04GC2A:1369-1371	1.0
-:Entity_EDL_0000127	canonical_mention	"Legionnaires"	L0C04GC2A:1356-1367	1.0
-:Entity_EDL_0000127	nominal_mention	"Legionnaires"	L0C04GC2A:1356-1367	1.0
-:Entity_EDL_0000127	link	NIL000000075
 :Entity_EDL_0000128	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
 :Entity_EDL_0000128	canonical_mention	"force"	L0C04GC2A:2641-2645	1.0
 :Entity_EDL_0000128	nominal_mention	"force"	L0C04GC2A:2641-2645	1.0
@@ -3109,14 +3141,6 @@
 :Entity_EDL_0000138	canonical_mention	"officials"	L0C04D4DA:1025-1033	1.0
 :Entity_EDL_0000138	nominal_mention	"officials"	L0C04D4DA:1265-1273	1.0
 :Entity_EDL_0000138	link	NIL000000082
-:Entity_EDL_0000139	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000139	canonical_mention	"Legionnaires"	L0C04GC29:2031-2042	1.0
-:Entity_EDL_0000139	nominal_mention	"Legionnaires"	L0C04GC29:2031-2042	1.0
-:Entity_EDL_0000139	canonical_mention	"Legionnaires"	L0C04GC29:2031-2042	1.0
-:Entity_EDL_0000139	nominal_mention	"Legionnaires"	L0C04GC29:28-39	1.0
-:Entity_EDL_0000139	canonical_mention	"Legionnaires"	L0C04GC29:2031-2042	1.0
-:Entity_EDL_0000139	nominal_mention	"Legionnaires"	L0C04GC29:1833-1844	1.0
-:Entity_EDL_0000139	link	NIL000000083
 :Entity_EDL_0000140	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
 :Entity_EDL_0000140	canonical_mention	"Stewart Parnell"	L0C04D4DA:1667-1681	1.0
 :Entity_EDL_0000140	nominal_mention	"president"	L0C04D4DA:1593-1601	1.0
@@ -3225,6 +3249,12 @@
 :Entity_EDL_0000153	mention	"Daniel Kilgore"	L0C04D4RB:2621-2634	1.0
 :Entity_EDL_0000153	canonical_mention	"Daniel Kilgore"	L0C04D4RB:2621-2634	1.0
 :Entity_EDL_0000153	mention	"Kilgore"	L0C04D4RB:2803-2809	1.0
+:Entity_EDL_0000153	canonical_mention	"Kilgore"	L0C04D4DE:1892-1898	1.0
+:Entity_EDL_0000153	nominal_mention	"broker"	L0C04D4DE:1668-1673	1.0
+:Entity_EDL_0000153	canonical_mention	"Kilgore"	L0C04D4DE:1892-1898	1.0
+:Entity_EDL_0000153	mention	"Kilgore"	L0C04D4DE:1892-1898	1.0
+:Entity_EDL_0000153	canonical_mention	"Kilgore"	L0C04D4DE:1892-1898	1.0
+:Entity_EDL_0000153	mention	"Kilgore"	L0C04D4DE:2407-2413	1.0
 :Entity_EDL_0000153	link	NIL000000092
 :Entity_EDL_0000154	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
 :Entity_EDL_0000154	canonical_mention	"men"	L0C04GC25:2404-2406	1.0
@@ -3297,14 +3327,6 @@
 :Entity_EDL_0000162	canonical_mention	"persons"	L0C04D4DS:12060-12066	1.0
 :Entity_EDL_0000162	nominal_mention	"persons"	L0C04D4DS:2937-2943	1.0
 :Entity_EDL_0000162	link	NIL000000100
-:Entity_EDL_0000163	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000163	canonical_mention	"Legionnaires"	L0C04GC25:1565-1576	1.0
-:Entity_EDL_0000163	nominal_mention	"Legionnaires"	L0C04GC25:1565-1576	1.0
-:Entity_EDL_0000163	canonical_mention	"Legionnaires"	L0C04GC25:1565-1576	1.0
-:Entity_EDL_0000163	nominal_mention	"Legionnaires"	L0C04GC25:1752-1763	1.0
-:Entity_EDL_0000163	canonical_mention	"Legionnaires"	L0C04GC25:1565-1576	1.0
-:Entity_EDL_0000163	nominal_mention	"legionnaires"	L0C04GC25:1838-1849	1.0
-:Entity_EDL_0000163	link	NIL000000101
 :Entity_EDL_0000164	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# GPE
 :Entity_EDL_0000164	canonical_mention	"Washington"	L0C04GC21:5334-5343	1.0
 :Entity_EDL_0000164	mention	"Washington"	L0C04GC21:5334-5343	1.0
@@ -3313,14 +3335,6 @@
 :Entity_EDL_0000164	canonical_mention	"Washington"	L0C04GC21:5334-5343	1.0
 :Entity_EDL_0000164	mention	"Washington, D.C"	L0C04GC26:5748-5762	1.0
 :Entity_EDL_0000164	link	Q61
-:Entity_EDL_0000165	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000165	canonical_mention	"Kilgore"	L0C04D4DE:1892-1898	1.0
-:Entity_EDL_0000165	nominal_mention	"broker"	L0C04D4DE:1668-1673	1.0
-:Entity_EDL_0000165	canonical_mention	"Kilgore"	L0C04D4DE:1892-1898	1.0
-:Entity_EDL_0000165	mention	"Kilgore"	L0C04D4DE:1892-1898	1.0
-:Entity_EDL_0000165	canonical_mention	"Kilgore"	L0C04D4DE:1892-1898	1.0
-:Entity_EDL_0000165	mention	"Kilgore"	L0C04D4DE:2407-2413	1.0
-:Entity_EDL_0000165	link	NIL000000102
 :Entity_EDL_0000166	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
 :Entity_EDL_0000166	canonical_mention	"Szyller"	L0C04AT6W:1531-1537	1.0
 :Entity_EDL_0000166	mention	"Filip Szyller"	L0C04AT6W:773-785	1.0
@@ -3360,15 +3374,11 @@
 :Entity_EDL_0000170	nominal_mention	"manager"	L0C04D4RB:2608-2614	1.0
 :Entity_EDL_0000170	canonical_mention	"Samuel Lightsey"	L0C04D4RB:2578-2592	1.0
 :Entity_EDL_0000170	mention	"Lightsey"	L0C04D4RB:2743-2750	1.0
+:Entity_EDL_0000170	canonical_mention	"Lightsey"	L0C04D4DE:2394-2401	1.0
+:Entity_EDL_0000170	mention	"Lightsey"	L0C04D4DE:2394-2401	1.0
+:Entity_EDL_0000170	canonical_mention	"Lightsey"	L0C04D4DE:2394-2401	1.0
+:Entity_EDL_0000170	mention	"Lightsey"	L0C04D4DE:1879-1886	1.0
 :Entity_EDL_0000170	link	NIL000000107
-:Entity_EDL_0000171	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000171	canonical_mention	"Epidemiologists"	L0C04GC27:3939-3953	1.0
-:Entity_EDL_0000171	nominal_mention	"epidemiologists"	L0C04GC27:2319-2333	1.0
-:Entity_EDL_0000171	canonical_mention	"Epidemiologists"	L0C04GC27:3939-3953	1.0
-:Entity_EDL_0000171	nominal_mention	"Epidemiologists"	L0C04GC27:3939-3953	1.0
-:Entity_EDL_0000171	canonical_mention	"Epidemiologists"	L0C04GC27:3939-3953	1.0
-:Entity_EDL_0000171	nominal_mention	"epidemiologists"	L0C04GC27:2658-2672	1.0
-:Entity_EDL_0000171	link	NIL000000108
 :Entity_EDL_0000172	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
 :Entity_EDL_0000172	canonical_mention	"members"	L0C04GC26:751-757	1.0
 :Entity_EDL_0000172	pronominal_mention	"their"	L0C04GC26:888-892	1.0
@@ -3534,14 +3544,6 @@
 :Entity_EDL_0000192	canonical_mention	"patients"	L0C04GC26:2585-2592	1.0
 :Entity_EDL_0000192	nominal_mention	"patients"	L0C04GC26:4085-4092	1.0
 :Entity_EDL_0000192	link	NIL000000122
-:Entity_EDL_0000193	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000193	canonical_mention	"Legionnaires"	L0C04GC28:5855-5866	1.0
-:Entity_EDL_0000193	nominal_mention	"Legionnaires"	L0C04GC28:5855-5866	1.0
-:Entity_EDL_0000193	canonical_mention	"Legionnaires"	L0C04GC28:5855-5866	1.0
-:Entity_EDL_0000193	nominal_mention	"Legionnaires"	L0C04GC28:5642-5653	1.0
-:Entity_EDL_0000193	canonical_mention	"Legionnaires"	L0C04GC28:5855-5866	1.0
-:Entity_EDL_0000193	nominal_mention	"Legionnaires"	L0C04GC28:17-28	1.0
-:Entity_EDL_0000193	link	NIL000000123
 :Entity_EDL_0000194	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
 :Entity_EDL_0000194	canonical_mention	"persons"	L0C04D4DS:1320-1326	1.0
 :Entity_EDL_0000194	nominal_mention	"persons"	L0C04D4DS:1320-1326	1.0
@@ -3550,14 +3552,6 @@
 :Entity_EDL_0000194	canonical_mention	"persons"	L0C04D4DS:1320-1326	1.0
 :Entity_EDL_0000194	nominal_mention	"persons"	L0C04D4DS:1652-1658	1.0
 :Entity_EDL_0000194	link	NIL000000124
-:Entity_EDL_0000195	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000195	canonical_mention	"Legionnaires"	L0C04GC25:3069-3080	1.0
-:Entity_EDL_0000195	mention	"Legionnaires"	L0C04GC25:3069-3080	1.0
-:Entity_EDL_0000195	canonical_mention	"Legionnaires"	L0C04GC25:3069-3080	1.0
-:Entity_EDL_0000195	nominal_mention	"Legionnaires"	L0C04GC25:793-804	1.0
-:Entity_EDL_0000195	canonical_mention	"Legionnaires"	L0C04GC25:3069-3080	1.0
-:Entity_EDL_0000195	nominal_mention	"legionnaires"	L0C04GC25:2163-2174	1.0
-:Entity_EDL_0000195	link	NIL000000125
 :Entity_EDL_0000196	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# FAC
 :Entity_EDL_0000196	canonical_mention	"facility"	L0C04D4DI:666-673	1.0
 :Entity_EDL_0000196	nominal_mention	"facility"	L0C04D4DI:666-673	1.0
@@ -4080,12 +4074,6 @@
 :Entity_EDL_0000278	canonical_mention	"consumers"	L0C04AT6Y:3791-3799	1.0
 :Entity_EDL_0000278	nominal_mention	"people"	L0C04AT6Y:3462-3467	1.0
 :Entity_EDL_0000278	link	NIL000000192
-:Entity_EDL_0000279	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000279	canonical_mention	"Lightsey"	L0C04D4DE:2394-2401	1.0
-:Entity_EDL_0000279	mention	"Lightsey"	L0C04D4DE:2394-2401	1.0
-:Entity_EDL_0000279	canonical_mention	"Lightsey"	L0C04D4DE:2394-2401	1.0
-:Entity_EDL_0000279	mention	"Lightsey"	L0C04D4DE:1879-1886	1.0
-:Entity_EDL_0000279	link	NIL000000193
 :Entity_EDL_0000280	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# ORG
 :Entity_EDL_0000280	canonical_mention	"companies"	L0C04D4DS:9188-9196	1.0
 :Entity_EDL_0000280	nominal_mention	"companies"	L0C04D4DS:9188-9196	1.0
@@ -4186,12 +4174,6 @@
 :Entity_EDL_0000296	canonical_mention	"ConAgra"	L0C04D4DA:3526-3532	1.0
 :Entity_EDL_0000296	mention	"ConAgra"	L0C04D4DA:3526-3532	1.0
 :Entity_EDL_0000296	link	Q1123399
-:Entity_EDL_0000297	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000297	canonical_mention	"King Nut"	L0C04D4D9:3031-3038	1.0
-:Entity_EDL_0000297	mention	"King Nut"	L0C04D4D9:3031-3038	1.0
-:Entity_EDL_0000297	canonical_mention	"King Nut"	L0C04D4D9:3031-3038	1.0
-:Entity_EDL_0000297	nominal_mention	"distributor"	L0C04D4D9:2926-2936	1.0
-:Entity_EDL_0000297	link	NIL000000207
 :Entity_EDL_0000298	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# GPE
 :Entity_EDL_0000298	canonical_mention	"Solon"	L0C04D4DA:2308-2312	1.0
 :Entity_EDL_0000298	mention	"Solon"	L0C04D4DA:2308-2312	1.0
@@ -4519,12 +4501,6 @@
 :Entity_EDL_0000352	canonical_mention	"plant"	L0C04D4DE:957-961	1.0
 :Entity_EDL_0000352	nominal_mention	"plant"	L0C04D4DE:2353-2357	1.0
 :Entity_EDL_0000352	link	NIL000000246
-:Entity_EDL_0000353	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000353	canonical_mention	"Legionnaires"	L0C04GC29:655-666	1.0
-:Entity_EDL_0000353	nominal_mention	"Legionnaires"	L0C04GC29:655-666	1.0
-:Entity_EDL_0000353	canonical_mention	"Legionnaires"	L0C04GC29:655-666	1.0
-:Entity_EDL_0000353	nominal_mention	"members"	L0C04GC29:1211-1217	1.0
-:Entity_EDL_0000353	link	NIL000000247
 :Entity_EDL_0000354	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
 :Entity_EDL_0000354	canonical_mention	"Laurie Schalow"	L0C04AT6B:2491-2504	1.0
 :Entity_EDL_0000354	nominal_mention	"spokeswoman"	L0C04AT6B:2479-2489	1.0
@@ -5480,10 +5456,6 @@
 :Entity_EDL_0000562	canonical_mention	"office"	L0C04GC21:2658-2663	1.0
 :Entity_EDL_0000562	nominal_mention	"office"	L0C04GC21:2658-2663	1.0
 :Entity_EDL_0000562	link	NIL000000422
-:Entity_EDL_0000563	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000563	canonical_mention	"Legionnaires"	L0C04GC24:387-398	1.0
-:Entity_EDL_0000563	mention	"Legionnaires"	L0C04GC24:387-398	1.0
-:Entity_EDL_0000563	link	NIL000000423
 :Entity_EDL_0000564	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# ORG
 :Entity_EDL_0000564	canonical_mention	"institutions"	L0C04D4DA:734-745	1.0
 :Entity_EDL_0000564	nominal_mention	"institutions"	L0C04D4DA:734-745	1.0
@@ -5728,14 +5700,6 @@
 :Entity_EDL_0000624	canonical_mention	"318"	L0C04GC26:6080-6082	1.0
 :Entity_EDL_0000624	nominal_mention	"318"	L0C04GC26:6080-6082	1.0
 :Entity_EDL_0000624	link	NIL000000476
-:Entity_EDL_0000625	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000625	canonical_mention	"epidemiologists"	L0C04GC22:1375-1389	1.0
-:Entity_EDL_0000625	nominal_mention	"epidemiologists"	L0C04GC22:1375-1389	1.0
-:Entity_EDL_0000625	link	NIL000000477
-:Entity_EDL_0000626	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000626	canonical_mention	"epidemiologists"	L0C04GC2A:2237-2251	1.0
-:Entity_EDL_0000626	nominal_mention	"epidemiologists"	L0C04GC2A:2237-2251	1.0
-:Entity_EDL_0000626	link	NIL000000478
 :Entity_EDL_0000627	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# GPE
 :Entity_EDL_0000627	canonical_mention	"45"	L0C04D4RA:278-279	1.0
 :Entity_EDL_0000627	pronominal_mention	"45"	L0C04D4RA:278-279	1.0
@@ -5888,10 +5852,6 @@
 :Entity_EDL_0000664	canonical_mention	"town"	L0C04GC22:3692-3695	1.0
 :Entity_EDL_0000664	nominal_mention	"town"	L0C04GC22:3692-3695	1.0
 :Entity_EDL_0000664	link	NIL000000507
-:Entity_EDL_0000665	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000665	canonical_mention	"epidemiologists"	L0C04GC23:3403-3417	1.0
-:Entity_EDL_0000665	nominal_mention	"epidemiologists"	L0C04GC23:3403-3417	1.0
-:Entity_EDL_0000665	link	NIL000000508
 :Entity_EDL_0000666	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# ORG
 :Entity_EDL_0000666	canonical_mention	"Rutgers University"	L0C04GC27:5603-5620	1.0
 :Entity_EDL_0000666	mention	"Rutgers University"	L0C04GC27:5603-5620	1.0
@@ -5920,10 +5880,6 @@
 :Entity_EDL_0000672	canonical_mention	"people"	L0C04AT6C:1512-1517	1.0
 :Entity_EDL_0000672	nominal_mention	"people"	L0C04AT6C:1512-1517	1.0
 :Entity_EDL_0000672	link	NIL000000514
-:Entity_EDL_0000673	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# ORG
-:Entity_EDL_0000673	canonical_mention	"King Nut"	L0C04D4DJ:908-915	1.0
-:Entity_EDL_0000673	mention	"King Nut"	L0C04D4DJ:908-915	1.0
-:Entity_EDL_0000673	link	NIL000000515
 :Entity_EDL_0000674	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
 :Entity_EDL_0000674	canonical_mention	"Epidemiologists"	L0C04D4DS:11840-11854	1.0
 :Entity_EDL_0000674	nominal_mention	"Epidemiologists"	L0C04D4DS:11840-11854	1.0
@@ -6796,10 +6752,6 @@
 :Entity_EDL_0000891	canonical_mention	"employees"	L0C04D4DB:7377-7385	1.0
 :Entity_EDL_0000891	nominal_mention	"employees"	L0C04D4DB:7377-7385	1.0
 :Entity_EDL_0000891	link	NIL000000697
-:Entity_EDL_0000892	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000892	canonical_mention	"Legionnaires"	L0C04GC26:2437-2448	1.0
-:Entity_EDL_0000892	nominal_mention	"Legionnaires"	L0C04GC26:2437-2448	1.0
-:Entity_EDL_0000892	link	NIL000000698
 :Entity_EDL_0000893	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# FAC
 :Entity_EDL_0000893	canonical_mention	"towers"	L0C04GC22:4058-4063	1.0
 :Entity_EDL_0000893	nominal_mention	"towers"	L0C04GC22:4058-4063	1.0
@@ -7188,10 +7140,6 @@
 :Entity_EDL_0000989	canonical_mention	"Kanan"	L0C04D4DA:2494-2498	1.0
 :Entity_EDL_0000989	mention	"Kanan"	L0C04D4DA:2494-2498	1.0
 :Entity_EDL_0000989	link	NIL000000779
-:Entity_EDL_0000990	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
-:Entity_EDL_0000990	canonical_mention	"epidemiologists"	L0C04GC25:2534-2548	1.0
-:Entity_EDL_0000990	nominal_mention	"epidemiologists"	L0C04GC25:2534-2548	1.0
-:Entity_EDL_0000990	link	NIL000000780
 :Entity_EDL_0000991	type	https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/LDCOntologyM36# PER
 :Entity_EDL_0000991	canonical_mention	"Consumers"	L0C04D4DS:14427-14435	1.0
 :Entity_EDL_0000991	nominal_mention	"Consumers"	L0C04D4DS:14427-14435	1.0
