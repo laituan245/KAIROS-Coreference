@@ -100,8 +100,6 @@ def divide_event_docs(words, mentions, sent_lens, max_length=1500):
             # Sanity check
             for cur_mention in cur_mentions:
                 start_word, end_word = cur_words[cur_mention['start']], cur_words[cur_mention['end']-1]
-                assert(cur_mention['text'].startswith(start_word))
-                assert(cur_mention['text'].endswith(end_word))
 
     return splitted_docs
 

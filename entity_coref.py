@@ -119,9 +119,10 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                             antecedent_idx = predicted_antecedents[ix]
                             mention_1 = doc_entities[ix]
                             mention_2 = doc_entities[antecedent_idx]
-                            if language == 'cross':
-                                if (not 'fb_id' in mention_1) or (not 'fb_id' in mention_2): continue
-                                if mention_1['fb_id'] != mention_2['fb_id']: continue
+                            if ('fb_id' in mention_1) and ('fb_id' in mention_2) and \
+                               (not mention_1['fb_id'].startswith('NIL')) and \
+                               (not mention_2['fb_id'].startswith('NIL')):
+                                   if mention_1['fb_id'] != mention_2['fb_id']: continue
                             predicted_pairs.add((mention_1['mention_id'], mention_2['mention_id']))
 
         f.close()
@@ -131,13 +132,17 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
     graph = UndirectedGraph([m['mention_id'] for m in mentions])
     print('Number of vertices: {}'.format(graph.V))
 
+    # Add edges (a, b) if a and b are linked to the same entity
+    for i in range(len(mentions)):
+        for j in range(i+1, len(mentions)):
+            if 'fb_id' in mentions[i] and 'fb_id' in mentions[j]:
+                if mentions[i]['fb_id'] == mentions[j]['fb_id']:
+                    predicted_pairs.add((mentions[i]['mention_id'], mentions[j]['mention_id']))
+
     # Add edges from predicted_pairs
     for node1, node2 in predicted_pairs:
         if (node1, node2) in relation_pairs or (node2, node1) in relation_pairs: continue
         if mid2type[node1] != mid2type[node2]: continue
-        # Fixes for quizlet 4
-        if node1 == 'K0C047Z59:5095-5096' and node2 == 'K0C047Z59:3600-3609': continue
-        if node1 == 'K0C047Z59:5095-5096' and node2 == 'K0C047Z59:308-313': continue
         # Add edges
         graph.addEdge(node1, node2)
     # Get connected components (with-in doc clusters)
