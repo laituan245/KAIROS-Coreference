@@ -5,6 +5,9 @@ entity_pred_pairs.txt
 resources/quizlet4/en/output/test_coref
 resources/quizlet4/es/output/test_coref
 temp_scripts/
+apicache-py3/
+throttle.ctrl
+pywikibot.lwp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
