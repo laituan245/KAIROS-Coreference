@@ -83,13 +83,17 @@ def extract_input_masks_from_mask_windows(mask_windows):
     return input_masks
 
 
-def get_predicted_antecedents(antecedents, antecedent_scores):
-    predicted_antecedents = []
+def get_predicted_antecedents(antecedents, antecedent_scores, return_scores=False):
+    predicted_antecedents, predicted_scores = [], []
     for i, index in enumerate(np.argmax(antecedent_scores, axis=1) - 1):
         if index < 0:
             predicted_antecedents.append(-1)
+            predicted_scores.append(0)
         else:
             predicted_antecedents.append(antecedents[i, index])
+            predicted_scores.append(antecedent_scores[i, index+1])
+    if return_scores:
+        return predicted_antecedents, predicted_scores
     return predicted_antecedents
 
 def convert_to_sliding_window(expanded_tokens, sliding_window_size, tokenizer):

@@ -9,7 +9,6 @@ from data import EntityCentricDocument, EntityCentricDocumentPair, load_entity_c
 from algorithms import UndirectedGraph
 from os.path import join, dirname
 
-# Helper Function
 def get_cluster_labels(clusters, id2mention, field):
     clusterlabels, nil_ctx = [], 0
     for c in clusters:
@@ -26,11 +25,27 @@ def get_cluster_labels(clusters, id2mention, field):
         clusterlabels.append(label)
     return clusterlabels
 
-def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filtered_doc_ids, clusters, english_docs, spanish_docs, predicted_pairs = set()):
+def propagate(start_id, mid2linkid, adjList):
+    visited = set()
+    stack = list(adjList[start_id])
+    visited.add(start_id)
+    while len(stack) > 0:
+        curr = stack.pop()
+        if curr in visited: continue
+        if not curr in mid2linkid:
+            mid2linkid[curr] = mid2linkid[start_id]
+            visited.add(curr)
+            stack.extend(adjList[curr])
+    return visited
+
+
+def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filtered_doc_ids, clusters, english_docs, spanish_docs,
+                 predicted_pairs = set(), mid2linkid = {}):
     create_dir_if_not_exist(dirname(output_path))
 
     # Read the original entity.cs
     mid2lines, oe2mid, cur_type = {}, {}, None
+    mid2mentiontype = {}
     with open(cs_path, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
@@ -45,6 +60,7 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
             if not mid in mid2lines: mid2lines[mid] = []
             if not es[1].startswith('canonical_mention'):
                 mid2lines[mid].append(es)
+                mid2mentiontype[mid] = es[1]
 
     # Read the original relation.cs file (in the same directory as entity.cs)
     relation_cs = join(dirname(cs_path), 'relation.cs')
@@ -86,43 +102,115 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
         for doc_id in c:
             doc2cluster[doc_id] = ix
 
+    # Initialize mid2linkid
+    for m in mentions:
+        if 'fb_id' in m and not m['fb_id'].startswith('NIL'):
+            mid2linkid[m['mention_id']] = m['fb_id']
+
     # Apply the coref model
     start_time = time.time()
     if True:
+        adjList = {}
+        for (node1, node2) in predicted_pairs:
+            if not node1 in adjList: adjList[node1] = set()
+            adjList[node1].add(node2)
+            if not node2 in adjList: adjList[node2] = set()
+            adjList[node2].add(node1)
         with torch.no_grad():
             # Main loop
-            for i in range(len(docs)):
-                doci = docs[i]
-                end_range = len(docs) if len(clusters[doc2cluster[doci.doc_id]]) > 1 else len(docs)+1
-                for j in range(i+1, end_range):
-                    if j == len(docs):
-                        # Dummy doc
-                        docj = EntityCentricDocument(doci.doc_id, [], [], None)
+            for z in range(2):
+                for i in range(len(docs)):
+                    doci = docs[i]
+                    if z == 0:
+                        # Within-doc coref
+                        start_range = len(docs)
+                        end_range = len(docs)+1
                     else:
-                        docj = docs[j]
-                    if language == 'cross':
-                        if doci.doc_id in english_docs and docj.doc_id in english_docs: continue
-                        if doci.doc_id in spanish_docs and docj.doc_id in spanish_docs: continue
-                    if len(doci.words) == 0 and len(docj.words) == 0: continue
-                    if doc2cluster[doci.doc_id] != doc2cluster[docj.doc_id]: continue
-                    inst = EntityCentricDocumentPair(doci, docj, tokenizer)
-                    doc_entities = inst.entity_mentions
+                        # Cross-doc coref
+                        start_range = i+1
+                        end_range = len(docs)
+                    for j in range(start_range, end_range):
+                        if j == len(docs):
+                            # Dummy doc
+                            docj = EntityCentricDocument(doci.doc_id, [], [], None)
+                        else:
+                            docj = docs[j]
+                        if language == 'cross':
+                            if doci.doc_id in english_docs and docj.doc_id in english_docs: continue
+                            if doci.doc_id in spanish_docs and docj.doc_id in spanish_docs: continue
+                        if len(doci.words) == 0 and len(docj.words) == 0: continue
+                        if doc2cluster[doci.doc_id] != doc2cluster[docj.doc_id]: continue
+                        inst = EntityCentricDocumentPair(doci, docj, tokenizer)
+                        doc_entities = inst.entity_mentions
 
-                    preds = model(*inst.tensorized_example)[1]
-                    preds = [x.cpu().data.numpy() for x in preds]
-                    mention_starts, mention_ends, top_antecedents, top_antecedent_scores = preds
-                    predicted_antecedents = get_predicted_antecedents(top_antecedents, top_antecedent_scores)
+                        preds = model(*inst.tensorized_example)[1]
+                        preds = [x.cpu().data.numpy() for x in preds]
+                        mention_starts, mention_ends, top_antecedents, top_antecedent_scores = preds
+                        predicted_antecedents, predicted_scores = get_predicted_antecedents(top_antecedents, top_antecedent_scores, True)
 
-                    # Extract predicted pairs
-                    for ix, (s, e) in enumerate(zip(mention_starts, mention_ends)):
-                        if predicted_antecedents[ix] >= 0:
-                            antecedent_idx = predicted_antecedents[ix]
-                            mention_1 = doc_entities[ix]
-                            mention_2 = doc_entities[antecedent_idx]
-                            if language == 'cross':
-                                if (not 'fb_id' in mention_1) or (not 'fb_id' in mention_2): continue
-                                if mention_1['fb_id'] != mention_2['fb_id']: continue
-                            predicted_pairs.add((mention_1['mention_id'], mention_2['mention_id']))
+                        # Extract predicted pairs
+                        for ix, (s, e) in enumerate(zip(mention_starts, mention_ends)):
+                            cur_predicted_score = predicted_scores[ix]
+                            if predicted_antecedents[ix] >= 0:
+                                antecedent_idx = predicted_antecedents[ix]
+                                mention_1 = doc_entities[ix]
+                                mention_2 = doc_entities[antecedent_idx]
+                                # Extract fields
+                                m1_id = mention_1['mention_id']
+                                m2_id = mention_2['mention_id']
+                                m1_text = mention_1['canonical_mention']
+                                m2_text = mention_2['canonical_mention']
+                                type_1, mention_type_1 = mid2type[mention_1['mention_id']], mid2mentiontype[m1_id]
+                                type_2, mention_type_2 = mid2type[mention_2['mention_id']], mid2mentiontype[m2_id]
+                                # Rule: Two mentions that are linked to two different entities are not coreferential
+                                if 'fb_id' in mention_1 and 'fb_id' in mention_2:
+                                    link1 = mention_1['fb_id']
+                                    link2 = mention_2['fb_id']
+                                    if (not link1.startswith('NIL')) and (not link2.startswith('NIL')) \
+                                    and link1 != link2:
+                                        continue
+                                # Rule: Not linking two mentions from two different documents if one of them is a pronoun
+                                if mention_1['doc_id'] != mention_2['doc_id']:
+                                    if mention_type_1 == 'pronominal_mention' or mention_type_2 == 'pronominal_mention':
+                                        continue
+                                # Rule: Not link a NIL mention to a non-NIL mention if the two are from two different documents.
+                                if mention_1['doc_id'] != mention_2['doc_id']:
+                                    link1 = mention_1['fb_id']
+                                    link2 = mention_2['fb_id']
+                                    if link1.startswith('NIL') and not link2.startswith('NIL'):
+                                        continue
+                                    if link2.startswith('NIL') and not link1.startswith('NIL'):
+                                        continue
+                                # Rule: Not link two people' mentions if their names do not match.
+                                if 'PER' in type_1 and 'PER' in type_2 and mention_type_1 == 'mention' and mention_type_2 == 'mention':
+                                    m1_text_words = set(m1_text.lower().split())
+                                    m2_text_words = set(m2_text.lower().split())
+                                    should_skip = True
+                                    if len(m1_text_words.intersection(m2_text_words)) == min(len(m1_text_words), len(m2_text_words)):
+                                        should_skip = False
+                                    if should_skip: continue
+                                # Rule: Don't apply coref if the two mentions are from the same document and we are doing cross-doc coref
+                                if doci.doc_id != docj.doc_id and mention_1['doc_id'] == mention_2['doc_id']:
+                                    continue
+                                # Rule: Check mid2linkid
+                                if m1_id in mid2linkid and m2_id in mid2linkid:
+                                    link1 = mid2linkid[m1_id]
+                                    link2 = mid2linkid[m2_id]
+                                    if link1 != link2:
+                                        continue
+                                # Append the pair to predicted_pairs
+                                predicted_pairs.add((m1_id, m2_id))
+                                if not m1_id in adjList: adjList[m1_id] = set()
+                                if not m2_id in adjList: adjList[m2_id] = set()
+                                adjList[m1_id].add(m2_id)
+                                adjList[m2_id].add(m1_id)
+                                # Update mid2linkid
+                                if m1_id in mid2linkid and not m2_id in mid2linkid:
+                                    mid2linkid[m2_id] = mid2linkid[m1_id]
+                                    propagate(m2_id, mid2linkid, adjList)
+                                if m2_id in mid2linkid and not m1_id in mid2linkid:
+                                    mid2linkid[m1_id] = mid2linkid[m2_id]
+                                    propagate(m1_id, mid2linkid, adjList)
 
         f.close()
     print("--- Applying the entity coref model took %s seconds ---" % (time.time() - start_time))
@@ -131,15 +219,27 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
     graph = UndirectedGraph([m['mention_id'] for m in mentions])
     print('Number of vertices: {}'.format(graph.V))
 
+    # If two mentions are linked to the same entity, then they are coreferential
+    for ix in range(len(mentions)):
+        for jx in range(ix+1, len(mentions)):
+            if 'fb_id' in mentions[ix] and 'fb_id' in mentions[jx]:
+                mi_fb_id = mentions[ix]['fb_id']
+                mj_fb_id = mentions[jx]['fb_id']
+                if mi_fb_id == mj_fb_id and (not mi_fb_id.startswith('NIL')) and (not mj_fb_id.startswith('NIL')):
+                    predicted_pairs.add((mentions[ix]['mention_id'], mentions[jx]['mention_id']))
+
     # Add edges from predicted_pairs
+    filtered_predicted_pairs = set()
     for node1, node2 in predicted_pairs:
         if (node1, node2) in relation_pairs or (node2, node1) in relation_pairs: continue
         if mid2type[node1] != mid2type[node2]: continue
-        # Fixes for quizlet 4
-        if node1 == 'K0C047Z59:5095-5096' and node2 == 'K0C047Z59:3600-3609': continue
-        if node1 == 'K0C047Z59:5095-5096' and node2 == 'K0C047Z59:308-313': continue
+        if node1 in mid2linkid and node2 in mid2linkid:
+            if mid2linkid[node1] != mid2linkid[node2]:
+                continue
         # Add edges
+        filtered_predicted_pairs.add((node1, node2))
         graph.addEdge(node1, node2)
+    predicted_pairs = filtered_predicted_pairs
     # Get connected components (with-in doc clusters)
     print('Get connected components')
     clusters = sccs = graph.getSCCs()
@@ -198,4 +298,4 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
     del(model)
     del(tokenizer)
 
-    return predicted_pairs
+    return predicted_pairs, mid2linkid

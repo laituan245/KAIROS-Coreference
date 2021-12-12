@@ -72,46 +72,40 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
     # Run entity coref (English)
     output_entity =  join(coreference_output, 'entity.cs')
     filtered_eng_doc_ids = [f for f in filtered_doc_ids if f in english_docs]
-    english_entity_pairs = \
+    english_entity_pairs, mid2linkid = \
         entity_coref(entity_cs, json_dir, linking_output, output_entity, 'en', filtered_eng_doc_ids, clusters, english_docs, spanish_docs)
     gc.collect()
 
     # Run entity coref (Spanish)
     output_entity =  join(coreference_output, 'entity.cs')
     filtered_spanish_doc_ids = [f for f in filtered_doc_ids if f in spanish_docs]
-    mono_entity_pairs = \
-        entity_coref(entity_cs, json_dir, linking_output, output_entity, 'es', filtered_spanish_doc_ids, clusters, english_docs, spanish_docs, predicted_pairs=english_entity_pairs)
+    mono_entity_pairs, mid2linkid = \
+        entity_coref(entity_cs, json_dir, linking_output, output_entity, 'es', filtered_spanish_doc_ids, clusters, english_docs, spanish_docs,
+                     predicted_pairs=english_entity_pairs, mid2linkid=mid2linkid)
     gc.collect()
 
     # Run cross-lingual coref
-    entity_coref(entity_cs, json_dir, linking_output, output_entity, 'cross', filtered_doc_ids, clusters, english_docs, spanish_docs, predicted_pairs=mono_entity_pairs)
+    entity_coref(entity_cs, json_dir, linking_output, output_entity, 'cross', filtered_doc_ids, clusters, english_docs, spanish_docs,
+                 predicted_pairs=mono_entity_pairs, mid2linkid=mid2linkid)
     gc.collect()
 
-    # The loop stops when refinement process does not modify entity coref anymore
-    while True:
-        # Run event coref
-        output_event = join(coreference_output, 'event.cs')
-        event_coref(event_cs, json_dir, output_event, entity_cs, output_entity, filtered_doc_ids, clusters, english_docs, spanish_docs)
-        gc.collect()
+    # Run event coref
+    output_event = join(coreference_output, 'event.cs')
+    event_coref(event_cs, json_dir, output_event, entity_cs, output_entity, filtered_doc_ids, clusters, english_docs, spanish_docs)
+    gc.collect()
 
-        # Run aligning relation
-        output_relation = join(coreference_output, 'relation.cs')
-        align_relation(entity_cs, output_entity, relation_cs, output_relation)
+    # Run aligning relation
+    output_relation = join(coreference_output, 'relation.cs')
+    align_relation(entity_cs, output_entity, relation_cs, output_relation)
 
-        # Run aligning event
-        align_event(output_entity, output_event)
+    # Run aligning event
+    align_event(output_entity, output_event)
 
-        # Run string_repr
-        string_repr(output_entity, output_event, english_docs)
+    # Run string_repr
+    string_repr(output_entity, output_event, english_docs)
 
-        # Run filter_relation
-        filter_relation(output_event, output_relation)
-
-        print('refinement')
-        changed = refine_entity_coref(output_entity, output_event)
-        print('changed = {}'.format(changed))
-        if not changed:
-            break
+    # Run filter_relation
+    filter_relation(output_event, output_relation)
 
     # Run remove arguments
     remove_arguments(output_entity, output_event, coreference_output)
