@@ -1,4 +1,5 @@
 .DS_Store
+*.pt
 resources/samples
 event_pred_pairs.txt
 entity_pred_pairs.txt
@@ -8,6 +9,7 @@ temp_scripts/
 apicache-py3/
 throttle.ctrl
 pywikibot.lwp
+tmp/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

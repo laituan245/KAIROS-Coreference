@@ -54,7 +54,10 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
             es = line.strip().split('\t')
             if len(es) <= 4:
                 if es[1] == 'type':
-                    event2type[es[0]] = es[-2]
+                    ev_type = es[2]
+                    if '#' in ev_type:
+                        ev_type = ev_type[ev_type.rfind('#')+1:]
+                    event2type[es[0]] = ev_type
                 continue
             if not (es[1].startswith('mention') or es[1].startswith('canonical_mention')):
                 event_type = event2type[es[0]]
@@ -137,8 +140,12 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
                     else:
                         antecedent_idx = predicted_antecedents[ix]
                         p_s, p_e = mention_starts[antecedent_idx], mention_ends[antecedent_idx]
-                        cluster_id = m2cluster[(p_s, p_e)]
-                        predicted_clusters[cluster_id].append(doc_entities[ix])
+                        try:
+                            cluster_id = m2cluster[(p_s, p_e)]
+                            predicted_clusters[cluster_id].append(doc_entities[ix])
+                        except:
+                            cluster_id = len(predicted_clusters)
+                            predicted_clusters.append([doc_entities[ix]])
                     m2cluster[(s,e)] = cluster_id
 
                 # Extract predicted pairs

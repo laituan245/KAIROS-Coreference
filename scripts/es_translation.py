@@ -5,19 +5,15 @@ import random
 import shutil
 from nltk.tag import pos_tag
 
+from deep_translator import GoogleTranslator
 from os.path import dirname, join
 from utils import create_dir_if_not_exist
-from transformers import MarianMTModel, MarianTokenizer
 
 # Translate from spanish to english
-def translate(model, tokenizer, text):
-    with torch.no_grad():
-        src_text = [
-            text
-        ]
-        translated = model.generate(**tokenizer.prepare_translation_batch(src_text))
-        tgt_text = [tokenizer.decode(t, skip_special_tokens=True) for t in translated]
-        return tgt_text[0]
+def translate(text):
+    if text == '%': return '%'
+    translated = GoogleTranslator(source='es', target='en').translate(text)
+    return translated
 
 def read_en_linking_cs(en_linking_cs):
     english_mentions = set()
@@ -36,11 +32,6 @@ def es_translation(es_linking_path, en_linking_path):
     # Read en linking cs
     english_mentions = read_en_linking_cs(en_linking_cs)
 
-    # Prepare translation model
-    model_name = 'Helsinki-NLP/opus-mt-es-en'
-    model = MarianMTModel.from_pretrained(model_name)
-    tokenizer = MarianTokenizer.from_pretrained(model_name)
-
     lines, en2es = [], {}
     with open(es_linking_cs, 'r') as f:
         for line in f:
@@ -53,12 +44,9 @@ def es_translation(es_linking_path, en_linking_path):
                 if text.lower() in english_mentions:
                     en2es[text] = text
                 if not text in en2es:
-                    if text.strip() == 'Sus': translation = 'Their'
-                    elif text.strip() == 'Vladimir Padrino': translation = 'Vladimir Padrino'
-                    else: translation = translate(model, tokenizer, text)
-                    if 'I-I-I-I' in translation: translation = text # Give up lol
-                    if '...............' in translation: translation = text # Give up lol
-                    if text.islower(): translation = translation.lower()
+                    translation = translate(text)
+                    if translation.lower().strip() == text.lower().strip():
+                        translation = text
                     en2es[text] = translation
                 text = en2es[text]
                 text = es[2][0] + text + es[2][-1]
