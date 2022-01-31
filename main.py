@@ -39,7 +39,6 @@ def process_data(data):
     logger.info('Created tmp output directory: {}'.format(run_tmp_dir))
 
     # Create input folder
-    ext_data = {}
     for lang in LANGUAGES:
         input_lang_dir = os.path.join(run_tmp_dir, lang)
         os.makedirs(input_lang_dir, exist_ok=True)
@@ -78,15 +77,6 @@ def process_data(data):
             edl_data['tab'] = ''
         with open(edl_tab_filepath, 'w+') as output_edl_tab_file:
             output_edl_tab_file.write('{}'.format(edl_data['tab']))
-        # relation.cs from relation_enrichment (English only)
-        try:
-            if lang == 'en':
-                relation_cs = join(join(oneie_dir,'cs'), 'relation.cs')
-                enriched_relation_data = data['relation_enrichment']
-                with open(relation_cs, 'w+') as f:
-                    f.write(enriched_relation_data)
-        except:
-            print('error may occur when accessing relation_enrichment')
 
     # Run coref
     coreference_output = os.path.join(run_tmp_dir, 'coref')
@@ -94,11 +84,6 @@ def process_data(data):
     main_coref(run_tmp_dir, run_tmp_dir, coreference_output, KEEP_DISTRACTORS)
 
     final_output = jsonify_coref(coreference_output)
-
-    # Also add extension field
-    final_output = json.loads(final_output)
-    final_output['ext'] = ext_data
-    final_output = json.dumps(final_output)
 
     # Remove the tmp dir
     rmtree(run_tmp_dir)
