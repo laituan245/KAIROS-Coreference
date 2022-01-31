@@ -20,6 +20,7 @@ TMP_DIR = None
 KEEP_DISTRACTORS = False
 LANGUAGES = ['en', 'es']
 app = Flask(__name__)
+DISABLE_ES = True
 
 logger = logging.getLogger()
 logging.basicConfig(format='%(asctime)s: %(levelname)s: %(message)s')
@@ -50,10 +51,14 @@ def process_data(data):
         os.makedirs(join(oneie_dir,'cs'), exist_ok=True)
         oneie_cs_data = oneie_data['cs']
         for datatype in ['entity', 'event', 'relation']:
+            if lang == 'es' and DISABLE_ES:
+                oneie_cs_data[datatype] = ''
             parse_cs_data(oneie_cs_data[datatype], join(join(oneie_dir,'cs'), '{}.cs'.format(datatype)))
         # oneie json folder
         os.makedirs(join(oneie_dir,'json'), exist_ok=True)
         json_dir = join(oneie_dir,'json')
+        if lang == 'es' and DISABLE_ES:
+            oneie_data['json'] = {}
         for doc_id in oneie_data['json']:
             with open(join(json_dir, '{}.json'.format(doc_id)), 'w+') as output_json_dir:
                 output_json_dir.write(oneie_data['json'][doc_id])
@@ -63,10 +68,14 @@ def process_data(data):
         os.makedirs(edl_dir, exist_ok=True)
         # cs file
         edl_cs_filepath = join(edl_dir, '{}.linking.wikidata.cs'.format(lang))
+        if lang == 'es' and DISABLE_ES:
+            edl_data['cs'] = ''
         with open(edl_cs_filepath, 'w+') as output_edl_cs_file:
             output_edl_cs_file.write('{}'.format(edl_data['cs']))
         # tab file
         edl_tab_filepath = join(edl_dir, '{}.linking.wikidata.tab'.format(lang))
+        if lang == 'es' and DISABLE_ES:
+            edl_data['tab'] = ''
         with open(edl_tab_filepath, 'w+') as output_edl_tab_file:
             output_edl_tab_file.write('{}'.format(edl_data['tab']))
         # relation.cs from relation_enrichment (English only)
