@@ -1,7 +1,5 @@
 sh setup.sh
-docker build --tag laituan245/kairos_coref .
-docker push laituan245/kairos_coref
-docker tag laituan245/kairos_coref laituan245/kairos_coref:api
-docker push laituan245/kairos_coref:api
-docker tag laituan245/kairos_coref laituan245/kairos_coref:dev
-docker push laituan245/kairos_coref:dev
+docker build --tag laituan245/kairos_coref-v2 .
+docker push laituan245/kairos_coref-v2
+docker tag laituan245/kairos_coref-v2 laituan245/kairos_coref-v2:api
+docker push laituan245/kairos_coref-v2:api
