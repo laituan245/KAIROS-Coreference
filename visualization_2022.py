@@ -12,8 +12,6 @@ from data import read_json_docs, locstr_to_loc
 from argparse import ArgumentParser
 
 
-TOPIC = 'bombing'
-
 def flatten(l):
     return [item for sublist in l for item in sublist]
 
@@ -123,9 +121,7 @@ def generate_visualization(docs, cluster2mention, output):
                 else:
                     f.write('Mention {} [Document {}] {} <font color="red">{}</font> {} </br>'.format(m, doc_info, left_context, mention_text, right_context))
 
-def generate_visualization_for_cluster(docs, entity2mention, event2mention, cluster, cluster_nb):
-    global TOPIC
-
+def generate_visualization_for_cluster(docs, entity2mention, event2mention, cluster, cluster_nb, output_dir):
     docs = copy.deepcopy(docs)
     entity2mention = copy.deepcopy(entity2mention)
     event2mention = copy.deepcopy(event2mention)
@@ -151,28 +147,25 @@ def generate_visualization_for_cluster(docs, entity2mention, event2mention, clus
     for event in removed_events: del event2mention[event]
 
     # Generate visualization files
-    generate_visualization(docs, entity2mention, 'test/dryrun_{}/cluster_{}_entity_coref.html'.format(TOPIC, cluster_nb))
-    generate_visualization(docs, event2mention, 'test/dryrun_{}/cluster_{}_event_coref.html'.format(TOPIC, cluster_nb))
+    generate_visualization(docs, entity2mention, join(output_dir, 'cluster_{}_entity_coref.html'.format(cluster_nb)))
+    generate_visualization(docs, event2mention, join(output_dir, 'cluster_{}_event_coref.html'.format(cluster_nb)))
 
 # Main code
 if __name__ == "__main__":
     # Parse argument
     parser = ArgumentParser()
-    parser.add_argument('--topic', type=str, default='bombing', choices=['bombing', 'pandemic'])
+    parser.add_argument('--coref_dir', type=str, default='test/dryrun_bombing/all/')
+    parser.add_argument('--json_dir', type=str, default='test/dryrun_bombing/json/')
+    parser.add_argument('--output_dir', type=str, default='test/dryrun_bombing')
     args = parser.parse_args()
-    TOPIC = args.topic
-    args.coref_dir = 'test/dryrun_{}/all/'.format(args.topic)
-    args.json_dir = 'test/dryrun_{}/json'.format(args.topic)
-    args.entity_coref = join(args.coref_dir, 'entity.cs')
-    args.event_coref = join(args.coref_dir, 'event.cs')
 
     # Read json docs
     docs = read_json_docs(args.json_dir)
     print('Number of docs: {}'.format(len(docs)))
 
     # Read entity_coref and event_coref
-    entity2mention = read_coref(args.entity_coref)
-    event2mention = read_coref(args.event_coref)
+    entity2mention = read_coref(join(args.coref_dir, 'entity.cs'))
+    event2mention = read_coref(join(args.coref_dir, 'event.cs'))
 
     # Read doc clustering info
     clusters = []
@@ -182,4 +175,4 @@ if __name__ == "__main__":
 
     # generate_visualization_for_cluster
     for cluster_nb, cluster in enumerate(clusters):
-        generate_visualization_for_cluster(docs, entity2mention, event2mention, cluster, cluster_nb)
+        generate_visualization_for_cluster(docs, entity2mention, event2mention, cluster, cluster_nb, args.output_dir)
