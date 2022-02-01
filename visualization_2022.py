@@ -30,11 +30,14 @@ DOC2URL = {
 }
 
 def get_wikidata_title(wikidata_id):
-    site = pywikibot.Site('wikidata', 'wikidata')
-    repo = site.data_repository()
-    item = pywikibot.ItemPage(repo, wikidata_id)
-    item_dict = item.get() #Get the item dictionary
-    return item_dict['labels']['en']
+    try:
+        site = pywikibot.Site('wikidata', 'wikidata')
+        repo = site.data_repository()
+        item = pywikibot.ItemPage(repo, wikidata_id)
+        item_dict = item.get() #Get the item dictionary
+        return item_dict['labels']['en']
+    except:
+        return 'An error occured while retrieving wikidata title'
 
 def find_majority(k):
     myMap = {}
