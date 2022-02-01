@@ -14,7 +14,7 @@ from shutil import rmtree
 from coref import main_coref
 from jsonify_coref import jsonify_coref
 from flask import Flask, request
-from scripts import translate_extensions
+from scripts import add_qlabel, translate_extensions
 
 TMP_DIR = None
 KEEP_DISTRACTORS = False
@@ -83,6 +83,12 @@ def process_data(data):
     os.makedirs(coreference_output, exist_ok=True)
     main_coref(run_tmp_dir, run_tmp_dir, coreference_output, KEEP_DISTRACTORS)
 
+    # Add qlabel
+    add_qlabel(join(coreference_output, 'entity.cs'))
+    add_qlabel(join(coreference_output, 'en', 'entity.cs'))
+    add_qlabel(join(coreference_output, 'es', 'entity.cs'))
+
+    # Prepare the final_output
     final_output = jsonify_coref(coreference_output)
 
     # Remove the tmp dir

@@ -9,4 +9,4 @@ Flask
 sentence-transformers==0.3.5
 langdetect
 deep-translator==1.5.0
-
+elasticsearch==7.14.1
