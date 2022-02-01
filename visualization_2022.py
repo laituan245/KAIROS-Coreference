@@ -150,6 +150,25 @@ def generate_visualization_for_cluster(docs, entity2mention, event2mention, clus
     generate_visualization(docs, entity2mention, join(output_dir, 'cluster_{}_entity_coref.html'.format(cluster_nb)))
     generate_visualization(docs, event2mention, join(output_dir, 'cluster_{}_event_coref.html'.format(cluster_nb)))
 
+def main(args_coref_dir, args_json_dir, args_output_dir):
+    # Read json docs
+    docs = read_json_docs(args_json_dir)
+    print('Number of docs: {}'.format(len(docs)))
+
+    # Read entity_coref and event_coref
+    entity2mention = read_coref(join(args_coref_dir, 'entity.cs'))
+    event2mention = read_coref(join(args_coref_dir, 'event.cs'))
+
+    # Read doc clustering info
+    clusters = []
+    with open(join(args_coref_dir, 'clusters.txt'), 'r') as f:
+        for line in f:
+            clusters.append(json.loads(line))
+
+    # generate_visualization_for_cluster
+    for cluster_nb, cluster in enumerate(clusters):
+        generate_visualization_for_cluster(docs, entity2mention, event2mention, cluster, cluster_nb, args_output_dir)
+
 # Main code
 if __name__ == "__main__":
     # Parse argument
@@ -159,20 +178,4 @@ if __name__ == "__main__":
     parser.add_argument('--output_dir', type=str, default='test/dryrun_bombing')
     args = parser.parse_args()
 
-    # Read json docs
-    docs = read_json_docs(args.json_dir)
-    print('Number of docs: {}'.format(len(docs)))
-
-    # Read entity_coref and event_coref
-    entity2mention = read_coref(join(args.coref_dir, 'entity.cs'))
-    event2mention = read_coref(join(args.coref_dir, 'event.cs'))
-
-    # Read doc clustering info
-    clusters = []
-    with open(join(args.coref_dir, 'clusters.txt'), 'r') as f:
-        for line in f:
-            clusters.append(json.loads(line))
-
-    # generate_visualization_for_cluster
-    for cluster_nb, cluster in enumerate(clusters):
-        generate_visualization_for_cluster(docs, entity2mention, event2mention, cluster, cluster_nb, args.output_dir)
+    main(args.coref_dir, args.json_dir, args.output_dir)
