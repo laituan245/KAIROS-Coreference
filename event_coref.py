@@ -63,6 +63,8 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
                 if event_type in event_types: # Consider only events in the KAIROS ontology
                     event_args = event_types[event_type]['args']
                     arg_name = es[1].split('.')[-2].split('_')[-1]
+                    if arg_name == 'ParticipantArg1': arg_name = 'Participant'
+                    if arg_name == 'ParticipantArg2': arg_name = 'Participant'
                     arg_nb = event_args[arg_name]
                     mid = oldevs2mid[es[0]]
                     if not mid in event2args: event2args[mid] = {}
