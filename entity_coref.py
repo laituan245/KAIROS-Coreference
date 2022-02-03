@@ -164,8 +164,8 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                                 type_2, mention_type_2 = mid2type[mention_2['mention_id']], mid2mentiontype[m2_id]
                                 # Rule: Two mentions that are linked to two different entities are not coreferential
                                 if 'fb_id' in mention_1 and 'fb_id' in mention_2:
-                                    link1 = mention_1['fb_id']
-                                    link2 = mention_2['fb_id']
+                                    link1 = mention_1.get('fb_id', 'NIL-UNK-1')
+                                    link2 = mention_2.get('fb_id', 'NIL-UNK-2')
                                     if (not link1.startswith('NIL')) and (not link2.startswith('NIL')) \
                                     and link1 != link2:
                                         continue
@@ -175,8 +175,8 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
                                         continue
                                 # Rule: Not link a NIL mention to a non-NIL mention if the two are from two different documents.
                                 if mention_1['doc_id'] != mention_2['doc_id']:
-                                    link1 = mention_1['fb_id']
-                                    link2 = mention_2['fb_id']
+                                    link1 = mention_1.get('fb_id', 'NIL-UNK-1')
+                                    link2 = mention_2.get('fb_id', 'NIL-UNK-2')
                                     if link1.startswith('NIL') and not link2.startswith('NIL'):
                                         continue
                                     if link2.startswith('NIL') and not link1.startswith('NIL'):
@@ -232,7 +232,9 @@ def entity_coref(cs_path, json_dir, fb_linking_path, output_path, language, filt
     filtered_predicted_pairs = set()
     for node1, node2 in predicted_pairs:
         if (node1, node2) in relation_pairs or (node2, node1) in relation_pairs: continue
-        if mid2type[node1] != mid2type[node2]: continue
+        if mid2type[node1] != mid2type[node2] and mid2type[node1] != 'UNK' \
+        and mid2type[node2] != 'UNK':
+            continue
         if node1 in mid2linkid and node2 in mid2linkid:
             if mid2linkid[node1] != mid2linkid[node2]:
                 continue
