@@ -14,3 +14,4 @@ from scripts.fix_event_args import fix_event_args
 from scripts.es_translation import es_translation
 from scripts.translate_extensions import translate_extensions
 from scripts.add_qlabel import add_qlabel
+from scripts.add_types_qnode import add_types_qnode

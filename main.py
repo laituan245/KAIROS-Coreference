@@ -14,7 +14,7 @@ from shutil import rmtree
 from coref import main_coref
 from jsonify_coref import jsonify_coref
 from flask import Flask, request
-from scripts import add_qlabel, translate_extensions
+from scripts import add_qlabel, add_types_qnode, translate_extensions
 
 TMP_DIR = None
 KEEP_DISTRACTORS = False
@@ -87,6 +87,11 @@ def process_data(data):
     add_qlabel(join(coreference_output, 'entity.cs'))
     add_qlabel(join(coreference_output, 'en', 'entity.cs'))
     add_qlabel(join(coreference_output, 'es', 'entity.cs'))
+
+    # Run add_types_qnode
+    add_types_qnode(join(coreference_output, 'entity.cs'))
+    add_types_qnode(join(coreference_output, 'en', 'entity.cs'))
+    add_types_qnode(join(coreference_output, 'es', 'entity.cs'))
 
     # Prepare the final_output
     final_output = jsonify_coref(coreference_output)
