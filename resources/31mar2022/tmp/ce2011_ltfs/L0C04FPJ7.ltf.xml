@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="L0C04FPJ7" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="1469" raw_text_md5="daca21c3108c9de5a8c95db73fc4f7b6">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="59">
+<ORIGINAL_TEXT>New Rules in Place to Reduce Outbreaks at the NC State Fair</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="3">New</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="5" end_char="9">Rules</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="11" end_char="12">in</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="14" end_char="18">Place</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="20" end_char="21">to</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="23" end_char="28">Reduce</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="30" end_char="38">Outbreaks</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="40" end_char="41">at</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="43" end_char="45">the</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="47" end_char="48">NC</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="50" end_char="54">State</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="56" end_char="59">Fair</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="63" end_char="219">
+<ORIGINAL_TEXT>People attending the State Fair in Raleigh next month will see some changes in how animal are displayed, after an E. Coli outbreak last year sickened dozens.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="63" end_char="68">People</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="70" end_char="78">attending</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="80" end_char="82">the</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="84" end_char="88">State</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="90" end_char="93">Fair</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="95" end_char="96">in</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="98" end_char="104">Raleigh</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="106" end_char="109">next</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="111" end_char="115">month</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="117" end_char="120">will</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="122" end_char="124">see</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="126" end_char="129">some</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="131" end_char="137">changes</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="139" end_char="140">in</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="142" end_char="144">how</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="146" end_char="151">animal</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="153" end_char="155">are</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="157" end_char="165">displayed</TOKEN>
+<TOKEN id="token-1-18" pos="punct" morph="none" start_char="166" end_char="166">,</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="168" end_char="172">after</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="174" end_char="175">an</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="177" end_char="177">E</TOKEN>
+<TOKEN id="token-1-22" pos="punct" morph="none" start_char="178" end_char="178">.</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="180" end_char="183">Coli</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="185" end_char="192">outbreak</TOKEN>
+<TOKEN id="token-1-25" pos="word" morph="none" start_char="194" end_char="197">last</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="199" end_char="202">year</TOKEN>
+<TOKEN id="token-1-27" pos="word" morph="none" start_char="204" end_char="211">sickened</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="213" end_char="218">dozens</TOKEN>
+<TOKEN id="token-1-29" pos="punct" morph="none" start_char="219" end_char="219">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="222" end_char="234">
+<ORIGINAL_TEXT>By Saja Hindi</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="222" end_char="223">By</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="225" end_char="228">Saja</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="230" end_char="234">Hindi</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="237" end_char="462">
+<ORIGINAL_TEXT>People attending next month’s North Carolina State Fair will still get to pet the animals, but they’ll also see changes in how animals are exhibited, and have more opportunities to wash their hands after being around critters.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="237" end_char="242">People</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="244" end_char="252">attending</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="254" end_char="257">next</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="259" end_char="265">month’s</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="267" end_char="271">North</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="273" end_char="280">Carolina</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="282" end_char="286">State</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="288" end_char="291">Fair</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="293" end_char="296">will</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="298" end_char="302">still</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="304" end_char="306">get</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="308" end_char="309">to</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="311" end_char="313">pet</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="315" end_char="317">the</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="319" end_char="325">animals</TOKEN>
+<TOKEN id="token-3-15" pos="punct" morph="none" start_char="326" end_char="326">,</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="328" end_char="330">but</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="332" end_char="338">they’ll</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="340" end_char="343">also</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="345" end_char="347">see</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="349" end_char="355">changes</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="357" end_char="358">in</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="360" end_char="362">how</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="364" end_char="370">animals</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="372" end_char="374">are</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="376" end_char="384">exhibited</TOKEN>
+<TOKEN id="token-3-26" pos="punct" morph="none" start_char="385" end_char="385">,</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="387" end_char="389">and</TOKEN>
+<TOKEN id="token-3-28" pos="word" morph="none" start_char="391" end_char="394">have</TOKEN>
+<TOKEN id="token-3-29" pos="word" morph="none" start_char="396" end_char="399">more</TOKEN>
+<TOKEN id="token-3-30" pos="word" morph="none" start_char="401" end_char="413">opportunities</TOKEN>
+<TOKEN id="token-3-31" pos="word" morph="none" start_char="415" end_char="416">to</TOKEN>
+<TOKEN id="token-3-32" pos="word" morph="none" start_char="418" end_char="421">wash</TOKEN>
+<TOKEN id="token-3-33" pos="word" morph="none" start_char="423" end_char="427">their</TOKEN>
+<TOKEN id="token-3-34" pos="word" morph="none" start_char="429" end_char="433">hands</TOKEN>
+<TOKEN id="token-3-35" pos="word" morph="none" start_char="435" end_char="439">after</TOKEN>
+<TOKEN id="token-3-36" pos="word" morph="none" start_char="441" end_char="445">being</TOKEN>
+<TOKEN id="token-3-37" pos="word" morph="none" start_char="447" end_char="452">around</TOKEN>
+<TOKEN id="token-3-38" pos="word" morph="none" start_char="454" end_char="461">critters</TOKEN>
+<TOKEN id="token-3-39" pos="punct" morph="none" start_char="462" end_char="462">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="465" end_char="1330">
+<ORIGINAL_TEXT>aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}" data-image-title="StateFairGoat_konomike" data-large-file="https://www.northcarolinahealthnews.org/wp-content/uploads/2012/09/StateFairGoat_konomike-450x302.jpg" data-medium-file="https://www.northcarolinahealthnews.org/wp-content/uploads/2012/09/StateFairGoat_konomike-280x188.jpg" data-orig-file="https://www.northcarolinahealthnews.org/wp-content/uploads/2012/09/StateFairGoat_konomike.jpg" data-orig-size="500,335" data-permalink="https://www.northcarolinahealthnews.org/2012/09/24/new-rules-in-place-to-reduce-outbreaks-at-the-nc-state-fair/statefairgoat_konomike/" src="https://1lbxcx1bcuig1rfxaq3rd6w9-wpengine.netdna-ssl.com/wp-content/uploads/2012/09/StateFairGoat_konomike-300x201.jpg"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="465" end_char="630">aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0</TOKEN>
+<TOKEN id="token-4-1" pos="punct" morph="none" start_char="631" end_char="633">"}"</TOKEN>
+<TOKEN id="token-4-2" pos="unknown" morph="none" start_char="635" end_char="674">data-image-title="StateFairGoat_konomike</TOKEN>
+<TOKEN id="token-4-3" pos="punct" morph="none" start_char="675" end_char="675">"</TOKEN>
+<TOKEN id="token-4-4" pos="unknown" morph="none" start_char="677" end_char="794">data-large-file="https://www.northcarolinahealthnews.org/wp-content/uploads/2012/09/StateFairGoat_konomike-450x302.jpg</TOKEN>
+<TOKEN id="token-4-5" pos="punct" morph="none" start_char="795" end_char="795">"</TOKEN>
+<TOKEN id="token-4-6" pos="unknown" morph="none" start_char="797" end_char="915">data-medium-file="https://www.northcarolinahealthnews.org/wp-content/uploads/2012/09/StateFairGoat_konomike-280x188.jpg</TOKEN>
+<TOKEN id="token-4-7" pos="punct" morph="none" start_char="916" end_char="916">"</TOKEN>
+<TOKEN id="token-4-8" pos="unknown" morph="none" start_char="918" end_char="1026">data-orig-file="https://www.northcarolinahealthnews.org/wp-content/uploads/2012/09/StateFairGoat_konomike.jpg</TOKEN>
+<TOKEN id="token-4-9" pos="punct" morph="none" start_char="1027" end_char="1027">"</TOKEN>
+<TOKEN id="token-4-10" pos="unknown" morph="none" start_char="1029" end_char="1051">data-orig-size="500,335</TOKEN>
+<TOKEN id="token-4-11" pos="punct" morph="none" start_char="1052" end_char="1052">"</TOKEN>
+<TOKEN id="token-4-12" pos="unknown" morph="none" start_char="1054" end_char="1202">data-permalink="https://www.northcarolinahealthnews.org/2012/09/24/new-rules-in-place-to-reduce-outbreaks-at-the-nc-state-fair/statefairgoat_konomike</TOKEN>
+<TOKEN id="token-4-13" pos="punct" morph="none" start_char="1203" end_char="1204">/"</TOKEN>
+<TOKEN id="token-4-14" pos="unknown" morph="none" start_char="1206" end_char="1330">src="https://1lbxcx1bcuig1rfxaq3rd6w9-wpengine.netdna-ssl.com/wp-content/uploads/2012/09/StateFairGoat_konomike-300x201.jpg"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="1333" end_char="1416">
+<ORIGINAL_TEXT>Goats are some of the suspected culprits in last year’s State Fair E. Coli outbreak.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="1333" end_char="1337">Goats</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="1339" end_char="1341">are</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="1343" end_char="1346">some</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="1348" end_char="1349">of</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="1351" end_char="1353">the</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="1355" end_char="1363">suspected</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="1365" end_char="1372">culprits</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="1374" end_char="1375">in</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="1377" end_char="1380">last</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="1382" end_char="1387">year’s</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="1389" end_char="1393">State</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="1395" end_char="1398">Fair</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="1400" end_char="1400">E</TOKEN>
+<TOKEN id="token-5-13" pos="punct" morph="none" start_char="1401" end_char="1401">.</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="1403" end_char="1406">Coli</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="1408" end_char="1415">outbreak</TOKEN>
+<TOKEN id="token-5-16" pos="punct" morph="none" start_char="1416" end_char="1416">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="1418" end_char="1465">
+<ORIGINAL_TEXT>Photo courtesy konomike, Flickr Creative Commons</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="1418" end_char="1422">Photo</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="1424" end_char="1431">courtesy</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="1433" end_char="1440">konomike</TOKEN>
+<TOKEN id="token-6-3" pos="punct" morph="none" start_char="1441" end_char="1441">,</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="1443" end_char="1448">Flickr</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="1450" end_char="1457">Creative</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="1459" end_char="1465">Commons</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

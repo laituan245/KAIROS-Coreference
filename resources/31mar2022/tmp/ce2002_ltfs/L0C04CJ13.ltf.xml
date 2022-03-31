@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="L0C04CJ13" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="84" raw_text_md5="b2ef5b8f9b3ef38d357575f96eba4c18">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="77">
+<ORIGINAL_TEXT>CDC: Food left at unsafe temperature led to 647 sicknesses at Powell Chipotle</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="3">CDC</TOKEN>
+<TOKEN id="token-0-1" pos="punct" morph="none" start_char="4" end_char="4">:</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="6" end_char="9">Food</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="11" end_char="14">left</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="16" end_char="17">at</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="19" end_char="24">unsafe</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="26" end_char="36">temperature</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="38" end_char="40">led</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="42" end_char="43">to</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="45" end_char="47">647</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="49" end_char="58">sicknesses</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="60" end_char="61">at</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="63" end_char="68">Powell</TOKEN>
+<TOKEN id="token-0-13" pos="word" morph="none" start_char="70" end_char="77">Chipotle</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

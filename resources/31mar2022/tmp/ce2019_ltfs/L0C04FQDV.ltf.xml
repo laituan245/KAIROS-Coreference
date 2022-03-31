@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="L0C04FQDV" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="2226" raw_text_md5="fd3ed29cbdcd6262510fd9eda848828b">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="54">
+<ORIGINAL_TEXT>Botulism Confirmed in California Nacho Cheese Outbreak</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="8">Botulism</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="10" end_char="18">Confirmed</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="20" end_char="21">in</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="23" end_char="32">California</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="34" end_char="38">Nacho</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="40" end_char="45">Cheese</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="47" end_char="54">Outbreak</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="58" end_char="235">
+<ORIGINAL_TEXT>Gas station nacho cheese that sickened 10 people and killed one of them was contaminated with botulinum toxin, the California Department of Public Health (CDPH) confirmed Monday.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="58" end_char="60">Gas</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="62" end_char="68">station</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="70" end_char="74">nacho</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="76" end_char="81">cheese</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="83" end_char="86">that</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="88" end_char="95">sickened</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="97" end_char="98">10</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="100" end_char="105">people</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="107" end_char="109">and</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="111" end_char="116">killed</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="118" end_char="120">one</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="122" end_char="123">of</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="125" end_char="128">them</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="130" end_char="132">was</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="134" end_char="145">contaminated</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="147" end_char="150">with</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="152" end_char="160">botulinum</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="162" end_char="166">toxin</TOKEN>
+<TOKEN id="token-1-18" pos="punct" morph="none" start_char="167" end_char="167">,</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="169" end_char="171">the</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="173" end_char="182">California</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="184" end_char="193">Department</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="195" end_char="196">of</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="198" end_char="203">Public</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="205" end_char="210">Health</TOKEN>
+<TOKEN id="token-1-25" pos="punct" morph="none" start_char="212" end_char="212">(</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="213" end_char="216">CDPH</TOKEN>
+<TOKEN id="token-1-27" pos="punct" morph="none" start_char="217" end_char="217">)</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="219" end_char="227">confirmed</TOKEN>
+<TOKEN id="token-1-29" pos="word" morph="none" start_char="229" end_char="234">Monday</TOKEN>
+<TOKEN id="token-1-30" pos="punct" morph="none" start_char="235" end_char="235">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="238" end_char="292">
+<ORIGINAL_TEXT>"The nacho cheese sauce was removed from sale on May 5.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="punct" morph="none" start_char="238" end_char="238">"</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="239" end_char="241">The</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="243" end_char="247">nacho</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="249" end_char="254">cheese</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="256" end_char="260">sauce</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="262" end_char="264">was</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="266" end_char="272">removed</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="274" end_char="277">from</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="279" end_char="282">sale</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="284" end_char="285">on</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="287" end_char="289">May</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="291" end_char="291">5</TOKEN>
+<TOKEN id="token-2-12" pos="punct" morph="none" start_char="292" end_char="292">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="294" end_char="422">
+<ORIGINAL_TEXT>(The California Department of Public Health) believes there is no continuing risk to the public," the agency said in a statement.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="punct" morph="none" start_char="294" end_char="294">(</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="295" end_char="297">The</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="299" end_char="308">California</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="310" end_char="319">Department</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="321" end_char="322">of</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="324" end_char="329">Public</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="331" end_char="336">Health</TOKEN>
+<TOKEN id="token-3-7" pos="punct" morph="none" start_char="337" end_char="337">)</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="339" end_char="346">believes</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="348" end_char="352">there</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="354" end_char="355">is</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="357" end_char="358">no</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="360" end_char="369">continuing</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="371" end_char="374">risk</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="376" end_char="377">to</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="379" end_char="381">the</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="383" end_char="388">public</TOKEN>
+<TOKEN id="token-3-17" pos="punct" morph="none" start_char="389" end_char="390">,"</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="392" end_char="394">the</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="396" end_char="401">agency</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="403" end_char="406">said</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="408" end_char="409">in</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="411" end_char="411">a</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="413" end_char="421">statement</TOKEN>
+<TOKEN id="token-3-24" pos="punct" morph="none" start_char="422" end_char="422">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="426" end_char="478">
+<ORIGINAL_TEXT>Nacho Cheese Sauce Blamed in Deadly Botulism Outbreak</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="426" end_char="430">Nacho</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="432" end_char="437">Cheese</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="439" end_char="443">Sauce</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="445" end_char="450">Blamed</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="452" end_char="453">in</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="455" end_char="460">Deadly</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="462" end_char="469">Botulism</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="471" end_char="478">Outbreak</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="482" end_char="498">
+<ORIGINAL_TEXT>May 23, 201701:57</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="482" end_char="484">May</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="486" end_char="487">23</TOKEN>
+<TOKEN id="token-5-2" pos="punct" morph="none" start_char="488" end_char="488">,</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="490" end_char="498">201701:57</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="501" end_char="669">
+<ORIGINAL_TEXT>"While there are still unanswered questions about this outbreak, these tragic illnesses are important reminders to be vigilant about food safety," said CDPH Director Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="punct" morph="none" start_char="501" end_char="501">"</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="502" end_char="506">While</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="508" end_char="512">there</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="514" end_char="516">are</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="518" end_char="522">still</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="524" end_char="533">unanswered</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="535" end_char="543">questions</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="545" end_char="549">about</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="551" end_char="554">this</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="556" end_char="563">outbreak</TOKEN>
+<TOKEN id="token-6-10" pos="punct" morph="none" start_char="564" end_char="564">,</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="566" end_char="570">these</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="572" end_char="577">tragic</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="579" end_char="587">illnesses</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="589" end_char="591">are</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="593" end_char="601">important</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="603" end_char="611">reminders</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="613" end_char="614">to</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="616" end_char="617">be</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="619" end_char="626">vigilant</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="628" end_char="632">about</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="634" end_char="637">food</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="639" end_char="644">safety</TOKEN>
+<TOKEN id="token-6-23" pos="punct" morph="none" start_char="645" end_char="646">,"</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="648" end_char="651">said</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="653" end_char="656">CDPH</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="658" end_char="665">Director</TOKEN>
+<TOKEN id="token-6-27" pos="word" morph="none" start_char="667" end_char="668">Dr</TOKEN>
+<TOKEN id="token-6-28" pos="punct" morph="none" start_char="669" end_char="669">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="671" end_char="682">
+<ORIGINAL_TEXT>Karen Smith.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="671" end_char="675">Karen</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="677" end_char="681">Smith</TOKEN>
+<TOKEN id="token-7-2" pos="punct" morph="none" start_char="682" end_char="682">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="684" end_char="811">
+<ORIGINAL_TEXT>"As we head into the summer barbecue season, both indoor and outdoor chefs need to be on guard against all foodborne illnesses."</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="punct" morph="none" start_char="684" end_char="684">"</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="685" end_char="686">As</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="688" end_char="689">we</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="691" end_char="694">head</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="696" end_char="699">into</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="701" end_char="703">the</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="705" end_char="710">summer</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="712" end_char="719">barbecue</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="721" end_char="726">season</TOKEN>
+<TOKEN id="token-8-9" pos="punct" morph="none" start_char="727" end_char="727">,</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="729" end_char="732">both</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="734" end_char="739">indoor</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="741" end_char="743">and</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="745" end_char="751">outdoor</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="753" end_char="757">chefs</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="759" end_char="762">need</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="764" end_char="765">to</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="767" end_char="768">be</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="770" end_char="771">on</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="773" end_char="777">guard</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="779" end_char="785">against</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="787" end_char="789">all</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="791" end_char="799">foodborne</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="801" end_char="809">illnesses</TOKEN>
+<TOKEN id="token-8-24" pos="punct" morph="none" start_char="810" end_char="811">."</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="814" end_char="858">
+<ORIGINAL_TEXT>Botulism is caused by toxic bacteria, usually</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="814" end_char="821">Botulism</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="823" end_char="824">is</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="826" end_char="831">caused</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="833" end_char="834">by</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="836" end_char="840">toxic</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="842" end_char="849">bacteria</TOKEN>
+<TOKEN id="token-9-6" pos="punct" morph="none" start_char="850" end_char="850">,</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="852" end_char="858">usually</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="861" end_char="881">
+<ORIGINAL_TEXT>Clostridium botulinum</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="861" end_char="871">Clostridium</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="873" end_char="881">botulinum</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="884" end_char="896">
+<ORIGINAL_TEXT>but sometimes</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="884" end_char="886">but</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="888" end_char="896">sometimes</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="899" end_char="943">
+<ORIGINAL_TEXT>Clostridium butyricum and Clostridium baratii</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="899" end_char="909">Clostridium</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="911" end_char="919">butyricum</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="921" end_char="923">and</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="925" end_char="935">Clostridium</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="937" end_char="943">baratii</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="946" end_char="946">
+<ORIGINAL_TEXT>.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="punct" morph="none" start_char="946" end_char="946">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="949" end_char="1036">
+<ORIGINAL_TEXT>It’s best known as the illness caused by home-canned foods but it’s also found in honey.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="949" end_char="952">It’s</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="954" end_char="957">best</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="959" end_char="963">known</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="965" end_char="966">as</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="968" end_char="970">the</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="972" end_char="978">illness</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="980" end_char="985">caused</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="987" end_char="988">by</TOKEN>
+<TOKEN id="token-14-8" pos="unknown" morph="none" start_char="990" end_char="1000">home-canned</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1002" end_char="1006">foods</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1008" end_char="1010">but</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1012" end_char="1015">it’s</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1017" end_char="1020">also</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1022" end_char="1026">found</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1028" end_char="1029">in</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1031" end_char="1035">honey</TOKEN>
+<TOKEN id="token-14-16" pos="punct" morph="none" start_char="1036" end_char="1036">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1038" end_char="1134">
+<ORIGINAL_TEXT>Home-made potato salad served at an Ohio church picnic killed one person and sickened 29 in 2015.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="1038" end_char="1046">Home-made</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1048" end_char="1053">potato</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1055" end_char="1059">salad</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1061" end_char="1066">served</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1068" end_char="1069">at</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1071" end_char="1072">an</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1074" end_char="1077">Ohio</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="1079" end_char="1084">church</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1086" end_char="1091">picnic</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="1093" end_char="1098">killed</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="1100" end_char="1102">one</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="1104" end_char="1109">person</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1111" end_char="1113">and</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="1115" end_char="1122">sickened</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="1124" end_char="1125">29</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="1127" end_char="1128">in</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="1130" end_char="1133">2015</TOKEN>
+<TOKEN id="token-15-17" pos="punct" morph="none" start_char="1134" end_char="1134">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1137" end_char="1165">
+<ORIGINAL_TEXT>Nachos and cheeseShutterstock</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1137" end_char="1142">Nachos</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1144" end_char="1146">and</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1148" end_char="1165">cheeseShutterstock</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1169" end_char="1228">
+<ORIGINAL_TEXT>A big enough dose of the toxin can paralyze and kill people.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1169" end_char="1169">A</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1171" end_char="1173">big</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1175" end_char="1180">enough</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1182" end_char="1185">dose</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="1187" end_char="1188">of</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="1190" end_char="1192">the</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="1194" end_char="1198">toxin</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1200" end_char="1202">can</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="1204" end_char="1211">paralyze</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="1213" end_char="1215">and</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="1217" end_char="1220">kill</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="1222" end_char="1227">people</TOKEN>
+<TOKEN id="token-17-12" pos="punct" morph="none" start_char="1228" end_char="1228">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1231" end_char="1328">
+<ORIGINAL_TEXT>Symptoms of botulism include blurred vision, drooping eyelids, slurred speech and muscle weakness.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="1231" end_char="1238">Symptoms</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="1240" end_char="1241">of</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="1243" end_char="1250">botulism</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="1252" end_char="1258">include</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="1260" end_char="1266">blurred</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="1268" end_char="1273">vision</TOKEN>
+<TOKEN id="token-18-6" pos="punct" morph="none" start_char="1274" end_char="1274">,</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="1276" end_char="1283">drooping</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="1285" end_char="1291">eyelids</TOKEN>
+<TOKEN id="token-18-9" pos="punct" morph="none" start_char="1292" end_char="1292">,</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="1294" end_char="1300">slurred</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="1302" end_char="1307">speech</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="1309" end_char="1311">and</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="1313" end_char="1318">muscle</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="1320" end_char="1327">weakness</TOKEN>
+<TOKEN id="token-18-15" pos="punct" morph="none" start_char="1328" end_char="1328">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1331" end_char="1423">
+<ORIGINAL_TEXT>"Botulism can be treated with antitoxin and supportive care, often in an intensive care unit.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="punct" morph="none" start_char="1331" end_char="1331">"</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1332" end_char="1339">Botulism</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1341" end_char="1343">can</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1345" end_char="1346">be</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1348" end_char="1354">treated</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="1356" end_char="1359">with</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="1361" end_char="1369">antitoxin</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1371" end_char="1373">and</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="1375" end_char="1384">supportive</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="1386" end_char="1389">care</TOKEN>
+<TOKEN id="token-19-10" pos="punct" morph="none" start_char="1390" end_char="1390">,</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="1392" end_char="1396">often</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="1398" end_char="1399">in</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="1401" end_char="1402">an</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="1404" end_char="1412">intensive</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="1414" end_char="1417">care</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="1419" end_char="1422">unit</TOKEN>
+<TOKEN id="token-19-17" pos="punct" morph="none" start_char="1423" end_char="1423">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1425" end_char="1486">
+<ORIGINAL_TEXT>Botulism is fatal in about 5 percent of cases," the CDPH said.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1425" end_char="1432">Botulism</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1434" end_char="1435">is</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1437" end_char="1441">fatal</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1443" end_char="1444">in</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1446" end_char="1450">about</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="1452" end_char="1452">5</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="1454" end_char="1460">percent</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="1462" end_char="1463">of</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="1465" end_char="1469">cases</TOKEN>
+<TOKEN id="token-20-9" pos="punct" morph="none" start_char="1470" end_char="1471">,"</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="1473" end_char="1475">the</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="1477" end_char="1480">CDPH</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="1482" end_char="1485">said</TOKEN>
+<TOKEN id="token-20-13" pos="punct" morph="none" start_char="1486" end_char="1486">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1489" end_char="1562">
+<ORIGINAL_TEXT>The nacho cheese outbreak was traced to a Sacramento area service station.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="1489" end_char="1491">The</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="1493" end_char="1497">nacho</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="1499" end_char="1504">cheese</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="1506" end_char="1513">outbreak</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="1515" end_char="1517">was</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="1519" end_char="1524">traced</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="1526" end_char="1527">to</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="1529" end_char="1529">a</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="1531" end_char="1540">Sacramento</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="1542" end_char="1545">area</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="1547" end_char="1553">service</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="1555" end_char="1561">station</TOKEN>
+<TOKEN id="token-21-12" pos="punct" morph="none" start_char="1562" end_char="1562">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1564" end_char="1652">
+<ORIGINAL_TEXT>The San Francisco County coroner’s office said the person who died was a 37-year-old man.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="1564" end_char="1566">The</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="1568" end_char="1570">San</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="1572" end_char="1580">Francisco</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="1582" end_char="1587">County</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="1589" end_char="1597">coroner’s</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="1599" end_char="1604">office</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="1606" end_char="1609">said</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="1611" end_char="1613">the</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="1615" end_char="1620">person</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="1622" end_char="1624">who</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="1626" end_char="1629">died</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="1631" end_char="1633">was</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="1635" end_char="1635">a</TOKEN>
+<TOKEN id="token-22-13" pos="unknown" morph="none" start_char="1637" end_char="1647">37-year-old</TOKEN>
+<TOKEN id="token-22-14" pos="word" morph="none" start_char="1649" end_char="1651">man</TOKEN>
+<TOKEN id="token-22-15" pos="punct" morph="none" start_char="1652" end_char="1652">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1655" end_char="1739">
+<ORIGINAL_TEXT>Botulism can be a silent killer, the Centers for Disease Control and Prevention says.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="1655" end_char="1662">Botulism</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="1664" end_char="1666">can</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="1668" end_char="1669">be</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="1671" end_char="1671">a</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="1673" end_char="1678">silent</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="1680" end_char="1685">killer</TOKEN>
+<TOKEN id="token-23-6" pos="punct" morph="none" start_char="1686" end_char="1686">,</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="1688" end_char="1690">the</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="1692" end_char="1698">Centers</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="1700" end_char="1702">for</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="1704" end_char="1710">Disease</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="1712" end_char="1718">Control</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="1720" end_char="1722">and</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="1724" end_char="1733">Prevention</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="1735" end_char="1738">says</TOKEN>
+<TOKEN id="token-23-15" pos="punct" morph="none" start_char="1739" end_char="1739">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1742" end_char="1830">
+<ORIGINAL_TEXT>"Home-canned foods could be contaminated but look, smell and taste normal," the CDC said.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="punct" morph="none" start_char="1742" end_char="1742">"</TOKEN>
+<TOKEN id="token-24-1" pos="unknown" morph="none" start_char="1743" end_char="1753">Home-canned</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="1755" end_char="1759">foods</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="1761" end_char="1765">could</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="1767" end_char="1768">be</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="1770" end_char="1781">contaminated</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="1783" end_char="1785">but</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="1787" end_char="1790">look</TOKEN>
+<TOKEN id="token-24-8" pos="punct" morph="none" start_char="1791" end_char="1791">,</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="1793" end_char="1797">smell</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="1799" end_char="1801">and</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="1803" end_char="1807">taste</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="1809" end_char="1814">normal</TOKEN>
+<TOKEN id="token-24-13" pos="punct" morph="none" start_char="1815" end_char="1816">,"</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="1818" end_char="1820">the</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="1822" end_char="1824">CDC</TOKEN>
+<TOKEN id="token-24-16" pos="word" morph="none" start_char="1826" end_char="1829">said</TOKEN>
+<TOKEN id="token-24-17" pos="punct" morph="none" start_char="1830" end_char="1830">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="1833" end_char="1933">
+<ORIGINAL_TEXT>"If there is any doubt about whether safe canning guidelines have been followed, do not eat the food.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="punct" morph="none" start_char="1833" end_char="1833">"</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="1834" end_char="1835">If</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="1837" end_char="1841">there</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="1843" end_char="1844">is</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="1846" end_char="1848">any</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="1850" end_char="1854">doubt</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="1856" end_char="1860">about</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="1862" end_char="1868">whether</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="1870" end_char="1873">safe</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="1875" end_char="1881">canning</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="1883" end_char="1892">guidelines</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="1894" end_char="1897">have</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="1899" end_char="1902">been</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="1904" end_char="1911">followed</TOKEN>
+<TOKEN id="token-25-14" pos="punct" morph="none" start_char="1912" end_char="1912">,</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="1914" end_char="1915">do</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="1917" end_char="1919">not</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="1921" end_char="1923">eat</TOKEN>
+<TOKEN id="token-25-18" pos="word" morph="none" start_char="1925" end_char="1927">the</TOKEN>
+<TOKEN id="token-25-19" pos="word" morph="none" start_char="1929" end_char="1932">food</TOKEN>
+<TOKEN id="token-25-20" pos="punct" morph="none" start_char="1933" end_char="1933">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="1935" end_char="2078">
+<ORIGINAL_TEXT>Home-canned food might be contaminated if the container is leaking, bulging, or swollen (or) the container looks damaged, cracked, or abnormal."</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="unknown" morph="none" start_char="1935" end_char="1945">Home-canned</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="1947" end_char="1950">food</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="1952" end_char="1956">might</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="1958" end_char="1959">be</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="1961" end_char="1972">contaminated</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="1974" end_char="1975">if</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="1977" end_char="1979">the</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="1981" end_char="1989">container</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="1991" end_char="1992">is</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="1994" end_char="2000">leaking</TOKEN>
+<TOKEN id="token-26-10" pos="punct" morph="none" start_char="2001" end_char="2001">,</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="2003" end_char="2009">bulging</TOKEN>
+<TOKEN id="token-26-12" pos="punct" morph="none" start_char="2010" end_char="2010">,</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="2012" end_char="2013">or</TOKEN>
+<TOKEN id="token-26-14" pos="word" morph="none" start_char="2015" end_char="2021">swollen</TOKEN>
+<TOKEN id="token-26-15" pos="punct" morph="none" start_char="2023" end_char="2023">(</TOKEN>
+<TOKEN id="token-26-16" pos="word" morph="none" start_char="2024" end_char="2025">or</TOKEN>
+<TOKEN id="token-26-17" pos="punct" morph="none" start_char="2026" end_char="2026">)</TOKEN>
+<TOKEN id="token-26-18" pos="word" morph="none" start_char="2028" end_char="2030">the</TOKEN>
+<TOKEN id="token-26-19" pos="word" morph="none" start_char="2032" end_char="2040">container</TOKEN>
+<TOKEN id="token-26-20" pos="word" morph="none" start_char="2042" end_char="2046">looks</TOKEN>
+<TOKEN id="token-26-21" pos="word" morph="none" start_char="2048" end_char="2054">damaged</TOKEN>
+<TOKEN id="token-26-22" pos="punct" morph="none" start_char="2055" end_char="2055">,</TOKEN>
+<TOKEN id="token-26-23" pos="word" morph="none" start_char="2057" end_char="2063">cracked</TOKEN>
+<TOKEN id="token-26-24" pos="punct" morph="none" start_char="2064" end_char="2064">,</TOKEN>
+<TOKEN id="token-26-25" pos="word" morph="none" start_char="2066" end_char="2067">or</TOKEN>
+<TOKEN id="token-26-26" pos="word" morph="none" start_char="2069" end_char="2076">abnormal</TOKEN>
+<TOKEN id="token-26-27" pos="punct" morph="none" start_char="2077" end_char="2078">."</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="2081" end_char="2103">
+<ORIGINAL_TEXT>Get the Morning Rundown</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="2081" end_char="2083">Get</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="2085" end_char="2087">the</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="2089" end_char="2095">Morning</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="2097" end_char="2103">Rundown</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="2106" end_char="2151">
+<ORIGINAL_TEXT>Get a head start on the morning's top stories.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="2106" end_char="2108">Get</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="2110" end_char="2110">a</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="2112" end_char="2115">head</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="2117" end_char="2121">start</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="2123" end_char="2124">on</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="2126" end_char="2128">the</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="2130" end_char="2138">morning's</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="2140" end_char="2142">top</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="2144" end_char="2150">stories</TOKEN>
+<TOKEN id="token-28-9" pos="punct" morph="none" start_char="2151" end_char="2151">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="2154" end_char="2222">
+<ORIGINAL_TEXT>This site is protected by recaptcha Privacy Policy | Terms of Service</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="2154" end_char="2157">This</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="2159" end_char="2162">site</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="2164" end_char="2165">is</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="2167" end_char="2175">protected</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="2177" end_char="2178">by</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="2180" end_char="2188">recaptcha</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="2190" end_char="2196">Privacy</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="2198" end_char="2203">Policy</TOKEN>
+<TOKEN id="token-29-8" pos="unknown" morph="none" start_char="2205" end_char="2205">|</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="2207" end_char="2211">Terms</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="2213" end_char="2214">of</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="2216" end_char="2222">Service</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,1755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="L0C04D4RB" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="8630" raw_text_md5="08bb35f76075f5a53b4f88a022a8cbfc">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="73">
+<ORIGINAL_TEXT>Former food safety manager for PCA wants Supreme Court to review her case</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="6">Former</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="8" end_char="11">food</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="13" end_char="18">safety</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="20" end_char="26">manager</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="28" end_char="30">for</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="32" end_char="34">PCA</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="36" end_char="40">wants</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="42" end_char="48">Supreme</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="50" end_char="54">Court</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="56" end_char="57">to</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="59" end_char="64">review</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="66" end_char="68">her</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="70" end_char="73">case</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="78" end_char="316">
+<ORIGINAL_TEXT>Mary Wilkerson, who says she was given the title of quality assurance manager for the now-defunct Peanut Corporation of American (PCA), but "apparently not the authority," wants the U.S. Supreme Court to review her conviction and sentence.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="78" end_char="81">Mary</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="83" end_char="91">Wilkerson</TOKEN>
+<TOKEN id="token-1-2" pos="punct" morph="none" start_char="92" end_char="92">,</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="94" end_char="96">who</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="98" end_char="101">says</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="103" end_char="105">she</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="107" end_char="109">was</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="111" end_char="115">given</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="117" end_char="119">the</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="121" end_char="125">title</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="127" end_char="128">of</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="130" end_char="136">quality</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="138" end_char="146">assurance</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="148" end_char="154">manager</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="156" end_char="158">for</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="160" end_char="162">the</TOKEN>
+<TOKEN id="token-1-16" pos="unknown" morph="none" start_char="164" end_char="174">now-defunct</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="176" end_char="181">Peanut</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="183" end_char="193">Corporation</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="195" end_char="196">of</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="198" end_char="205">American</TOKEN>
+<TOKEN id="token-1-21" pos="punct" morph="none" start_char="207" end_char="207">(</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="208" end_char="210">PCA</TOKEN>
+<TOKEN id="token-1-23" pos="punct" morph="none" start_char="211" end_char="212">),</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="214" end_char="216">but</TOKEN>
+<TOKEN id="token-1-25" pos="punct" morph="none" start_char="218" end_char="218">"</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="219" end_char="228">apparently</TOKEN>
+<TOKEN id="token-1-27" pos="word" morph="none" start_char="230" end_char="232">not</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="234" end_char="236">the</TOKEN>
+<TOKEN id="token-1-29" pos="word" morph="none" start_char="238" end_char="246">authority</TOKEN>
+<TOKEN id="token-1-30" pos="punct" morph="none" start_char="247" end_char="248">,"</TOKEN>
+<TOKEN id="token-1-31" pos="word" morph="none" start_char="250" end_char="254">wants</TOKEN>
+<TOKEN id="token-1-32" pos="word" morph="none" start_char="256" end_char="258">the</TOKEN>
+<TOKEN id="token-1-33" pos="unknown" morph="none" start_char="260" end_char="262">U.S</TOKEN>
+<TOKEN id="token-1-34" pos="punct" morph="none" start_char="263" end_char="263">.</TOKEN>
+<TOKEN id="token-1-35" pos="word" morph="none" start_char="265" end_char="271">Supreme</TOKEN>
+<TOKEN id="token-1-36" pos="word" morph="none" start_char="273" end_char="277">Court</TOKEN>
+<TOKEN id="token-1-37" pos="word" morph="none" start_char="279" end_char="280">to</TOKEN>
+<TOKEN id="token-1-38" pos="word" morph="none" start_char="282" end_char="287">review</TOKEN>
+<TOKEN id="token-1-39" pos="word" morph="none" start_char="289" end_char="291">her</TOKEN>
+<TOKEN id="token-1-40" pos="word" morph="none" start_char="293" end_char="302">conviction</TOKEN>
+<TOKEN id="token-1-41" pos="word" morph="none" start_char="304" end_char="306">and</TOKEN>
+<TOKEN id="token-1-42" pos="word" morph="none" start_char="308" end_char="315">sentence</TOKEN>
+<TOKEN id="token-1-43" pos="punct" morph="none" start_char="316" end_char="316">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="318" end_char="452">
+<ORIGINAL_TEXT>Her case was one of three criminal prosecutions in relation to a Salmonella outbreak in 2008-09 that killed nine and sickened hundreds.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="318" end_char="320">Her</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="322" end_char="325">case</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="327" end_char="329">was</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="331" end_char="333">one</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="335" end_char="336">of</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="338" end_char="342">three</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="344" end_char="351">criminal</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="353" end_char="364">prosecutions</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="366" end_char="367">in</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="369" end_char="376">relation</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="378" end_char="379">to</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="381" end_char="381">a</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="383" end_char="392">Salmonella</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="394" end_char="401">outbreak</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="403" end_char="404">in</TOKEN>
+<TOKEN id="token-2-15" pos="unknown" morph="none" start_char="406" end_char="412">2008-09</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="414" end_char="417">that</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="419" end_char="424">killed</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="426" end_char="429">nine</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="431" end_char="433">and</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="435" end_char="442">sickened</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="444" end_char="451">hundreds</TOKEN>
+<TOKEN id="token-2-22" pos="punct" morph="none" start_char="452" end_char="452">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="455" end_char="612">
+<ORIGINAL_TEXT>Wilkerson, who was originally employed at PCA’s Blakely, GA, plant as a secretary, petitioned the highest court in the land with a writ of certiorari on Sept.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="455" end_char="463">Wilkerson</TOKEN>
+<TOKEN id="token-3-1" pos="punct" morph="none" start_char="464" end_char="464">,</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="466" end_char="468">who</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="470" end_char="472">was</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="474" end_char="483">originally</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="485" end_char="492">employed</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="494" end_char="495">at</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="497" end_char="501">PCA’s</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="503" end_char="509">Blakely</TOKEN>
+<TOKEN id="token-3-9" pos="punct" morph="none" start_char="510" end_char="510">,</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="512" end_char="513">GA</TOKEN>
+<TOKEN id="token-3-11" pos="punct" morph="none" start_char="514" end_char="514">,</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="516" end_char="520">plant</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="522" end_char="523">as</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="525" end_char="525">a</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="527" end_char="535">secretary</TOKEN>
+<TOKEN id="token-3-16" pos="punct" morph="none" start_char="536" end_char="536">,</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="538" end_char="547">petitioned</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="549" end_char="551">the</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="553" end_char="559">highest</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="561" end_char="565">court</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="567" end_char="568">in</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="570" end_char="572">the</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="574" end_char="577">land</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="579" end_char="582">with</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="584" end_char="584">a</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="586" end_char="589">writ</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="591" end_char="592">of</TOKEN>
+<TOKEN id="token-3-28" pos="word" morph="none" start_char="594" end_char="603">certiorari</TOKEN>
+<TOKEN id="token-3-29" pos="word" morph="none" start_char="605" end_char="606">on</TOKEN>
+<TOKEN id="token-3-30" pos="word" morph="none" start_char="608" end_char="611">Sept</TOKEN>
+<TOKEN id="token-3-31" pos="punct" morph="none" start_char="612" end_char="612">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="614" end_char="615">
+<ORIGINAL_TEXT>7.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="614" end_char="614">7</TOKEN>
+<TOKEN id="token-4-1" pos="punct" morph="none" start_char="615" end_char="615">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="617" end_char="652">
+<ORIGINAL_TEXT>It was placed on the docket on Sept.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="617" end_char="618">It</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="620" end_char="622">was</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="624" end_char="629">placed</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="631" end_char="632">on</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="634" end_char="636">the</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="638" end_char="643">docket</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="645" end_char="646">on</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="648" end_char="651">Sept</TOKEN>
+<TOKEN id="token-5-8" pos="punct" morph="none" start_char="652" end_char="652">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="654" end_char="826">
+<ORIGINAL_TEXT>11, and the Solicitor General of the United States, who represents the government before the Supreme Court, waived his right file a response to Wilkerson’s petition on Sept.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="654" end_char="655">11</TOKEN>
+<TOKEN id="token-6-1" pos="punct" morph="none" start_char="656" end_char="656">,</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="658" end_char="660">and</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="662" end_char="664">the</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="666" end_char="674">Solicitor</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="676" end_char="682">General</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="684" end_char="685">of</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="687" end_char="689">the</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="691" end_char="696">United</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="698" end_char="703">States</TOKEN>
+<TOKEN id="token-6-10" pos="punct" morph="none" start_char="704" end_char="704">,</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="706" end_char="708">who</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="710" end_char="719">represents</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="721" end_char="723">the</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="725" end_char="734">government</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="736" end_char="741">before</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="743" end_char="745">the</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="747" end_char="753">Supreme</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="755" end_char="759">Court</TOKEN>
+<TOKEN id="token-6-19" pos="punct" morph="none" start_char="760" end_char="760">,</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="762" end_char="767">waived</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="769" end_char="771">his</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="773" end_char="777">right</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="779" end_char="782">file</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="784" end_char="784">a</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="786" end_char="793">response</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="795" end_char="796">to</TOKEN>
+<TOKEN id="token-6-27" pos="word" morph="none" start_char="798" end_char="808">Wilkerson’s</TOKEN>
+<TOKEN id="token-6-28" pos="word" morph="none" start_char="810" end_char="817">petition</TOKEN>
+<TOKEN id="token-6-29" pos="word" morph="none" start_char="819" end_char="820">on</TOKEN>
+<TOKEN id="token-6-30" pos="word" morph="none" start_char="822" end_char="825">Sept</TOKEN>
+<TOKEN id="token-6-31" pos="punct" morph="none" start_char="826" end_char="826">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="828" end_char="830">
+<ORIGINAL_TEXT>17.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="828" end_char="829">17</TOKEN>
+<TOKEN id="token-7-1" pos="punct" morph="none" start_char="830" end_char="830">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="832" end_char="856">
+<ORIGINAL_TEXT>Solicitor General Noel J.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="832" end_char="840">Solicitor</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="842" end_char="848">General</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="850" end_char="853">Noel</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="855" end_char="855">J</TOKEN>
+<TOKEN id="token-8-4" pos="punct" morph="none" start_char="856" end_char="856">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="858" end_char="922">
+<ORIGINAL_TEXT>Francisco said he’d only respond if requested to so by the Court.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="858" end_char="866">Francisco</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="868" end_char="871">said</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="873" end_char="876">he’d</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="878" end_char="881">only</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="883" end_char="889">respond</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="891" end_char="892">if</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="894" end_char="902">requested</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="904" end_char="905">to</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="907" end_char="908">so</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="910" end_char="911">by</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="913" end_char="915">the</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="917" end_char="921">Court</TOKEN>
+<TOKEN id="token-9-12" pos="punct" morph="none" start_char="922" end_char="922">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="925" end_char="1050">
+<ORIGINAL_TEXT>Wilkerson’s petition was filed "in forma pauperis" by her court-appointed defense attorney, Thomas G. Ledford from Albany, GA.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="925" end_char="935">Wilkerson’s</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="937" end_char="944">petition</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="946" end_char="948">was</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="950" end_char="954">filed</TOKEN>
+<TOKEN id="token-10-4" pos="punct" morph="none" start_char="956" end_char="956">"</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="957" end_char="958">in</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="960" end_char="964">forma</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="966" end_char="973">pauperis</TOKEN>
+<TOKEN id="token-10-8" pos="punct" morph="none" start_char="974" end_char="974">"</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="976" end_char="977">by</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="979" end_char="981">her</TOKEN>
+<TOKEN id="token-10-11" pos="unknown" morph="none" start_char="983" end_char="997">court-appointed</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="999" end_char="1005">defense</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1007" end_char="1014">attorney</TOKEN>
+<TOKEN id="token-10-14" pos="punct" morph="none" start_char="1015" end_char="1015">,</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1017" end_char="1022">Thomas</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1024" end_char="1024">G</TOKEN>
+<TOKEN id="token-10-17" pos="punct" morph="none" start_char="1025" end_char="1025">.</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="1027" end_char="1033">Ledford</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1035" end_char="1038">from</TOKEN>
+<TOKEN id="token-10-20" pos="word" morph="none" start_char="1040" end_char="1045">Albany</TOKEN>
+<TOKEN id="token-10-21" pos="punct" morph="none" start_char="1046" end_char="1046">,</TOKEN>
+<TOKEN id="token-10-22" pos="word" morph="none" start_char="1048" end_char="1049">GA</TOKEN>
+<TOKEN id="token-10-23" pos="punct" morph="none" start_char="1050" end_char="1050">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1052" end_char="1186">
+<ORIGINAL_TEXT>"In forma pauperis" means "in the character or manner of a pauper," and permits filing the writ without paying any court fees or costs.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="punct" morph="none" start_char="1052" end_char="1052">"</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1053" end_char="1054">In</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1056" end_char="1060">forma</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1062" end_char="1069">pauperis</TOKEN>
+<TOKEN id="token-11-4" pos="punct" morph="none" start_char="1070" end_char="1070">"</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1072" end_char="1076">means</TOKEN>
+<TOKEN id="token-11-6" pos="punct" morph="none" start_char="1078" end_char="1078">"</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1079" end_char="1080">in</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1082" end_char="1084">the</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1086" end_char="1094">character</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1096" end_char="1097">or</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1099" end_char="1104">manner</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1106" end_char="1107">of</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1109" end_char="1109">a</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1111" end_char="1116">pauper</TOKEN>
+<TOKEN id="token-11-15" pos="punct" morph="none" start_char="1117" end_char="1118">,"</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1120" end_char="1122">and</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1124" end_char="1130">permits</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="1132" end_char="1137">filing</TOKEN>
+<TOKEN id="token-11-19" pos="word" morph="none" start_char="1139" end_char="1141">the</TOKEN>
+<TOKEN id="token-11-20" pos="word" morph="none" start_char="1143" end_char="1146">writ</TOKEN>
+<TOKEN id="token-11-21" pos="word" morph="none" start_char="1148" end_char="1154">without</TOKEN>
+<TOKEN id="token-11-22" pos="word" morph="none" start_char="1156" end_char="1161">paying</TOKEN>
+<TOKEN id="token-11-23" pos="word" morph="none" start_char="1163" end_char="1165">any</TOKEN>
+<TOKEN id="token-11-24" pos="word" morph="none" start_char="1167" end_char="1171">court</TOKEN>
+<TOKEN id="token-11-25" pos="word" morph="none" start_char="1173" end_char="1176">fees</TOKEN>
+<TOKEN id="token-11-26" pos="word" morph="none" start_char="1178" end_char="1179">or</TOKEN>
+<TOKEN id="token-11-27" pos="word" morph="none" start_char="1181" end_char="1185">costs</TOKEN>
+<TOKEN id="token-11-28" pos="punct" morph="none" start_char="1186" end_char="1186">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1190" end_char="1245">
+<ORIGINAL_TEXT>The Supreme Court only hears cases it chooses to accept.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1190" end_char="1192">The</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1194" end_char="1200">Supreme</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1202" end_char="1206">Court</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1208" end_char="1211">only</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1213" end_char="1217">hears</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1219" end_char="1223">cases</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1225" end_char="1226">it</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1228" end_char="1234">chooses</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1236" end_char="1237">to</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1239" end_char="1244">accept</TOKEN>
+<TOKEN id="token-12-10" pos="punct" morph="none" start_char="1245" end_char="1245">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1247" end_char="1324">
+<ORIGINAL_TEXT>More than 7,000 writs are filed with the high court each year, seeking review.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1247" end_char="1250">More</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1252" end_char="1255">than</TOKEN>
+<TOKEN id="token-13-2" pos="unknown" morph="none" start_char="1257" end_char="1261">7,000</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1263" end_char="1267">writs</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1269" end_char="1271">are</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1273" end_char="1277">filed</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1279" end_char="1282">with</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1284" end_char="1286">the</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1288" end_char="1291">high</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1293" end_char="1297">court</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1299" end_char="1302">each</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1304" end_char="1307">year</TOKEN>
+<TOKEN id="token-13-12" pos="punct" morph="none" start_char="1308" end_char="1308">,</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1310" end_char="1316">seeking</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1318" end_char="1323">review</TOKEN>
+<TOKEN id="token-13-15" pos="punct" morph="none" start_char="1324" end_char="1324">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1326" end_char="1408">
+<ORIGINAL_TEXT>It takes four of the nine Supreme Court justices to grant a petition of certiorari.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1326" end_char="1327">It</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1329" end_char="1333">takes</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1335" end_char="1338">four</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1340" end_char="1341">of</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1343" end_char="1345">the</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1347" end_char="1350">nine</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1352" end_char="1358">Supreme</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1360" end_char="1364">Court</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1366" end_char="1373">justices</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1375" end_char="1376">to</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1378" end_char="1382">grant</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1384" end_char="1384">a</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1386" end_char="1393">petition</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1395" end_char="1396">of</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1398" end_char="1407">certiorari</TOKEN>
+<TOKEN id="token-14-15" pos="punct" morph="none" start_char="1408" end_char="1408">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1410" end_char="1534">
+<ORIGINAL_TEXT>Court clerks have a big influence on which cases make the cut as Justices only have time to hear about 150 cases each session</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1410" end_char="1414">Court</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1416" end_char="1421">clerks</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1423" end_char="1426">have</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1428" end_char="1428">a</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1430" end_char="1432">big</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1434" end_char="1442">influence</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1444" end_char="1445">on</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="1447" end_char="1451">which</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1453" end_char="1457">cases</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="1459" end_char="1462">make</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="1464" end_char="1466">the</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="1468" end_char="1470">cut</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1472" end_char="1473">as</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="1475" end_char="1482">Justices</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="1484" end_char="1487">only</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="1489" end_char="1492">have</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="1494" end_char="1497">time</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="1499" end_char="1500">to</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="1502" end_char="1505">hear</TOKEN>
+<TOKEN id="token-15-19" pos="word" morph="none" start_char="1507" end_char="1511">about</TOKEN>
+<TOKEN id="token-15-20" pos="word" morph="none" start_char="1513" end_char="1515">150</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="1517" end_char="1521">cases</TOKEN>
+<TOKEN id="token-15-22" pos="word" morph="none" start_char="1523" end_char="1526">each</TOKEN>
+<TOKEN id="token-15-23" pos="word" morph="none" start_char="1528" end_char="1534">session</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1537" end_char="1716">
+<ORIGINAL_TEXT>Wilkerson, 45, is incarcerated at the minimum security satellite camp to the Federal Correction Institution at Marianna, FL, about 60 miles from her family’s home in South Georgia.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1537" end_char="1545">Wilkerson</TOKEN>
+<TOKEN id="token-16-1" pos="punct" morph="none" start_char="1546" end_char="1546">,</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1548" end_char="1549">45</TOKEN>
+<TOKEN id="token-16-3" pos="punct" morph="none" start_char="1550" end_char="1550">,</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1552" end_char="1553">is</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1555" end_char="1566">incarcerated</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="1568" end_char="1569">at</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1571" end_char="1573">the</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1575" end_char="1581">minimum</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="1583" end_char="1590">security</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="1592" end_char="1600">satellite</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="1602" end_char="1605">camp</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="1607" end_char="1608">to</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="1610" end_char="1612">the</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="1614" end_char="1620">Federal</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="1622" end_char="1631">Correction</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="1633" end_char="1643">Institution</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="1645" end_char="1646">at</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="1648" end_char="1655">Marianna</TOKEN>
+<TOKEN id="token-16-19" pos="punct" morph="none" start_char="1656" end_char="1656">,</TOKEN>
+<TOKEN id="token-16-20" pos="word" morph="none" start_char="1658" end_char="1659">FL</TOKEN>
+<TOKEN id="token-16-21" pos="punct" morph="none" start_char="1660" end_char="1660">,</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="1662" end_char="1666">about</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="1668" end_char="1669">60</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="1671" end_char="1675">miles</TOKEN>
+<TOKEN id="token-16-25" pos="word" morph="none" start_char="1677" end_char="1680">from</TOKEN>
+<TOKEN id="token-16-26" pos="word" morph="none" start_char="1682" end_char="1684">her</TOKEN>
+<TOKEN id="token-16-27" pos="word" morph="none" start_char="1686" end_char="1693">family’s</TOKEN>
+<TOKEN id="token-16-28" pos="word" morph="none" start_char="1695" end_char="1698">home</TOKEN>
+<TOKEN id="token-16-29" pos="word" morph="none" start_char="1700" end_char="1701">in</TOKEN>
+<TOKEN id="token-16-30" pos="word" morph="none" start_char="1703" end_char="1707">South</TOKEN>
+<TOKEN id="token-16-31" pos="word" morph="none" start_char="1709" end_char="1715">Georgia</TOKEN>
+<TOKEN id="token-16-32" pos="punct" morph="none" start_char="1716" end_char="1716">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1718" end_char="1837">
+<ORIGINAL_TEXT>Unless the Supreme Court intervenes, she will serve another 18 months on her 5-year sentence for obstruction of justice.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1718" end_char="1723">Unless</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1725" end_char="1727">the</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1729" end_char="1735">Supreme</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1737" end_char="1741">Court</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="1743" end_char="1752">intervenes</TOKEN>
+<TOKEN id="token-17-5" pos="punct" morph="none" start_char="1753" end_char="1753">,</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="1755" end_char="1757">she</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1759" end_char="1762">will</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="1764" end_char="1768">serve</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="1770" end_char="1776">another</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="1778" end_char="1779">18</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="1781" end_char="1786">months</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="1788" end_char="1789">on</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="1791" end_char="1793">her</TOKEN>
+<TOKEN id="token-17-14" pos="unknown" morph="none" start_char="1795" end_char="1800">5-year</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="1802" end_char="1809">sentence</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="1811" end_char="1813">for</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="1815" end_char="1825">obstruction</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="1827" end_char="1828">of</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="1830" end_char="1836">justice</TOKEN>
+<TOKEN id="token-17-20" pos="punct" morph="none" start_char="1837" end_char="1837">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1839" end_char="1901">
+<ORIGINAL_TEXT>She’ll then be on a supervised federal probation for two years.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="1839" end_char="1844">She’ll</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="1846" end_char="1849">then</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="1851" end_char="1852">be</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="1854" end_char="1855">on</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="1857" end_char="1857">a</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="1859" end_char="1868">supervised</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="1870" end_char="1876">federal</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="1878" end_char="1886">probation</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="1888" end_char="1890">for</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="1892" end_char="1894">two</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="1896" end_char="1900">years</TOKEN>
+<TOKEN id="token-18-11" pos="punct" morph="none" start_char="1901" end_char="1901">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1904" end_char="2052">
+<ORIGINAL_TEXT>A federal jury in Albany, GA, acquitted Wilkerson on one count of obstruction of justice but found her guilty on the second court for the same crime.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1904" end_char="1904">A</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1906" end_char="1912">federal</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1914" end_char="1917">jury</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1919" end_char="1920">in</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1922" end_char="1927">Albany</TOKEN>
+<TOKEN id="token-19-5" pos="punct" morph="none" start_char="1928" end_char="1928">,</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="1930" end_char="1931">GA</TOKEN>
+<TOKEN id="token-19-7" pos="punct" morph="none" start_char="1932" end_char="1932">,</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="1934" end_char="1942">acquitted</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="1944" end_char="1952">Wilkerson</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="1954" end_char="1955">on</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="1957" end_char="1959">one</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="1961" end_char="1965">count</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="1967" end_char="1968">of</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="1970" end_char="1980">obstruction</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="1982" end_char="1983">of</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="1985" end_char="1991">justice</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="1993" end_char="1995">but</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="1997" end_char="2001">found</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="2003" end_char="2005">her</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="2007" end_char="2012">guilty</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="2014" end_char="2015">on</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="2017" end_char="2019">the</TOKEN>
+<TOKEN id="token-19-23" pos="word" morph="none" start_char="2021" end_char="2026">second</TOKEN>
+<TOKEN id="token-19-24" pos="word" morph="none" start_char="2028" end_char="2032">court</TOKEN>
+<TOKEN id="token-19-25" pos="word" morph="none" start_char="2034" end_char="2036">for</TOKEN>
+<TOKEN id="token-19-26" pos="word" morph="none" start_char="2038" end_char="2040">the</TOKEN>
+<TOKEN id="token-19-27" pos="word" morph="none" start_char="2042" end_char="2045">same</TOKEN>
+<TOKEN id="token-19-28" pos="word" morph="none" start_char="2047" end_char="2051">crime</TOKEN>
+<TOKEN id="token-19-29" pos="punct" morph="none" start_char="2052" end_char="2052">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2055" end_char="2331">
+<ORIGINAL_TEXT>The same jury convicted former PCA owner and executive Stewart Parnell,64, and his peanut broker brother Michael Parnell, 59, of multiple federal felony counts stemming from a multistate Salmonella outbreak, traced to peanut butter and peanut paste PCA produced in Blakely, GA.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="2055" end_char="2057">The</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2059" end_char="2062">same</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="2064" end_char="2067">jury</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="2069" end_char="2077">convicted</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="2079" end_char="2084">former</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="2086" end_char="2088">PCA</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="2090" end_char="2094">owner</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="2096" end_char="2098">and</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="2100" end_char="2108">executive</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="2110" end_char="2116">Stewart</TOKEN>
+<TOKEN id="token-20-10" pos="unknown" morph="none" start_char="2118" end_char="2127">Parnell,64</TOKEN>
+<TOKEN id="token-20-11" pos="punct" morph="none" start_char="2128" end_char="2128">,</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="2130" end_char="2132">and</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="2134" end_char="2136">his</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="2138" end_char="2143">peanut</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="2145" end_char="2150">broker</TOKEN>
+<TOKEN id="token-20-16" pos="word" morph="none" start_char="2152" end_char="2158">brother</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="2160" end_char="2166">Michael</TOKEN>
+<TOKEN id="token-20-18" pos="word" morph="none" start_char="2168" end_char="2174">Parnell</TOKEN>
+<TOKEN id="token-20-19" pos="punct" morph="none" start_char="2175" end_char="2175">,</TOKEN>
+<TOKEN id="token-20-20" pos="word" morph="none" start_char="2177" end_char="2178">59</TOKEN>
+<TOKEN id="token-20-21" pos="punct" morph="none" start_char="2179" end_char="2179">,</TOKEN>
+<TOKEN id="token-20-22" pos="word" morph="none" start_char="2181" end_char="2182">of</TOKEN>
+<TOKEN id="token-20-23" pos="word" morph="none" start_char="2184" end_char="2191">multiple</TOKEN>
+<TOKEN id="token-20-24" pos="word" morph="none" start_char="2193" end_char="2199">federal</TOKEN>
+<TOKEN id="token-20-25" pos="word" morph="none" start_char="2201" end_char="2206">felony</TOKEN>
+<TOKEN id="token-20-26" pos="word" morph="none" start_char="2208" end_char="2213">counts</TOKEN>
+<TOKEN id="token-20-27" pos="word" morph="none" start_char="2215" end_char="2222">stemming</TOKEN>
+<TOKEN id="token-20-28" pos="word" morph="none" start_char="2224" end_char="2227">from</TOKEN>
+<TOKEN id="token-20-29" pos="word" morph="none" start_char="2229" end_char="2229">a</TOKEN>
+<TOKEN id="token-20-30" pos="word" morph="none" start_char="2231" end_char="2240">multistate</TOKEN>
+<TOKEN id="token-20-31" pos="word" morph="none" start_char="2242" end_char="2251">Salmonella</TOKEN>
+<TOKEN id="token-20-32" pos="word" morph="none" start_char="2253" end_char="2260">outbreak</TOKEN>
+<TOKEN id="token-20-33" pos="punct" morph="none" start_char="2261" end_char="2261">,</TOKEN>
+<TOKEN id="token-20-34" pos="word" morph="none" start_char="2263" end_char="2268">traced</TOKEN>
+<TOKEN id="token-20-35" pos="word" morph="none" start_char="2270" end_char="2271">to</TOKEN>
+<TOKEN id="token-20-36" pos="word" morph="none" start_char="2273" end_char="2278">peanut</TOKEN>
+<TOKEN id="token-20-37" pos="word" morph="none" start_char="2280" end_char="2285">butter</TOKEN>
+<TOKEN id="token-20-38" pos="word" morph="none" start_char="2287" end_char="2289">and</TOKEN>
+<TOKEN id="token-20-39" pos="word" morph="none" start_char="2291" end_char="2296">peanut</TOKEN>
+<TOKEN id="token-20-40" pos="word" morph="none" start_char="2298" end_char="2302">paste</TOKEN>
+<TOKEN id="token-20-41" pos="word" morph="none" start_char="2304" end_char="2306">PCA</TOKEN>
+<TOKEN id="token-20-42" pos="word" morph="none" start_char="2308" end_char="2315">produced</TOKEN>
+<TOKEN id="token-20-43" pos="word" morph="none" start_char="2317" end_char="2318">in</TOKEN>
+<TOKEN id="token-20-44" pos="word" morph="none" start_char="2320" end_char="2326">Blakely</TOKEN>
+<TOKEN id="token-20-45" pos="punct" morph="none" start_char="2327" end_char="2327">,</TOKEN>
+<TOKEN id="token-20-46" pos="word" morph="none" start_char="2329" end_char="2330">GA</TOKEN>
+<TOKEN id="token-20-47" pos="punct" morph="none" start_char="2331" end_char="2331">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2334" end_char="2438">
+<ORIGINAL_TEXT>Stewart Parnell is serving a 28-year sentence at the Federal Correctional Institution(FCI) at Estill, SC.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="2334" end_char="2340">Stewart</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2342" end_char="2348">Parnell</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="2350" end_char="2351">is</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="2353" end_char="2359">serving</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="2361" end_char="2361">a</TOKEN>
+<TOKEN id="token-21-5" pos="unknown" morph="none" start_char="2363" end_char="2369">28-year</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="2371" end_char="2378">sentence</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="2380" end_char="2381">at</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="2383" end_char="2385">the</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="2387" end_char="2393">Federal</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="2395" end_char="2406">Correctional</TOKEN>
+<TOKEN id="token-21-11" pos="unknown" morph="none" start_char="2408" end_char="2422">Institution(FCI</TOKEN>
+<TOKEN id="token-21-12" pos="punct" morph="none" start_char="2423" end_char="2423">)</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="2425" end_char="2426">at</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="2428" end_char="2433">Estill</TOKEN>
+<TOKEN id="token-21-15" pos="punct" morph="none" start_char="2434" end_char="2434">,</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="2436" end_char="2437">SC</TOKEN>
+<TOKEN id="token-21-17" pos="punct" morph="none" start_char="2438" end_char="2438">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2440" end_char="2493">
+<ORIGINAL_TEXT>Michael Parnell is doing 20 years at FCI in Milan, MI.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="2440" end_char="2446">Michael</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="2448" end_char="2454">Parnell</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="2456" end_char="2457">is</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="2459" end_char="2463">doing</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="2465" end_char="2466">20</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="2468" end_char="2472">years</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="2474" end_char="2475">at</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="2477" end_char="2479">FCI</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="2481" end_char="2482">in</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="2484" end_char="2488">Milan</TOKEN>
+<TOKEN id="token-22-10" pos="punct" morph="none" start_char="2489" end_char="2489">,</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="2491" end_char="2492">MI</TOKEN>
+<TOKEN id="token-22-12" pos="punct" morph="none" start_char="2493" end_char="2493">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2496" end_char="2576">
+<ORIGINAL_TEXT>Two other former PCA managers also faced federal charges but did not go to trial.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="2496" end_char="2498">Two</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="2500" end_char="2504">other</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="2506" end_char="2511">former</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="2513" end_char="2515">PCA</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="2517" end_char="2524">managers</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="2526" end_char="2529">also</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="2531" end_char="2535">faced</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="2537" end_char="2543">federal</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="2545" end_char="2551">charges</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="2553" end_char="2555">but</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="2557" end_char="2559">did</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="2561" end_char="2563">not</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="2565" end_char="2566">go</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="2568" end_char="2569">to</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="2571" end_char="2575">trial</TOKEN>
+<TOKEN id="token-23-15" pos="punct" morph="none" start_char="2576" end_char="2576">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="2578" end_char="2741">
+<ORIGINAL_TEXT>Samuel Lightsey, former plant manager, and Daniel Kilgore, former operations manager, agreed to plead guilty in exchange for testifying for the government at trial.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="2578" end_char="2583">Samuel</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="2585" end_char="2592">Lightsey</TOKEN>
+<TOKEN id="token-24-2" pos="punct" morph="none" start_char="2593" end_char="2593">,</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="2595" end_char="2600">former</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="2602" end_char="2606">plant</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="2608" end_char="2614">manager</TOKEN>
+<TOKEN id="token-24-6" pos="punct" morph="none" start_char="2615" end_char="2615">,</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="2617" end_char="2619">and</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="2621" end_char="2626">Daniel</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="2628" end_char="2634">Kilgore</TOKEN>
+<TOKEN id="token-24-10" pos="punct" morph="none" start_char="2635" end_char="2635">,</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="2637" end_char="2642">former</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="2644" end_char="2653">operations</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="2655" end_char="2661">manager</TOKEN>
+<TOKEN id="token-24-14" pos="punct" morph="none" start_char="2662" end_char="2662">,</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="2664" end_char="2669">agreed</TOKEN>
+<TOKEN id="token-24-16" pos="word" morph="none" start_char="2671" end_char="2672">to</TOKEN>
+<TOKEN id="token-24-17" pos="word" morph="none" start_char="2674" end_char="2678">plead</TOKEN>
+<TOKEN id="token-24-18" pos="word" morph="none" start_char="2680" end_char="2685">guilty</TOKEN>
+<TOKEN id="token-24-19" pos="word" morph="none" start_char="2687" end_char="2688">in</TOKEN>
+<TOKEN id="token-24-20" pos="word" morph="none" start_char="2690" end_char="2697">exchange</TOKEN>
+<TOKEN id="token-24-21" pos="word" morph="none" start_char="2699" end_char="2701">for</TOKEN>
+<TOKEN id="token-24-22" pos="word" morph="none" start_char="2703" end_char="2712">testifying</TOKEN>
+<TOKEN id="token-24-23" pos="word" morph="none" start_char="2714" end_char="2716">for</TOKEN>
+<TOKEN id="token-24-24" pos="word" morph="none" start_char="2718" end_char="2720">the</TOKEN>
+<TOKEN id="token-24-25" pos="word" morph="none" start_char="2722" end_char="2731">government</TOKEN>
+<TOKEN id="token-24-26" pos="word" morph="none" start_char="2733" end_char="2734">at</TOKEN>
+<TOKEN id="token-24-27" pos="word" morph="none" start_char="2736" end_char="2740">trial</TOKEN>
+<TOKEN id="token-24-28" pos="punct" morph="none" start_char="2741" end_char="2741">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="2743" end_char="2801">
+<ORIGINAL_TEXT>Lightsey, 54, was released from federal custody a year ago.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="2743" end_char="2750">Lightsey</TOKEN>
+<TOKEN id="token-25-1" pos="punct" morph="none" start_char="2751" end_char="2751">,</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="2753" end_char="2754">54</TOKEN>
+<TOKEN id="token-25-3" pos="punct" morph="none" start_char="2755" end_char="2755">,</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="2757" end_char="2759">was</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="2761" end_char="2768">released</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="2770" end_char="2773">from</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="2775" end_char="2781">federal</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="2783" end_char="2789">custody</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="2791" end_char="2791">a</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="2793" end_char="2796">year</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="2798" end_char="2800">ago</TOKEN>
+<TOKEN id="token-25-12" pos="punct" morph="none" start_char="2801" end_char="2801">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="2803" end_char="2872">
+<ORIGINAL_TEXT>Kilgore, 49, is finishing a 6-year sentence at the FCI in Oaksale, FL.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="2803" end_char="2809">Kilgore</TOKEN>
+<TOKEN id="token-26-1" pos="punct" morph="none" start_char="2810" end_char="2810">,</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="2812" end_char="2813">49</TOKEN>
+<TOKEN id="token-26-3" pos="punct" morph="none" start_char="2814" end_char="2814">,</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="2816" end_char="2817">is</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="2819" end_char="2827">finishing</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="2829" end_char="2829">a</TOKEN>
+<TOKEN id="token-26-7" pos="unknown" morph="none" start_char="2831" end_char="2836">6-year</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="2838" end_char="2845">sentence</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="2847" end_char="2848">at</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="2850" end_char="2852">the</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="2854" end_char="2856">FCI</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="2858" end_char="2859">in</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="2861" end_char="2867">Oaksale</TOKEN>
+<TOKEN id="token-26-14" pos="punct" morph="none" start_char="2868" end_char="2868">,</TOKEN>
+<TOKEN id="token-26-15" pos="word" morph="none" start_char="2870" end_char="2871">FL</TOKEN>
+<TOKEN id="token-26-16" pos="punct" morph="none" start_char="2872" end_char="2872">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="2875" end_char="3174">
+<ORIGINAL_TEXT>The trio who did go to the 2014 trial lost all their appeals to the 11th Circuit Court of Appeals in a judgment order that became final on June 11, 2018, when the Atlanta-based appellate court denied defendant’s petitions for rehearing either by a panel or by all the judges in the circuit (En Banc).</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="2875" end_char="2877">The</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="2879" end_char="2882">trio</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="2884" end_char="2886">who</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="2888" end_char="2890">did</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="2892" end_char="2893">go</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="2895" end_char="2896">to</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="2898" end_char="2900">the</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="2902" end_char="2905">2014</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="2907" end_char="2911">trial</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="2913" end_char="2916">lost</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="2918" end_char="2920">all</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="2922" end_char="2926">their</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="2928" end_char="2934">appeals</TOKEN>
+<TOKEN id="token-27-13" pos="word" morph="none" start_char="2936" end_char="2937">to</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="2939" end_char="2941">the</TOKEN>
+<TOKEN id="token-27-15" pos="word" morph="none" start_char="2943" end_char="2946">11th</TOKEN>
+<TOKEN id="token-27-16" pos="word" morph="none" start_char="2948" end_char="2954">Circuit</TOKEN>
+<TOKEN id="token-27-17" pos="word" morph="none" start_char="2956" end_char="2960">Court</TOKEN>
+<TOKEN id="token-27-18" pos="word" morph="none" start_char="2962" end_char="2963">of</TOKEN>
+<TOKEN id="token-27-19" pos="word" morph="none" start_char="2965" end_char="2971">Appeals</TOKEN>
+<TOKEN id="token-27-20" pos="word" morph="none" start_char="2973" end_char="2974">in</TOKEN>
+<TOKEN id="token-27-21" pos="word" morph="none" start_char="2976" end_char="2976">a</TOKEN>
+<TOKEN id="token-27-22" pos="word" morph="none" start_char="2978" end_char="2985">judgment</TOKEN>
+<TOKEN id="token-27-23" pos="word" morph="none" start_char="2987" end_char="2991">order</TOKEN>
+<TOKEN id="token-27-24" pos="word" morph="none" start_char="2993" end_char="2996">that</TOKEN>
+<TOKEN id="token-27-25" pos="word" morph="none" start_char="2998" end_char="3003">became</TOKEN>
+<TOKEN id="token-27-26" pos="word" morph="none" start_char="3005" end_char="3009">final</TOKEN>
+<TOKEN id="token-27-27" pos="word" morph="none" start_char="3011" end_char="3012">on</TOKEN>
+<TOKEN id="token-27-28" pos="word" morph="none" start_char="3014" end_char="3017">June</TOKEN>
+<TOKEN id="token-27-29" pos="word" morph="none" start_char="3019" end_char="3020">11</TOKEN>
+<TOKEN id="token-27-30" pos="punct" morph="none" start_char="3021" end_char="3021">,</TOKEN>
+<TOKEN id="token-27-31" pos="word" morph="none" start_char="3023" end_char="3026">2018</TOKEN>
+<TOKEN id="token-27-32" pos="punct" morph="none" start_char="3027" end_char="3027">,</TOKEN>
+<TOKEN id="token-27-33" pos="word" morph="none" start_char="3029" end_char="3032">when</TOKEN>
+<TOKEN id="token-27-34" pos="word" morph="none" start_char="3034" end_char="3036">the</TOKEN>
+<TOKEN id="token-27-35" pos="unknown" morph="none" start_char="3038" end_char="3050">Atlanta-based</TOKEN>
+<TOKEN id="token-27-36" pos="word" morph="none" start_char="3052" end_char="3060">appellate</TOKEN>
+<TOKEN id="token-27-37" pos="word" morph="none" start_char="3062" end_char="3066">court</TOKEN>
+<TOKEN id="token-27-38" pos="word" morph="none" start_char="3068" end_char="3073">denied</TOKEN>
+<TOKEN id="token-27-39" pos="word" morph="none" start_char="3075" end_char="3085">defendant’s</TOKEN>
+<TOKEN id="token-27-40" pos="word" morph="none" start_char="3087" end_char="3095">petitions</TOKEN>
+<TOKEN id="token-27-41" pos="word" morph="none" start_char="3097" end_char="3099">for</TOKEN>
+<TOKEN id="token-27-42" pos="word" morph="none" start_char="3101" end_char="3109">rehearing</TOKEN>
+<TOKEN id="token-27-43" pos="word" morph="none" start_char="3111" end_char="3116">either</TOKEN>
+<TOKEN id="token-27-44" pos="word" morph="none" start_char="3118" end_char="3119">by</TOKEN>
+<TOKEN id="token-27-45" pos="word" morph="none" start_char="3121" end_char="3121">a</TOKEN>
+<TOKEN id="token-27-46" pos="word" morph="none" start_char="3123" end_char="3127">panel</TOKEN>
+<TOKEN id="token-27-47" pos="word" morph="none" start_char="3129" end_char="3130">or</TOKEN>
+<TOKEN id="token-27-48" pos="word" morph="none" start_char="3132" end_char="3133">by</TOKEN>
+<TOKEN id="token-27-49" pos="word" morph="none" start_char="3135" end_char="3137">all</TOKEN>
+<TOKEN id="token-27-50" pos="word" morph="none" start_char="3139" end_char="3141">the</TOKEN>
+<TOKEN id="token-27-51" pos="word" morph="none" start_char="3143" end_char="3148">judges</TOKEN>
+<TOKEN id="token-27-52" pos="word" morph="none" start_char="3150" end_char="3151">in</TOKEN>
+<TOKEN id="token-27-53" pos="word" morph="none" start_char="3153" end_char="3155">the</TOKEN>
+<TOKEN id="token-27-54" pos="word" morph="none" start_char="3157" end_char="3163">circuit</TOKEN>
+<TOKEN id="token-27-55" pos="punct" morph="none" start_char="3165" end_char="3165">(</TOKEN>
+<TOKEN id="token-27-56" pos="word" morph="none" start_char="3166" end_char="3167">En</TOKEN>
+<TOKEN id="token-27-57" pos="word" morph="none" start_char="3169" end_char="3172">Banc</TOKEN>
+<TOKEN id="token-27-58" pos="punct" morph="none" start_char="3173" end_char="3174">).</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="3177" end_char="3222">
+<ORIGINAL_TEXT>The Writ of Certiorari is for Wilkerson alone.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="3177" end_char="3179">The</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="3181" end_char="3184">Writ</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="3186" end_char="3187">of</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="3189" end_char="3198">Certiorari</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="3200" end_char="3201">is</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="3203" end_char="3205">for</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="3207" end_char="3215">Wilkerson</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="3217" end_char="3221">alone</TOKEN>
+<TOKEN id="token-28-8" pos="punct" morph="none" start_char="3222" end_char="3222">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="3224" end_char="3293">
+<ORIGINAL_TEXT>Neither the Parnells nor their attorneys are involved in the petition.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="3224" end_char="3230">Neither</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="3232" end_char="3234">the</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="3236" end_char="3243">Parnells</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="3245" end_char="3247">nor</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="3249" end_char="3253">their</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="3255" end_char="3263">attorneys</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="3265" end_char="3267">are</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="3269" end_char="3276">involved</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="3278" end_char="3279">in</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="3281" end_char="3283">the</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="3285" end_char="3292">petition</TOKEN>
+<TOKEN id="token-29-11" pos="punct" morph="none" start_char="3293" end_char="3293">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="3295" end_char="3490">
+<ORIGINAL_TEXT>It claims Wilkerson’s constitutional rights were violated in numerous ways, but mainly involving withholding of evidence from the defense and the trial’s court’s failure to seat an impartial jury.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="3295" end_char="3296">It</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="3298" end_char="3303">claims</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="3305" end_char="3315">Wilkerson’s</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="3317" end_char="3330">constitutional</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="3332" end_char="3337">rights</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="3339" end_char="3342">were</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="3344" end_char="3351">violated</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="3353" end_char="3354">in</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="3356" end_char="3363">numerous</TOKEN>
+<TOKEN id="token-30-9" pos="word" morph="none" start_char="3365" end_char="3368">ways</TOKEN>
+<TOKEN id="token-30-10" pos="punct" morph="none" start_char="3369" end_char="3369">,</TOKEN>
+<TOKEN id="token-30-11" pos="word" morph="none" start_char="3371" end_char="3373">but</TOKEN>
+<TOKEN id="token-30-12" pos="word" morph="none" start_char="3375" end_char="3380">mainly</TOKEN>
+<TOKEN id="token-30-13" pos="word" morph="none" start_char="3382" end_char="3390">involving</TOKEN>
+<TOKEN id="token-30-14" pos="word" morph="none" start_char="3392" end_char="3402">withholding</TOKEN>
+<TOKEN id="token-30-15" pos="word" morph="none" start_char="3404" end_char="3405">of</TOKEN>
+<TOKEN id="token-30-16" pos="word" morph="none" start_char="3407" end_char="3414">evidence</TOKEN>
+<TOKEN id="token-30-17" pos="word" morph="none" start_char="3416" end_char="3419">from</TOKEN>
+<TOKEN id="token-30-18" pos="word" morph="none" start_char="3421" end_char="3423">the</TOKEN>
+<TOKEN id="token-30-19" pos="word" morph="none" start_char="3425" end_char="3431">defense</TOKEN>
+<TOKEN id="token-30-20" pos="word" morph="none" start_char="3433" end_char="3435">and</TOKEN>
+<TOKEN id="token-30-21" pos="word" morph="none" start_char="3437" end_char="3439">the</TOKEN>
+<TOKEN id="token-30-22" pos="word" morph="none" start_char="3441" end_char="3447">trial’s</TOKEN>
+<TOKEN id="token-30-23" pos="word" morph="none" start_char="3449" end_char="3455">court’s</TOKEN>
+<TOKEN id="token-30-24" pos="word" morph="none" start_char="3457" end_char="3463">failure</TOKEN>
+<TOKEN id="token-30-25" pos="word" morph="none" start_char="3465" end_char="3466">to</TOKEN>
+<TOKEN id="token-30-26" pos="word" morph="none" start_char="3468" end_char="3471">seat</TOKEN>
+<TOKEN id="token-30-27" pos="word" morph="none" start_char="3473" end_char="3474">an</TOKEN>
+<TOKEN id="token-30-28" pos="word" morph="none" start_char="3476" end_char="3484">impartial</TOKEN>
+<TOKEN id="token-30-29" pos="word" morph="none" start_char="3486" end_char="3489">jury</TOKEN>
+<TOKEN id="token-30-30" pos="punct" morph="none" start_char="3490" end_char="3490">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="3493" end_char="3904">
+<ORIGINAL_TEXT>"This case involves the withholding of evidence by the use of a relatively novel concept of an electronic data dump of non-relevant discovery which was embedded with the exculpatory evidence and relevant evidence in inaccessible discovery since the Government did not provide the required databases for the production to be searched in a forensic search software program," Ledford writes on behalf of his client.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="punct" morph="none" start_char="3493" end_char="3493">"</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="3494" end_char="3497">This</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="3499" end_char="3502">case</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="3504" end_char="3511">involves</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="3513" end_char="3515">the</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="3517" end_char="3527">withholding</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="3529" end_char="3530">of</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="3532" end_char="3539">evidence</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="3541" end_char="3542">by</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="3544" end_char="3546">the</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="3548" end_char="3550">use</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="3552" end_char="3553">of</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="3555" end_char="3555">a</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="3557" end_char="3566">relatively</TOKEN>
+<TOKEN id="token-31-14" pos="word" morph="none" start_char="3568" end_char="3572">novel</TOKEN>
+<TOKEN id="token-31-15" pos="word" morph="none" start_char="3574" end_char="3580">concept</TOKEN>
+<TOKEN id="token-31-16" pos="word" morph="none" start_char="3582" end_char="3583">of</TOKEN>
+<TOKEN id="token-31-17" pos="word" morph="none" start_char="3585" end_char="3586">an</TOKEN>
+<TOKEN id="token-31-18" pos="word" morph="none" start_char="3588" end_char="3597">electronic</TOKEN>
+<TOKEN id="token-31-19" pos="word" morph="none" start_char="3599" end_char="3602">data</TOKEN>
+<TOKEN id="token-31-20" pos="word" morph="none" start_char="3604" end_char="3607">dump</TOKEN>
+<TOKEN id="token-31-21" pos="word" morph="none" start_char="3609" end_char="3610">of</TOKEN>
+<TOKEN id="token-31-22" pos="unknown" morph="none" start_char="3612" end_char="3623">non-relevant</TOKEN>
+<TOKEN id="token-31-23" pos="word" morph="none" start_char="3625" end_char="3633">discovery</TOKEN>
+<TOKEN id="token-31-24" pos="word" morph="none" start_char="3635" end_char="3639">which</TOKEN>
+<TOKEN id="token-31-25" pos="word" morph="none" start_char="3641" end_char="3643">was</TOKEN>
+<TOKEN id="token-31-26" pos="word" morph="none" start_char="3645" end_char="3652">embedded</TOKEN>
+<TOKEN id="token-31-27" pos="word" morph="none" start_char="3654" end_char="3657">with</TOKEN>
+<TOKEN id="token-31-28" pos="word" morph="none" start_char="3659" end_char="3661">the</TOKEN>
+<TOKEN id="token-31-29" pos="word" morph="none" start_char="3663" end_char="3673">exculpatory</TOKEN>
+<TOKEN id="token-31-30" pos="word" morph="none" start_char="3675" end_char="3682">evidence</TOKEN>
+<TOKEN id="token-31-31" pos="word" morph="none" start_char="3684" end_char="3686">and</TOKEN>
+<TOKEN id="token-31-32" pos="word" morph="none" start_char="3688" end_char="3695">relevant</TOKEN>
+<TOKEN id="token-31-33" pos="word" morph="none" start_char="3697" end_char="3704">evidence</TOKEN>
+<TOKEN id="token-31-34" pos="word" morph="none" start_char="3706" end_char="3707">in</TOKEN>
+<TOKEN id="token-31-35" pos="word" morph="none" start_char="3709" end_char="3720">inaccessible</TOKEN>
+<TOKEN id="token-31-36" pos="word" morph="none" start_char="3722" end_char="3730">discovery</TOKEN>
+<TOKEN id="token-31-37" pos="word" morph="none" start_char="3732" end_char="3736">since</TOKEN>
+<TOKEN id="token-31-38" pos="word" morph="none" start_char="3738" end_char="3740">the</TOKEN>
+<TOKEN id="token-31-39" pos="word" morph="none" start_char="3742" end_char="3751">Government</TOKEN>
+<TOKEN id="token-31-40" pos="word" morph="none" start_char="3753" end_char="3755">did</TOKEN>
+<TOKEN id="token-31-41" pos="word" morph="none" start_char="3757" end_char="3759">not</TOKEN>
+<TOKEN id="token-31-42" pos="word" morph="none" start_char="3761" end_char="3767">provide</TOKEN>
+<TOKEN id="token-31-43" pos="word" morph="none" start_char="3769" end_char="3771">the</TOKEN>
+<TOKEN id="token-31-44" pos="word" morph="none" start_char="3773" end_char="3780">required</TOKEN>
+<TOKEN id="token-31-45" pos="word" morph="none" start_char="3782" end_char="3790">databases</TOKEN>
+<TOKEN id="token-31-46" pos="word" morph="none" start_char="3792" end_char="3794">for</TOKEN>
+<TOKEN id="token-31-47" pos="word" morph="none" start_char="3796" end_char="3798">the</TOKEN>
+<TOKEN id="token-31-48" pos="word" morph="none" start_char="3800" end_char="3809">production</TOKEN>
+<TOKEN id="token-31-49" pos="word" morph="none" start_char="3811" end_char="3812">to</TOKEN>
+<TOKEN id="token-31-50" pos="word" morph="none" start_char="3814" end_char="3815">be</TOKEN>
+<TOKEN id="token-31-51" pos="word" morph="none" start_char="3817" end_char="3824">searched</TOKEN>
+<TOKEN id="token-31-52" pos="word" morph="none" start_char="3826" end_char="3827">in</TOKEN>
+<TOKEN id="token-31-53" pos="word" morph="none" start_char="3829" end_char="3829">a</TOKEN>
+<TOKEN id="token-31-54" pos="word" morph="none" start_char="3831" end_char="3838">forensic</TOKEN>
+<TOKEN id="token-31-55" pos="word" morph="none" start_char="3840" end_char="3845">search</TOKEN>
+<TOKEN id="token-31-56" pos="word" morph="none" start_char="3847" end_char="3854">software</TOKEN>
+<TOKEN id="token-31-57" pos="word" morph="none" start_char="3856" end_char="3862">program</TOKEN>
+<TOKEN id="token-31-58" pos="punct" morph="none" start_char="3863" end_char="3864">,"</TOKEN>
+<TOKEN id="token-31-59" pos="word" morph="none" start_char="3866" end_char="3872">Ledford</TOKEN>
+<TOKEN id="token-31-60" pos="word" morph="none" start_char="3874" end_char="3879">writes</TOKEN>
+<TOKEN id="token-31-61" pos="word" morph="none" start_char="3881" end_char="3882">on</TOKEN>
+<TOKEN id="token-31-62" pos="word" morph="none" start_char="3884" end_char="3889">behalf</TOKEN>
+<TOKEN id="token-31-63" pos="word" morph="none" start_char="3891" end_char="3892">of</TOKEN>
+<TOKEN id="token-31-64" pos="word" morph="none" start_char="3894" end_char="3896">his</TOKEN>
+<TOKEN id="token-31-65" pos="word" morph="none" start_char="3898" end_char="3903">client</TOKEN>
+<TOKEN id="token-31-66" pos="punct" morph="none" start_char="3904" end_char="3904">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="3907" end_char="4101">
+<ORIGINAL_TEXT>He charges the government set up the information it had to share with the defense so that it had to be scrolled "page by page" while the prosecution had data bases for "quick and easy" searching.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="3907" end_char="3908">He</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="3910" end_char="3916">charges</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="3918" end_char="3920">the</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="3922" end_char="3931">government</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="3933" end_char="3935">set</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="3937" end_char="3938">up</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="3940" end_char="3942">the</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="3944" end_char="3954">information</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="3956" end_char="3957">it</TOKEN>
+<TOKEN id="token-32-9" pos="word" morph="none" start_char="3959" end_char="3961">had</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="3963" end_char="3964">to</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="3966" end_char="3970">share</TOKEN>
+<TOKEN id="token-32-12" pos="word" morph="none" start_char="3972" end_char="3975">with</TOKEN>
+<TOKEN id="token-32-13" pos="word" morph="none" start_char="3977" end_char="3979">the</TOKEN>
+<TOKEN id="token-32-14" pos="word" morph="none" start_char="3981" end_char="3987">defense</TOKEN>
+<TOKEN id="token-32-15" pos="word" morph="none" start_char="3989" end_char="3990">so</TOKEN>
+<TOKEN id="token-32-16" pos="word" morph="none" start_char="3992" end_char="3995">that</TOKEN>
+<TOKEN id="token-32-17" pos="word" morph="none" start_char="3997" end_char="3998">it</TOKEN>
+<TOKEN id="token-32-18" pos="word" morph="none" start_char="4000" end_char="4002">had</TOKEN>
+<TOKEN id="token-32-19" pos="word" morph="none" start_char="4004" end_char="4005">to</TOKEN>
+<TOKEN id="token-32-20" pos="word" morph="none" start_char="4007" end_char="4008">be</TOKEN>
+<TOKEN id="token-32-21" pos="word" morph="none" start_char="4010" end_char="4017">scrolled</TOKEN>
+<TOKEN id="token-32-22" pos="punct" morph="none" start_char="4019" end_char="4019">"</TOKEN>
+<TOKEN id="token-32-23" pos="word" morph="none" start_char="4020" end_char="4023">page</TOKEN>
+<TOKEN id="token-32-24" pos="word" morph="none" start_char="4025" end_char="4026">by</TOKEN>
+<TOKEN id="token-32-25" pos="word" morph="none" start_char="4028" end_char="4031">page</TOKEN>
+<TOKEN id="token-32-26" pos="punct" morph="none" start_char="4032" end_char="4032">"</TOKEN>
+<TOKEN id="token-32-27" pos="word" morph="none" start_char="4034" end_char="4038">while</TOKEN>
+<TOKEN id="token-32-28" pos="word" morph="none" start_char="4040" end_char="4042">the</TOKEN>
+<TOKEN id="token-32-29" pos="word" morph="none" start_char="4044" end_char="4054">prosecution</TOKEN>
+<TOKEN id="token-32-30" pos="word" morph="none" start_char="4056" end_char="4058">had</TOKEN>
+<TOKEN id="token-32-31" pos="word" morph="none" start_char="4060" end_char="4063">data</TOKEN>
+<TOKEN id="token-32-32" pos="word" morph="none" start_char="4065" end_char="4069">bases</TOKEN>
+<TOKEN id="token-32-33" pos="word" morph="none" start_char="4071" end_char="4073">for</TOKEN>
+<TOKEN id="token-32-34" pos="punct" morph="none" start_char="4075" end_char="4075">"</TOKEN>
+<TOKEN id="token-32-35" pos="word" morph="none" start_char="4076" end_char="4080">quick</TOKEN>
+<TOKEN id="token-32-36" pos="word" morph="none" start_char="4082" end_char="4084">and</TOKEN>
+<TOKEN id="token-32-37" pos="word" morph="none" start_char="4086" end_char="4089">easy</TOKEN>
+<TOKEN id="token-32-38" pos="punct" morph="none" start_char="4090" end_char="4090">"</TOKEN>
+<TOKEN id="token-32-39" pos="word" morph="none" start_char="4092" end_char="4100">searching</TOKEN>
+<TOKEN id="token-32-40" pos="punct" morph="none" start_char="4101" end_char="4101">.</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="4103" end_char="4262">
+<ORIGINAL_TEXT>Ledford says the government buried his one-man law office in 15 million or more pages and unable to locate 900 pages the prosecution said it would use at trial.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="4103" end_char="4109">Ledford</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="4111" end_char="4114">says</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="4116" end_char="4118">the</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="4120" end_char="4129">government</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="4131" end_char="4136">buried</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="4138" end_char="4140">his</TOKEN>
+<TOKEN id="token-33-6" pos="unknown" morph="none" start_char="4142" end_char="4148">one-man</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="4150" end_char="4152">law</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="4154" end_char="4159">office</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="4161" end_char="4162">in</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="4164" end_char="4165">15</TOKEN>
+<TOKEN id="token-33-11" pos="word" morph="none" start_char="4167" end_char="4173">million</TOKEN>
+<TOKEN id="token-33-12" pos="word" morph="none" start_char="4175" end_char="4176">or</TOKEN>
+<TOKEN id="token-33-13" pos="word" morph="none" start_char="4178" end_char="4181">more</TOKEN>
+<TOKEN id="token-33-14" pos="word" morph="none" start_char="4183" end_char="4187">pages</TOKEN>
+<TOKEN id="token-33-15" pos="word" morph="none" start_char="4189" end_char="4191">and</TOKEN>
+<TOKEN id="token-33-16" pos="word" morph="none" start_char="4193" end_char="4198">unable</TOKEN>
+<TOKEN id="token-33-17" pos="word" morph="none" start_char="4200" end_char="4201">to</TOKEN>
+<TOKEN id="token-33-18" pos="word" morph="none" start_char="4203" end_char="4208">locate</TOKEN>
+<TOKEN id="token-33-19" pos="word" morph="none" start_char="4210" end_char="4212">900</TOKEN>
+<TOKEN id="token-33-20" pos="word" morph="none" start_char="4214" end_char="4218">pages</TOKEN>
+<TOKEN id="token-33-21" pos="word" morph="none" start_char="4220" end_char="4222">the</TOKEN>
+<TOKEN id="token-33-22" pos="word" morph="none" start_char="4224" end_char="4234">prosecution</TOKEN>
+<TOKEN id="token-33-23" pos="word" morph="none" start_char="4236" end_char="4239">said</TOKEN>
+<TOKEN id="token-33-24" pos="word" morph="none" start_char="4241" end_char="4242">it</TOKEN>
+<TOKEN id="token-33-25" pos="word" morph="none" start_char="4244" end_char="4248">would</TOKEN>
+<TOKEN id="token-33-26" pos="word" morph="none" start_char="4250" end_char="4252">use</TOKEN>
+<TOKEN id="token-33-27" pos="word" morph="none" start_char="4254" end_char="4255">at</TOKEN>
+<TOKEN id="token-33-28" pos="word" morph="none" start_char="4257" end_char="4261">trial</TOKEN>
+<TOKEN id="token-33-29" pos="punct" morph="none" start_char="4262" end_char="4262">.</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="4265" end_char="4549">
+<ORIGINAL_TEXT>"The Government provided the raw and unprocessed discovery to the Petitioner leading the Petitioner on a wild goose chase with no hope of ever finding any exculpatory or relevant evidence with the millions of pages of documents in time for use at Trial, " Ledford wrote the high court.</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="punct" morph="none" start_char="4265" end_char="4265">"</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="4266" end_char="4268">The</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="4270" end_char="4279">Government</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="4281" end_char="4288">provided</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="4290" end_char="4292">the</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="4294" end_char="4296">raw</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="4298" end_char="4300">and</TOKEN>
+<TOKEN id="token-34-7" pos="word" morph="none" start_char="4302" end_char="4312">unprocessed</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="4314" end_char="4322">discovery</TOKEN>
+<TOKEN id="token-34-9" pos="word" morph="none" start_char="4324" end_char="4325">to</TOKEN>
+<TOKEN id="token-34-10" pos="word" morph="none" start_char="4327" end_char="4329">the</TOKEN>
+<TOKEN id="token-34-11" pos="word" morph="none" start_char="4331" end_char="4340">Petitioner</TOKEN>
+<TOKEN id="token-34-12" pos="word" morph="none" start_char="4342" end_char="4348">leading</TOKEN>
+<TOKEN id="token-34-13" pos="word" morph="none" start_char="4350" end_char="4352">the</TOKEN>
+<TOKEN id="token-34-14" pos="word" morph="none" start_char="4354" end_char="4363">Petitioner</TOKEN>
+<TOKEN id="token-34-15" pos="word" morph="none" start_char="4365" end_char="4366">on</TOKEN>
+<TOKEN id="token-34-16" pos="word" morph="none" start_char="4368" end_char="4368">a</TOKEN>
+<TOKEN id="token-34-17" pos="word" morph="none" start_char="4370" end_char="4373">wild</TOKEN>
+<TOKEN id="token-34-18" pos="word" morph="none" start_char="4375" end_char="4379">goose</TOKEN>
+<TOKEN id="token-34-19" pos="word" morph="none" start_char="4381" end_char="4385">chase</TOKEN>
+<TOKEN id="token-34-20" pos="word" morph="none" start_char="4387" end_char="4390">with</TOKEN>
+<TOKEN id="token-34-21" pos="word" morph="none" start_char="4392" end_char="4393">no</TOKEN>
+<TOKEN id="token-34-22" pos="word" morph="none" start_char="4395" end_char="4398">hope</TOKEN>
+<TOKEN id="token-34-23" pos="word" morph="none" start_char="4400" end_char="4401">of</TOKEN>
+<TOKEN id="token-34-24" pos="word" morph="none" start_char="4403" end_char="4406">ever</TOKEN>
+<TOKEN id="token-34-25" pos="word" morph="none" start_char="4408" end_char="4414">finding</TOKEN>
+<TOKEN id="token-34-26" pos="word" morph="none" start_char="4416" end_char="4418">any</TOKEN>
+<TOKEN id="token-34-27" pos="word" morph="none" start_char="4420" end_char="4430">exculpatory</TOKEN>
+<TOKEN id="token-34-28" pos="word" morph="none" start_char="4432" end_char="4433">or</TOKEN>
+<TOKEN id="token-34-29" pos="word" morph="none" start_char="4435" end_char="4442">relevant</TOKEN>
+<TOKEN id="token-34-30" pos="word" morph="none" start_char="4444" end_char="4451">evidence</TOKEN>
+<TOKEN id="token-34-31" pos="word" morph="none" start_char="4453" end_char="4456">with</TOKEN>
+<TOKEN id="token-34-32" pos="word" morph="none" start_char="4458" end_char="4460">the</TOKEN>
+<TOKEN id="token-34-33" pos="word" morph="none" start_char="4462" end_char="4469">millions</TOKEN>
+<TOKEN id="token-34-34" pos="word" morph="none" start_char="4471" end_char="4472">of</TOKEN>
+<TOKEN id="token-34-35" pos="word" morph="none" start_char="4474" end_char="4478">pages</TOKEN>
+<TOKEN id="token-34-36" pos="word" morph="none" start_char="4480" end_char="4481">of</TOKEN>
+<TOKEN id="token-34-37" pos="word" morph="none" start_char="4483" end_char="4491">documents</TOKEN>
+<TOKEN id="token-34-38" pos="word" morph="none" start_char="4493" end_char="4494">in</TOKEN>
+<TOKEN id="token-34-39" pos="word" morph="none" start_char="4496" end_char="4499">time</TOKEN>
+<TOKEN id="token-34-40" pos="word" morph="none" start_char="4501" end_char="4503">for</TOKEN>
+<TOKEN id="token-34-41" pos="word" morph="none" start_char="4505" end_char="4507">use</TOKEN>
+<TOKEN id="token-34-42" pos="word" morph="none" start_char="4509" end_char="4510">at</TOKEN>
+<TOKEN id="token-34-43" pos="word" morph="none" start_char="4512" end_char="4516">Trial</TOKEN>
+<TOKEN id="token-34-44" pos="punct" morph="none" start_char="4517" end_char="4517">,</TOKEN>
+<TOKEN id="token-34-45" pos="punct" morph="none" start_char="4519" end_char="4519">"</TOKEN>
+<TOKEN id="token-34-46" pos="word" morph="none" start_char="4521" end_char="4527">Ledford</TOKEN>
+<TOKEN id="token-34-47" pos="word" morph="none" start_char="4529" end_char="4533">wrote</TOKEN>
+<TOKEN id="token-34-48" pos="word" morph="none" start_char="4535" end_char="4537">the</TOKEN>
+<TOKEN id="token-34-49" pos="word" morph="none" start_char="4539" end_char="4542">high</TOKEN>
+<TOKEN id="token-34-50" pos="word" morph="none" start_char="4544" end_char="4548">court</TOKEN>
+<TOKEN id="token-34-51" pos="punct" morph="none" start_char="4549" end_char="4549">.</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="4552" end_char="4664">
+<ORIGINAL_TEXT>Wilkerson was not part of the conspiracy that led to thousands being poisoned by the PCA peanut butter and paste.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="4552" end_char="4560">Wilkerson</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="4562" end_char="4564">was</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="4566" end_char="4568">not</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="4570" end_char="4573">part</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="4575" end_char="4576">of</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="4578" end_char="4580">the</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="4582" end_char="4591">conspiracy</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="4593" end_char="4596">that</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="4598" end_char="4600">led</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="4602" end_char="4603">to</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="4605" end_char="4613">thousands</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="4615" end_char="4619">being</TOKEN>
+<TOKEN id="token-35-12" pos="word" morph="none" start_char="4621" end_char="4628">poisoned</TOKEN>
+<TOKEN id="token-35-13" pos="word" morph="none" start_char="4630" end_char="4631">by</TOKEN>
+<TOKEN id="token-35-14" pos="word" morph="none" start_char="4633" end_char="4635">the</TOKEN>
+<TOKEN id="token-35-15" pos="word" morph="none" start_char="4637" end_char="4639">PCA</TOKEN>
+<TOKEN id="token-35-16" pos="word" morph="none" start_char="4641" end_char="4646">peanut</TOKEN>
+<TOKEN id="token-35-17" pos="word" morph="none" start_char="4648" end_char="4653">butter</TOKEN>
+<TOKEN id="token-35-18" pos="word" morph="none" start_char="4655" end_char="4657">and</TOKEN>
+<TOKEN id="token-35-19" pos="word" morph="none" start_char="4659" end_char="4663">paste</TOKEN>
+<TOKEN id="token-35-20" pos="punct" morph="none" start_char="4664" end_char="4664">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="4666" end_char="4759">
+<ORIGINAL_TEXT>The trial court also found she had no responsibility for restitution to those who were harmed.</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="4666" end_char="4668">The</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="4670" end_char="4674">trial</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="4676" end_char="4680">court</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="4682" end_char="4685">also</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="4687" end_char="4691">found</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="4693" end_char="4695">she</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="4697" end_char="4699">had</TOKEN>
+<TOKEN id="token-36-7" pos="word" morph="none" start_char="4701" end_char="4702">no</TOKEN>
+<TOKEN id="token-36-8" pos="word" morph="none" start_char="4704" end_char="4717">responsibility</TOKEN>
+<TOKEN id="token-36-9" pos="word" morph="none" start_char="4719" end_char="4721">for</TOKEN>
+<TOKEN id="token-36-10" pos="word" morph="none" start_char="4723" end_char="4733">restitution</TOKEN>
+<TOKEN id="token-36-11" pos="word" morph="none" start_char="4735" end_char="4736">to</TOKEN>
+<TOKEN id="token-36-12" pos="word" morph="none" start_char="4738" end_char="4742">those</TOKEN>
+<TOKEN id="token-36-13" pos="word" morph="none" start_char="4744" end_char="4746">who</TOKEN>
+<TOKEN id="token-36-14" pos="word" morph="none" start_char="4748" end_char="4751">were</TOKEN>
+<TOKEN id="token-36-15" pos="word" morph="none" start_char="4753" end_char="4758">harmed</TOKEN>
+<TOKEN id="token-36-16" pos="punct" morph="none" start_char="4759" end_char="4759">.</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="4762" end_char="4916">
+<ORIGINAL_TEXT>In the Supreme Court petition, Ledford says the government’s data dump tactic prevented him from finding key exculpatory documents for timely use at trial.</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="4762" end_char="4763">In</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="4765" end_char="4767">the</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="4769" end_char="4775">Supreme</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="4777" end_char="4781">Court</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="4783" end_char="4790">petition</TOKEN>
+<TOKEN id="token-37-5" pos="punct" morph="none" start_char="4791" end_char="4791">,</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="4793" end_char="4799">Ledford</TOKEN>
+<TOKEN id="token-37-7" pos="word" morph="none" start_char="4801" end_char="4804">says</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="4806" end_char="4808">the</TOKEN>
+<TOKEN id="token-37-9" pos="word" morph="none" start_char="4810" end_char="4821">government’s</TOKEN>
+<TOKEN id="token-37-10" pos="word" morph="none" start_char="4823" end_char="4826">data</TOKEN>
+<TOKEN id="token-37-11" pos="word" morph="none" start_char="4828" end_char="4831">dump</TOKEN>
+<TOKEN id="token-37-12" pos="word" morph="none" start_char="4833" end_char="4838">tactic</TOKEN>
+<TOKEN id="token-37-13" pos="word" morph="none" start_char="4840" end_char="4848">prevented</TOKEN>
+<TOKEN id="token-37-14" pos="word" morph="none" start_char="4850" end_char="4852">him</TOKEN>
+<TOKEN id="token-37-15" pos="word" morph="none" start_char="4854" end_char="4857">from</TOKEN>
+<TOKEN id="token-37-16" pos="word" morph="none" start_char="4859" end_char="4865">finding</TOKEN>
+<TOKEN id="token-37-17" pos="word" morph="none" start_char="4867" end_char="4869">key</TOKEN>
+<TOKEN id="token-37-18" pos="word" morph="none" start_char="4871" end_char="4881">exculpatory</TOKEN>
+<TOKEN id="token-37-19" pos="word" morph="none" start_char="4883" end_char="4891">documents</TOKEN>
+<TOKEN id="token-37-20" pos="word" morph="none" start_char="4893" end_char="4895">for</TOKEN>
+<TOKEN id="token-37-21" pos="word" morph="none" start_char="4897" end_char="4902">timely</TOKEN>
+<TOKEN id="token-37-22" pos="word" morph="none" start_char="4904" end_char="4906">use</TOKEN>
+<TOKEN id="token-37-23" pos="word" morph="none" start_char="4908" end_char="4909">at</TOKEN>
+<TOKEN id="token-37-24" pos="word" morph="none" start_char="4911" end_char="4915">trial</TOKEN>
+<TOKEN id="token-37-25" pos="punct" morph="none" start_char="4916" end_char="4916">.</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="4918" end_char="5038">
+<ORIGINAL_TEXT>This violated Wilkerson’s Fifth Amendment Right of Due Process and Sixth Amendment Right for Effective Counsel, he added.</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="4918" end_char="4921">This</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="4923" end_char="4930">violated</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="4932" end_char="4942">Wilkerson’s</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="4944" end_char="4948">Fifth</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="4950" end_char="4958">Amendment</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="4960" end_char="4964">Right</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="4966" end_char="4967">of</TOKEN>
+<TOKEN id="token-38-7" pos="word" morph="none" start_char="4969" end_char="4971">Due</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="4973" end_char="4979">Process</TOKEN>
+<TOKEN id="token-38-9" pos="word" morph="none" start_char="4981" end_char="4983">and</TOKEN>
+<TOKEN id="token-38-10" pos="word" morph="none" start_char="4985" end_char="4989">Sixth</TOKEN>
+<TOKEN id="token-38-11" pos="word" morph="none" start_char="4991" end_char="4999">Amendment</TOKEN>
+<TOKEN id="token-38-12" pos="word" morph="none" start_char="5001" end_char="5005">Right</TOKEN>
+<TOKEN id="token-38-13" pos="word" morph="none" start_char="5007" end_char="5009">for</TOKEN>
+<TOKEN id="token-38-14" pos="word" morph="none" start_char="5011" end_char="5019">Effective</TOKEN>
+<TOKEN id="token-38-15" pos="word" morph="none" start_char="5021" end_char="5027">Counsel</TOKEN>
+<TOKEN id="token-38-16" pos="punct" morph="none" start_char="5028" end_char="5028">,</TOKEN>
+<TOKEN id="token-38-17" pos="word" morph="none" start_char="5030" end_char="5031">he</TOKEN>
+<TOKEN id="token-38-18" pos="word" morph="none" start_char="5033" end_char="5037">added</TOKEN>
+<TOKEN id="token-38-19" pos="punct" morph="none" start_char="5038" end_char="5038">.</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="5041" end_char="5159">
+<ORIGINAL_TEXT>The only folder the Government turned over to Ledford with Mary Wilkerson’s name on it was "completely empty," he says,</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="5041" end_char="5043">The</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="5045" end_char="5048">only</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="5050" end_char="5055">folder</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="5057" end_char="5059">the</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="5061" end_char="5070">Government</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="5072" end_char="5077">turned</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="5079" end_char="5082">over</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="5084" end_char="5085">to</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="5087" end_char="5093">Ledford</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="5095" end_char="5098">with</TOKEN>
+<TOKEN id="token-39-10" pos="word" morph="none" start_char="5100" end_char="5103">Mary</TOKEN>
+<TOKEN id="token-39-11" pos="word" morph="none" start_char="5105" end_char="5115">Wilkerson’s</TOKEN>
+<TOKEN id="token-39-12" pos="word" morph="none" start_char="5117" end_char="5120">name</TOKEN>
+<TOKEN id="token-39-13" pos="word" morph="none" start_char="5122" end_char="5123">on</TOKEN>
+<TOKEN id="token-39-14" pos="word" morph="none" start_char="5125" end_char="5126">it</TOKEN>
+<TOKEN id="token-39-15" pos="word" morph="none" start_char="5128" end_char="5130">was</TOKEN>
+<TOKEN id="token-39-16" pos="punct" morph="none" start_char="5132" end_char="5132">"</TOKEN>
+<TOKEN id="token-39-17" pos="word" morph="none" start_char="5133" end_char="5142">completely</TOKEN>
+<TOKEN id="token-39-18" pos="word" morph="none" start_char="5144" end_char="5148">empty</TOKEN>
+<TOKEN id="token-39-19" pos="punct" morph="none" start_char="5149" end_char="5150">,"</TOKEN>
+<TOKEN id="token-39-20" pos="word" morph="none" start_char="5152" end_char="5153">he</TOKEN>
+<TOKEN id="token-39-21" pos="word" morph="none" start_char="5155" end_char="5158">says</TOKEN>
+<TOKEN id="token-39-22" pos="punct" morph="none" start_char="5159" end_char="5159">,</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="5163" end_char="5330">
+<ORIGINAL_TEXT>Afterwards Ledford says the exculpatory material was discovered, including one email was in a "100K package" the government sent the defense two weeks before the trial.</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="5163" end_char="5172">Afterwards</TOKEN>
+<TOKEN id="token-40-1" pos="word" morph="none" start_char="5174" end_char="5180">Ledford</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="5182" end_char="5185">says</TOKEN>
+<TOKEN id="token-40-3" pos="word" morph="none" start_char="5187" end_char="5189">the</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="5191" end_char="5201">exculpatory</TOKEN>
+<TOKEN id="token-40-5" pos="word" morph="none" start_char="5203" end_char="5210">material</TOKEN>
+<TOKEN id="token-40-6" pos="word" morph="none" start_char="5212" end_char="5214">was</TOKEN>
+<TOKEN id="token-40-7" pos="word" morph="none" start_char="5216" end_char="5225">discovered</TOKEN>
+<TOKEN id="token-40-8" pos="punct" morph="none" start_char="5226" end_char="5226">,</TOKEN>
+<TOKEN id="token-40-9" pos="word" morph="none" start_char="5228" end_char="5236">including</TOKEN>
+<TOKEN id="token-40-10" pos="word" morph="none" start_char="5238" end_char="5240">one</TOKEN>
+<TOKEN id="token-40-11" pos="word" morph="none" start_char="5242" end_char="5246">email</TOKEN>
+<TOKEN id="token-40-12" pos="word" morph="none" start_char="5248" end_char="5250">was</TOKEN>
+<TOKEN id="token-40-13" pos="word" morph="none" start_char="5252" end_char="5253">in</TOKEN>
+<TOKEN id="token-40-14" pos="word" morph="none" start_char="5255" end_char="5255">a</TOKEN>
+<TOKEN id="token-40-15" pos="punct" morph="none" start_char="5257" end_char="5257">"</TOKEN>
+<TOKEN id="token-40-16" pos="word" morph="none" start_char="5258" end_char="5261">100K</TOKEN>
+<TOKEN id="token-40-17" pos="word" morph="none" start_char="5263" end_char="5269">package</TOKEN>
+<TOKEN id="token-40-18" pos="punct" morph="none" start_char="5270" end_char="5270">"</TOKEN>
+<TOKEN id="token-40-19" pos="word" morph="none" start_char="5272" end_char="5274">the</TOKEN>
+<TOKEN id="token-40-20" pos="word" morph="none" start_char="5276" end_char="5285">government</TOKEN>
+<TOKEN id="token-40-21" pos="word" morph="none" start_char="5287" end_char="5290">sent</TOKEN>
+<TOKEN id="token-40-22" pos="word" morph="none" start_char="5292" end_char="5294">the</TOKEN>
+<TOKEN id="token-40-23" pos="word" morph="none" start_char="5296" end_char="5302">defense</TOKEN>
+<TOKEN id="token-40-24" pos="word" morph="none" start_char="5304" end_char="5306">two</TOKEN>
+<TOKEN id="token-40-25" pos="word" morph="none" start_char="5308" end_char="5312">weeks</TOKEN>
+<TOKEN id="token-40-26" pos="word" morph="none" start_char="5314" end_char="5319">before</TOKEN>
+<TOKEN id="token-40-27" pos="word" morph="none" start_char="5321" end_char="5323">the</TOKEN>
+<TOKEN id="token-40-28" pos="word" morph="none" start_char="5325" end_char="5329">trial</TOKEN>
+<TOKEN id="token-40-29" pos="punct" morph="none" start_char="5330" end_char="5330">.</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="5332" end_char="5623">
+<ORIGINAL_TEXT>"This e-mail clearly showed that FDA Agent Gray conspired with her superior to rewrite multiple times the Petitioner’s answer to a question allegedly posed to her which formed the basis of Count 73 until the Government’s witnesses were satisfied with the content of the answer," he explained.</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="punct" morph="none" start_char="5332" end_char="5332">"</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="5333" end_char="5336">This</TOKEN>
+<TOKEN id="token-41-2" pos="unknown" morph="none" start_char="5338" end_char="5343">e-mail</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="5345" end_char="5351">clearly</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="5353" end_char="5358">showed</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="5360" end_char="5363">that</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="5365" end_char="5367">FDA</TOKEN>
+<TOKEN id="token-41-7" pos="word" morph="none" start_char="5369" end_char="5373">Agent</TOKEN>
+<TOKEN id="token-41-8" pos="word" morph="none" start_char="5375" end_char="5378">Gray</TOKEN>
+<TOKEN id="token-41-9" pos="word" morph="none" start_char="5380" end_char="5388">conspired</TOKEN>
+<TOKEN id="token-41-10" pos="word" morph="none" start_char="5390" end_char="5393">with</TOKEN>
+<TOKEN id="token-41-11" pos="word" morph="none" start_char="5395" end_char="5397">her</TOKEN>
+<TOKEN id="token-41-12" pos="word" morph="none" start_char="5399" end_char="5406">superior</TOKEN>
+<TOKEN id="token-41-13" pos="word" morph="none" start_char="5408" end_char="5409">to</TOKEN>
+<TOKEN id="token-41-14" pos="word" morph="none" start_char="5411" end_char="5417">rewrite</TOKEN>
+<TOKEN id="token-41-15" pos="word" morph="none" start_char="5419" end_char="5426">multiple</TOKEN>
+<TOKEN id="token-41-16" pos="word" morph="none" start_char="5428" end_char="5432">times</TOKEN>
+<TOKEN id="token-41-17" pos="word" morph="none" start_char="5434" end_char="5436">the</TOKEN>
+<TOKEN id="token-41-18" pos="word" morph="none" start_char="5438" end_char="5449">Petitioner’s</TOKEN>
+<TOKEN id="token-41-19" pos="word" morph="none" start_char="5451" end_char="5456">answer</TOKEN>
+<TOKEN id="token-41-20" pos="word" morph="none" start_char="5458" end_char="5459">to</TOKEN>
+<TOKEN id="token-41-21" pos="word" morph="none" start_char="5461" end_char="5461">a</TOKEN>
+<TOKEN id="token-41-22" pos="word" morph="none" start_char="5463" end_char="5470">question</TOKEN>
+<TOKEN id="token-41-23" pos="word" morph="none" start_char="5472" end_char="5480">allegedly</TOKEN>
+<TOKEN id="token-41-24" pos="word" morph="none" start_char="5482" end_char="5486">posed</TOKEN>
+<TOKEN id="token-41-25" pos="word" morph="none" start_char="5488" end_char="5489">to</TOKEN>
+<TOKEN id="token-41-26" pos="word" morph="none" start_char="5491" end_char="5493">her</TOKEN>
+<TOKEN id="token-41-27" pos="word" morph="none" start_char="5495" end_char="5499">which</TOKEN>
+<TOKEN id="token-41-28" pos="word" morph="none" start_char="5501" end_char="5506">formed</TOKEN>
+<TOKEN id="token-41-29" pos="word" morph="none" start_char="5508" end_char="5510">the</TOKEN>
+<TOKEN id="token-41-30" pos="word" morph="none" start_char="5512" end_char="5516">basis</TOKEN>
+<TOKEN id="token-41-31" pos="word" morph="none" start_char="5518" end_char="5519">of</TOKEN>
+<TOKEN id="token-41-32" pos="word" morph="none" start_char="5521" end_char="5525">Count</TOKEN>
+<TOKEN id="token-41-33" pos="word" morph="none" start_char="5527" end_char="5528">73</TOKEN>
+<TOKEN id="token-41-34" pos="word" morph="none" start_char="5530" end_char="5534">until</TOKEN>
+<TOKEN id="token-41-35" pos="word" morph="none" start_char="5536" end_char="5538">the</TOKEN>
+<TOKEN id="token-41-36" pos="word" morph="none" start_char="5540" end_char="5551">Government’s</TOKEN>
+<TOKEN id="token-41-37" pos="word" morph="none" start_char="5553" end_char="5561">witnesses</TOKEN>
+<TOKEN id="token-41-38" pos="word" morph="none" start_char="5563" end_char="5566">were</TOKEN>
+<TOKEN id="token-41-39" pos="word" morph="none" start_char="5568" end_char="5576">satisfied</TOKEN>
+<TOKEN id="token-41-40" pos="word" morph="none" start_char="5578" end_char="5581">with</TOKEN>
+<TOKEN id="token-41-41" pos="word" morph="none" start_char="5583" end_char="5585">the</TOKEN>
+<TOKEN id="token-41-42" pos="word" morph="none" start_char="5587" end_char="5593">content</TOKEN>
+<TOKEN id="token-41-43" pos="word" morph="none" start_char="5595" end_char="5596">of</TOKEN>
+<TOKEN id="token-41-44" pos="word" morph="none" start_char="5598" end_char="5600">the</TOKEN>
+<TOKEN id="token-41-45" pos="word" morph="none" start_char="5602" end_char="5607">answer</TOKEN>
+<TOKEN id="token-41-46" pos="punct" morph="none" start_char="5608" end_char="5609">,"</TOKEN>
+<TOKEN id="token-41-47" pos="word" morph="none" start_char="5611" end_char="5612">he</TOKEN>
+<TOKEN id="token-41-48" pos="word" morph="none" start_char="5614" end_char="5622">explained</TOKEN>
+<TOKEN id="token-41-49" pos="punct" morph="none" start_char="5623" end_char="5623">.</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="5626" end_char="5840">
+<ORIGINAL_TEXT>Ledford said this was ‘a significant piece of evidence since it was the first written documentation of a question and answer that these two agents were attempting to create weeks after the investigation was closed."</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="5626" end_char="5632">Ledford</TOKEN>
+<TOKEN id="token-42-1" pos="word" morph="none" start_char="5634" end_char="5637">said</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="5639" end_char="5642">this</TOKEN>
+<TOKEN id="token-42-3" pos="word" morph="none" start_char="5644" end_char="5646">was</TOKEN>
+<TOKEN id="token-42-4" pos="punct" morph="none" start_char="5648" end_char="5648">‘</TOKEN>
+<TOKEN id="token-42-5" pos="word" morph="none" start_char="5649" end_char="5649">a</TOKEN>
+<TOKEN id="token-42-6" pos="word" morph="none" start_char="5651" end_char="5661">significant</TOKEN>
+<TOKEN id="token-42-7" pos="word" morph="none" start_char="5663" end_char="5667">piece</TOKEN>
+<TOKEN id="token-42-8" pos="word" morph="none" start_char="5669" end_char="5670">of</TOKEN>
+<TOKEN id="token-42-9" pos="word" morph="none" start_char="5672" end_char="5679">evidence</TOKEN>
+<TOKEN id="token-42-10" pos="word" morph="none" start_char="5681" end_char="5685">since</TOKEN>
+<TOKEN id="token-42-11" pos="word" morph="none" start_char="5687" end_char="5688">it</TOKEN>
+<TOKEN id="token-42-12" pos="word" morph="none" start_char="5690" end_char="5692">was</TOKEN>
+<TOKEN id="token-42-13" pos="word" morph="none" start_char="5694" end_char="5696">the</TOKEN>
+<TOKEN id="token-42-14" pos="word" morph="none" start_char="5698" end_char="5702">first</TOKEN>
+<TOKEN id="token-42-15" pos="word" morph="none" start_char="5704" end_char="5710">written</TOKEN>
+<TOKEN id="token-42-16" pos="word" morph="none" start_char="5712" end_char="5724">documentation</TOKEN>
+<TOKEN id="token-42-17" pos="word" morph="none" start_char="5726" end_char="5727">of</TOKEN>
+<TOKEN id="token-42-18" pos="word" morph="none" start_char="5729" end_char="5729">a</TOKEN>
+<TOKEN id="token-42-19" pos="word" morph="none" start_char="5731" end_char="5738">question</TOKEN>
+<TOKEN id="token-42-20" pos="word" morph="none" start_char="5740" end_char="5742">and</TOKEN>
+<TOKEN id="token-42-21" pos="word" morph="none" start_char="5744" end_char="5749">answer</TOKEN>
+<TOKEN id="token-42-22" pos="word" morph="none" start_char="5751" end_char="5754">that</TOKEN>
+<TOKEN id="token-42-23" pos="word" morph="none" start_char="5756" end_char="5760">these</TOKEN>
+<TOKEN id="token-42-24" pos="word" morph="none" start_char="5762" end_char="5764">two</TOKEN>
+<TOKEN id="token-42-25" pos="word" morph="none" start_char="5766" end_char="5771">agents</TOKEN>
+<TOKEN id="token-42-26" pos="word" morph="none" start_char="5773" end_char="5776">were</TOKEN>
+<TOKEN id="token-42-27" pos="word" morph="none" start_char="5778" end_char="5787">attempting</TOKEN>
+<TOKEN id="token-42-28" pos="word" morph="none" start_char="5789" end_char="5790">to</TOKEN>
+<TOKEN id="token-42-29" pos="word" morph="none" start_char="5792" end_char="5797">create</TOKEN>
+<TOKEN id="token-42-30" pos="word" morph="none" start_char="5799" end_char="5803">weeks</TOKEN>
+<TOKEN id="token-42-31" pos="word" morph="none" start_char="5805" end_char="5809">after</TOKEN>
+<TOKEN id="token-42-32" pos="word" morph="none" start_char="5811" end_char="5813">the</TOKEN>
+<TOKEN id="token-42-33" pos="word" morph="none" start_char="5815" end_char="5827">investigation</TOKEN>
+<TOKEN id="token-42-34" pos="word" morph="none" start_char="5829" end_char="5831">was</TOKEN>
+<TOKEN id="token-42-35" pos="word" morph="none" start_char="5833" end_char="5838">closed</TOKEN>
+<TOKEN id="token-42-36" pos="punct" morph="none" start_char="5839" end_char="5840">."</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="5842" end_char="5969">
+<ORIGINAL_TEXT>He says there is a "reasonable likelihood" the information found after the trial would have "affected the judgment of the jury."</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="word" morph="none" start_char="5842" end_char="5843">He</TOKEN>
+<TOKEN id="token-43-1" pos="word" morph="none" start_char="5845" end_char="5848">says</TOKEN>
+<TOKEN id="token-43-2" pos="word" morph="none" start_char="5850" end_char="5854">there</TOKEN>
+<TOKEN id="token-43-3" pos="word" morph="none" start_char="5856" end_char="5857">is</TOKEN>
+<TOKEN id="token-43-4" pos="word" morph="none" start_char="5859" end_char="5859">a</TOKEN>
+<TOKEN id="token-43-5" pos="punct" morph="none" start_char="5861" end_char="5861">"</TOKEN>
+<TOKEN id="token-43-6" pos="word" morph="none" start_char="5862" end_char="5871">reasonable</TOKEN>
+<TOKEN id="token-43-7" pos="word" morph="none" start_char="5873" end_char="5882">likelihood</TOKEN>
+<TOKEN id="token-43-8" pos="punct" morph="none" start_char="5883" end_char="5883">"</TOKEN>
+<TOKEN id="token-43-9" pos="word" morph="none" start_char="5885" end_char="5887">the</TOKEN>
+<TOKEN id="token-43-10" pos="word" morph="none" start_char="5889" end_char="5899">information</TOKEN>
+<TOKEN id="token-43-11" pos="word" morph="none" start_char="5901" end_char="5905">found</TOKEN>
+<TOKEN id="token-43-12" pos="word" morph="none" start_char="5907" end_char="5911">after</TOKEN>
+<TOKEN id="token-43-13" pos="word" morph="none" start_char="5913" end_char="5915">the</TOKEN>
+<TOKEN id="token-43-14" pos="word" morph="none" start_char="5917" end_char="5921">trial</TOKEN>
+<TOKEN id="token-43-15" pos="word" morph="none" start_char="5923" end_char="5927">would</TOKEN>
+<TOKEN id="token-43-16" pos="word" morph="none" start_char="5929" end_char="5932">have</TOKEN>
+<TOKEN id="token-43-17" pos="punct" morph="none" start_char="5934" end_char="5934">"</TOKEN>
+<TOKEN id="token-43-18" pos="word" morph="none" start_char="5935" end_char="5942">affected</TOKEN>
+<TOKEN id="token-43-19" pos="word" morph="none" start_char="5944" end_char="5946">the</TOKEN>
+<TOKEN id="token-43-20" pos="word" morph="none" start_char="5948" end_char="5955">judgment</TOKEN>
+<TOKEN id="token-43-21" pos="word" morph="none" start_char="5957" end_char="5958">of</TOKEN>
+<TOKEN id="token-43-22" pos="word" morph="none" start_char="5960" end_char="5962">the</TOKEN>
+<TOKEN id="token-43-23" pos="word" morph="none" start_char="5964" end_char="5967">jury</TOKEN>
+<TOKEN id="token-43-24" pos="punct" morph="none" start_char="5968" end_char="5969">."</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="5972" end_char="6041">
+<ORIGINAL_TEXT>He also says changes that were made by the FDA personnel were deleted.</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="word" morph="none" start_char="5972" end_char="5973">He</TOKEN>
+<TOKEN id="token-44-1" pos="word" morph="none" start_char="5975" end_char="5978">also</TOKEN>
+<TOKEN id="token-44-2" pos="word" morph="none" start_char="5980" end_char="5983">says</TOKEN>
+<TOKEN id="token-44-3" pos="word" morph="none" start_char="5985" end_char="5991">changes</TOKEN>
+<TOKEN id="token-44-4" pos="word" morph="none" start_char="5993" end_char="5996">that</TOKEN>
+<TOKEN id="token-44-5" pos="word" morph="none" start_char="5998" end_char="6001">were</TOKEN>
+<TOKEN id="token-44-6" pos="word" morph="none" start_char="6003" end_char="6006">made</TOKEN>
+<TOKEN id="token-44-7" pos="word" morph="none" start_char="6008" end_char="6009">by</TOKEN>
+<TOKEN id="token-44-8" pos="word" morph="none" start_char="6011" end_char="6013">the</TOKEN>
+<TOKEN id="token-44-9" pos="word" morph="none" start_char="6015" end_char="6017">FDA</TOKEN>
+<TOKEN id="token-44-10" pos="word" morph="none" start_char="6019" end_char="6027">personnel</TOKEN>
+<TOKEN id="token-44-11" pos="word" morph="none" start_char="6029" end_char="6032">were</TOKEN>
+<TOKEN id="token-44-12" pos="word" morph="none" start_char="6034" end_char="6040">deleted</TOKEN>
+<TOKEN id="token-44-13" pos="punct" morph="none" start_char="6041" end_char="6041">.</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="6044" end_char="6148">
+<ORIGINAL_TEXT>Ledford says the Wilkerson petition for Certiorari should be granted because the evidence was suppressed.</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="6044" end_char="6050">Ledford</TOKEN>
+<TOKEN id="token-45-1" pos="word" morph="none" start_char="6052" end_char="6055">says</TOKEN>
+<TOKEN id="token-45-2" pos="word" morph="none" start_char="6057" end_char="6059">the</TOKEN>
+<TOKEN id="token-45-3" pos="word" morph="none" start_char="6061" end_char="6069">Wilkerson</TOKEN>
+<TOKEN id="token-45-4" pos="word" morph="none" start_char="6071" end_char="6078">petition</TOKEN>
+<TOKEN id="token-45-5" pos="word" morph="none" start_char="6080" end_char="6082">for</TOKEN>
+<TOKEN id="token-45-6" pos="word" morph="none" start_char="6084" end_char="6093">Certiorari</TOKEN>
+<TOKEN id="token-45-7" pos="word" morph="none" start_char="6095" end_char="6100">should</TOKEN>
+<TOKEN id="token-45-8" pos="word" morph="none" start_char="6102" end_char="6103">be</TOKEN>
+<TOKEN id="token-45-9" pos="word" morph="none" start_char="6105" end_char="6111">granted</TOKEN>
+<TOKEN id="token-45-10" pos="word" morph="none" start_char="6113" end_char="6119">because</TOKEN>
+<TOKEN id="token-45-11" pos="word" morph="none" start_char="6121" end_char="6123">the</TOKEN>
+<TOKEN id="token-45-12" pos="word" morph="none" start_char="6125" end_char="6132">evidence</TOKEN>
+<TOKEN id="token-45-13" pos="word" morph="none" start_char="6134" end_char="6136">was</TOKEN>
+<TOKEN id="token-45-14" pos="word" morph="none" start_char="6138" end_char="6147">suppressed</TOKEN>
+<TOKEN id="token-45-15" pos="punct" morph="none" start_char="6148" end_char="6148">.</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="6150" end_char="6297">
+<ORIGINAL_TEXT>"This should never be treated as a harmless error as it leads to both prosecutorial misconduct and wrongful incarceration of the innocent," he adds.</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="punct" morph="none" start_char="6150" end_char="6150">"</TOKEN>
+<TOKEN id="token-46-1" pos="word" morph="none" start_char="6151" end_char="6154">This</TOKEN>
+<TOKEN id="token-46-2" pos="word" morph="none" start_char="6156" end_char="6161">should</TOKEN>
+<TOKEN id="token-46-3" pos="word" morph="none" start_char="6163" end_char="6167">never</TOKEN>
+<TOKEN id="token-46-4" pos="word" morph="none" start_char="6169" end_char="6170">be</TOKEN>
+<TOKEN id="token-46-5" pos="word" morph="none" start_char="6172" end_char="6178">treated</TOKEN>
+<TOKEN id="token-46-6" pos="word" morph="none" start_char="6180" end_char="6181">as</TOKEN>
+<TOKEN id="token-46-7" pos="word" morph="none" start_char="6183" end_char="6183">a</TOKEN>
+<TOKEN id="token-46-8" pos="word" morph="none" start_char="6185" end_char="6192">harmless</TOKEN>
+<TOKEN id="token-46-9" pos="word" morph="none" start_char="6194" end_char="6198">error</TOKEN>
+<TOKEN id="token-46-10" pos="word" morph="none" start_char="6200" end_char="6201">as</TOKEN>
+<TOKEN id="token-46-11" pos="word" morph="none" start_char="6203" end_char="6204">it</TOKEN>
+<TOKEN id="token-46-12" pos="word" morph="none" start_char="6206" end_char="6210">leads</TOKEN>
+<TOKEN id="token-46-13" pos="word" morph="none" start_char="6212" end_char="6213">to</TOKEN>
+<TOKEN id="token-46-14" pos="word" morph="none" start_char="6215" end_char="6218">both</TOKEN>
+<TOKEN id="token-46-15" pos="word" morph="none" start_char="6220" end_char="6232">prosecutorial</TOKEN>
+<TOKEN id="token-46-16" pos="word" morph="none" start_char="6234" end_char="6243">misconduct</TOKEN>
+<TOKEN id="token-46-17" pos="word" morph="none" start_char="6245" end_char="6247">and</TOKEN>
+<TOKEN id="token-46-18" pos="word" morph="none" start_char="6249" end_char="6256">wrongful</TOKEN>
+<TOKEN id="token-46-19" pos="word" morph="none" start_char="6258" end_char="6270">incarceration</TOKEN>
+<TOKEN id="token-46-20" pos="word" morph="none" start_char="6272" end_char="6273">of</TOKEN>
+<TOKEN id="token-46-21" pos="word" morph="none" start_char="6275" end_char="6277">the</TOKEN>
+<TOKEN id="token-46-22" pos="word" morph="none" start_char="6279" end_char="6286">innocent</TOKEN>
+<TOKEN id="token-46-23" pos="punct" morph="none" start_char="6287" end_char="6288">,"</TOKEN>
+<TOKEN id="token-46-24" pos="word" morph="none" start_char="6290" end_char="6291">he</TOKEN>
+<TOKEN id="token-46-25" pos="word" morph="none" start_char="6293" end_char="6296">adds</TOKEN>
+<TOKEN id="token-46-26" pos="punct" morph="none" start_char="6297" end_char="6297">.</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="6300" end_char="6487">
+<ORIGINAL_TEXT>Since the trial, Ledford says email traffic was discovered showing FDA Agent Janet Gray sent her official investigative report to FDA in Washington, D.C. for editing by "numerous persons."</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="word" morph="none" start_char="6300" end_char="6304">Since</TOKEN>
+<TOKEN id="token-47-1" pos="word" morph="none" start_char="6306" end_char="6308">the</TOKEN>
+<TOKEN id="token-47-2" pos="word" morph="none" start_char="6310" end_char="6314">trial</TOKEN>
+<TOKEN id="token-47-3" pos="punct" morph="none" start_char="6315" end_char="6315">,</TOKEN>
+<TOKEN id="token-47-4" pos="word" morph="none" start_char="6317" end_char="6323">Ledford</TOKEN>
+<TOKEN id="token-47-5" pos="word" morph="none" start_char="6325" end_char="6328">says</TOKEN>
+<TOKEN id="token-47-6" pos="word" morph="none" start_char="6330" end_char="6334">email</TOKEN>
+<TOKEN id="token-47-7" pos="word" morph="none" start_char="6336" end_char="6342">traffic</TOKEN>
+<TOKEN id="token-47-8" pos="word" morph="none" start_char="6344" end_char="6346">was</TOKEN>
+<TOKEN id="token-47-9" pos="word" morph="none" start_char="6348" end_char="6357">discovered</TOKEN>
+<TOKEN id="token-47-10" pos="word" morph="none" start_char="6359" end_char="6365">showing</TOKEN>
+<TOKEN id="token-47-11" pos="word" morph="none" start_char="6367" end_char="6369">FDA</TOKEN>
+<TOKEN id="token-47-12" pos="word" morph="none" start_char="6371" end_char="6375">Agent</TOKEN>
+<TOKEN id="token-47-13" pos="word" morph="none" start_char="6377" end_char="6381">Janet</TOKEN>
+<TOKEN id="token-47-14" pos="word" morph="none" start_char="6383" end_char="6386">Gray</TOKEN>
+<TOKEN id="token-47-15" pos="word" morph="none" start_char="6388" end_char="6391">sent</TOKEN>
+<TOKEN id="token-47-16" pos="word" morph="none" start_char="6393" end_char="6395">her</TOKEN>
+<TOKEN id="token-47-17" pos="word" morph="none" start_char="6397" end_char="6404">official</TOKEN>
+<TOKEN id="token-47-18" pos="word" morph="none" start_char="6406" end_char="6418">investigative</TOKEN>
+<TOKEN id="token-47-19" pos="word" morph="none" start_char="6420" end_char="6425">report</TOKEN>
+<TOKEN id="token-47-20" pos="word" morph="none" start_char="6427" end_char="6428">to</TOKEN>
+<TOKEN id="token-47-21" pos="word" morph="none" start_char="6430" end_char="6432">FDA</TOKEN>
+<TOKEN id="token-47-22" pos="word" morph="none" start_char="6434" end_char="6435">in</TOKEN>
+<TOKEN id="token-47-23" pos="word" morph="none" start_char="6437" end_char="6446">Washington</TOKEN>
+<TOKEN id="token-47-24" pos="punct" morph="none" start_char="6447" end_char="6447">,</TOKEN>
+<TOKEN id="token-47-25" pos="unknown" morph="none" start_char="6449" end_char="6451">D.C</TOKEN>
+<TOKEN id="token-47-26" pos="punct" morph="none" start_char="6452" end_char="6452">.</TOKEN>
+<TOKEN id="token-47-27" pos="word" morph="none" start_char="6454" end_char="6456">for</TOKEN>
+<TOKEN id="token-47-28" pos="word" morph="none" start_char="6458" end_char="6464">editing</TOKEN>
+<TOKEN id="token-47-29" pos="word" morph="none" start_char="6466" end_char="6467">by</TOKEN>
+<TOKEN id="token-47-30" pos="punct" morph="none" start_char="6469" end_char="6469">"</TOKEN>
+<TOKEN id="token-47-31" pos="word" morph="none" start_char="6470" end_char="6477">numerous</TOKEN>
+<TOKEN id="token-47-32" pos="word" morph="none" start_char="6479" end_char="6485">persons</TOKEN>
+<TOKEN id="token-47-33" pos="punct" morph="none" start_char="6486" end_char="6487">."</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="6489" end_char="6570">
+<ORIGINAL_TEXT>He says that information "challenges the credibility of her report and testimony."</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="word" morph="none" start_char="6489" end_char="6490">He</TOKEN>
+<TOKEN id="token-48-1" pos="word" morph="none" start_char="6492" end_char="6495">says</TOKEN>
+<TOKEN id="token-48-2" pos="word" morph="none" start_char="6497" end_char="6500">that</TOKEN>
+<TOKEN id="token-48-3" pos="word" morph="none" start_char="6502" end_char="6512">information</TOKEN>
+<TOKEN id="token-48-4" pos="punct" morph="none" start_char="6514" end_char="6514">"</TOKEN>
+<TOKEN id="token-48-5" pos="word" morph="none" start_char="6515" end_char="6524">challenges</TOKEN>
+<TOKEN id="token-48-6" pos="word" morph="none" start_char="6526" end_char="6528">the</TOKEN>
+<TOKEN id="token-48-7" pos="word" morph="none" start_char="6530" end_char="6540">credibility</TOKEN>
+<TOKEN id="token-48-8" pos="word" morph="none" start_char="6542" end_char="6543">of</TOKEN>
+<TOKEN id="token-48-9" pos="word" morph="none" start_char="6545" end_char="6547">her</TOKEN>
+<TOKEN id="token-48-10" pos="word" morph="none" start_char="6549" end_char="6554">report</TOKEN>
+<TOKEN id="token-48-11" pos="word" morph="none" start_char="6556" end_char="6558">and</TOKEN>
+<TOKEN id="token-48-12" pos="word" morph="none" start_char="6560" end_char="6568">testimony</TOKEN>
+<TOKEN id="token-48-13" pos="punct" morph="none" start_char="6569" end_char="6570">."</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="6573" end_char="6725">
+<ORIGINAL_TEXT>If known at the time, Ledford believes it would have been exculpatory evidence at the trial against Gray and FDA Agents Bob Neligan and Richard Hartline.</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="word" morph="none" start_char="6573" end_char="6574">If</TOKEN>
+<TOKEN id="token-49-1" pos="word" morph="none" start_char="6576" end_char="6580">known</TOKEN>
+<TOKEN id="token-49-2" pos="word" morph="none" start_char="6582" end_char="6583">at</TOKEN>
+<TOKEN id="token-49-3" pos="word" morph="none" start_char="6585" end_char="6587">the</TOKEN>
+<TOKEN id="token-49-4" pos="word" morph="none" start_char="6589" end_char="6592">time</TOKEN>
+<TOKEN id="token-49-5" pos="punct" morph="none" start_char="6593" end_char="6593">,</TOKEN>
+<TOKEN id="token-49-6" pos="word" morph="none" start_char="6595" end_char="6601">Ledford</TOKEN>
+<TOKEN id="token-49-7" pos="word" morph="none" start_char="6603" end_char="6610">believes</TOKEN>
+<TOKEN id="token-49-8" pos="word" morph="none" start_char="6612" end_char="6613">it</TOKEN>
+<TOKEN id="token-49-9" pos="word" morph="none" start_char="6615" end_char="6619">would</TOKEN>
+<TOKEN id="token-49-10" pos="word" morph="none" start_char="6621" end_char="6624">have</TOKEN>
+<TOKEN id="token-49-11" pos="word" morph="none" start_char="6626" end_char="6629">been</TOKEN>
+<TOKEN id="token-49-12" pos="word" morph="none" start_char="6631" end_char="6641">exculpatory</TOKEN>
+<TOKEN id="token-49-13" pos="word" morph="none" start_char="6643" end_char="6650">evidence</TOKEN>
+<TOKEN id="token-49-14" pos="word" morph="none" start_char="6652" end_char="6653">at</TOKEN>
+<TOKEN id="token-49-15" pos="word" morph="none" start_char="6655" end_char="6657">the</TOKEN>
+<TOKEN id="token-49-16" pos="word" morph="none" start_char="6659" end_char="6663">trial</TOKEN>
+<TOKEN id="token-49-17" pos="word" morph="none" start_char="6665" end_char="6671">against</TOKEN>
+<TOKEN id="token-49-18" pos="word" morph="none" start_char="6673" end_char="6676">Gray</TOKEN>
+<TOKEN id="token-49-19" pos="word" morph="none" start_char="6678" end_char="6680">and</TOKEN>
+<TOKEN id="token-49-20" pos="word" morph="none" start_char="6682" end_char="6684">FDA</TOKEN>
+<TOKEN id="token-49-21" pos="word" morph="none" start_char="6686" end_char="6691">Agents</TOKEN>
+<TOKEN id="token-49-22" pos="word" morph="none" start_char="6693" end_char="6695">Bob</TOKEN>
+<TOKEN id="token-49-23" pos="word" morph="none" start_char="6697" end_char="6703">Neligan</TOKEN>
+<TOKEN id="token-49-24" pos="word" morph="none" start_char="6705" end_char="6707">and</TOKEN>
+<TOKEN id="token-49-25" pos="word" morph="none" start_char="6709" end_char="6715">Richard</TOKEN>
+<TOKEN id="token-49-26" pos="word" morph="none" start_char="6717" end_char="6724">Hartline</TOKEN>
+<TOKEN id="token-49-27" pos="punct" morph="none" start_char="6725" end_char="6725">.</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="6727" end_char="6876">
+<ORIGINAL_TEXT>In one email, Gray promises to include anything in her report "as long as they help back us up on what we put in there when the bullets start flying."</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="word" morph="none" start_char="6727" end_char="6728">In</TOKEN>
+<TOKEN id="token-50-1" pos="word" morph="none" start_char="6730" end_char="6732">one</TOKEN>
+<TOKEN id="token-50-2" pos="word" morph="none" start_char="6734" end_char="6738">email</TOKEN>
+<TOKEN id="token-50-3" pos="punct" morph="none" start_char="6739" end_char="6739">,</TOKEN>
+<TOKEN id="token-50-4" pos="word" morph="none" start_char="6741" end_char="6744">Gray</TOKEN>
+<TOKEN id="token-50-5" pos="word" morph="none" start_char="6746" end_char="6753">promises</TOKEN>
+<TOKEN id="token-50-6" pos="word" morph="none" start_char="6755" end_char="6756">to</TOKEN>
+<TOKEN id="token-50-7" pos="word" morph="none" start_char="6758" end_char="6764">include</TOKEN>
+<TOKEN id="token-50-8" pos="word" morph="none" start_char="6766" end_char="6773">anything</TOKEN>
+<TOKEN id="token-50-9" pos="word" morph="none" start_char="6775" end_char="6776">in</TOKEN>
+<TOKEN id="token-50-10" pos="word" morph="none" start_char="6778" end_char="6780">her</TOKEN>
+<TOKEN id="token-50-11" pos="word" morph="none" start_char="6782" end_char="6787">report</TOKEN>
+<TOKEN id="token-50-12" pos="punct" morph="none" start_char="6789" end_char="6789">"</TOKEN>
+<TOKEN id="token-50-13" pos="word" morph="none" start_char="6790" end_char="6791">as</TOKEN>
+<TOKEN id="token-50-14" pos="word" morph="none" start_char="6793" end_char="6796">long</TOKEN>
+<TOKEN id="token-50-15" pos="word" morph="none" start_char="6798" end_char="6799">as</TOKEN>
+<TOKEN id="token-50-16" pos="word" morph="none" start_char="6801" end_char="6804">they</TOKEN>
+<TOKEN id="token-50-17" pos="word" morph="none" start_char="6806" end_char="6809">help</TOKEN>
+<TOKEN id="token-50-18" pos="word" morph="none" start_char="6811" end_char="6814">back</TOKEN>
+<TOKEN id="token-50-19" pos="word" morph="none" start_char="6816" end_char="6817">us</TOKEN>
+<TOKEN id="token-50-20" pos="word" morph="none" start_char="6819" end_char="6820">up</TOKEN>
+<TOKEN id="token-50-21" pos="word" morph="none" start_char="6822" end_char="6823">on</TOKEN>
+<TOKEN id="token-50-22" pos="word" morph="none" start_char="6825" end_char="6828">what</TOKEN>
+<TOKEN id="token-50-23" pos="word" morph="none" start_char="6830" end_char="6831">we</TOKEN>
+<TOKEN id="token-50-24" pos="word" morph="none" start_char="6833" end_char="6835">put</TOKEN>
+<TOKEN id="token-50-25" pos="word" morph="none" start_char="6837" end_char="6838">in</TOKEN>
+<TOKEN id="token-50-26" pos="word" morph="none" start_char="6840" end_char="6844">there</TOKEN>
+<TOKEN id="token-50-27" pos="word" morph="none" start_char="6846" end_char="6849">when</TOKEN>
+<TOKEN id="token-50-28" pos="word" morph="none" start_char="6851" end_char="6853">the</TOKEN>
+<TOKEN id="token-50-29" pos="word" morph="none" start_char="6855" end_char="6861">bullets</TOKEN>
+<TOKEN id="token-50-30" pos="word" morph="none" start_char="6863" end_char="6867">start</TOKEN>
+<TOKEN id="token-50-31" pos="word" morph="none" start_char="6869" end_char="6874">flying</TOKEN>
+<TOKEN id="token-50-32" pos="punct" morph="none" start_char="6875" end_char="6876">."</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="6879" end_char="7070">
+<ORIGINAL_TEXT>Finally, Ledford charges the assistant U.S. attorney in charge of the PCA criminal prosecutions intentionally withheld a copy of Wilkerson’s interview with Department of Justice investigators.</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="word" morph="none" start_char="6879" end_char="6885">Finally</TOKEN>
+<TOKEN id="token-51-1" pos="punct" morph="none" start_char="6886" end_char="6886">,</TOKEN>
+<TOKEN id="token-51-2" pos="word" morph="none" start_char="6888" end_char="6894">Ledford</TOKEN>
+<TOKEN id="token-51-3" pos="word" morph="none" start_char="6896" end_char="6902">charges</TOKEN>
+<TOKEN id="token-51-4" pos="word" morph="none" start_char="6904" end_char="6906">the</TOKEN>
+<TOKEN id="token-51-5" pos="word" morph="none" start_char="6908" end_char="6916">assistant</TOKEN>
+<TOKEN id="token-51-6" pos="unknown" morph="none" start_char="6918" end_char="6920">U.S</TOKEN>
+<TOKEN id="token-51-7" pos="punct" morph="none" start_char="6921" end_char="6921">.</TOKEN>
+<TOKEN id="token-51-8" pos="word" morph="none" start_char="6923" end_char="6930">attorney</TOKEN>
+<TOKEN id="token-51-9" pos="word" morph="none" start_char="6932" end_char="6933">in</TOKEN>
+<TOKEN id="token-51-10" pos="word" morph="none" start_char="6935" end_char="6940">charge</TOKEN>
+<TOKEN id="token-51-11" pos="word" morph="none" start_char="6942" end_char="6943">of</TOKEN>
+<TOKEN id="token-51-12" pos="word" morph="none" start_char="6945" end_char="6947">the</TOKEN>
+<TOKEN id="token-51-13" pos="word" morph="none" start_char="6949" end_char="6951">PCA</TOKEN>
+<TOKEN id="token-51-14" pos="word" morph="none" start_char="6953" end_char="6960">criminal</TOKEN>
+<TOKEN id="token-51-15" pos="word" morph="none" start_char="6962" end_char="6973">prosecutions</TOKEN>
+<TOKEN id="token-51-16" pos="word" morph="none" start_char="6975" end_char="6987">intentionally</TOKEN>
+<TOKEN id="token-51-17" pos="word" morph="none" start_char="6989" end_char="6996">withheld</TOKEN>
+<TOKEN id="token-51-18" pos="word" morph="none" start_char="6998" end_char="6998">a</TOKEN>
+<TOKEN id="token-51-19" pos="word" morph="none" start_char="7000" end_char="7003">copy</TOKEN>
+<TOKEN id="token-51-20" pos="word" morph="none" start_char="7005" end_char="7006">of</TOKEN>
+<TOKEN id="token-51-21" pos="word" morph="none" start_char="7008" end_char="7018">Wilkerson’s</TOKEN>
+<TOKEN id="token-51-22" pos="word" morph="none" start_char="7020" end_char="7028">interview</TOKEN>
+<TOKEN id="token-51-23" pos="word" morph="none" start_char="7030" end_char="7033">with</TOKEN>
+<TOKEN id="token-51-24" pos="word" morph="none" start_char="7035" end_char="7044">Department</TOKEN>
+<TOKEN id="token-51-25" pos="word" morph="none" start_char="7046" end_char="7047">of</TOKEN>
+<TOKEN id="token-51-26" pos="word" morph="none" start_char="7049" end_char="7055">Justice</TOKEN>
+<TOKEN id="token-51-27" pos="word" morph="none" start_char="7057" end_char="7069">investigators</TOKEN>
+<TOKEN id="token-51-28" pos="punct" morph="none" start_char="7070" end_char="7070">.</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="7073" end_char="7369">
+<ORIGINAL_TEXT>"Mary Wilkerson has always maintained her innocence in saying she ‘never’ knew of positives when she was the sole screaming whistleblower in the plant and has paid dearly for that fact but di not have timely access of this e-mail which was material to her defense, " Ledford writes the high court.</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="punct" morph="none" start_char="7073" end_char="7073">"</TOKEN>
+<TOKEN id="token-52-1" pos="word" morph="none" start_char="7074" end_char="7077">Mary</TOKEN>
+<TOKEN id="token-52-2" pos="word" morph="none" start_char="7079" end_char="7087">Wilkerson</TOKEN>
+<TOKEN id="token-52-3" pos="word" morph="none" start_char="7089" end_char="7091">has</TOKEN>
+<TOKEN id="token-52-4" pos="word" morph="none" start_char="7093" end_char="7098">always</TOKEN>
+<TOKEN id="token-52-5" pos="word" morph="none" start_char="7100" end_char="7109">maintained</TOKEN>
+<TOKEN id="token-52-6" pos="word" morph="none" start_char="7111" end_char="7113">her</TOKEN>
+<TOKEN id="token-52-7" pos="word" morph="none" start_char="7115" end_char="7123">innocence</TOKEN>
+<TOKEN id="token-52-8" pos="word" morph="none" start_char="7125" end_char="7126">in</TOKEN>
+<TOKEN id="token-52-9" pos="word" morph="none" start_char="7128" end_char="7133">saying</TOKEN>
+<TOKEN id="token-52-10" pos="word" morph="none" start_char="7135" end_char="7137">she</TOKEN>
+<TOKEN id="token-52-11" pos="punct" morph="none" start_char="7139" end_char="7139">‘</TOKEN>
+<TOKEN id="token-52-12" pos="word" morph="none" start_char="7140" end_char="7144">never</TOKEN>
+<TOKEN id="token-52-13" pos="punct" morph="none" start_char="7145" end_char="7145">’</TOKEN>
+<TOKEN id="token-52-14" pos="word" morph="none" start_char="7147" end_char="7150">knew</TOKEN>
+<TOKEN id="token-52-15" pos="word" morph="none" start_char="7152" end_char="7153">of</TOKEN>
+<TOKEN id="token-52-16" pos="word" morph="none" start_char="7155" end_char="7163">positives</TOKEN>
+<TOKEN id="token-52-17" pos="word" morph="none" start_char="7165" end_char="7168">when</TOKEN>
+<TOKEN id="token-52-18" pos="word" morph="none" start_char="7170" end_char="7172">she</TOKEN>
+<TOKEN id="token-52-19" pos="word" morph="none" start_char="7174" end_char="7176">was</TOKEN>
+<TOKEN id="token-52-20" pos="word" morph="none" start_char="7178" end_char="7180">the</TOKEN>
+<TOKEN id="token-52-21" pos="word" morph="none" start_char="7182" end_char="7185">sole</TOKEN>
+<TOKEN id="token-52-22" pos="word" morph="none" start_char="7187" end_char="7195">screaming</TOKEN>
+<TOKEN id="token-52-23" pos="word" morph="none" start_char="7197" end_char="7209">whistleblower</TOKEN>
+<TOKEN id="token-52-24" pos="word" morph="none" start_char="7211" end_char="7212">in</TOKEN>
+<TOKEN id="token-52-25" pos="word" morph="none" start_char="7214" end_char="7216">the</TOKEN>
+<TOKEN id="token-52-26" pos="word" morph="none" start_char="7218" end_char="7222">plant</TOKEN>
+<TOKEN id="token-52-27" pos="word" morph="none" start_char="7224" end_char="7226">and</TOKEN>
+<TOKEN id="token-52-28" pos="word" morph="none" start_char="7228" end_char="7230">has</TOKEN>
+<TOKEN id="token-52-29" pos="word" morph="none" start_char="7232" end_char="7235">paid</TOKEN>
+<TOKEN id="token-52-30" pos="word" morph="none" start_char="7237" end_char="7242">dearly</TOKEN>
+<TOKEN id="token-52-31" pos="word" morph="none" start_char="7244" end_char="7246">for</TOKEN>
+<TOKEN id="token-52-32" pos="word" morph="none" start_char="7248" end_char="7251">that</TOKEN>
+<TOKEN id="token-52-33" pos="word" morph="none" start_char="7253" end_char="7256">fact</TOKEN>
+<TOKEN id="token-52-34" pos="word" morph="none" start_char="7258" end_char="7260">but</TOKEN>
+<TOKEN id="token-52-35" pos="word" morph="none" start_char="7262" end_char="7263">di</TOKEN>
+<TOKEN id="token-52-36" pos="word" morph="none" start_char="7265" end_char="7267">not</TOKEN>
+<TOKEN id="token-52-37" pos="word" morph="none" start_char="7269" end_char="7272">have</TOKEN>
+<TOKEN id="token-52-38" pos="word" morph="none" start_char="7274" end_char="7279">timely</TOKEN>
+<TOKEN id="token-52-39" pos="word" morph="none" start_char="7281" end_char="7286">access</TOKEN>
+<TOKEN id="token-52-40" pos="word" morph="none" start_char="7288" end_char="7289">of</TOKEN>
+<TOKEN id="token-52-41" pos="word" morph="none" start_char="7291" end_char="7294">this</TOKEN>
+<TOKEN id="token-52-42" pos="unknown" morph="none" start_char="7296" end_char="7301">e-mail</TOKEN>
+<TOKEN id="token-52-43" pos="word" morph="none" start_char="7303" end_char="7307">which</TOKEN>
+<TOKEN id="token-52-44" pos="word" morph="none" start_char="7309" end_char="7311">was</TOKEN>
+<TOKEN id="token-52-45" pos="word" morph="none" start_char="7313" end_char="7320">material</TOKEN>
+<TOKEN id="token-52-46" pos="word" morph="none" start_char="7322" end_char="7323">to</TOKEN>
+<TOKEN id="token-52-47" pos="word" morph="none" start_char="7325" end_char="7327">her</TOKEN>
+<TOKEN id="token-52-48" pos="word" morph="none" start_char="7329" end_char="7335">defense</TOKEN>
+<TOKEN id="token-52-49" pos="punct" morph="none" start_char="7336" end_char="7336">,</TOKEN>
+<TOKEN id="token-52-50" pos="punct" morph="none" start_char="7338" end_char="7338">"</TOKEN>
+<TOKEN id="token-52-51" pos="word" morph="none" start_char="7340" end_char="7346">Ledford</TOKEN>
+<TOKEN id="token-52-52" pos="word" morph="none" start_char="7348" end_char="7353">writes</TOKEN>
+<TOKEN id="token-52-53" pos="word" morph="none" start_char="7355" end_char="7357">the</TOKEN>
+<TOKEN id="token-52-54" pos="word" morph="none" start_char="7359" end_char="7362">high</TOKEN>
+<TOKEN id="token-52-55" pos="word" morph="none" start_char="7364" end_char="7368">court</TOKEN>
+<TOKEN id="token-52-56" pos="punct" morph="none" start_char="7369" end_char="7369">.</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="7372" end_char="7470">
+<ORIGINAL_TEXT>Wilkerson was found guilty of lying to investigators about PCAs own product testing for Salmonella.</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="word" morph="none" start_char="7372" end_char="7380">Wilkerson</TOKEN>
+<TOKEN id="token-53-1" pos="word" morph="none" start_char="7382" end_char="7384">was</TOKEN>
+<TOKEN id="token-53-2" pos="word" morph="none" start_char="7386" end_char="7390">found</TOKEN>
+<TOKEN id="token-53-3" pos="word" morph="none" start_char="7392" end_char="7397">guilty</TOKEN>
+<TOKEN id="token-53-4" pos="word" morph="none" start_char="7399" end_char="7400">of</TOKEN>
+<TOKEN id="token-53-5" pos="word" morph="none" start_char="7402" end_char="7406">lying</TOKEN>
+<TOKEN id="token-53-6" pos="word" morph="none" start_char="7408" end_char="7409">to</TOKEN>
+<TOKEN id="token-53-7" pos="word" morph="none" start_char="7411" end_char="7423">investigators</TOKEN>
+<TOKEN id="token-53-8" pos="word" morph="none" start_char="7425" end_char="7429">about</TOKEN>
+<TOKEN id="token-53-9" pos="word" morph="none" start_char="7431" end_char="7434">PCAs</TOKEN>
+<TOKEN id="token-53-10" pos="word" morph="none" start_char="7436" end_char="7438">own</TOKEN>
+<TOKEN id="token-53-11" pos="word" morph="none" start_char="7440" end_char="7446">product</TOKEN>
+<TOKEN id="token-53-12" pos="word" morph="none" start_char="7448" end_char="7454">testing</TOKEN>
+<TOKEN id="token-53-13" pos="word" morph="none" start_char="7456" end_char="7458">for</TOKEN>
+<TOKEN id="token-53-14" pos="word" morph="none" start_char="7460" end_char="7469">Salmonella</TOKEN>
+<TOKEN id="token-53-15" pos="punct" morph="none" start_char="7470" end_char="7470">.</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="7473" end_char="7737">
+<ORIGINAL_TEXT>Ledford writes that government suppression of evidence is not new, but the use of a "novel and high tech" discovery data dump on an indigent defendant" are "egregious acts of Discovery abuse that could rightfully be compared to withholding of exculpatory evidence…"</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="word" morph="none" start_char="7473" end_char="7479">Ledford</TOKEN>
+<TOKEN id="token-54-1" pos="word" morph="none" start_char="7481" end_char="7486">writes</TOKEN>
+<TOKEN id="token-54-2" pos="word" morph="none" start_char="7488" end_char="7491">that</TOKEN>
+<TOKEN id="token-54-3" pos="word" morph="none" start_char="7493" end_char="7502">government</TOKEN>
+<TOKEN id="token-54-4" pos="word" morph="none" start_char="7504" end_char="7514">suppression</TOKEN>
+<TOKEN id="token-54-5" pos="word" morph="none" start_char="7516" end_char="7517">of</TOKEN>
+<TOKEN id="token-54-6" pos="word" morph="none" start_char="7519" end_char="7526">evidence</TOKEN>
+<TOKEN id="token-54-7" pos="word" morph="none" start_char="7528" end_char="7529">is</TOKEN>
+<TOKEN id="token-54-8" pos="word" morph="none" start_char="7531" end_char="7533">not</TOKEN>
+<TOKEN id="token-54-9" pos="word" morph="none" start_char="7535" end_char="7537">new</TOKEN>
+<TOKEN id="token-54-10" pos="punct" morph="none" start_char="7538" end_char="7538">,</TOKEN>
+<TOKEN id="token-54-11" pos="word" morph="none" start_char="7540" end_char="7542">but</TOKEN>
+<TOKEN id="token-54-12" pos="word" morph="none" start_char="7544" end_char="7546">the</TOKEN>
+<TOKEN id="token-54-13" pos="word" morph="none" start_char="7548" end_char="7550">use</TOKEN>
+<TOKEN id="token-54-14" pos="word" morph="none" start_char="7552" end_char="7553">of</TOKEN>
+<TOKEN id="token-54-15" pos="word" morph="none" start_char="7555" end_char="7555">a</TOKEN>
+<TOKEN id="token-54-16" pos="punct" morph="none" start_char="7557" end_char="7557">"</TOKEN>
+<TOKEN id="token-54-17" pos="word" morph="none" start_char="7558" end_char="7562">novel</TOKEN>
+<TOKEN id="token-54-18" pos="word" morph="none" start_char="7564" end_char="7566">and</TOKEN>
+<TOKEN id="token-54-19" pos="word" morph="none" start_char="7568" end_char="7571">high</TOKEN>
+<TOKEN id="token-54-20" pos="word" morph="none" start_char="7573" end_char="7576">tech</TOKEN>
+<TOKEN id="token-54-21" pos="punct" morph="none" start_char="7577" end_char="7577">"</TOKEN>
+<TOKEN id="token-54-22" pos="word" morph="none" start_char="7579" end_char="7587">discovery</TOKEN>
+<TOKEN id="token-54-23" pos="word" morph="none" start_char="7589" end_char="7592">data</TOKEN>
+<TOKEN id="token-54-24" pos="word" morph="none" start_char="7594" end_char="7597">dump</TOKEN>
+<TOKEN id="token-54-25" pos="word" morph="none" start_char="7599" end_char="7600">on</TOKEN>
+<TOKEN id="token-54-26" pos="word" morph="none" start_char="7602" end_char="7603">an</TOKEN>
+<TOKEN id="token-54-27" pos="word" morph="none" start_char="7605" end_char="7612">indigent</TOKEN>
+<TOKEN id="token-54-28" pos="word" morph="none" start_char="7614" end_char="7622">defendant</TOKEN>
+<TOKEN id="token-54-29" pos="punct" morph="none" start_char="7623" end_char="7623">"</TOKEN>
+<TOKEN id="token-54-30" pos="word" morph="none" start_char="7625" end_char="7627">are</TOKEN>
+<TOKEN id="token-54-31" pos="punct" morph="none" start_char="7629" end_char="7629">"</TOKEN>
+<TOKEN id="token-54-32" pos="word" morph="none" start_char="7630" end_char="7638">egregious</TOKEN>
+<TOKEN id="token-54-33" pos="word" morph="none" start_char="7640" end_char="7643">acts</TOKEN>
+<TOKEN id="token-54-34" pos="word" morph="none" start_char="7645" end_char="7646">of</TOKEN>
+<TOKEN id="token-54-35" pos="word" morph="none" start_char="7648" end_char="7656">Discovery</TOKEN>
+<TOKEN id="token-54-36" pos="word" morph="none" start_char="7658" end_char="7662">abuse</TOKEN>
+<TOKEN id="token-54-37" pos="word" morph="none" start_char="7664" end_char="7667">that</TOKEN>
+<TOKEN id="token-54-38" pos="word" morph="none" start_char="7669" end_char="7673">could</TOKEN>
+<TOKEN id="token-54-39" pos="word" morph="none" start_char="7675" end_char="7684">rightfully</TOKEN>
+<TOKEN id="token-54-40" pos="word" morph="none" start_char="7686" end_char="7687">be</TOKEN>
+<TOKEN id="token-54-41" pos="word" morph="none" start_char="7689" end_char="7696">compared</TOKEN>
+<TOKEN id="token-54-42" pos="word" morph="none" start_char="7698" end_char="7699">to</TOKEN>
+<TOKEN id="token-54-43" pos="word" morph="none" start_char="7701" end_char="7711">withholding</TOKEN>
+<TOKEN id="token-54-44" pos="word" morph="none" start_char="7713" end_char="7714">of</TOKEN>
+<TOKEN id="token-54-45" pos="word" morph="none" start_char="7716" end_char="7726">exculpatory</TOKEN>
+<TOKEN id="token-54-46" pos="word" morph="none" start_char="7728" end_char="7735">evidence</TOKEN>
+<TOKEN id="token-54-47" pos="punct" morph="none" start_char="7736" end_char="7737">…"</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="7740" end_char="7831">
+<ORIGINAL_TEXT>The Writ of Certiorari also demands a new trial for Wilkerson because of "juror dishonesty."</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="word" morph="none" start_char="7740" end_char="7742">The</TOKEN>
+<TOKEN id="token-55-1" pos="word" morph="none" start_char="7744" end_char="7747">Writ</TOKEN>
+<TOKEN id="token-55-2" pos="word" morph="none" start_char="7749" end_char="7750">of</TOKEN>
+<TOKEN id="token-55-3" pos="word" morph="none" start_char="7752" end_char="7761">Certiorari</TOKEN>
+<TOKEN id="token-55-4" pos="word" morph="none" start_char="7763" end_char="7766">also</TOKEN>
+<TOKEN id="token-55-5" pos="word" morph="none" start_char="7768" end_char="7774">demands</TOKEN>
+<TOKEN id="token-55-6" pos="word" morph="none" start_char="7776" end_char="7776">a</TOKEN>
+<TOKEN id="token-55-7" pos="word" morph="none" start_char="7778" end_char="7780">new</TOKEN>
+<TOKEN id="token-55-8" pos="word" morph="none" start_char="7782" end_char="7786">trial</TOKEN>
+<TOKEN id="token-55-9" pos="word" morph="none" start_char="7788" end_char="7790">for</TOKEN>
+<TOKEN id="token-55-10" pos="word" morph="none" start_char="7792" end_char="7800">Wilkerson</TOKEN>
+<TOKEN id="token-55-11" pos="word" morph="none" start_char="7802" end_char="7808">because</TOKEN>
+<TOKEN id="token-55-12" pos="word" morph="none" start_char="7810" end_char="7811">of</TOKEN>
+<TOKEN id="token-55-13" pos="punct" morph="none" start_char="7813" end_char="7813">"</TOKEN>
+<TOKEN id="token-55-14" pos="word" morph="none" start_char="7814" end_char="7818">juror</TOKEN>
+<TOKEN id="token-55-15" pos="word" morph="none" start_char="7820" end_char="7829">dishonesty</TOKEN>
+<TOKEN id="token-55-16" pos="punct" morph="none" start_char="7830" end_char="7831">."</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="7833" end_char="8032">
+<ORIGINAL_TEXT>Ledford says extensive national and local media coverage when jury selection began focused on the nine deaths attributed to the 2008-09 Salmonella outbreak that was linked to the PCA plant in Blakely.</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="word" morph="none" start_char="7833" end_char="7839">Ledford</TOKEN>
+<TOKEN id="token-56-1" pos="word" morph="none" start_char="7841" end_char="7844">says</TOKEN>
+<TOKEN id="token-56-2" pos="word" morph="none" start_char="7846" end_char="7854">extensive</TOKEN>
+<TOKEN id="token-56-3" pos="word" morph="none" start_char="7856" end_char="7863">national</TOKEN>
+<TOKEN id="token-56-4" pos="word" morph="none" start_char="7865" end_char="7867">and</TOKEN>
+<TOKEN id="token-56-5" pos="word" morph="none" start_char="7869" end_char="7873">local</TOKEN>
+<TOKEN id="token-56-6" pos="word" morph="none" start_char="7875" end_char="7879">media</TOKEN>
+<TOKEN id="token-56-7" pos="word" morph="none" start_char="7881" end_char="7888">coverage</TOKEN>
+<TOKEN id="token-56-8" pos="word" morph="none" start_char="7890" end_char="7893">when</TOKEN>
+<TOKEN id="token-56-9" pos="word" morph="none" start_char="7895" end_char="7898">jury</TOKEN>
+<TOKEN id="token-56-10" pos="word" morph="none" start_char="7900" end_char="7908">selection</TOKEN>
+<TOKEN id="token-56-11" pos="word" morph="none" start_char="7910" end_char="7914">began</TOKEN>
+<TOKEN id="token-56-12" pos="word" morph="none" start_char="7916" end_char="7922">focused</TOKEN>
+<TOKEN id="token-56-13" pos="word" morph="none" start_char="7924" end_char="7925">on</TOKEN>
+<TOKEN id="token-56-14" pos="word" morph="none" start_char="7927" end_char="7929">the</TOKEN>
+<TOKEN id="token-56-15" pos="word" morph="none" start_char="7931" end_char="7934">nine</TOKEN>
+<TOKEN id="token-56-16" pos="word" morph="none" start_char="7936" end_char="7941">deaths</TOKEN>
+<TOKEN id="token-56-17" pos="word" morph="none" start_char="7943" end_char="7952">attributed</TOKEN>
+<TOKEN id="token-56-18" pos="word" morph="none" start_char="7954" end_char="7955">to</TOKEN>
+<TOKEN id="token-56-19" pos="word" morph="none" start_char="7957" end_char="7959">the</TOKEN>
+<TOKEN id="token-56-20" pos="unknown" morph="none" start_char="7961" end_char="7967">2008-09</TOKEN>
+<TOKEN id="token-56-21" pos="word" morph="none" start_char="7969" end_char="7978">Salmonella</TOKEN>
+<TOKEN id="token-56-22" pos="word" morph="none" start_char="7980" end_char="7987">outbreak</TOKEN>
+<TOKEN id="token-56-23" pos="word" morph="none" start_char="7989" end_char="7992">that</TOKEN>
+<TOKEN id="token-56-24" pos="word" morph="none" start_char="7994" end_char="7996">was</TOKEN>
+<TOKEN id="token-56-25" pos="word" morph="none" start_char="7998" end_char="8003">linked</TOKEN>
+<TOKEN id="token-56-26" pos="word" morph="none" start_char="8005" end_char="8006">to</TOKEN>
+<TOKEN id="token-56-27" pos="word" morph="none" start_char="8008" end_char="8010">the</TOKEN>
+<TOKEN id="token-56-28" pos="word" morph="none" start_char="8012" end_char="8014">PCA</TOKEN>
+<TOKEN id="token-56-29" pos="word" morph="none" start_char="8016" end_char="8020">plant</TOKEN>
+<TOKEN id="token-56-30" pos="word" morph="none" start_char="8022" end_char="8023">in</TOKEN>
+<TOKEN id="token-56-31" pos="word" morph="none" start_char="8025" end_char="8031">Blakely</TOKEN>
+<TOKEN id="token-56-32" pos="punct" morph="none" start_char="8032" end_char="8032">.</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="8035" end_char="8247">
+<ORIGINAL_TEXT>After possible jury misconduct surfaced after the trial, the U.S. District Court for the Middle District of Georgia conducts its own inquiry over whether "extrinsic evidence" became part of the jury deliberations.</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="word" morph="none" start_char="8035" end_char="8039">After</TOKEN>
+<TOKEN id="token-57-1" pos="word" morph="none" start_char="8041" end_char="8048">possible</TOKEN>
+<TOKEN id="token-57-2" pos="word" morph="none" start_char="8050" end_char="8053">jury</TOKEN>
+<TOKEN id="token-57-3" pos="word" morph="none" start_char="8055" end_char="8064">misconduct</TOKEN>
+<TOKEN id="token-57-4" pos="word" morph="none" start_char="8066" end_char="8073">surfaced</TOKEN>
+<TOKEN id="token-57-5" pos="word" morph="none" start_char="8075" end_char="8079">after</TOKEN>
+<TOKEN id="token-57-6" pos="word" morph="none" start_char="8081" end_char="8083">the</TOKEN>
+<TOKEN id="token-57-7" pos="word" morph="none" start_char="8085" end_char="8089">trial</TOKEN>
+<TOKEN id="token-57-8" pos="punct" morph="none" start_char="8090" end_char="8090">,</TOKEN>
+<TOKEN id="token-57-9" pos="word" morph="none" start_char="8092" end_char="8094">the</TOKEN>
+<TOKEN id="token-57-10" pos="unknown" morph="none" start_char="8096" end_char="8098">U.S</TOKEN>
+<TOKEN id="token-57-11" pos="punct" morph="none" start_char="8099" end_char="8099">.</TOKEN>
+<TOKEN id="token-57-12" pos="word" morph="none" start_char="8101" end_char="8108">District</TOKEN>
+<TOKEN id="token-57-13" pos="word" morph="none" start_char="8110" end_char="8114">Court</TOKEN>
+<TOKEN id="token-57-14" pos="word" morph="none" start_char="8116" end_char="8118">for</TOKEN>
+<TOKEN id="token-57-15" pos="word" morph="none" start_char="8120" end_char="8122">the</TOKEN>
+<TOKEN id="token-57-16" pos="word" morph="none" start_char="8124" end_char="8129">Middle</TOKEN>
+<TOKEN id="token-57-17" pos="word" morph="none" start_char="8131" end_char="8138">District</TOKEN>
+<TOKEN id="token-57-18" pos="word" morph="none" start_char="8140" end_char="8141">of</TOKEN>
+<TOKEN id="token-57-19" pos="word" morph="none" start_char="8143" end_char="8149">Georgia</TOKEN>
+<TOKEN id="token-57-20" pos="word" morph="none" start_char="8151" end_char="8158">conducts</TOKEN>
+<TOKEN id="token-57-21" pos="word" morph="none" start_char="8160" end_char="8162">its</TOKEN>
+<TOKEN id="token-57-22" pos="word" morph="none" start_char="8164" end_char="8166">own</TOKEN>
+<TOKEN id="token-57-23" pos="word" morph="none" start_char="8168" end_char="8174">inquiry</TOKEN>
+<TOKEN id="token-57-24" pos="word" morph="none" start_char="8176" end_char="8179">over</TOKEN>
+<TOKEN id="token-57-25" pos="word" morph="none" start_char="8181" end_char="8187">whether</TOKEN>
+<TOKEN id="token-57-26" pos="punct" morph="none" start_char="8189" end_char="8189">"</TOKEN>
+<TOKEN id="token-57-27" pos="word" morph="none" start_char="8190" end_char="8198">extrinsic</TOKEN>
+<TOKEN id="token-57-28" pos="word" morph="none" start_char="8200" end_char="8207">evidence</TOKEN>
+<TOKEN id="token-57-29" pos="punct" morph="none" start_char="8208" end_char="8208">"</TOKEN>
+<TOKEN id="token-57-30" pos="word" morph="none" start_char="8210" end_char="8215">became</TOKEN>
+<TOKEN id="token-57-31" pos="word" morph="none" start_char="8217" end_char="8220">part</TOKEN>
+<TOKEN id="token-57-32" pos="word" morph="none" start_char="8222" end_char="8223">of</TOKEN>
+<TOKEN id="token-57-33" pos="word" morph="none" start_char="8225" end_char="8227">the</TOKEN>
+<TOKEN id="token-57-34" pos="word" morph="none" start_char="8229" end_char="8232">jury</TOKEN>
+<TOKEN id="token-57-35" pos="word" morph="none" start_char="8234" end_char="8246">deliberations</TOKEN>
+<TOKEN id="token-57-36" pos="punct" morph="none" start_char="8247" end_char="8247">.</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="8249" end_char="8372">
+<ORIGINAL_TEXT>No information was allowed at trial about deaths stemming from the Salmonella outbreak, but some jurors did talk about them.</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="word" morph="none" start_char="8249" end_char="8250">No</TOKEN>
+<TOKEN id="token-58-1" pos="word" morph="none" start_char="8252" end_char="8262">information</TOKEN>
+<TOKEN id="token-58-2" pos="word" morph="none" start_char="8264" end_char="8266">was</TOKEN>
+<TOKEN id="token-58-3" pos="word" morph="none" start_char="8268" end_char="8274">allowed</TOKEN>
+<TOKEN id="token-58-4" pos="word" morph="none" start_char="8276" end_char="8277">at</TOKEN>
+<TOKEN id="token-58-5" pos="word" morph="none" start_char="8279" end_char="8283">trial</TOKEN>
+<TOKEN id="token-58-6" pos="word" morph="none" start_char="8285" end_char="8289">about</TOKEN>
+<TOKEN id="token-58-7" pos="word" morph="none" start_char="8291" end_char="8296">deaths</TOKEN>
+<TOKEN id="token-58-8" pos="word" morph="none" start_char="8298" end_char="8305">stemming</TOKEN>
+<TOKEN id="token-58-9" pos="word" morph="none" start_char="8307" end_char="8310">from</TOKEN>
+<TOKEN id="token-58-10" pos="word" morph="none" start_char="8312" end_char="8314">the</TOKEN>
+<TOKEN id="token-58-11" pos="word" morph="none" start_char="8316" end_char="8325">Salmonella</TOKEN>
+<TOKEN id="token-58-12" pos="word" morph="none" start_char="8327" end_char="8334">outbreak</TOKEN>
+<TOKEN id="token-58-13" pos="punct" morph="none" start_char="8335" end_char="8335">,</TOKEN>
+<TOKEN id="token-58-14" pos="word" morph="none" start_char="8337" end_char="8339">but</TOKEN>
+<TOKEN id="token-58-15" pos="word" morph="none" start_char="8341" end_char="8344">some</TOKEN>
+<TOKEN id="token-58-16" pos="word" morph="none" start_char="8346" end_char="8351">jurors</TOKEN>
+<TOKEN id="token-58-17" pos="word" morph="none" start_char="8353" end_char="8355">did</TOKEN>
+<TOKEN id="token-58-18" pos="word" morph="none" start_char="8357" end_char="8360">talk</TOKEN>
+<TOKEN id="token-58-19" pos="word" morph="none" start_char="8362" end_char="8366">about</TOKEN>
+<TOKEN id="token-58-20" pos="word" morph="none" start_char="8368" end_char="8371">them</TOKEN>
+<TOKEN id="token-58-21" pos="punct" morph="none" start_char="8372" end_char="8372">.</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="8375" end_char="8458">
+<ORIGINAL_TEXT>Ledford cites numerous juror statements that bring their impartiality into question.</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="word" morph="none" start_char="8375" end_char="8381">Ledford</TOKEN>
+<TOKEN id="token-59-1" pos="word" morph="none" start_char="8383" end_char="8387">cites</TOKEN>
+<TOKEN id="token-59-2" pos="word" morph="none" start_char="8389" end_char="8396">numerous</TOKEN>
+<TOKEN id="token-59-3" pos="word" morph="none" start_char="8398" end_char="8402">juror</TOKEN>
+<TOKEN id="token-59-4" pos="word" morph="none" start_char="8404" end_char="8413">statements</TOKEN>
+<TOKEN id="token-59-5" pos="word" morph="none" start_char="8415" end_char="8418">that</TOKEN>
+<TOKEN id="token-59-6" pos="word" morph="none" start_char="8420" end_char="8424">bring</TOKEN>
+<TOKEN id="token-59-7" pos="word" morph="none" start_char="8426" end_char="8430">their</TOKEN>
+<TOKEN id="token-59-8" pos="word" morph="none" start_char="8432" end_char="8443">impartiality</TOKEN>
+<TOKEN id="token-59-9" pos="word" morph="none" start_char="8445" end_char="8448">into</TOKEN>
+<TOKEN id="token-59-10" pos="word" morph="none" start_char="8450" end_char="8457">question</TOKEN>
+<TOKEN id="token-59-11" pos="punct" morph="none" start_char="8458" end_char="8458">.</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="8460" end_char="8626">
+<ORIGINAL_TEXT>Two jurors, he said, "both admitted that the deaths had influenced their decision…" Another juror quoted a fellow juror saying "all defendants had killed nine people."</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="word" morph="none" start_char="8460" end_char="8462">Two</TOKEN>
+<TOKEN id="token-60-1" pos="word" morph="none" start_char="8464" end_char="8469">jurors</TOKEN>
+<TOKEN id="token-60-2" pos="punct" morph="none" start_char="8470" end_char="8470">,</TOKEN>
+<TOKEN id="token-60-3" pos="word" morph="none" start_char="8472" end_char="8473">he</TOKEN>
+<TOKEN id="token-60-4" pos="word" morph="none" start_char="8475" end_char="8478">said</TOKEN>
+<TOKEN id="token-60-5" pos="punct" morph="none" start_char="8479" end_char="8479">,</TOKEN>
+<TOKEN id="token-60-6" pos="punct" morph="none" start_char="8481" end_char="8481">"</TOKEN>
+<TOKEN id="token-60-7" pos="word" morph="none" start_char="8482" end_char="8485">both</TOKEN>
+<TOKEN id="token-60-8" pos="word" morph="none" start_char="8487" end_char="8494">admitted</TOKEN>
+<TOKEN id="token-60-9" pos="word" morph="none" start_char="8496" end_char="8499">that</TOKEN>
+<TOKEN id="token-60-10" pos="word" morph="none" start_char="8501" end_char="8503">the</TOKEN>
+<TOKEN id="token-60-11" pos="word" morph="none" start_char="8505" end_char="8510">deaths</TOKEN>
+<TOKEN id="token-60-12" pos="word" morph="none" start_char="8512" end_char="8514">had</TOKEN>
+<TOKEN id="token-60-13" pos="word" morph="none" start_char="8516" end_char="8525">influenced</TOKEN>
+<TOKEN id="token-60-14" pos="word" morph="none" start_char="8527" end_char="8531">their</TOKEN>
+<TOKEN id="token-60-15" pos="word" morph="none" start_char="8533" end_char="8540">decision</TOKEN>
+<TOKEN id="token-60-16" pos="punct" morph="none" start_char="8541" end_char="8542">…"</TOKEN>
+<TOKEN id="token-60-17" pos="word" morph="none" start_char="8544" end_char="8550">Another</TOKEN>
+<TOKEN id="token-60-18" pos="word" morph="none" start_char="8552" end_char="8556">juror</TOKEN>
+<TOKEN id="token-60-19" pos="word" morph="none" start_char="8558" end_char="8563">quoted</TOKEN>
+<TOKEN id="token-60-20" pos="word" morph="none" start_char="8565" end_char="8565">a</TOKEN>
+<TOKEN id="token-60-21" pos="word" morph="none" start_char="8567" end_char="8572">fellow</TOKEN>
+<TOKEN id="token-60-22" pos="word" morph="none" start_char="8574" end_char="8578">juror</TOKEN>
+<TOKEN id="token-60-23" pos="word" morph="none" start_char="8580" end_char="8585">saying</TOKEN>
+<TOKEN id="token-60-24" pos="punct" morph="none" start_char="8587" end_char="8587">"</TOKEN>
+<TOKEN id="token-60-25" pos="word" morph="none" start_char="8588" end_char="8590">all</TOKEN>
+<TOKEN id="token-60-26" pos="word" morph="none" start_char="8592" end_char="8601">defendants</TOKEN>
+<TOKEN id="token-60-27" pos="word" morph="none" start_char="8603" end_char="8605">had</TOKEN>
+<TOKEN id="token-60-28" pos="word" morph="none" start_char="8607" end_char="8612">killed</TOKEN>
+<TOKEN id="token-60-29" pos="word" morph="none" start_char="8614" end_char="8617">nine</TOKEN>
+<TOKEN id="token-60-30" pos="word" morph="none" start_char="8619" end_char="8624">people</TOKEN>
+<TOKEN id="token-60-31" pos="punct" morph="none" start_char="8625" end_char="8626">."</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

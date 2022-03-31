@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng"><DOC id="L0C04FR2M" lang="eng" tokenization="unknown" grammar="none" raw_text_char_length="1540" raw_text_md5="unknown">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="68">
+  <ORIGINAL_TEXT>Toxin found in Californian nacho cheese is classified as a bioweapon</ORIGINAL_TEXT>
+  <TOKEN id="segment-0-0" pos="word" morph="none" start_char="1" end_char="5">Toxin</TOKEN>
+  <TOKEN id="segment-0-1" pos="word" morph="none" start_char="7" end_char="11">found</TOKEN>
+  <TOKEN id="segment-0-2" pos="word" morph="none" start_char="13" end_char="14">in</TOKEN>
+  <TOKEN id="segment-0-3" pos="word" morph="none" start_char="16" end_char="26">Californian</TOKEN>
+  <TOKEN id="segment-0-4" pos="word" morph="none" start_char="28" end_char="32">nacho</TOKEN>
+  <TOKEN id="segment-0-5" pos="word" morph="none" start_char="34" end_char="39">cheese</TOKEN>
+  <TOKEN id="segment-0-6" pos="word" morph="none" start_char="41" end_char="42">is</TOKEN>
+  <TOKEN id="segment-0-7" pos="word" morph="none" start_char="44" end_char="53">classified</TOKEN>
+  <TOKEN id="segment-0-8" pos="word" morph="none" start_char="55" end_char="56">as</TOKEN>
+  <TOKEN id="segment-0-9" pos="word" morph="none" start_char="58" end_char="58">a</TOKEN>
+  <TOKEN id="segment-0-10" pos="word" morph="none" start_char="60" end_char="68">bioweapon</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="71" end_char="115">
+  <ORIGINAL_TEXT>Merely illustrative image (Wikimedia Commons)</ORIGINAL_TEXT>
+  <TOKEN id="segment-1-0" pos="word" morph="none" start_char="71" end_char="76">Merely</TOKEN>
+  <TOKEN id="segment-1-1" pos="word" morph="none" start_char="78" end_char="89">illustrative</TOKEN>
+  <TOKEN id="segment-1-2" pos="word" morph="none" start_char="91" end_char="95">image</TOKEN>
+  <TOKEN id="segment-1-3" pos="word" morph="none" start_char="97" end_char="97">(</TOKEN>
+  <TOKEN id="segment-1-4" pos="word" morph="none" start_char="98" end_char="106">Wikimedia</TOKEN>
+  <TOKEN id="segment-1-5" pos="word" morph="none" start_char="108" end_char="114">Commons</TOKEN>
+  <TOKEN id="segment-1-6" pos="word" morph="none" start_char="115" end_char="115">)</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="118" end_char="283">
+  <ORIGINAL_TEXT>One man has died and 9 people have been hospitalized after they got food poisoning from eating nacho cheese from a store in Northern California a couple of weeks ago.</ORIGINAL_TEXT>
+  <TOKEN id="segment-2-0" pos="word" morph="none" start_char="118" end_char="120">One</TOKEN>
+  <TOKEN id="segment-2-1" pos="word" morph="none" start_char="122" end_char="124">man</TOKEN>
+  <TOKEN id="segment-2-2" pos="word" morph="none" start_char="126" end_char="128">has</TOKEN>
+  <TOKEN id="segment-2-3" pos="word" morph="none" start_char="130" end_char="133">died</TOKEN>
+  <TOKEN id="segment-2-4" pos="word" morph="none" start_char="135" end_char="137">and</TOKEN>
+  <TOKEN id="segment-2-5" pos="word" morph="none" start_char="139" end_char="139">9</TOKEN>
+  <TOKEN id="segment-2-6" pos="word" morph="none" start_char="141" end_char="146">people</TOKEN>
+  <TOKEN id="segment-2-7" pos="word" morph="none" start_char="148" end_char="151">have</TOKEN>
+  <TOKEN id="segment-2-8" pos="word" morph="none" start_char="153" end_char="156">been</TOKEN>
+  <TOKEN id="segment-2-9" pos="word" morph="none" start_char="158" end_char="169">hospitalized</TOKEN>
+  <TOKEN id="segment-2-10" pos="word" morph="none" start_char="171" end_char="175">after</TOKEN>
+  <TOKEN id="segment-2-11" pos="word" morph="none" start_char="177" end_char="180">they</TOKEN>
+  <TOKEN id="segment-2-12" pos="word" morph="none" start_char="182" end_char="184">got</TOKEN>
+  <TOKEN id="segment-2-13" pos="word" morph="none" start_char="186" end_char="189">food</TOKEN>
+  <TOKEN id="segment-2-14" pos="word" morph="none" start_char="191" end_char="199">poisoning</TOKEN>
+  <TOKEN id="segment-2-15" pos="word" morph="none" start_char="201" end_char="204">from</TOKEN>
+  <TOKEN id="segment-2-16" pos="word" morph="none" start_char="206" end_char="211">eating</TOKEN>
+  <TOKEN id="segment-2-17" pos="word" morph="none" start_char="213" end_char="217">nacho</TOKEN>
+  <TOKEN id="segment-2-18" pos="word" morph="none" start_char="219" end_char="224">cheese</TOKEN>
+  <TOKEN id="segment-2-19" pos="word" morph="none" start_char="226" end_char="229">from</TOKEN>
+  <TOKEN id="segment-2-20" pos="word" morph="none" start_char="231" end_char="231">a</TOKEN>
+  <TOKEN id="segment-2-21" pos="word" morph="none" start_char="233" end_char="237">store</TOKEN>
+  <TOKEN id="segment-2-22" pos="word" morph="none" start_char="239" end_char="240">in</TOKEN>
+  <TOKEN id="segment-2-23" pos="word" morph="none" start_char="242" end_char="249">Northern</TOKEN>
+  <TOKEN id="segment-2-24" pos="word" morph="none" start_char="251" end_char="260">California</TOKEN>
+  <TOKEN id="segment-2-25" pos="word" morph="none" start_char="262" end_char="262">a</TOKEN>
+  <TOKEN id="segment-2-26" pos="word" morph="none" start_char="264" end_char="269">couple</TOKEN>
+  <TOKEN id="segment-2-27" pos="word" morph="none" start_char="271" end_char="272">of</TOKEN>
+  <TOKEN id="segment-2-28" pos="word" morph="none" start_char="274" end_char="278">weeks</TOKEN>
+  <TOKEN id="segment-2-29" pos="word" morph="none" start_char="280" end_char="282">ago</TOKEN>
+  <TOKEN id="segment-2-30" pos="word" morph="none" start_char="283" end_char="283">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="286" end_char="370">
+  <ORIGINAL_TEXT>It is now known that it was due to a toxin that is classified as a biological weapon.</ORIGINAL_TEXT>
+  <TOKEN id="segment-3-0" pos="word" morph="none" start_char="286" end_char="287">It</TOKEN>
+  <TOKEN id="segment-3-1" pos="word" morph="none" start_char="289" end_char="290">is</TOKEN>
+  <TOKEN id="segment-3-2" pos="word" morph="none" start_char="292" end_char="294">now</TOKEN>
+  <TOKEN id="segment-3-3" pos="word" morph="none" start_char="296" end_char="300">known</TOKEN>
+  <TOKEN id="segment-3-4" pos="word" morph="none" start_char="302" end_char="305">that</TOKEN>
+  <TOKEN id="segment-3-5" pos="word" morph="none" start_char="307" end_char="308">it</TOKEN>
+  <TOKEN id="segment-3-6" pos="word" morph="none" start_char="310" end_char="312">was</TOKEN>
+  <TOKEN id="segment-3-7" pos="word" morph="none" start_char="314" end_char="316">due</TOKEN>
+  <TOKEN id="segment-3-8" pos="word" morph="none" start_char="318" end_char="319">to</TOKEN>
+  <TOKEN id="segment-3-9" pos="word" morph="none" start_char="321" end_char="321">a</TOKEN>
+  <TOKEN id="segment-3-10" pos="word" morph="none" start_char="323" end_char="327">toxin</TOKEN>
+  <TOKEN id="segment-3-11" pos="word" morph="none" start_char="329" end_char="332">that</TOKEN>
+  <TOKEN id="segment-3-12" pos="word" morph="none" start_char="334" end_char="335">is</TOKEN>
+  <TOKEN id="segment-3-13" pos="word" morph="none" start_char="337" end_char="346">classified</TOKEN>
+  <TOKEN id="segment-3-14" pos="word" morph="none" start_char="348" end_char="349">as</TOKEN>
+  <TOKEN id="segment-3-15" pos="word" morph="none" start_char="351" end_char="351">a</TOKEN>
+  <TOKEN id="segment-3-16" pos="word" morph="none" start_char="353" end_char="362">biological</TOKEN>
+  <TOKEN id="segment-3-17" pos="word" morph="none" start_char="364" end_char="369">weapon</TOKEN>
+  <TOKEN id="segment-3-18" pos="word" morph="none" start_char="370" end_char="370">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="373" end_char="450">
+  <ORIGINAL_TEXT>In fact, the production of this toxin is prohibited in the UN Geneva Protocol.</ORIGINAL_TEXT>
+  <TOKEN id="segment-4-0" pos="word" morph="none" start_char="373" end_char="374">In</TOKEN>
+  <TOKEN id="segment-4-1" pos="word" morph="none" start_char="376" end_char="379">fact</TOKEN>
+  <TOKEN id="segment-4-2" pos="word" morph="none" start_char="380" end_char="380">,</TOKEN>
+  <TOKEN id="segment-4-3" pos="word" morph="none" start_char="382" end_char="384">the</TOKEN>
+  <TOKEN id="segment-4-4" pos="word" morph="none" start_char="386" end_char="395">production</TOKEN>
+  <TOKEN id="segment-4-5" pos="word" morph="none" start_char="397" end_char="398">of</TOKEN>
+  <TOKEN id="segment-4-6" pos="word" morph="none" start_char="400" end_char="403">this</TOKEN>
+  <TOKEN id="segment-4-7" pos="word" morph="none" start_char="405" end_char="409">toxin</TOKEN>
+  <TOKEN id="segment-4-8" pos="word" morph="none" start_char="411" end_char="412">is</TOKEN>
+  <TOKEN id="segment-4-9" pos="word" morph="none" start_char="414" end_char="423">prohibited</TOKEN>
+  <TOKEN id="segment-4-10" pos="word" morph="none" start_char="425" end_char="426">in</TOKEN>
+  <TOKEN id="segment-4-11" pos="word" morph="none" start_char="428" end_char="430">the</TOKEN>
+  <TOKEN id="segment-4-12" pos="word" morph="none" start_char="432" end_char="433">UN</TOKEN>
+  <TOKEN id="segment-4-13" pos="word" morph="none" start_char="435" end_char="440">Geneva</TOKEN>
+  <TOKEN id="segment-4-14" pos="word" morph="none" start_char="442" end_char="449">Protocol</TOKEN>
+  <TOKEN id="segment-4-15" pos="word" morph="none" start_char="450" end_char="450">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="453" end_char="461">
+  <ORIGINAL_TEXT>According</ORIGINAL_TEXT>
+  <TOKEN id="segment-5-0" pos="word" morph="none" start_char="453" end_char="461">According</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="464" end_char="472">
+  <ORIGINAL_TEXT>Univision</ORIGINAL_TEXT>
+  <TOKEN id="segment-6-0" pos="word" morph="none" start_char="464" end_char="472">Univision</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="475" end_char="546">
+  <ORIGINAL_TEXT>, Californian health authorities identified the bacteria in nacho cheese</ORIGINAL_TEXT>
+  <TOKEN id="segment-7-0" pos="word" morph="none" start_char="475" end_char="475">,</TOKEN>
+  <TOKEN id="segment-7-1" pos="word" morph="none" start_char="477" end_char="487">Californian</TOKEN>
+  <TOKEN id="segment-7-2" pos="word" morph="none" start_char="489" end_char="494">health</TOKEN>
+  <TOKEN id="segment-7-3" pos="word" morph="none" start_char="496" end_char="506">authorities</TOKEN>
+  <TOKEN id="segment-7-4" pos="word" morph="none" start_char="508" end_char="517">identified</TOKEN>
+  <TOKEN id="segment-7-5" pos="word" morph="none" start_char="519" end_char="521">the</TOKEN>
+  <TOKEN id="segment-7-6" pos="word" morph="none" start_char="523" end_char="530">bacteria</TOKEN>
+  <TOKEN id="segment-7-7" pos="word" morph="none" start_char="532" end_char="533">in</TOKEN>
+  <TOKEN id="segment-7-8" pos="word" morph="none" start_char="535" end_char="539">nacho</TOKEN>
+  <TOKEN id="segment-7-9" pos="word" morph="none" start_char="541" end_char="546">cheese</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="549" end_char="570">
+  <ORIGINAL_TEXT>Clostridium botalinum.</ORIGINAL_TEXT>
+  <TOKEN id="segment-8-0" pos="word" morph="none" start_char="549" end_char="559">Clostridium</TOKEN>
+  <TOKEN id="segment-8-1" pos="word" morph="none" start_char="561" end_char="569">botalinum</TOKEN>
+  <TOKEN id="segment-8-2" pos="word" morph="none" start_char="570" end_char="570">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="573" end_char="643">
+  <ORIGINAL_TEXT>This cheese was sold in a southern suburb of Sacramento, United States.</ORIGINAL_TEXT>
+  <TOKEN id="segment-9-0" pos="word" morph="none" start_char="573" end_char="576">This</TOKEN>
+  <TOKEN id="segment-9-1" pos="word" morph="none" start_char="578" end_char="583">cheese</TOKEN>
+  <TOKEN id="segment-9-2" pos="word" morph="none" start_char="585" end_char="587">was</TOKEN>
+  <TOKEN id="segment-9-3" pos="word" morph="none" start_char="589" end_char="592">sold</TOKEN>
+  <TOKEN id="segment-9-4" pos="word" morph="none" start_char="594" end_char="595">in</TOKEN>
+  <TOKEN id="segment-9-5" pos="word" morph="none" start_char="597" end_char="597">a</TOKEN>
+  <TOKEN id="segment-9-6" pos="word" morph="none" start_char="599" end_char="606">southern</TOKEN>
+  <TOKEN id="segment-9-7" pos="word" morph="none" start_char="608" end_char="613">suburb</TOKEN>
+  <TOKEN id="segment-9-8" pos="word" morph="none" start_char="615" end_char="616">of</TOKEN>
+  <TOKEN id="segment-9-9" pos="word" morph="none" start_char="618" end_char="627">Sacramento</TOKEN>
+  <TOKEN id="segment-9-10" pos="word" morph="none" start_char="628" end_char="628">,</TOKEN>
+  <TOKEN id="segment-9-11" pos="word" morph="none" start_char="630" end_char="635">United</TOKEN>
+  <TOKEN id="segment-9-12" pos="word" morph="none" start_char="637" end_char="642">States</TOKEN>
+  <TOKEN id="segment-9-13" pos="word" morph="none" start_char="643" end_char="643">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="646" end_char="806">
+  <ORIGINAL_TEXT>The toxin that was found is known as "botulinum toxin", it affects the nervous system and paralyzes the body of people to such an extent that it can cause death.</ORIGINAL_TEXT>
+  <TOKEN id="segment-10-0" pos="word" morph="none" start_char="646" end_char="648">The</TOKEN>
+  <TOKEN id="segment-10-1" pos="word" morph="none" start_char="650" end_char="654">toxin</TOKEN>
+  <TOKEN id="segment-10-2" pos="word" morph="none" start_char="656" end_char="659">that</TOKEN>
+  <TOKEN id="segment-10-3" pos="word" morph="none" start_char="661" end_char="663">was</TOKEN>
+  <TOKEN id="segment-10-4" pos="word" morph="none" start_char="665" end_char="669">found</TOKEN>
+  <TOKEN id="segment-10-5" pos="word" morph="none" start_char="671" end_char="672">is</TOKEN>
+  <TOKEN id="segment-10-6" pos="word" morph="none" start_char="674" end_char="678">known</TOKEN>
+  <TOKEN id="segment-10-7" pos="word" morph="none" start_char="680" end_char="681">as</TOKEN>
+  <TOKEN id="segment-10-8" pos="word" morph="none" start_char="683" end_char="683">"</TOKEN>
+  <TOKEN id="segment-10-9" pos="word" morph="none" start_char="684" end_char="692">botulinum</TOKEN>
+  <TOKEN id="segment-10-10" pos="word" morph="none" start_char="694" end_char="698">toxin</TOKEN>
+  <TOKEN id="segment-10-11" pos="word" morph="none" start_char="699" end_char="699">"</TOKEN>
+  <TOKEN id="segment-10-12" pos="word" morph="none" start_char="700" end_char="700">,</TOKEN>
+  <TOKEN id="segment-10-13" pos="word" morph="none" start_char="702" end_char="703">it</TOKEN>
+  <TOKEN id="segment-10-14" pos="word" morph="none" start_char="705" end_char="711">affects</TOKEN>
+  <TOKEN id="segment-10-15" pos="word" morph="none" start_char="713" end_char="715">the</TOKEN>
+  <TOKEN id="segment-10-16" pos="word" morph="none" start_char="717" end_char="723">nervous</TOKEN>
+  <TOKEN id="segment-10-17" pos="word" morph="none" start_char="725" end_char="730">system</TOKEN>
+  <TOKEN id="segment-10-18" pos="word" morph="none" start_char="732" end_char="734">and</TOKEN>
+  <TOKEN id="segment-10-19" pos="word" morph="none" start_char="736" end_char="744">paralyzes</TOKEN>
+  <TOKEN id="segment-10-20" pos="word" morph="none" start_char="746" end_char="748">the</TOKEN>
+  <TOKEN id="segment-10-21" pos="word" morph="none" start_char="750" end_char="753">body</TOKEN>
+  <TOKEN id="segment-10-22" pos="word" morph="none" start_char="755" end_char="756">of</TOKEN>
+  <TOKEN id="segment-10-23" pos="word" morph="none" start_char="758" end_char="763">people</TOKEN>
+  <TOKEN id="segment-10-24" pos="word" morph="none" start_char="765" end_char="766">to</TOKEN>
+  <TOKEN id="segment-10-25" pos="word" morph="none" start_char="768" end_char="771">such</TOKEN>
+  <TOKEN id="segment-10-26" pos="word" morph="none" start_char="773" end_char="774">an</TOKEN>
+  <TOKEN id="segment-10-27" pos="word" morph="none" start_char="776" end_char="781">extent</TOKEN>
+  <TOKEN id="segment-10-28" pos="word" morph="none" start_char="783" end_char="786">that</TOKEN>
+  <TOKEN id="segment-10-29" pos="word" morph="none" start_char="788" end_char="789">it</TOKEN>
+  <TOKEN id="segment-10-30" pos="word" morph="none" start_char="791" end_char="793">can</TOKEN>
+  <TOKEN id="segment-10-31" pos="word" morph="none" start_char="795" end_char="799">cause</TOKEN>
+  <TOKEN id="segment-10-32" pos="word" morph="none" start_char="801" end_char="805">death</TOKEN>
+  <TOKEN id="segment-10-33" pos="word" morph="none" start_char="806" end_char="806">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="809" end_char="916">
+  <ORIGINAL_TEXT>That was what happened to Mr. Mart&#237;n Galindo Larios, 37, who died of botulism after eating the nacho cheese.</ORIGINAL_TEXT>
+  <TOKEN id="segment-11-0" pos="word" morph="none" start_char="809" end_char="812">That</TOKEN>
+  <TOKEN id="segment-11-1" pos="word" morph="none" start_char="814" end_char="816">was</TOKEN>
+  <TOKEN id="segment-11-2" pos="word" morph="none" start_char="818" end_char="821">what</TOKEN>
+  <TOKEN id="segment-11-3" pos="word" morph="none" start_char="823" end_char="830">happened</TOKEN>
+  <TOKEN id="segment-11-4" pos="word" morph="none" start_char="832" end_char="833">to</TOKEN>
+  <TOKEN id="segment-11-5" pos="word" morph="none" start_char="835" end_char="837">Mr.</TOKEN>
+  <TOKEN id="segment-11-6" pos="word" morph="none" start_char="839" end_char="844">Mart&#237;n</TOKEN>
+  <TOKEN id="segment-11-7" pos="word" morph="none" start_char="846" end_char="852">Galindo</TOKEN>
+  <TOKEN id="segment-11-8" pos="word" morph="none" start_char="854" end_char="859">Larios</TOKEN>
+  <TOKEN id="segment-11-9" pos="word" morph="none" start_char="860" end_char="860">,</TOKEN>
+  <TOKEN id="segment-11-10" pos="word" morph="none" start_char="862" end_char="863">37</TOKEN>
+  <TOKEN id="segment-11-11" pos="word" morph="none" start_char="864" end_char="864">,</TOKEN>
+  <TOKEN id="segment-11-12" pos="word" morph="none" start_char="866" end_char="868">who</TOKEN>
+  <TOKEN id="segment-11-13" pos="word" morph="none" start_char="870" end_char="873">died</TOKEN>
+  <TOKEN id="segment-11-14" pos="word" morph="none" start_char="875" end_char="876">of</TOKEN>
+  <TOKEN id="segment-11-15" pos="word" morph="none" start_char="878" end_char="885">botulism</TOKEN>
+  <TOKEN id="segment-11-16" pos="word" morph="none" start_char="887" end_char="891">after</TOKEN>
+  <TOKEN id="segment-11-17" pos="word" morph="none" start_char="893" end_char="898">eating</TOKEN>
+  <TOKEN id="segment-11-18" pos="word" morph="none" start_char="900" end_char="902">the</TOKEN>
+  <TOKEN id="segment-11-19" pos="word" morph="none" start_char="904" end_char="908">nacho</TOKEN>
+  <TOKEN id="segment-11-20" pos="word" morph="none" start_char="910" end_char="915">cheese</TOKEN>
+  <TOKEN id="segment-11-21" pos="word" morph="none" start_char="916" end_char="916">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="919" end_char="1029">
+  <ORIGINAL_TEXT>Botulinum toxin is on the list of prohibited chemical agents that were included in the Geneva Protocol in 1997.</ORIGINAL_TEXT>
+  <TOKEN id="segment-12-0" pos="word" morph="none" start_char="919" end_char="927">Botulinum</TOKEN>
+  <TOKEN id="segment-12-1" pos="word" morph="none" start_char="929" end_char="933">toxin</TOKEN>
+  <TOKEN id="segment-12-2" pos="word" morph="none" start_char="935" end_char="936">is</TOKEN>
+  <TOKEN id="segment-12-3" pos="word" morph="none" start_char="938" end_char="939">on</TOKEN>
+  <TOKEN id="segment-12-4" pos="word" morph="none" start_char="941" end_char="943">the</TOKEN>
+  <TOKEN id="segment-12-5" pos="word" morph="none" start_char="945" end_char="948">list</TOKEN>
+  <TOKEN id="segment-12-6" pos="word" morph="none" start_char="950" end_char="951">of</TOKEN>
+  <TOKEN id="segment-12-7" pos="word" morph="none" start_char="953" end_char="962">prohibited</TOKEN>
+  <TOKEN id="segment-12-8" pos="word" morph="none" start_char="964" end_char="971">chemical</TOKEN>
+  <TOKEN id="segment-12-9" pos="word" morph="none" start_char="973" end_char="978">agents</TOKEN>
+  <TOKEN id="segment-12-10" pos="word" morph="none" start_char="980" end_char="983">that</TOKEN>
+  <TOKEN id="segment-12-11" pos="word" morph="none" start_char="985" end_char="988">were</TOKEN>
+  <TOKEN id="segment-12-12" pos="word" morph="none" start_char="990" end_char="997">included</TOKEN>
+  <TOKEN id="segment-12-13" pos="word" morph="none" start_char="999" end_char="1000">in</TOKEN>
+  <TOKEN id="segment-12-14" pos="word" morph="none" start_char="1002" end_char="1004">the</TOKEN>
+  <TOKEN id="segment-12-15" pos="word" morph="none" start_char="1006" end_char="1011">Geneva</TOKEN>
+  <TOKEN id="segment-12-16" pos="word" morph="none" start_char="1013" end_char="1020">Protocol</TOKEN>
+  <TOKEN id="segment-12-17" pos="word" morph="none" start_char="1022" end_char="1023">in</TOKEN>
+  <TOKEN id="segment-12-18" pos="word" morph="none" start_char="1025" end_char="1028">1997</TOKEN>
+  <TOKEN id="segment-12-19" pos="word" morph="none" start_char="1029" end_char="1029">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1032" end_char="1172">
+  <ORIGINAL_TEXT>It is one of the most powerful poisons that exist, although it has also been used as an active ingredient in cosmetic products such as Botox.</ORIGINAL_TEXT>
+  <TOKEN id="segment-13-0" pos="word" morph="none" start_char="1032" end_char="1033">It</TOKEN>
+  <TOKEN id="segment-13-1" pos="word" morph="none" start_char="1035" end_char="1036">is</TOKEN>
+  <TOKEN id="segment-13-2" pos="word" morph="none" start_char="1038" end_char="1040">one</TOKEN>
+  <TOKEN id="segment-13-3" pos="word" morph="none" start_char="1042" end_char="1043">of</TOKEN>
+  <TOKEN id="segment-13-4" pos="word" morph="none" start_char="1045" end_char="1047">the</TOKEN>
+  <TOKEN id="segment-13-5" pos="word" morph="none" start_char="1049" end_char="1052">most</TOKEN>
+  <TOKEN id="segment-13-6" pos="word" morph="none" start_char="1054" end_char="1061">powerful</TOKEN>
+  <TOKEN id="segment-13-7" pos="word" morph="none" start_char="1063" end_char="1069">poisons</TOKEN>
+  <TOKEN id="segment-13-8" pos="word" morph="none" start_char="1071" end_char="1074">that</TOKEN>
+  <TOKEN id="segment-13-9" pos="word" morph="none" start_char="1076" end_char="1080">exist</TOKEN>
+  <TOKEN id="segment-13-10" pos="word" morph="none" start_char="1081" end_char="1081">,</TOKEN>
+  <TOKEN id="segment-13-11" pos="word" morph="none" start_char="1083" end_char="1090">although</TOKEN>
+  <TOKEN id="segment-13-12" pos="word" morph="none" start_char="1092" end_char="1093">it</TOKEN>
+  <TOKEN id="segment-13-13" pos="word" morph="none" start_char="1095" end_char="1097">has</TOKEN>
+  <TOKEN id="segment-13-14" pos="word" morph="none" start_char="1099" end_char="1102">also</TOKEN>
+  <TOKEN id="segment-13-15" pos="word" morph="none" start_char="1104" end_char="1107">been</TOKEN>
+  <TOKEN id="segment-13-16" pos="word" morph="none" start_char="1109" end_char="1112">used</TOKEN>
+  <TOKEN id="segment-13-17" pos="word" morph="none" start_char="1114" end_char="1115">as</TOKEN>
+  <TOKEN id="segment-13-18" pos="word" morph="none" start_char="1117" end_char="1118">an</TOKEN>
+  <TOKEN id="segment-13-19" pos="word" morph="none" start_char="1120" end_char="1125">active</TOKEN>
+  <TOKEN id="segment-13-20" pos="word" morph="none" start_char="1127" end_char="1136">ingredient</TOKEN>
+  <TOKEN id="segment-13-21" pos="word" morph="none" start_char="1138" end_char="1139">in</TOKEN>
+  <TOKEN id="segment-13-22" pos="word" morph="none" start_char="1141" end_char="1148">cosmetic</TOKEN>
+  <TOKEN id="segment-13-23" pos="word" morph="none" start_char="1150" end_char="1157">products</TOKEN>
+  <TOKEN id="segment-13-24" pos="word" morph="none" start_char="1159" end_char="1162">such</TOKEN>
+  <TOKEN id="segment-13-25" pos="word" morph="none" start_char="1164" end_char="1165">as</TOKEN>
+  <TOKEN id="segment-13-26" pos="word" morph="none" start_char="1167" end_char="1171">Botox</TOKEN>
+  <TOKEN id="segment-13-27" pos="word" morph="none" start_char="1172" end_char="1172">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1175" end_char="1291">
+  <ORIGINAL_TEXT>The nacho cheese was sold between April 21 and May 5 at the Valley Oak Food and Fuel service station in Walnut Grove.</ORIGINAL_TEXT>
+  <TOKEN id="segment-14-0" pos="word" morph="none" start_char="1175" end_char="1177">The</TOKEN>
+  <TOKEN id="segment-14-1" pos="word" morph="none" start_char="1179" end_char="1183">nacho</TOKEN>
+  <TOKEN id="segment-14-2" pos="word" morph="none" start_char="1185" end_char="1190">cheese</TOKEN>
+  <TOKEN id="segment-14-3" pos="word" morph="none" start_char="1192" end_char="1194">was</TOKEN>
+  <TOKEN id="segment-14-4" pos="word" morph="none" start_char="1196" end_char="1199">sold</TOKEN>
+  <TOKEN id="segment-14-5" pos="word" morph="none" start_char="1201" end_char="1207">between</TOKEN>
+  <TOKEN id="segment-14-6" pos="word" morph="none" start_char="1209" end_char="1213">April</TOKEN>
+  <TOKEN id="segment-14-7" pos="word" morph="none" start_char="1215" end_char="1216">21</TOKEN>
+  <TOKEN id="segment-14-8" pos="word" morph="none" start_char="1218" end_char="1220">and</TOKEN>
+  <TOKEN id="segment-14-9" pos="word" morph="none" start_char="1222" end_char="1224">May</TOKEN>
+  <TOKEN id="segment-14-10" pos="word" morph="none" start_char="1226" end_char="1226">5</TOKEN>
+  <TOKEN id="segment-14-11" pos="word" morph="none" start_char="1228" end_char="1229">at</TOKEN>
+  <TOKEN id="segment-14-12" pos="word" morph="none" start_char="1231" end_char="1233">the</TOKEN>
+  <TOKEN id="segment-14-13" pos="word" morph="none" start_char="1235" end_char="1240">Valley</TOKEN>
+  <TOKEN id="segment-14-14" pos="word" morph="none" start_char="1242" end_char="1244">Oak</TOKEN>
+  <TOKEN id="segment-14-15" pos="word" morph="none" start_char="1246" end_char="1249">Food</TOKEN>
+  <TOKEN id="segment-14-16" pos="word" morph="none" start_char="1251" end_char="1253">and</TOKEN>
+  <TOKEN id="segment-14-17" pos="word" morph="none" start_char="1255" end_char="1258">Fuel</TOKEN>
+  <TOKEN id="segment-14-18" pos="word" morph="none" start_char="1260" end_char="1266">service</TOKEN>
+  <TOKEN id="segment-14-19" pos="word" morph="none" start_char="1268" end_char="1274">station</TOKEN>
+  <TOKEN id="segment-14-20" pos="word" morph="none" start_char="1276" end_char="1277">in</TOKEN>
+  <TOKEN id="segment-14-21" pos="word" morph="none" start_char="1279" end_char="1284">Walnut</TOKEN>
+  <TOKEN id="segment-14-22" pos="word" morph="none" start_char="1286" end_char="1290">Grove</TOKEN>
+  <TOKEN id="segment-14-23" pos="word" morph="none" start_char="1291" end_char="1291">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1294" end_char="1360">
+  <ORIGINAL_TEXT>The Gehl Food company denied that its nacho cheese is contaminated.</ORIGINAL_TEXT>
+  <TOKEN id="segment-15-0" pos="word" morph="none" start_char="1294" end_char="1296">The</TOKEN>
+  <TOKEN id="segment-15-1" pos="word" morph="none" start_char="1298" end_char="1301">Gehl</TOKEN>
+  <TOKEN id="segment-15-2" pos="word" morph="none" start_char="1303" end_char="1306">Food</TOKEN>
+  <TOKEN id="segment-15-3" pos="word" morph="none" start_char="1308" end_char="1314">company</TOKEN>
+  <TOKEN id="segment-15-4" pos="word" morph="none" start_char="1316" end_char="1321">denied</TOKEN>
+  <TOKEN id="segment-15-5" pos="word" morph="none" start_char="1323" end_char="1326">that</TOKEN>
+  <TOKEN id="segment-15-6" pos="word" morph="none" start_char="1328" end_char="1330">its</TOKEN>
+  <TOKEN id="segment-15-7" pos="word" morph="none" start_char="1332" end_char="1336">nacho</TOKEN>
+  <TOKEN id="segment-15-8" pos="word" morph="none" start_char="1338" end_char="1343">cheese</TOKEN>
+  <TOKEN id="segment-15-9" pos="word" morph="none" start_char="1345" end_char="1346">is</TOKEN>
+  <TOKEN id="segment-15-10" pos="word" morph="none" start_char="1348" end_char="1359">contaminated</TOKEN>
+  <TOKEN id="segment-15-11" pos="word" morph="none" start_char="1360" end_char="1360">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1363" end_char="1521">
+  <ORIGINAL_TEXT>According to the Centers for Disease Control (CDC), in 2014 there were 161 cases of botulism in the United States, but only 15 were caused by food consumption.</ORIGINAL_TEXT>
+  <TOKEN id="segment-16-0" pos="word" morph="none" start_char="1363" end_char="1371">According</TOKEN>
+  <TOKEN id="segment-16-1" pos="word" morph="none" start_char="1373" end_char="1374">to</TOKEN>
+  <TOKEN id="segment-16-2" pos="word" morph="none" start_char="1376" end_char="1378">the</TOKEN>
+  <TOKEN id="segment-16-3" pos="word" morph="none" start_char="1380" end_char="1386">Centers</TOKEN>
+  <TOKEN id="segment-16-4" pos="word" morph="none" start_char="1388" end_char="1390">for</TOKEN>
+  <TOKEN id="segment-16-5" pos="word" morph="none" start_char="1392" end_char="1398">Disease</TOKEN>
+  <TOKEN id="segment-16-6" pos="word" morph="none" start_char="1400" end_char="1406">Control</TOKEN>
+  <TOKEN id="segment-16-7" pos="word" morph="none" start_char="1408" end_char="1408">(</TOKEN>
+  <TOKEN id="segment-16-8" pos="word" morph="none" start_char="1409" end_char="1411">CDC</TOKEN>
+  <TOKEN id="segment-16-9" pos="word" morph="none" start_char="1412" end_char="1412">)</TOKEN>
+  <TOKEN id="segment-16-10" pos="word" morph="none" start_char="1413" end_char="1413">,</TOKEN>
+  <TOKEN id="segment-16-11" pos="word" morph="none" start_char="1415" end_char="1416">in</TOKEN>
+  <TOKEN id="segment-16-12" pos="word" morph="none" start_char="1418" end_char="1421">2014</TOKEN>
+  <TOKEN id="segment-16-13" pos="word" morph="none" start_char="1423" end_char="1427">there</TOKEN>
+  <TOKEN id="segment-16-14" pos="word" morph="none" start_char="1429" end_char="1432">were</TOKEN>
+  <TOKEN id="segment-16-15" pos="word" morph="none" start_char="1434" end_char="1436">161</TOKEN>
+  <TOKEN id="segment-16-16" pos="word" morph="none" start_char="1438" end_char="1442">cases</TOKEN>
+  <TOKEN id="segment-16-17" pos="word" morph="none" start_char="1444" end_char="1445">of</TOKEN>
+  <TOKEN id="segment-16-18" pos="word" morph="none" start_char="1447" end_char="1454">botulism</TOKEN>
+  <TOKEN id="segment-16-19" pos="word" morph="none" start_char="1456" end_char="1457">in</TOKEN>
+  <TOKEN id="segment-16-20" pos="word" morph="none" start_char="1459" end_char="1461">the</TOKEN>
+  <TOKEN id="segment-16-21" pos="word" morph="none" start_char="1463" end_char="1468">United</TOKEN>
+  <TOKEN id="segment-16-22" pos="word" morph="none" start_char="1470" end_char="1475">States</TOKEN>
+  <TOKEN id="segment-16-23" pos="word" morph="none" start_char="1476" end_char="1476">,</TOKEN>
+  <TOKEN id="segment-16-24" pos="word" morph="none" start_char="1478" end_char="1480">but</TOKEN>
+  <TOKEN id="segment-16-25" pos="word" morph="none" start_char="1482" end_char="1485">only</TOKEN>
+  <TOKEN id="segment-16-26" pos="word" morph="none" start_char="1487" end_char="1488">15</TOKEN>
+  <TOKEN id="segment-16-27" pos="word" morph="none" start_char="1490" end_char="1493">were</TOKEN>
+  <TOKEN id="segment-16-28" pos="word" morph="none" start_char="1495" end_char="1500">caused</TOKEN>
+  <TOKEN id="segment-16-29" pos="word" morph="none" start_char="1502" end_char="1503">by</TOKEN>
+  <TOKEN id="segment-16-30" pos="word" morph="none" start_char="1505" end_char="1508">food</TOKEN>
+  <TOKEN id="segment-16-31" pos="word" morph="none" start_char="1510" end_char="1520">consumption</TOKEN>
+  <TOKEN id="segment-16-32" pos="word" morph="none" start_char="1521" end_char="1521">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

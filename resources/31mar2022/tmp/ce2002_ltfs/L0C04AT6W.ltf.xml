@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="L0C04AT6W" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="1991" raw_text_md5="c603a711c8098e5712a2e53703e2a59a">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="85">
+<ORIGINAL_TEXT>Hundreds Stricken by Unknown Illness After Apparently Dining at Ohio Chipotle: Report</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="8">Hundreds</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="10" end_char="17">Stricken</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="19" end_char="20">by</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="22" end_char="28">Unknown</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="30" end_char="36">Illness</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="38" end_char="42">After</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="44" end_char="53">Apparently</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="55" end_char="60">Dining</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="62" end_char="63">at</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="65" end_char="68">Ohio</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="70" end_char="77">Chipotle</TOKEN>
+<TOKEN id="token-0-11" pos="punct" morph="none" start_char="78" end_char="78">:</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="80" end_char="85">Report</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="90" end_char="204">
+<ORIGINAL_TEXT>More than 700 people have fallen ill after allegedly eating at a Chipotle restaurant in Ohio, according to reports.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="90" end_char="93">More</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="95" end_char="98">than</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="100" end_char="102">700</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="104" end_char="109">people</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="111" end_char="114">have</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="116" end_char="121">fallen</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="123" end_char="125">ill</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="127" end_char="131">after</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="133" end_char="141">allegedly</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="143" end_char="148">eating</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="150" end_char="151">at</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="153" end_char="153">a</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="155" end_char="162">Chipotle</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="164" end_char="173">restaurant</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="175" end_char="176">in</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="178" end_char="181">Ohio</TOKEN>
+<TOKEN id="token-1-16" pos="punct" morph="none" start_char="182" end_char="182">,</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="184" end_char="192">according</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="194" end_char="195">to</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="197" end_char="203">reports</TOKEN>
+<TOKEN id="token-1-20" pos="punct" morph="none" start_char="204" end_char="204">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="207" end_char="411">
+<ORIGINAL_TEXT>At least 703 inquiries related to a possible food-borne illness outbreak late July at a Chipotle in Powell have been received by the Delaware County General Health District, the Dayton Daily News reported.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="207" end_char="208">At</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="210" end_char="214">least</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="216" end_char="218">703</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="220" end_char="228">inquiries</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="230" end_char="236">related</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="238" end_char="239">to</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="241" end_char="241">a</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="243" end_char="250">possible</TOKEN>
+<TOKEN id="token-2-8" pos="unknown" morph="none" start_char="252" end_char="261">food-borne</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="263" end_char="269">illness</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="271" end_char="278">outbreak</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="280" end_char="283">late</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="285" end_char="288">July</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="290" end_char="291">at</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="293" end_char="293">a</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="295" end_char="302">Chipotle</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="304" end_char="305">in</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="307" end_char="312">Powell</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="314" end_char="317">have</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="319" end_char="322">been</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="324" end_char="331">received</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="333" end_char="334">by</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="336" end_char="338">the</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="340" end_char="347">Delaware</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="349" end_char="354">County</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="356" end_char="362">General</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="364" end_char="369">Health</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="371" end_char="378">District</TOKEN>
+<TOKEN id="token-2-28" pos="punct" morph="none" start_char="379" end_char="379">,</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="381" end_char="383">the</TOKEN>
+<TOKEN id="token-2-30" pos="word" morph="none" start_char="385" end_char="390">Dayton</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="392" end_char="396">Daily</TOKEN>
+<TOKEN id="token-2-32" pos="word" morph="none" start_char="398" end_char="401">News</TOKEN>
+<TOKEN id="token-2-33" pos="word" morph="none" start_char="403" end_char="410">reported</TOKEN>
+<TOKEN id="token-2-34" pos="punct" morph="none" start_char="411" end_char="411">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="414" end_char="599">
+<ORIGINAL_TEXT>But the cause of the illnesses has not been determined, as stool samples tested for salmonella, shigella, E.coli and norovirus have so far come back negative, authorities told the paper.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="414" end_char="416">But</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="418" end_char="420">the</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="422" end_char="426">cause</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="428" end_char="429">of</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="431" end_char="433">the</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="435" end_char="443">illnesses</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="445" end_char="447">has</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="449" end_char="451">not</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="453" end_char="456">been</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="458" end_char="467">determined</TOKEN>
+<TOKEN id="token-3-10" pos="punct" morph="none" start_char="468" end_char="468">,</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="470" end_char="471">as</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="473" end_char="477">stool</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="479" end_char="485">samples</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="487" end_char="492">tested</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="494" end_char="496">for</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="498" end_char="507">salmonella</TOKEN>
+<TOKEN id="token-3-17" pos="punct" morph="none" start_char="508" end_char="508">,</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="510" end_char="517">shigella</TOKEN>
+<TOKEN id="token-3-19" pos="punct" morph="none" start_char="518" end_char="518">,</TOKEN>
+<TOKEN id="token-3-20" pos="unknown" morph="none" start_char="520" end_char="525">E.coli</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="527" end_char="529">and</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="531" end_char="539">norovirus</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="541" end_char="544">have</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="546" end_char="547">so</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="549" end_char="551">far</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="553" end_char="556">come</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="558" end_char="561">back</TOKEN>
+<TOKEN id="token-3-28" pos="word" morph="none" start_char="563" end_char="570">negative</TOKEN>
+<TOKEN id="token-3-29" pos="punct" morph="none" start_char="571" end_char="571">,</TOKEN>
+<TOKEN id="token-3-30" pos="word" morph="none" start_char="573" end_char="583">authorities</TOKEN>
+<TOKEN id="token-3-31" pos="word" morph="none" start_char="585" end_char="588">told</TOKEN>
+<TOKEN id="token-3-32" pos="word" morph="none" start_char="590" end_char="592">the</TOKEN>
+<TOKEN id="token-3-33" pos="word" morph="none" start_char="594" end_char="598">paper</TOKEN>
+<TOKEN id="token-3-34" pos="punct" morph="none" start_char="599" end_char="599">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="602" end_char="699">
+<ORIGINAL_TEXT>Leftover food at the restaurant is still being tested, a spokeswoman for the health district said.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="602" end_char="609">Leftover</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="611" end_char="614">food</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="616" end_char="617">at</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="619" end_char="621">the</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="623" end_char="632">restaurant</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="634" end_char="635">is</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="637" end_char="641">still</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="643" end_char="647">being</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="649" end_char="654">tested</TOKEN>
+<TOKEN id="token-4-9" pos="punct" morph="none" start_char="655" end_char="655">,</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="657" end_char="657">a</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="659" end_char="669">spokeswoman</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="671" end_char="673">for</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="675" end_char="677">the</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="679" end_char="684">health</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="686" end_char="693">district</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="695" end_char="698">said</TOKEN>
+<TOKEN id="token-4-17" pos="punct" morph="none" start_char="699" end_char="699">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="702" end_char="770">
+<ORIGINAL_TEXT>At least two lawsuits have already been filed against the restaurant.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="702" end_char="703">At</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="705" end_char="709">least</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="711" end_char="713">two</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="715" end_char="722">lawsuits</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="724" end_char="727">have</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="729" end_char="735">already</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="737" end_char="740">been</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="742" end_char="746">filed</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="748" end_char="754">against</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="756" end_char="758">the</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="760" end_char="769">restaurant</TOKEN>
+<TOKEN id="token-5-11" pos="punct" morph="none" start_char="770" end_char="770">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="773" end_char="897">
+<ORIGINAL_TEXT>Filip Szyller and Clayton Jones have both claimed to have been sickened after eating food purchased at the Powell restaurant.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="773" end_char="777">Filip</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="779" end_char="785">Szyller</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="787" end_char="789">and</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="791" end_char="797">Clayton</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="799" end_char="803">Jones</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="805" end_char="808">have</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="810" end_char="813">both</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="815" end_char="821">claimed</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="823" end_char="824">to</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="826" end_char="829">have</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="831" end_char="834">been</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="836" end_char="843">sickened</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="845" end_char="849">after</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="851" end_char="856">eating</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="858" end_char="861">food</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="863" end_char="871">purchased</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="873" end_char="874">at</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="876" end_char="878">the</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="880" end_char="885">Powell</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="887" end_char="896">restaurant</TOKEN>
+<TOKEN id="token-6-20" pos="punct" morph="none" start_char="897" end_char="897">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="899" end_char="1087">
+<ORIGINAL_TEXT>Jones has claimed he has needed continuous medical treatment after eating there on July 27, according to a statement by Ron Simon and Associates, which is representing both him and Szyller.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="899" end_char="903">Jones</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="905" end_char="907">has</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="909" end_char="915">claimed</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="917" end_char="918">he</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="920" end_char="922">has</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="924" end_char="929">needed</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="931" end_char="940">continuous</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="942" end_char="948">medical</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="950" end_char="958">treatment</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="960" end_char="964">after</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="966" end_char="971">eating</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="973" end_char="977">there</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="979" end_char="980">on</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="982" end_char="985">July</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="987" end_char="988">27</TOKEN>
+<TOKEN id="token-7-15" pos="punct" morph="none" start_char="989" end_char="989">,</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="991" end_char="999">according</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="1001" end_char="1002">to</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1004" end_char="1004">a</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1006" end_char="1014">statement</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1016" end_char="1017">by</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1019" end_char="1021">Ron</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1023" end_char="1027">Simon</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="1029" end_char="1031">and</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="1033" end_char="1042">Associates</TOKEN>
+<TOKEN id="token-7-25" pos="punct" morph="none" start_char="1043" end_char="1043">,</TOKEN>
+<TOKEN id="token-7-26" pos="word" morph="none" start_char="1045" end_char="1049">which</TOKEN>
+<TOKEN id="token-7-27" pos="word" morph="none" start_char="1051" end_char="1052">is</TOKEN>
+<TOKEN id="token-7-28" pos="word" morph="none" start_char="1054" end_char="1065">representing</TOKEN>
+<TOKEN id="token-7-29" pos="word" morph="none" start_char="1067" end_char="1070">both</TOKEN>
+<TOKEN id="token-7-30" pos="word" morph="none" start_char="1072" end_char="1074">him</TOKEN>
+<TOKEN id="token-7-31" pos="word" morph="none" start_char="1076" end_char="1078">and</TOKEN>
+<TOKEN id="token-7-32" pos="word" morph="none" start_char="1080" end_char="1086">Szyller</TOKEN>
+<TOKEN id="token-7-33" pos="punct" morph="none" start_char="1087" end_char="1087">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1090" end_char="1237">
+<ORIGINAL_TEXT>"This is the first of many lawsuits we will be filing on behalf of local residents who were sickened by contaminated Chipotle food," Ron Simon said.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="punct" morph="none" start_char="1090" end_char="1090">"</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1091" end_char="1094">This</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1096" end_char="1097">is</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1099" end_char="1101">the</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1103" end_char="1107">first</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1109" end_char="1110">of</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1112" end_char="1115">many</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1117" end_char="1124">lawsuits</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1126" end_char="1127">we</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1129" end_char="1132">will</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1134" end_char="1135">be</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1137" end_char="1142">filing</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1144" end_char="1145">on</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1147" end_char="1152">behalf</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1154" end_char="1155">of</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1157" end_char="1161">local</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1163" end_char="1171">residents</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1173" end_char="1175">who</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1177" end_char="1180">were</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1182" end_char="1189">sickened</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1191" end_char="1192">by</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1194" end_char="1205">contaminated</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="1207" end_char="1214">Chipotle</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1216" end_char="1219">food</TOKEN>
+<TOKEN id="token-8-24" pos="punct" morph="none" start_char="1220" end_char="1221">,"</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1223" end_char="1225">Ron</TOKEN>
+<TOKEN id="token-8-26" pos="word" morph="none" start_char="1227" end_char="1231">Simon</TOKEN>
+<TOKEN id="token-8-27" pos="word" morph="none" start_char="1233" end_char="1236">said</TOKEN>
+<TOKEN id="token-8-28" pos="punct" morph="none" start_char="1237" end_char="1237">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1239" end_char="1368">
+<ORIGINAL_TEXT>"We have handled hundreds of claims against Chipotle as this is Chipotle's seventh food poisoning outbreak in the last five years.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="punct" morph="none" start_char="1239" end_char="1239">"</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1240" end_char="1241">We</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1243" end_char="1246">have</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1248" end_char="1254">handled</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1256" end_char="1263">hundreds</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1265" end_char="1266">of</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1268" end_char="1273">claims</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1275" end_char="1281">against</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1283" end_char="1290">Chipotle</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1292" end_char="1293">as</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1295" end_char="1298">this</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1300" end_char="1301">is</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1303" end_char="1312">Chipotle's</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1314" end_char="1320">seventh</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1322" end_char="1325">food</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1327" end_char="1335">poisoning</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1337" end_char="1344">outbreak</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="1346" end_char="1347">in</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="1349" end_char="1351">the</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="1353" end_char="1356">last</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="1358" end_char="1361">five</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="1363" end_char="1367">years</TOKEN>
+<TOKEN id="token-9-22" pos="punct" morph="none" start_char="1368" end_char="1368">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1370" end_char="1516">
+<ORIGINAL_TEXT>These lawsuits will force Chipotle to change its ways and make its food safer for everyone not just in Powell, Ohio, but across the United States."</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1370" end_char="1374">These</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1376" end_char="1383">lawsuits</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1385" end_char="1388">will</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1390" end_char="1394">force</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1396" end_char="1403">Chipotle</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1405" end_char="1406">to</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1408" end_char="1413">change</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1415" end_char="1417">its</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1419" end_char="1422">ways</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1424" end_char="1426">and</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1428" end_char="1431">make</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1433" end_char="1435">its</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1437" end_char="1440">food</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1442" end_char="1446">safer</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1448" end_char="1450">for</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1452" end_char="1459">everyone</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1461" end_char="1463">not</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1465" end_char="1468">just</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="1470" end_char="1471">in</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1473" end_char="1478">Powell</TOKEN>
+<TOKEN id="token-10-20" pos="punct" morph="none" start_char="1479" end_char="1479">,</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="1481" end_char="1484">Ohio</TOKEN>
+<TOKEN id="token-10-22" pos="punct" morph="none" start_char="1485" end_char="1485">,</TOKEN>
+<TOKEN id="token-10-23" pos="word" morph="none" start_char="1487" end_char="1489">but</TOKEN>
+<TOKEN id="token-10-24" pos="word" morph="none" start_char="1491" end_char="1496">across</TOKEN>
+<TOKEN id="token-10-25" pos="word" morph="none" start_char="1498" end_char="1500">the</TOKEN>
+<TOKEN id="token-10-26" pos="word" morph="none" start_char="1502" end_char="1507">United</TOKEN>
+<TOKEN id="token-10-27" pos="word" morph="none" start_char="1509" end_char="1514">States</TOKEN>
+<TOKEN id="token-10-28" pos="punct" morph="none" start_char="1515" end_char="1516">."</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1519" end_char="1588">
+<ORIGINAL_TEXT>Clayton and Szyller are both seeking damages of at least $25,000 each.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1519" end_char="1525">Clayton</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1527" end_char="1529">and</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1531" end_char="1537">Szyller</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1539" end_char="1541">are</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1543" end_char="1546">both</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1548" end_char="1554">seeking</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1556" end_char="1562">damages</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1564" end_char="1565">of</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1567" end_char="1568">at</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1570" end_char="1574">least</TOKEN>
+<TOKEN id="token-11-10" pos="unknown" morph="none" start_char="1576" end_char="1582">$25,000</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1584" end_char="1587">each</TOKEN>
+<TOKEN id="token-11-12" pos="punct" morph="none" start_char="1588" end_char="1588">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1591" end_char="1665">
+<ORIGINAL_TEXT>The restaurant at the center of the potential outbreak reopened on Tuesday.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1591" end_char="1593">The</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1595" end_char="1604">restaurant</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1606" end_char="1607">at</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1609" end_char="1611">the</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1613" end_char="1618">center</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1620" end_char="1621">of</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1623" end_char="1625">the</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1627" end_char="1635">potential</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1637" end_char="1644">outbreak</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1646" end_char="1653">reopened</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1655" end_char="1656">on</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1658" end_char="1664">Tuesday</TOKEN>
+<TOKEN id="token-12-12" pos="punct" morph="none" start_char="1665" end_char="1665">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1668" end_char="1747">
+<ORIGINAL_TEXT>Chipotle said it voluntarily closed the store after the illnesses were reported.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1668" end_char="1675">Chipotle</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1677" end_char="1680">said</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1682" end_char="1683">it</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1685" end_char="1695">voluntarily</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1697" end_char="1702">closed</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1704" end_char="1706">the</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1708" end_char="1712">store</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1714" end_char="1718">after</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1720" end_char="1722">the</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1724" end_char="1732">illnesses</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1734" end_char="1737">were</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1739" end_char="1746">reported</TOKEN>
+<TOKEN id="token-13-12" pos="punct" morph="none" start_char="1747" end_char="1747">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1749" end_char="1836">
+<ORIGINAL_TEXT>They also noted they replaced all food, as well as cleaned and sanitized the restaurant.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1749" end_char="1752">They</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1754" end_char="1757">also</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1759" end_char="1763">noted</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1765" end_char="1768">they</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1770" end_char="1777">replaced</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1779" end_char="1781">all</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1783" end_char="1786">food</TOKEN>
+<TOKEN id="token-14-7" pos="punct" morph="none" start_char="1787" end_char="1787">,</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1789" end_char="1790">as</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1792" end_char="1795">well</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1797" end_char="1798">as</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1800" end_char="1806">cleaned</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1808" end_char="1810">and</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1812" end_char="1820">sanitized</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1822" end_char="1824">the</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1826" end_char="1835">restaurant</TOKEN>
+<TOKEN id="token-14-16" pos="punct" morph="none" start_char="1836" end_char="1836">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1839" end_char="1970">
+<ORIGINAL_TEXT>"The health of our guests and employees is our top priority," spokeswoman Laurie Schalow said in a statement to The Washington Post.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="punct" morph="none" start_char="1839" end_char="1839">"</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1840" end_char="1842">The</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1844" end_char="1849">health</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1851" end_char="1852">of</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1854" end_char="1856">our</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1858" end_char="1863">guests</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1865" end_char="1867">and</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="1869" end_char="1877">employees</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1879" end_char="1880">is</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="1882" end_char="1884">our</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="1886" end_char="1888">top</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="1890" end_char="1897">priority</TOKEN>
+<TOKEN id="token-15-12" pos="punct" morph="none" start_char="1898" end_char="1899">,"</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="1901" end_char="1911">spokeswoman</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="1913" end_char="1918">Laurie</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="1920" end_char="1926">Schalow</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="1928" end_char="1931">said</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="1933" end_char="1934">in</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="1936" end_char="1936">a</TOKEN>
+<TOKEN id="token-15-19" pos="word" morph="none" start_char="1938" end_char="1946">statement</TOKEN>
+<TOKEN id="token-15-20" pos="word" morph="none" start_char="1948" end_char="1949">to</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="1951" end_char="1953">The</TOKEN>
+<TOKEN id="token-15-22" pos="word" morph="none" start_char="1955" end_char="1964">Washington</TOKEN>
+<TOKEN id="token-15-23" pos="word" morph="none" start_char="1966" end_char="1969">Post</TOKEN>
+<TOKEN id="token-15-24" pos="punct" morph="none" start_char="1970" end_char="1970">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1973" end_char="1987">
+<ORIGINAL_TEXT>RELATED STORIES</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1973" end_char="1979">RELATED</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1981" end_char="1987">STORIES</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

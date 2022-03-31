@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="L0C04FPJ5" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="3586" raw_text_md5="c8a15d3c533d0d2bee732a0a4b59e98d">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="56">
+<ORIGINAL_TEXT>State Fair livestock building source of E. coli outbreak</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="5">State</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="7" end_char="10">Fair</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="12" end_char="20">livestock</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="22" end_char="29">building</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="31" end_char="36">source</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="38" end_char="39">of</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="41" end_char="41">E</TOKEN>
+<TOKEN id="token-0-7" pos="punct" morph="none" start_char="42" end_char="42">.</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="44" end_char="47">coli</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="49" end_char="56">outbreak</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="60" end_char="97">
+<ORIGINAL_TEXT>Posted November 10, 2011 8:58 a.m. EST</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="60" end_char="65">Posted</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="67" end_char="74">November</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="76" end_char="77">10</TOKEN>
+<TOKEN id="token-1-3" pos="punct" morph="none" start_char="78" end_char="78">,</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="80" end_char="83">2011</TOKEN>
+<TOKEN id="token-1-5" pos="unknown" morph="none" start_char="85" end_char="88">8:58</TOKEN>
+<TOKEN id="token-1-6" pos="unknown" morph="none" start_char="90" end_char="92">a.m</TOKEN>
+<TOKEN id="token-1-7" pos="punct" morph="none" start_char="93" end_char="93">.</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="95" end_char="97">EST</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="100" end_char="357">
+<ORIGINAL_TEXT>Raleigh, N.C. — An E. coli outbreak that caused 27 people to become sick has been linked to a building that hosted livestock competitions and housed sheep, goats and pigs at the North Carolina State Fair, state agriculture and health officials said Thursday.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="100" end_char="106">Raleigh</TOKEN>
+<TOKEN id="token-2-1" pos="punct" morph="none" start_char="107" end_char="107">,</TOKEN>
+<TOKEN id="token-2-2" pos="unknown" morph="none" start_char="109" end_char="111">N.C</TOKEN>
+<TOKEN id="token-2-3" pos="punct" morph="none" start_char="112" end_char="112">.</TOKEN>
+<TOKEN id="token-2-4" pos="punct" morph="none" start_char="114" end_char="114">—</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="116" end_char="117">An</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="119" end_char="119">E</TOKEN>
+<TOKEN id="token-2-7" pos="punct" morph="none" start_char="120" end_char="120">.</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="122" end_char="125">coli</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="127" end_char="134">outbreak</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="136" end_char="139">that</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="141" end_char="146">caused</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="148" end_char="149">27</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="151" end_char="156">people</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="158" end_char="159">to</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="161" end_char="166">become</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="168" end_char="171">sick</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="173" end_char="175">has</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="177" end_char="180">been</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="182" end_char="187">linked</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="189" end_char="190">to</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="192" end_char="192">a</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="194" end_char="201">building</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="203" end_char="206">that</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="208" end_char="213">hosted</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="215" end_char="223">livestock</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="225" end_char="236">competitions</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="238" end_char="240">and</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="242" end_char="247">housed</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="249" end_char="253">sheep</TOKEN>
+<TOKEN id="token-2-30" pos="punct" morph="none" start_char="254" end_char="254">,</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="256" end_char="260">goats</TOKEN>
+<TOKEN id="token-2-32" pos="word" morph="none" start_char="262" end_char="264">and</TOKEN>
+<TOKEN id="token-2-33" pos="word" morph="none" start_char="266" end_char="269">pigs</TOKEN>
+<TOKEN id="token-2-34" pos="word" morph="none" start_char="271" end_char="272">at</TOKEN>
+<TOKEN id="token-2-35" pos="word" morph="none" start_char="274" end_char="276">the</TOKEN>
+<TOKEN id="token-2-36" pos="word" morph="none" start_char="278" end_char="282">North</TOKEN>
+<TOKEN id="token-2-37" pos="word" morph="none" start_char="284" end_char="291">Carolina</TOKEN>
+<TOKEN id="token-2-38" pos="word" morph="none" start_char="293" end_char="297">State</TOKEN>
+<TOKEN id="token-2-39" pos="word" morph="none" start_char="299" end_char="302">Fair</TOKEN>
+<TOKEN id="token-2-40" pos="punct" morph="none" start_char="303" end_char="303">,</TOKEN>
+<TOKEN id="token-2-41" pos="word" morph="none" start_char="305" end_char="309">state</TOKEN>
+<TOKEN id="token-2-42" pos="word" morph="none" start_char="311" end_char="321">agriculture</TOKEN>
+<TOKEN id="token-2-43" pos="word" morph="none" start_char="323" end_char="325">and</TOKEN>
+<TOKEN id="token-2-44" pos="word" morph="none" start_char="327" end_char="332">health</TOKEN>
+<TOKEN id="token-2-45" pos="word" morph="none" start_char="334" end_char="342">officials</TOKEN>
+<TOKEN id="token-2-46" pos="word" morph="none" start_char="344" end_char="347">said</TOKEN>
+<TOKEN id="token-2-47" pos="word" morph="none" start_char="349" end_char="356">Thursday</TOKEN>
+<TOKEN id="token-2-48" pos="punct" morph="none" start_char="357" end_char="357">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="360" end_char="576">
+<ORIGINAL_TEXT>The confirmed infections were likely transmitted by animal contact in the Kelley Building, state epidemiologist Dr. Megan Davies said, but investigators haven't identified any specific animal or breed in the outbreak.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="360" end_char="362">The</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="364" end_char="372">confirmed</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="374" end_char="383">infections</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="385" end_char="388">were</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="390" end_char="395">likely</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="397" end_char="407">transmitted</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="409" end_char="410">by</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="412" end_char="417">animal</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="419" end_char="425">contact</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="427" end_char="428">in</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="430" end_char="432">the</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="434" end_char="439">Kelley</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="441" end_char="448">Building</TOKEN>
+<TOKEN id="token-3-13" pos="punct" morph="none" start_char="449" end_char="449">,</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="451" end_char="455">state</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="457" end_char="470">epidemiologist</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="472" end_char="473">Dr</TOKEN>
+<TOKEN id="token-3-17" pos="punct" morph="none" start_char="474" end_char="474">.</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="476" end_char="480">Megan</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="482" end_char="487">Davies</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="489" end_char="492">said</TOKEN>
+<TOKEN id="token-3-21" pos="punct" morph="none" start_char="493" end_char="493">,</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="495" end_char="497">but</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="499" end_char="511">investigators</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="513" end_char="519">haven't</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="521" end_char="530">identified</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="532" end_char="534">any</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="536" end_char="543">specific</TOKEN>
+<TOKEN id="token-3-28" pos="word" morph="none" start_char="545" end_char="550">animal</TOKEN>
+<TOKEN id="token-3-29" pos="word" morph="none" start_char="552" end_char="553">or</TOKEN>
+<TOKEN id="token-3-30" pos="word" morph="none" start_char="555" end_char="559">breed</TOKEN>
+<TOKEN id="token-3-31" pos="word" morph="none" start_char="561" end_char="562">in</TOKEN>
+<TOKEN id="token-3-32" pos="word" morph="none" start_char="564" end_char="566">the</TOKEN>
+<TOKEN id="token-3-33" pos="word" morph="none" start_char="568" end_char="575">outbreak</TOKEN>
+<TOKEN id="token-3-34" pos="punct" morph="none" start_char="576" end_char="576">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="579" end_char="712">
+<ORIGINAL_TEXT>Investigators pinpointed the building as the source through a case-control study of those who were sick and 87 fairgoers who were not.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="579" end_char="591">Investigators</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="593" end_char="602">pinpointed</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="604" end_char="606">the</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="608" end_char="615">building</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="617" end_char="618">as</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="620" end_char="622">the</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="624" end_char="629">source</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="631" end_char="637">through</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="639" end_char="639">a</TOKEN>
+<TOKEN id="token-4-9" pos="unknown" morph="none" start_char="641" end_char="652">case-control</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="654" end_char="658">study</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="660" end_char="661">of</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="663" end_char="667">those</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="669" end_char="671">who</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="673" end_char="676">were</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="678" end_char="681">sick</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="683" end_char="685">and</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="687" end_char="688">87</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="690" end_char="698">fairgoers</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="700" end_char="702">who</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="704" end_char="707">were</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="709" end_char="711">not</TOKEN>
+<TOKEN id="token-4-22" pos="punct" morph="none" start_char="712" end_char="712">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="714" end_char="791">
+<ORIGINAL_TEXT>The participants answered a 21-page questionnaire about their fair activities.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="714" end_char="716">The</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="718" end_char="729">participants</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="731" end_char="738">answered</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="740" end_char="740">a</TOKEN>
+<TOKEN id="token-5-4" pos="unknown" morph="none" start_char="742" end_char="748">21-page</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="750" end_char="762">questionnaire</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="764" end_char="768">about</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="770" end_char="774">their</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="776" end_char="779">fair</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="781" end_char="790">activities</TOKEN>
+<TOKEN id="token-5-10" pos="punct" morph="none" start_char="791" end_char="791">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="794" end_char="874">
+<ORIGINAL_TEXT>No other exhibits, food or activities were linked to the infections, Davies said.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="794" end_char="795">No</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="797" end_char="801">other</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="803" end_char="810">exhibits</TOKEN>
+<TOKEN id="token-6-3" pos="punct" morph="none" start_char="811" end_char="811">,</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="813" end_char="816">food</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="818" end_char="819">or</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="821" end_char="830">activities</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="832" end_char="835">were</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="837" end_char="842">linked</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="844" end_char="845">to</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="847" end_char="849">the</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="851" end_char="860">infections</TOKEN>
+<TOKEN id="token-6-12" pos="punct" morph="none" start_char="861" end_char="861">,</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="863" end_char="868">Davies</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="870" end_char="873">said</TOKEN>
+<TOKEN id="token-6-15" pos="punct" morph="none" start_char="874" end_char="874">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="877" end_char="1046">
+<ORIGINAL_TEXT>Agriculture Commissioner Steve Troxler, who oversees the State Fair, said he is putting together a task force to develop measures to lessen the risk for future fairgoers.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="877" end_char="887">Agriculture</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="889" end_char="900">Commissioner</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="902" end_char="906">Steve</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="908" end_char="914">Troxler</TOKEN>
+<TOKEN id="token-7-4" pos="punct" morph="none" start_char="915" end_char="915">,</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="917" end_char="919">who</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="921" end_char="928">oversees</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="930" end_char="932">the</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="934" end_char="938">State</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="940" end_char="943">Fair</TOKEN>
+<TOKEN id="token-7-10" pos="punct" morph="none" start_char="944" end_char="944">,</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="946" end_char="949">said</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="951" end_char="952">he</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="954" end_char="955">is</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="957" end_char="963">putting</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="965" end_char="972">together</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="974" end_char="974">a</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="976" end_char="979">task</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="981" end_char="985">force</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="987" end_char="988">to</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="990" end_char="996">develop</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="998" end_char="1005">measures</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1007" end_char="1008">to</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="1010" end_char="1015">lessen</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="1017" end_char="1019">the</TOKEN>
+<TOKEN id="token-7-25" pos="word" morph="none" start_char="1021" end_char="1024">risk</TOKEN>
+<TOKEN id="token-7-26" pos="word" morph="none" start_char="1026" end_char="1028">for</TOKEN>
+<TOKEN id="token-7-27" pos="word" morph="none" start_char="1030" end_char="1035">future</TOKEN>
+<TOKEN id="token-7-28" pos="word" morph="none" start_char="1037" end_char="1045">fairgoers</TOKEN>
+<TOKEN id="token-7-29" pos="punct" morph="none" start_char="1046" end_char="1046">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1049" end_char="1181">
+<ORIGINAL_TEXT>"From the beginning of this investigation, we have been focused on finding answers about why these illnesses occurred," Troxler said.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="punct" morph="none" start_char="1049" end_char="1049">"</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1050" end_char="1053">From</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1055" end_char="1057">the</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1059" end_char="1067">beginning</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1069" end_char="1070">of</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1072" end_char="1075">this</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1077" end_char="1089">investigation</TOKEN>
+<TOKEN id="token-8-7" pos="punct" morph="none" start_char="1090" end_char="1090">,</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1092" end_char="1093">we</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1095" end_char="1098">have</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1100" end_char="1103">been</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1105" end_char="1111">focused</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1113" end_char="1114">on</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1116" end_char="1122">finding</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1124" end_char="1130">answers</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1132" end_char="1136">about</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1138" end_char="1140">why</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1142" end_char="1146">these</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1148" end_char="1156">illnesses</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1158" end_char="1165">occurred</TOKEN>
+<TOKEN id="token-8-20" pos="punct" morph="none" start_char="1166" end_char="1167">,"</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1169" end_char="1175">Troxler</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="1177" end_char="1180">said</TOKEN>
+<TOKEN id="token-8-23" pos="punct" morph="none" start_char="1181" end_char="1181">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1183" end_char="1318">
+<ORIGINAL_TEXT>"Using the information gathered by our public health partners, we can begin to assess whether additional safeguards can be put in place.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="punct" morph="none" start_char="1183" end_char="1183">"</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1184" end_char="1188">Using</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1190" end_char="1192">the</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1194" end_char="1204">information</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1206" end_char="1213">gathered</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1215" end_char="1216">by</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1218" end_char="1220">our</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1222" end_char="1227">public</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1229" end_char="1234">health</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1236" end_char="1243">partners</TOKEN>
+<TOKEN id="token-9-10" pos="punct" morph="none" start_char="1244" end_char="1244">,</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1246" end_char="1247">we</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1249" end_char="1251">can</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1253" end_char="1257">begin</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1259" end_char="1260">to</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1262" end_char="1267">assess</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1269" end_char="1275">whether</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="1277" end_char="1286">additional</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="1288" end_char="1297">safeguards</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="1299" end_char="1301">can</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="1303" end_char="1304">be</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="1306" end_char="1308">put</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="1310" end_char="1311">in</TOKEN>
+<TOKEN id="token-9-23" pos="word" morph="none" start_char="1313" end_char="1317">place</TOKEN>
+<TOKEN id="token-9-24" pos="punct" morph="none" start_char="1318" end_char="1318">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1320" end_char="1365">
+<ORIGINAL_TEXT>Our goal is to put on the safest fair we can."</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1320" end_char="1322">Our</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1324" end_char="1327">goal</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1329" end_char="1330">is</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1332" end_char="1333">to</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1335" end_char="1337">put</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1339" end_char="1340">on</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1342" end_char="1344">the</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1346" end_char="1351">safest</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1353" end_char="1356">fair</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1358" end_char="1359">we</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1361" end_char="1363">can</TOKEN>
+<TOKEN id="token-10-11" pos="punct" morph="none" start_char="1364" end_char="1365">."</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1368" end_char="1565">
+<ORIGINAL_TEXT>State officials said two people remained hospitalized from the outbreak Thursday, but they were not sure if that number included Hunter Tallent, 2, of Charlotte, who was released Thursday afternoon.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1368" end_char="1372">State</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1374" end_char="1382">officials</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1384" end_char="1387">said</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1389" end_char="1391">two</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1393" end_char="1398">people</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1400" end_char="1407">remained</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1409" end_char="1420">hospitalized</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1422" end_char="1425">from</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1427" end_char="1429">the</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1431" end_char="1438">outbreak</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1440" end_char="1447">Thursday</TOKEN>
+<TOKEN id="token-11-11" pos="punct" morph="none" start_char="1448" end_char="1448">,</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1450" end_char="1452">but</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1454" end_char="1457">they</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1459" end_char="1462">were</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="1464" end_char="1466">not</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1468" end_char="1471">sure</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1473" end_char="1474">if</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="1476" end_char="1479">that</TOKEN>
+<TOKEN id="token-11-19" pos="word" morph="none" start_char="1481" end_char="1486">number</TOKEN>
+<TOKEN id="token-11-20" pos="word" morph="none" start_char="1488" end_char="1495">included</TOKEN>
+<TOKEN id="token-11-21" pos="word" morph="none" start_char="1497" end_char="1502">Hunter</TOKEN>
+<TOKEN id="token-11-22" pos="word" morph="none" start_char="1504" end_char="1510">Tallent</TOKEN>
+<TOKEN id="token-11-23" pos="punct" morph="none" start_char="1511" end_char="1511">,</TOKEN>
+<TOKEN id="token-11-24" pos="word" morph="none" start_char="1513" end_char="1513">2</TOKEN>
+<TOKEN id="token-11-25" pos="punct" morph="none" start_char="1514" end_char="1514">,</TOKEN>
+<TOKEN id="token-11-26" pos="word" morph="none" start_char="1516" end_char="1517">of</TOKEN>
+<TOKEN id="token-11-27" pos="word" morph="none" start_char="1519" end_char="1527">Charlotte</TOKEN>
+<TOKEN id="token-11-28" pos="punct" morph="none" start_char="1528" end_char="1528">,</TOKEN>
+<TOKEN id="token-11-29" pos="word" morph="none" start_char="1530" end_char="1532">who</TOKEN>
+<TOKEN id="token-11-30" pos="word" morph="none" start_char="1534" end_char="1536">was</TOKEN>
+<TOKEN id="token-11-31" pos="word" morph="none" start_char="1538" end_char="1545">released</TOKEN>
+<TOKEN id="token-11-32" pos="word" morph="none" start_char="1547" end_char="1554">Thursday</TOKEN>
+<TOKEN id="token-11-33" pos="word" morph="none" start_char="1556" end_char="1564">afternoon</TOKEN>
+<TOKEN id="token-11-34" pos="punct" morph="none" start_char="1565" end_char="1565">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1568" end_char="1722">
+<ORIGINAL_TEXT>Tallent's grandfather said Thursday he wasn't sure how the boy contracted E. coli, because he was in a stroller and never came in contact with any animals.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1568" end_char="1576">Tallent's</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1578" end_char="1588">grandfather</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1590" end_char="1593">said</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1595" end_char="1602">Thursday</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1604" end_char="1605">he</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1607" end_char="1612">wasn't</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1614" end_char="1617">sure</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1619" end_char="1621">how</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1623" end_char="1625">the</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1627" end_char="1629">boy</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1631" end_char="1640">contracted</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1642" end_char="1642">E</TOKEN>
+<TOKEN id="token-12-12" pos="punct" morph="none" start_char="1643" end_char="1643">.</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1645" end_char="1648">coli</TOKEN>
+<TOKEN id="token-12-14" pos="punct" morph="none" start_char="1649" end_char="1649">,</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1651" end_char="1657">because</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1659" end_char="1660">he</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="1662" end_char="1664">was</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="1666" end_char="1667">in</TOKEN>
+<TOKEN id="token-12-19" pos="word" morph="none" start_char="1669" end_char="1669">a</TOKEN>
+<TOKEN id="token-12-20" pos="word" morph="none" start_char="1671" end_char="1678">stroller</TOKEN>
+<TOKEN id="token-12-21" pos="word" morph="none" start_char="1680" end_char="1682">and</TOKEN>
+<TOKEN id="token-12-22" pos="word" morph="none" start_char="1684" end_char="1688">never</TOKEN>
+<TOKEN id="token-12-23" pos="word" morph="none" start_char="1690" end_char="1693">came</TOKEN>
+<TOKEN id="token-12-24" pos="word" morph="none" start_char="1695" end_char="1696">in</TOKEN>
+<TOKEN id="token-12-25" pos="word" morph="none" start_char="1698" end_char="1704">contact</TOKEN>
+<TOKEN id="token-12-26" pos="word" morph="none" start_char="1706" end_char="1709">with</TOKEN>
+<TOKEN id="token-12-27" pos="word" morph="none" start_char="1711" end_char="1713">any</TOKEN>
+<TOKEN id="token-12-28" pos="word" morph="none" start_char="1715" end_char="1721">animals</TOKEN>
+<TOKEN id="token-12-29" pos="punct" morph="none" start_char="1722" end_char="1722">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1725" end_char="1795">
+<ORIGINAL_TEXT>His parents said they did spend time in the Kelly Building at the fair.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1725" end_char="1727">His</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1729" end_char="1735">parents</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1737" end_char="1740">said</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1742" end_char="1745">they</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1747" end_char="1749">did</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1751" end_char="1755">spend</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1757" end_char="1760">time</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1762" end_char="1763">in</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1765" end_char="1767">the</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1769" end_char="1773">Kelly</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1775" end_char="1782">Building</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1784" end_char="1785">at</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1787" end_char="1789">the</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1791" end_char="1794">fair</TOKEN>
+<TOKEN id="token-13-14" pos="punct" morph="none" start_char="1795" end_char="1795">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1798" end_char="1821">
+<ORIGINAL_TEXT>"He was in the stroller.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="punct" morph="none" start_char="1798" end_char="1798">"</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1799" end_char="1800">He</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1802" end_char="1804">was</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1806" end_char="1807">in</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1809" end_char="1811">the</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1813" end_char="1820">stroller</TOKEN>
+<TOKEN id="token-14-6" pos="punct" morph="none" start_char="1821" end_char="1821">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1823" end_char="1919">
+<ORIGINAL_TEXT>It may have picked it up and later (he) touched the stroller," his mother, Lindsay Tallent, said.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1823" end_char="1824">It</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1826" end_char="1828">may</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1830" end_char="1833">have</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1835" end_char="1840">picked</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1842" end_char="1843">it</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1845" end_char="1846">up</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1848" end_char="1850">and</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="1852" end_char="1856">later</TOKEN>
+<TOKEN id="token-15-8" pos="punct" morph="none" start_char="1858" end_char="1858">(</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="1859" end_char="1860">he</TOKEN>
+<TOKEN id="token-15-10" pos="punct" morph="none" start_char="1861" end_char="1861">)</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="1863" end_char="1869">touched</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1871" end_char="1873">the</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="1875" end_char="1882">stroller</TOKEN>
+<TOKEN id="token-15-14" pos="punct" morph="none" start_char="1883" end_char="1884">,"</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="1886" end_char="1888">his</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="1890" end_char="1895">mother</TOKEN>
+<TOKEN id="token-15-17" pos="punct" morph="none" start_char="1896" end_char="1896">,</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="1898" end_char="1904">Lindsay</TOKEN>
+<TOKEN id="token-15-19" pos="word" morph="none" start_char="1906" end_char="1912">Tallent</TOKEN>
+<TOKEN id="token-15-20" pos="punct" morph="none" start_char="1913" end_char="1913">,</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="1915" end_char="1918">said</TOKEN>
+<TOKEN id="token-15-22" pos="punct" morph="none" start_char="1919" end_char="1919">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1922" end_char="1973">
+<ORIGINAL_TEXT>Davies said the bacteria can come from many sources.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1922" end_char="1927">Davies</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1929" end_char="1932">said</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1934" end_char="1936">the</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1938" end_char="1945">bacteria</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1947" end_char="1949">can</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1951" end_char="1954">come</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="1956" end_char="1959">from</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1961" end_char="1964">many</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1966" end_char="1972">sources</TOKEN>
+<TOKEN id="token-16-9" pos="punct" morph="none" start_char="1973" end_char="1973">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1976" end_char="2135">
+<ORIGINAL_TEXT>"Even if a child is in a stroller, they can be reaching out their hands, putting their hands down, picking up bits of dirt, shavings or ticket stubs," she said.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="punct" morph="none" start_char="1976" end_char="1976">"</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1977" end_char="1980">Even</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1982" end_char="1983">if</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1985" end_char="1985">a</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="1987" end_char="1991">child</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="1993" end_char="1994">is</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="1996" end_char="1997">in</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1999" end_char="1999">a</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2001" end_char="2008">stroller</TOKEN>
+<TOKEN id="token-17-9" pos="punct" morph="none" start_char="2009" end_char="2009">,</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2011" end_char="2014">they</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="2016" end_char="2018">can</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2020" end_char="2021">be</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2023" end_char="2030">reaching</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="2032" end_char="2034">out</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="2036" end_char="2040">their</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="2042" end_char="2046">hands</TOKEN>
+<TOKEN id="token-17-17" pos="punct" morph="none" start_char="2047" end_char="2047">,</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="2049" end_char="2055">putting</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="2057" end_char="2061">their</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="2063" end_char="2067">hands</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="2069" end_char="2072">down</TOKEN>
+<TOKEN id="token-17-22" pos="punct" morph="none" start_char="2073" end_char="2073">,</TOKEN>
+<TOKEN id="token-17-23" pos="word" morph="none" start_char="2075" end_char="2081">picking</TOKEN>
+<TOKEN id="token-17-24" pos="word" morph="none" start_char="2083" end_char="2084">up</TOKEN>
+<TOKEN id="token-17-25" pos="word" morph="none" start_char="2086" end_char="2089">bits</TOKEN>
+<TOKEN id="token-17-26" pos="word" morph="none" start_char="2091" end_char="2092">of</TOKEN>
+<TOKEN id="token-17-27" pos="word" morph="none" start_char="2094" end_char="2097">dirt</TOKEN>
+<TOKEN id="token-17-28" pos="punct" morph="none" start_char="2098" end_char="2098">,</TOKEN>
+<TOKEN id="token-17-29" pos="word" morph="none" start_char="2100" end_char="2107">shavings</TOKEN>
+<TOKEN id="token-17-30" pos="word" morph="none" start_char="2109" end_char="2110">or</TOKEN>
+<TOKEN id="token-17-31" pos="word" morph="none" start_char="2112" end_char="2117">ticket</TOKEN>
+<TOKEN id="token-17-32" pos="word" morph="none" start_char="2119" end_char="2123">stubs</TOKEN>
+<TOKEN id="token-17-33" pos="punct" morph="none" start_char="2124" end_char="2125">,"</TOKEN>
+<TOKEN id="token-17-34" pos="word" morph="none" start_char="2127" end_char="2129">she</TOKEN>
+<TOKEN id="token-17-35" pos="word" morph="none" start_char="2131" end_char="2134">said</TOKEN>
+<TOKEN id="token-17-36" pos="punct" morph="none" start_char="2135" end_char="2135">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2138" end_char="2308">
+<ORIGINAL_TEXT>Davies said that the strain of E. coli that causes the illness occurs in the intestines of ruminant animals – those with four stomachs – including cattle, goats and sheep.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2138" end_char="2143">Davies</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2145" end_char="2148">said</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2150" end_char="2153">that</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2155" end_char="2157">the</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2159" end_char="2164">strain</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2166" end_char="2167">of</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="2169" end_char="2169">E</TOKEN>
+<TOKEN id="token-18-7" pos="punct" morph="none" start_char="2170" end_char="2170">.</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="2172" end_char="2175">coli</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="2177" end_char="2180">that</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="2182" end_char="2187">causes</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="2189" end_char="2191">the</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="2193" end_char="2199">illness</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="2201" end_char="2206">occurs</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="2208" end_char="2209">in</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="2211" end_char="2213">the</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="2215" end_char="2224">intestines</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="2226" end_char="2227">of</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="2229" end_char="2236">ruminant</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="2238" end_char="2244">animals</TOKEN>
+<TOKEN id="token-18-20" pos="punct" morph="none" start_char="2246" end_char="2246">–</TOKEN>
+<TOKEN id="token-18-21" pos="word" morph="none" start_char="2248" end_char="2252">those</TOKEN>
+<TOKEN id="token-18-22" pos="word" morph="none" start_char="2254" end_char="2257">with</TOKEN>
+<TOKEN id="token-18-23" pos="word" morph="none" start_char="2259" end_char="2262">four</TOKEN>
+<TOKEN id="token-18-24" pos="word" morph="none" start_char="2264" end_char="2271">stomachs</TOKEN>
+<TOKEN id="token-18-25" pos="punct" morph="none" start_char="2273" end_char="2273">–</TOKEN>
+<TOKEN id="token-18-26" pos="word" morph="none" start_char="2275" end_char="2283">including</TOKEN>
+<TOKEN id="token-18-27" pos="word" morph="none" start_char="2285" end_char="2290">cattle</TOKEN>
+<TOKEN id="token-18-28" pos="punct" morph="none" start_char="2291" end_char="2291">,</TOKEN>
+<TOKEN id="token-18-29" pos="word" morph="none" start_char="2293" end_char="2297">goats</TOKEN>
+<TOKEN id="token-18-30" pos="word" morph="none" start_char="2299" end_char="2301">and</TOKEN>
+<TOKEN id="token-18-31" pos="word" morph="none" start_char="2303" end_char="2307">sheep</TOKEN>
+<TOKEN id="token-18-32" pos="punct" morph="none" start_char="2308" end_char="2308">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2311" end_char="2501">
+<ORIGINAL_TEXT>"These bacteria are shed in the animal's feces, so if it is on the animal itself or surfaces around the animal that someone touches, the bacteria can be transmitted to that person," she said.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="punct" morph="none" start_char="2311" end_char="2311">"</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="2312" end_char="2316">These</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="2318" end_char="2325">bacteria</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="2327" end_char="2329">are</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="2331" end_char="2334">shed</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="2336" end_char="2337">in</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="2339" end_char="2341">the</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="2343" end_char="2350">animal's</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="2352" end_char="2356">feces</TOKEN>
+<TOKEN id="token-19-9" pos="punct" morph="none" start_char="2357" end_char="2357">,</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="2359" end_char="2360">so</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="2362" end_char="2363">if</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="2365" end_char="2366">it</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="2368" end_char="2369">is</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="2371" end_char="2372">on</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="2374" end_char="2376">the</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="2378" end_char="2383">animal</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="2385" end_char="2390">itself</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="2392" end_char="2393">or</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="2395" end_char="2402">surfaces</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="2404" end_char="2409">around</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="2411" end_char="2413">the</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="2415" end_char="2420">animal</TOKEN>
+<TOKEN id="token-19-23" pos="word" morph="none" start_char="2422" end_char="2425">that</TOKEN>
+<TOKEN id="token-19-24" pos="word" morph="none" start_char="2427" end_char="2433">someone</TOKEN>
+<TOKEN id="token-19-25" pos="word" morph="none" start_char="2435" end_char="2441">touches</TOKEN>
+<TOKEN id="token-19-26" pos="punct" morph="none" start_char="2442" end_char="2442">,</TOKEN>
+<TOKEN id="token-19-27" pos="word" morph="none" start_char="2444" end_char="2446">the</TOKEN>
+<TOKEN id="token-19-28" pos="word" morph="none" start_char="2448" end_char="2455">bacteria</TOKEN>
+<TOKEN id="token-19-29" pos="word" morph="none" start_char="2457" end_char="2459">can</TOKEN>
+<TOKEN id="token-19-30" pos="word" morph="none" start_char="2461" end_char="2462">be</TOKEN>
+<TOKEN id="token-19-31" pos="word" morph="none" start_char="2464" end_char="2474">transmitted</TOKEN>
+<TOKEN id="token-19-32" pos="word" morph="none" start_char="2476" end_char="2477">to</TOKEN>
+<TOKEN id="token-19-33" pos="word" morph="none" start_char="2479" end_char="2482">that</TOKEN>
+<TOKEN id="token-19-34" pos="word" morph="none" start_char="2484" end_char="2489">person</TOKEN>
+<TOKEN id="token-19-35" pos="punct" morph="none" start_char="2490" end_char="2491">,"</TOKEN>
+<TOKEN id="token-19-36" pos="word" morph="none" start_char="2493" end_char="2495">she</TOKEN>
+<TOKEN id="token-19-37" pos="word" morph="none" start_char="2497" end_char="2500">said</TOKEN>
+<TOKEN id="token-19-38" pos="punct" morph="none" start_char="2501" end_char="2501">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2504" end_char="2653">
+<ORIGINAL_TEXT>The Kelley Building, which is used for storage the rest of the year, is cleaned and disinfected between each livestock show at the fair, Troxler said.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="2504" end_char="2506">The</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2508" end_char="2513">Kelley</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="2515" end_char="2522">Building</TOKEN>
+<TOKEN id="token-20-3" pos="punct" morph="none" start_char="2523" end_char="2523">,</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="2525" end_char="2529">which</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="2531" end_char="2532">is</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="2534" end_char="2537">used</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="2539" end_char="2541">for</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="2543" end_char="2549">storage</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="2551" end_char="2553">the</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="2555" end_char="2558">rest</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="2560" end_char="2561">of</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="2563" end_char="2565">the</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="2567" end_char="2570">year</TOKEN>
+<TOKEN id="token-20-14" pos="punct" morph="none" start_char="2571" end_char="2571">,</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="2573" end_char="2574">is</TOKEN>
+<TOKEN id="token-20-16" pos="word" morph="none" start_char="2576" end_char="2582">cleaned</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="2584" end_char="2586">and</TOKEN>
+<TOKEN id="token-20-18" pos="word" morph="none" start_char="2588" end_char="2598">disinfected</TOKEN>
+<TOKEN id="token-20-19" pos="word" morph="none" start_char="2600" end_char="2606">between</TOKEN>
+<TOKEN id="token-20-20" pos="word" morph="none" start_char="2608" end_char="2611">each</TOKEN>
+<TOKEN id="token-20-21" pos="word" morph="none" start_char="2613" end_char="2621">livestock</TOKEN>
+<TOKEN id="token-20-22" pos="word" morph="none" start_char="2623" end_char="2626">show</TOKEN>
+<TOKEN id="token-20-23" pos="word" morph="none" start_char="2628" end_char="2629">at</TOKEN>
+<TOKEN id="token-20-24" pos="word" morph="none" start_char="2631" end_char="2633">the</TOKEN>
+<TOKEN id="token-20-25" pos="word" morph="none" start_char="2635" end_char="2638">fair</TOKEN>
+<TOKEN id="token-20-26" pos="punct" morph="none" start_char="2639" end_char="2639">,</TOKEN>
+<TOKEN id="token-20-27" pos="word" morph="none" start_char="2641" end_char="2647">Troxler</TOKEN>
+<TOKEN id="token-20-28" pos="word" morph="none" start_char="2649" end_char="2652">said</TOKEN>
+<TOKEN id="token-20-29" pos="punct" morph="none" start_char="2653" end_char="2653">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2656" end_char="2682">
+<ORIGINAL_TEXT>"This is not a petting zoo.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="punct" morph="none" start_char="2656" end_char="2656">"</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2657" end_char="2660">This</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="2662" end_char="2663">is</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="2665" end_char="2667">not</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="2669" end_char="2669">a</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="2671" end_char="2677">petting</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="2679" end_char="2681">zoo</TOKEN>
+<TOKEN id="token-21-7" pos="punct" morph="none" start_char="2682" end_char="2682">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2684" end_char="2756">
+<ORIGINAL_TEXT>Animals in this building were never intended for human contact," he said.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="2684" end_char="2690">Animals</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="2692" end_char="2693">in</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="2695" end_char="2698">this</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="2700" end_char="2707">building</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="2709" end_char="2712">were</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="2714" end_char="2718">never</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="2720" end_char="2727">intended</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="2729" end_char="2731">for</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="2733" end_char="2737">human</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="2739" end_char="2745">contact</TOKEN>
+<TOKEN id="token-22-10" pos="punct" morph="none" start_char="2746" end_char="2747">,"</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="2749" end_char="2750">he</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="2752" end_char="2755">said</TOKEN>
+<TOKEN id="token-22-13" pos="punct" morph="none" start_char="2756" end_char="2756">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2759" end_char="3023">
+<ORIGINAL_TEXT>After a 2004 E. coli outbreak in which more than 100 people got sick was linked to a petting zoo at the fair, state officials installed sanitation stations throughout the fairgrounds and erected double fencing to keep people out of bedding areas in the petting zoo.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="2759" end_char="2763">After</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="2765" end_char="2765">a</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="2767" end_char="2770">2004</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="2772" end_char="2772">E</TOKEN>
+<TOKEN id="token-23-4" pos="punct" morph="none" start_char="2773" end_char="2773">.</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="2775" end_char="2778">coli</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="2780" end_char="2787">outbreak</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="2789" end_char="2790">in</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="2792" end_char="2796">which</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="2798" end_char="2801">more</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="2803" end_char="2806">than</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="2808" end_char="2810">100</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="2812" end_char="2817">people</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="2819" end_char="2821">got</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="2823" end_char="2826">sick</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="2828" end_char="2830">was</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="2832" end_char="2837">linked</TOKEN>
+<TOKEN id="token-23-17" pos="word" morph="none" start_char="2839" end_char="2840">to</TOKEN>
+<TOKEN id="token-23-18" pos="word" morph="none" start_char="2842" end_char="2842">a</TOKEN>
+<TOKEN id="token-23-19" pos="word" morph="none" start_char="2844" end_char="2850">petting</TOKEN>
+<TOKEN id="token-23-20" pos="word" morph="none" start_char="2852" end_char="2854">zoo</TOKEN>
+<TOKEN id="token-23-21" pos="word" morph="none" start_char="2856" end_char="2857">at</TOKEN>
+<TOKEN id="token-23-22" pos="word" morph="none" start_char="2859" end_char="2861">the</TOKEN>
+<TOKEN id="token-23-23" pos="word" morph="none" start_char="2863" end_char="2866">fair</TOKEN>
+<TOKEN id="token-23-24" pos="punct" morph="none" start_char="2867" end_char="2867">,</TOKEN>
+<TOKEN id="token-23-25" pos="word" morph="none" start_char="2869" end_char="2873">state</TOKEN>
+<TOKEN id="token-23-26" pos="word" morph="none" start_char="2875" end_char="2883">officials</TOKEN>
+<TOKEN id="token-23-27" pos="word" morph="none" start_char="2885" end_char="2893">installed</TOKEN>
+<TOKEN id="token-23-28" pos="word" morph="none" start_char="2895" end_char="2904">sanitation</TOKEN>
+<TOKEN id="token-23-29" pos="word" morph="none" start_char="2906" end_char="2913">stations</TOKEN>
+<TOKEN id="token-23-30" pos="word" morph="none" start_char="2915" end_char="2924">throughout</TOKEN>
+<TOKEN id="token-23-31" pos="word" morph="none" start_char="2926" end_char="2928">the</TOKEN>
+<TOKEN id="token-23-32" pos="word" morph="none" start_char="2930" end_char="2940">fairgrounds</TOKEN>
+<TOKEN id="token-23-33" pos="word" morph="none" start_char="2942" end_char="2944">and</TOKEN>
+<TOKEN id="token-23-34" pos="word" morph="none" start_char="2946" end_char="2952">erected</TOKEN>
+<TOKEN id="token-23-35" pos="word" morph="none" start_char="2954" end_char="2959">double</TOKEN>
+<TOKEN id="token-23-36" pos="word" morph="none" start_char="2961" end_char="2967">fencing</TOKEN>
+<TOKEN id="token-23-37" pos="word" morph="none" start_char="2969" end_char="2970">to</TOKEN>
+<TOKEN id="token-23-38" pos="word" morph="none" start_char="2972" end_char="2975">keep</TOKEN>
+<TOKEN id="token-23-39" pos="word" morph="none" start_char="2977" end_char="2982">people</TOKEN>
+<TOKEN id="token-23-40" pos="word" morph="none" start_char="2984" end_char="2986">out</TOKEN>
+<TOKEN id="token-23-41" pos="word" morph="none" start_char="2988" end_char="2989">of</TOKEN>
+<TOKEN id="token-23-42" pos="word" morph="none" start_char="2991" end_char="2997">bedding</TOKEN>
+<TOKEN id="token-23-43" pos="word" morph="none" start_char="2999" end_char="3003">areas</TOKEN>
+<TOKEN id="token-23-44" pos="word" morph="none" start_char="3005" end_char="3006">in</TOKEN>
+<TOKEN id="token-23-45" pos="word" morph="none" start_char="3008" end_char="3010">the</TOKEN>
+<TOKEN id="token-23-46" pos="word" morph="none" start_char="3012" end_char="3018">petting</TOKEN>
+<TOKEN id="token-23-47" pos="word" morph="none" start_char="3020" end_char="3022">zoo</TOKEN>
+<TOKEN id="token-23-48" pos="punct" morph="none" start_char="3023" end_char="3023">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="3026" end_char="3102">
+<ORIGINAL_TEXT>"People come to the State Fair with a certain amount of trust," Troxler said.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="punct" morph="none" start_char="3026" end_char="3026">"</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="3027" end_char="3032">People</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="3034" end_char="3037">come</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="3039" end_char="3040">to</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="3042" end_char="3044">the</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="3046" end_char="3050">State</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="3052" end_char="3055">Fair</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="3057" end_char="3060">with</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="3062" end_char="3062">a</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="3064" end_char="3070">certain</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="3072" end_char="3077">amount</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="3079" end_char="3080">of</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="3082" end_char="3086">trust</TOKEN>
+<TOKEN id="token-24-13" pos="punct" morph="none" start_char="3087" end_char="3088">,"</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="3090" end_char="3096">Troxler</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="3098" end_char="3101">said</TOKEN>
+<TOKEN id="token-24-16" pos="punct" morph="none" start_char="3102" end_char="3102">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="3104" end_char="3208">
+<ORIGINAL_TEXT>"We certainly want to keep that trust with the public and be very proactive in doing anything we can do."</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="punct" morph="none" start_char="3104" end_char="3104">"</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="3105" end_char="3106">We</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="3108" end_char="3116">certainly</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="3118" end_char="3121">want</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="3123" end_char="3124">to</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="3126" end_char="3129">keep</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="3131" end_char="3134">that</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="3136" end_char="3140">trust</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="3142" end_char="3145">with</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="3147" end_char="3149">the</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="3151" end_char="3156">public</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="3158" end_char="3160">and</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="3162" end_char="3163">be</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="3165" end_char="3168">very</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="3170" end_char="3178">proactive</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="3180" end_char="3181">in</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="3183" end_char="3187">doing</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="3189" end_char="3196">anything</TOKEN>
+<TOKEN id="token-25-18" pos="word" morph="none" start_char="3198" end_char="3199">we</TOKEN>
+<TOKEN id="token-25-19" pos="word" morph="none" start_char="3201" end_char="3203">can</TOKEN>
+<TOKEN id="token-25-20" pos="word" morph="none" start_char="3205" end_char="3206">do</TOKEN>
+<TOKEN id="token-25-21" pos="punct" morph="none" start_char="3207" end_char="3208">."</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="3211" end_char="3426">
+<ORIGINAL_TEXT>Peter Cowen, who teaches epidemiology and public health at North Carolina State University’s College of Veterinary Medicine, said there is always a risk of E. coli, and every year it causes deaths across the country.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="3211" end_char="3215">Peter</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="3217" end_char="3221">Cowen</TOKEN>
+<TOKEN id="token-26-2" pos="punct" morph="none" start_char="3222" end_char="3222">,</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="3224" end_char="3226">who</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="3228" end_char="3234">teaches</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="3236" end_char="3247">epidemiology</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="3249" end_char="3251">and</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="3253" end_char="3258">public</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="3260" end_char="3265">health</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="3267" end_char="3268">at</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="3270" end_char="3274">North</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="3276" end_char="3283">Carolina</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="3285" end_char="3289">State</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="3291" end_char="3302">University’s</TOKEN>
+<TOKEN id="token-26-14" pos="word" morph="none" start_char="3304" end_char="3310">College</TOKEN>
+<TOKEN id="token-26-15" pos="word" morph="none" start_char="3312" end_char="3313">of</TOKEN>
+<TOKEN id="token-26-16" pos="word" morph="none" start_char="3315" end_char="3324">Veterinary</TOKEN>
+<TOKEN id="token-26-17" pos="word" morph="none" start_char="3326" end_char="3333">Medicine</TOKEN>
+<TOKEN id="token-26-18" pos="punct" morph="none" start_char="3334" end_char="3334">,</TOKEN>
+<TOKEN id="token-26-19" pos="word" morph="none" start_char="3336" end_char="3339">said</TOKEN>
+<TOKEN id="token-26-20" pos="word" morph="none" start_char="3341" end_char="3345">there</TOKEN>
+<TOKEN id="token-26-21" pos="word" morph="none" start_char="3347" end_char="3348">is</TOKEN>
+<TOKEN id="token-26-22" pos="word" morph="none" start_char="3350" end_char="3355">always</TOKEN>
+<TOKEN id="token-26-23" pos="word" morph="none" start_char="3357" end_char="3357">a</TOKEN>
+<TOKEN id="token-26-24" pos="word" morph="none" start_char="3359" end_char="3362">risk</TOKEN>
+<TOKEN id="token-26-25" pos="word" morph="none" start_char="3364" end_char="3365">of</TOKEN>
+<TOKEN id="token-26-26" pos="word" morph="none" start_char="3367" end_char="3367">E</TOKEN>
+<TOKEN id="token-26-27" pos="punct" morph="none" start_char="3368" end_char="3368">.</TOKEN>
+<TOKEN id="token-26-28" pos="word" morph="none" start_char="3370" end_char="3373">coli</TOKEN>
+<TOKEN id="token-26-29" pos="punct" morph="none" start_char="3374" end_char="3374">,</TOKEN>
+<TOKEN id="token-26-30" pos="word" morph="none" start_char="3376" end_char="3378">and</TOKEN>
+<TOKEN id="token-26-31" pos="word" morph="none" start_char="3380" end_char="3384">every</TOKEN>
+<TOKEN id="token-26-32" pos="word" morph="none" start_char="3386" end_char="3389">year</TOKEN>
+<TOKEN id="token-26-33" pos="word" morph="none" start_char="3391" end_char="3392">it</TOKEN>
+<TOKEN id="token-26-34" pos="word" morph="none" start_char="3394" end_char="3399">causes</TOKEN>
+<TOKEN id="token-26-35" pos="word" morph="none" start_char="3401" end_char="3406">deaths</TOKEN>
+<TOKEN id="token-26-36" pos="word" morph="none" start_char="3408" end_char="3413">across</TOKEN>
+<TOKEN id="token-26-37" pos="word" morph="none" start_char="3415" end_char="3417">the</TOKEN>
+<TOKEN id="token-26-38" pos="word" morph="none" start_char="3419" end_char="3425">country</TOKEN>
+<TOKEN id="token-26-39" pos="punct" morph="none" start_char="3426" end_char="3426">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="3429" end_char="3499">
+<ORIGINAL_TEXT>The key to cutting the risk of getting E. coli is handwashing, he said.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="3429" end_char="3431">The</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="3433" end_char="3435">key</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="3437" end_char="3438">to</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="3440" end_char="3446">cutting</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="3448" end_char="3450">the</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="3452" end_char="3455">risk</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="3457" end_char="3458">of</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="3460" end_char="3466">getting</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="3468" end_char="3468">E</TOKEN>
+<TOKEN id="token-27-9" pos="punct" morph="none" start_char="3469" end_char="3469">.</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="3471" end_char="3474">coli</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="3476" end_char="3477">is</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="3479" end_char="3489">handwashing</TOKEN>
+<TOKEN id="token-27-13" pos="punct" morph="none" start_char="3490" end_char="3490">,</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="3492" end_char="3493">he</TOKEN>
+<TOKEN id="token-27-15" pos="word" morph="none" start_char="3495" end_char="3498">said</TOKEN>
+<TOKEN id="token-27-16" pos="punct" morph="none" start_char="3499" end_char="3499">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="3502" end_char="3566">
+<ORIGINAL_TEXT>"You can’t slip, otherwise you could end up exposed," Cowen said.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="punct" morph="none" start_char="3502" end_char="3502">"</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="3503" end_char="3505">You</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="3507" end_char="3511">can’t</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="3513" end_char="3516">slip</TOKEN>
+<TOKEN id="token-28-4" pos="punct" morph="none" start_char="3517" end_char="3517">,</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="3519" end_char="3527">otherwise</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="3529" end_char="3531">you</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="3533" end_char="3537">could</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="3539" end_char="3541">end</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="3543" end_char="3544">up</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="3546" end_char="3552">exposed</TOKEN>
+<TOKEN id="token-28-11" pos="punct" morph="none" start_char="3553" end_char="3554">,"</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="3556" end_char="3560">Cowen</TOKEN>
+<TOKEN id="token-28-13" pos="word" morph="none" start_char="3562" end_char="3565">said</TOKEN>
+<TOKEN id="token-28-14" pos="punct" morph="none" start_char="3566" end_char="3566">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="3570" end_char="3581">
+<ORIGINAL_TEXT>More On This</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="3570" end_char="3573">More</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="3575" end_char="3576">On</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="3578" end_char="3581">This</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

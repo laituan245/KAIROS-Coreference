@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng"><DOC id="L0C04CW6C" lang="eng" tokenization="unknown" grammar="none" raw_text_char_length="2178" raw_text_md5="unknown">
+<TEXT>
+<SEG id="L0C04CW6C-0" start_char="1" end_char="183">
+  <ORIGINAL_TEXT>During the fire that occurred on the night of Friday June 11 in a lumber and packaging company in Ciudad Ju&#225;rez, Humberto thought that his parents' house was being consumed by flames.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-0-0" pos="word" morph="none" start_char="1" end_char="6">During</TOKEN>
+  <TOKEN id="L0C04CW6C-0-1" pos="word" morph="none" start_char="8" end_char="10">the</TOKEN>
+  <TOKEN id="L0C04CW6C-0-2" pos="word" morph="none" start_char="12" end_char="15">fire</TOKEN>
+  <TOKEN id="L0C04CW6C-0-3" pos="word" morph="none" start_char="17" end_char="20">that</TOKEN>
+  <TOKEN id="L0C04CW6C-0-4" pos="word" morph="none" start_char="22" end_char="29">occurred</TOKEN>
+  <TOKEN id="L0C04CW6C-0-5" pos="word" morph="none" start_char="31" end_char="32">on</TOKEN>
+  <TOKEN id="L0C04CW6C-0-6" pos="word" morph="none" start_char="34" end_char="36">the</TOKEN>
+  <TOKEN id="L0C04CW6C-0-7" pos="word" morph="none" start_char="38" end_char="42">night</TOKEN>
+  <TOKEN id="L0C04CW6C-0-8" pos="word" morph="none" start_char="44" end_char="45">of</TOKEN>
+  <TOKEN id="L0C04CW6C-0-9" pos="word" morph="none" start_char="47" end_char="52">Friday</TOKEN>
+  <TOKEN id="L0C04CW6C-0-10" pos="word" morph="none" start_char="54" end_char="57">June</TOKEN>
+  <TOKEN id="L0C04CW6C-0-11" pos="word" morph="none" start_char="59" end_char="60">11</TOKEN>
+  <TOKEN id="L0C04CW6C-0-12" pos="word" morph="none" start_char="62" end_char="63">in</TOKEN>
+  <TOKEN id="L0C04CW6C-0-13" pos="word" morph="none" start_char="65" end_char="65">a</TOKEN>
+  <TOKEN id="L0C04CW6C-0-14" pos="word" morph="none" start_char="67" end_char="72">lumber</TOKEN>
+  <TOKEN id="L0C04CW6C-0-15" pos="word" morph="none" start_char="74" end_char="76">and</TOKEN>
+  <TOKEN id="L0C04CW6C-0-16" pos="word" morph="none" start_char="78" end_char="86">packaging</TOKEN>
+  <TOKEN id="L0C04CW6C-0-17" pos="word" morph="none" start_char="88" end_char="94">company</TOKEN>
+  <TOKEN id="L0C04CW6C-0-18" pos="word" morph="none" start_char="96" end_char="97">in</TOKEN>
+  <TOKEN id="L0C04CW6C-0-19" pos="word" morph="none" start_char="99" end_char="104">Ciudad</TOKEN>
+  <TOKEN id="L0C04CW6C-0-20" pos="word" morph="none" start_char="106" end_char="111">Ju&#225;rez</TOKEN>
+  <TOKEN id="L0C04CW6C-0-21" pos="word" morph="none" start_char="112" end_char="112">,</TOKEN>
+  <TOKEN id="L0C04CW6C-0-22" pos="word" morph="none" start_char="114" end_char="121">Humberto</TOKEN>
+  <TOKEN id="L0C04CW6C-0-23" pos="word" morph="none" start_char="123" end_char="129">thought</TOKEN>
+  <TOKEN id="L0C04CW6C-0-24" pos="word" morph="none" start_char="131" end_char="134">that</TOKEN>
+  <TOKEN id="L0C04CW6C-0-25" pos="word" morph="none" start_char="136" end_char="138">his</TOKEN>
+  <TOKEN id="L0C04CW6C-0-26" pos="word" morph="none" start_char="140" end_char="146">parents</TOKEN>
+  <TOKEN id="L0C04CW6C-0-27" pos="word" morph="none" start_char="147" end_char="147">'</TOKEN>
+  <TOKEN id="L0C04CW6C-0-28" pos="word" morph="none" start_char="149" end_char="153">house</TOKEN>
+  <TOKEN id="L0C04CW6C-0-29" pos="word" morph="none" start_char="155" end_char="157">was</TOKEN>
+  <TOKEN id="L0C04CW6C-0-30" pos="word" morph="none" start_char="159" end_char="163">being</TOKEN>
+  <TOKEN id="L0C04CW6C-0-31" pos="word" morph="none" start_char="165" end_char="172">consumed</TOKEN>
+  <TOKEN id="L0C04CW6C-0-32" pos="word" morph="none" start_char="174" end_char="175">by</TOKEN>
+  <TOKEN id="L0C04CW6C-0-33" pos="word" morph="none" start_char="177" end_char="182">flames</TOKEN>
+  <TOKEN id="L0C04CW6C-0-34" pos="word" morph="none" start_char="183" end_char="183">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-1" start_char="186" end_char="233">
+  <ORIGINAL_TEXT>In a report he spoke to me and a lot to the man.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-1-0" pos="word" morph="none" start_char="186" end_char="187">In</TOKEN>
+  <TOKEN id="L0C04CW6C-1-1" pos="word" morph="none" start_char="189" end_char="189">a</TOKEN>
+  <TOKEN id="L0C04CW6C-1-2" pos="word" morph="none" start_char="191" end_char="196">report</TOKEN>
+  <TOKEN id="L0C04CW6C-1-3" pos="word" morph="none" start_char="198" end_char="199">he</TOKEN>
+  <TOKEN id="L0C04CW6C-1-4" pos="word" morph="none" start_char="201" end_char="205">spoke</TOKEN>
+  <TOKEN id="L0C04CW6C-1-5" pos="word" morph="none" start_char="207" end_char="208">to</TOKEN>
+  <TOKEN id="L0C04CW6C-1-6" pos="word" morph="none" start_char="210" end_char="211">me</TOKEN>
+  <TOKEN id="L0C04CW6C-1-7" pos="word" morph="none" start_char="213" end_char="215">and</TOKEN>
+  <TOKEN id="L0C04CW6C-1-8" pos="word" morph="none" start_char="217" end_char="217">a</TOKEN>
+  <TOKEN id="L0C04CW6C-1-9" pos="word" morph="none" start_char="219" end_char="221">lot</TOKEN>
+  <TOKEN id="L0C04CW6C-1-10" pos="word" morph="none" start_char="223" end_char="224">to</TOKEN>
+  <TOKEN id="L0C04CW6C-1-11" pos="word" morph="none" start_char="226" end_char="228">the</TOKEN>
+  <TOKEN id="L0C04CW6C-1-12" pos="word" morph="none" start_char="230" end_char="232">man</TOKEN>
+  <TOKEN id="L0C04CW6C-1-13" pos="word" morph="none" start_char="233" end_char="233">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-2" start_char="236" end_char="380">
+  <ORIGINAL_TEXT>I know everything because they put out the dogs, the i- and measure my pace and yes, they managed to get their family out on time and everything.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-2-0" pos="word" morph="none" start_char="236" end_char="236">I</TOKEN>
+  <TOKEN id="L0C04CW6C-2-1" pos="word" morph="none" start_char="238" end_char="241">know</TOKEN>
+  <TOKEN id="L0C04CW6C-2-2" pos="word" morph="none" start_char="243" end_char="252">everything</TOKEN>
+  <TOKEN id="L0C04CW6C-2-3" pos="word" morph="none" start_char="254" end_char="260">because</TOKEN>
+  <TOKEN id="L0C04CW6C-2-4" pos="word" morph="none" start_char="262" end_char="265">they</TOKEN>
+  <TOKEN id="L0C04CW6C-2-5" pos="word" morph="none" start_char="267" end_char="269">put</TOKEN>
+  <TOKEN id="L0C04CW6C-2-6" pos="word" morph="none" start_char="271" end_char="273">out</TOKEN>
+  <TOKEN id="L0C04CW6C-2-7" pos="word" morph="none" start_char="275" end_char="277">the</TOKEN>
+  <TOKEN id="L0C04CW6C-2-8" pos="word" morph="none" start_char="279" end_char="282">dogs</TOKEN>
+  <TOKEN id="L0C04CW6C-2-9" pos="word" morph="none" start_char="283" end_char="283">,</TOKEN>
+  <TOKEN id="L0C04CW6C-2-10" pos="word" morph="none" start_char="285" end_char="287">the</TOKEN>
+  <TOKEN id="L0C04CW6C-2-11" pos="word" morph="none" start_char="289" end_char="290">i-</TOKEN>
+  <TOKEN id="L0C04CW6C-2-12" pos="word" morph="none" start_char="292" end_char="294">and</TOKEN>
+  <TOKEN id="L0C04CW6C-2-13" pos="word" morph="none" start_char="296" end_char="302">measure</TOKEN>
+  <TOKEN id="L0C04CW6C-2-14" pos="word" morph="none" start_char="304" end_char="305">my</TOKEN>
+  <TOKEN id="L0C04CW6C-2-15" pos="word" morph="none" start_char="307" end_char="310">pace</TOKEN>
+  <TOKEN id="L0C04CW6C-2-16" pos="word" morph="none" start_char="312" end_char="314">and</TOKEN>
+  <TOKEN id="L0C04CW6C-2-17" pos="word" morph="none" start_char="316" end_char="318">yes</TOKEN>
+  <TOKEN id="L0C04CW6C-2-18" pos="word" morph="none" start_char="319" end_char="319">,</TOKEN>
+  <TOKEN id="L0C04CW6C-2-19" pos="word" morph="none" start_char="321" end_char="324">they</TOKEN>
+  <TOKEN id="L0C04CW6C-2-20" pos="word" morph="none" start_char="326" end_char="332">managed</TOKEN>
+  <TOKEN id="L0C04CW6C-2-21" pos="word" morph="none" start_char="334" end_char="335">to</TOKEN>
+  <TOKEN id="L0C04CW6C-2-22" pos="word" morph="none" start_char="337" end_char="339">get</TOKEN>
+  <TOKEN id="L0C04CW6C-2-23" pos="word" morph="none" start_char="341" end_char="345">their</TOKEN>
+  <TOKEN id="L0C04CW6C-2-24" pos="word" morph="none" start_char="347" end_char="352">family</TOKEN>
+  <TOKEN id="L0C04CW6C-2-25" pos="word" morph="none" start_char="354" end_char="356">out</TOKEN>
+  <TOKEN id="L0C04CW6C-2-26" pos="word" morph="none" start_char="358" end_char="359">on</TOKEN>
+  <TOKEN id="L0C04CW6C-2-27" pos="word" morph="none" start_char="361" end_char="364">time</TOKEN>
+  <TOKEN id="L0C04CW6C-2-28" pos="word" morph="none" start_char="366" end_char="368">and</TOKEN>
+  <TOKEN id="L0C04CW6C-2-29" pos="word" morph="none" start_char="370" end_char="379">everything</TOKEN>
+  <TOKEN id="L0C04CW6C-2-30" pos="word" morph="none" start_char="380" end_char="380">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-3" start_char="383" end_char="459">
+  <ORIGINAL_TEXT>Everyone's going to be screaming and for this it's okay The loss of La Hague.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-3-0" pos="word" morph="none" start_char="383" end_char="390">Everyone</TOKEN>
+  <TOKEN id="L0C04CW6C-3-1" pos="word" morph="none" start_char="391" end_char="392">'s</TOKEN>
+  <TOKEN id="L0C04CW6C-3-2" pos="word" morph="none" start_char="394" end_char="398">going</TOKEN>
+  <TOKEN id="L0C04CW6C-3-3" pos="word" morph="none" start_char="400" end_char="401">to</TOKEN>
+  <TOKEN id="L0C04CW6C-3-4" pos="word" morph="none" start_char="403" end_char="404">be</TOKEN>
+  <TOKEN id="L0C04CW6C-3-5" pos="word" morph="none" start_char="406" end_char="414">screaming</TOKEN>
+  <TOKEN id="L0C04CW6C-3-6" pos="word" morph="none" start_char="416" end_char="418">and</TOKEN>
+  <TOKEN id="L0C04CW6C-3-7" pos="word" morph="none" start_char="420" end_char="422">for</TOKEN>
+  <TOKEN id="L0C04CW6C-3-8" pos="word" morph="none" start_char="424" end_char="427">this</TOKEN>
+  <TOKEN id="L0C04CW6C-3-9" pos="word" morph="none" start_char="429" end_char="430">it</TOKEN>
+  <TOKEN id="L0C04CW6C-3-10" pos="word" morph="none" start_char="431" end_char="432">'s</TOKEN>
+  <TOKEN id="L0C04CW6C-3-11" pos="word" morph="none" start_char="434" end_char="437">okay</TOKEN>
+  <TOKEN id="L0C04CW6C-3-12" pos="word" morph="none" start_char="439" end_char="441">The</TOKEN>
+  <TOKEN id="L0C04CW6C-3-13" pos="word" morph="none" start_char="443" end_char="446">loss</TOKEN>
+  <TOKEN id="L0C04CW6C-3-14" pos="word" morph="none" start_char="448" end_char="449">of</TOKEN>
+  <TOKEN id="L0C04CW6C-3-15" pos="word" morph="none" start_char="451" end_char="452">La</TOKEN>
+  <TOKEN id="L0C04CW6C-3-16" pos="word" morph="none" start_char="454" end_char="458">Hague</TOKEN>
+  <TOKEN id="L0C04CW6C-3-17" pos="word" morph="none" start_char="459" end_char="459">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-4" start_char="462" end_char="692">
+  <ORIGINAL_TEXT>The house is located a few meters from where the firefighters were fighting the fire on Reforma Avenue. The fire seemed unstoppable and the firefighters had to raise the roofs of the surrounding houses to prevent it from spreading.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-4-0" pos="word" morph="none" start_char="462" end_char="464">The</TOKEN>
+  <TOKEN id="L0C04CW6C-4-1" pos="word" morph="none" start_char="466" end_char="470">house</TOKEN>
+  <TOKEN id="L0C04CW6C-4-2" pos="word" morph="none" start_char="472" end_char="473">is</TOKEN>
+  <TOKEN id="L0C04CW6C-4-3" pos="word" morph="none" start_char="475" end_char="481">located</TOKEN>
+  <TOKEN id="L0C04CW6C-4-4" pos="word" morph="none" start_char="483" end_char="483">a</TOKEN>
+  <TOKEN id="L0C04CW6C-4-5" pos="word" morph="none" start_char="485" end_char="487">few</TOKEN>
+  <TOKEN id="L0C04CW6C-4-6" pos="word" morph="none" start_char="489" end_char="494">meters</TOKEN>
+  <TOKEN id="L0C04CW6C-4-7" pos="word" morph="none" start_char="496" end_char="499">from</TOKEN>
+  <TOKEN id="L0C04CW6C-4-8" pos="word" morph="none" start_char="501" end_char="505">where</TOKEN>
+  <TOKEN id="L0C04CW6C-4-9" pos="word" morph="none" start_char="507" end_char="509">the</TOKEN>
+  <TOKEN id="L0C04CW6C-4-10" pos="word" morph="none" start_char="511" end_char="522">firefighters</TOKEN>
+  <TOKEN id="L0C04CW6C-4-11" pos="word" morph="none" start_char="524" end_char="527">were</TOKEN>
+  <TOKEN id="L0C04CW6C-4-12" pos="word" morph="none" start_char="529" end_char="536">fighting</TOKEN>
+  <TOKEN id="L0C04CW6C-4-13" pos="word" morph="none" start_char="538" end_char="540">the</TOKEN>
+  <TOKEN id="L0C04CW6C-4-14" pos="word" morph="none" start_char="542" end_char="545">fire</TOKEN>
+  <TOKEN id="L0C04CW6C-4-15" pos="word" morph="none" start_char="547" end_char="548">on</TOKEN>
+  <TOKEN id="L0C04CW6C-4-16" pos="word" morph="none" start_char="550" end_char="556">Reforma</TOKEN>
+  <TOKEN id="L0C04CW6C-4-17" pos="word" morph="none" start_char="558" end_char="563">Avenue</TOKEN>
+  <TOKEN id="L0C04CW6C-4-18" pos="word" morph="none" start_char="564" end_char="564">.</TOKEN>
+  <TOKEN id="L0C04CW6C-4-19" pos="word" morph="none" start_char="566" end_char="568">The</TOKEN>
+  <TOKEN id="L0C04CW6C-4-20" pos="word" morph="none" start_char="570" end_char="573">fire</TOKEN>
+  <TOKEN id="L0C04CW6C-4-21" pos="word" morph="none" start_char="575" end_char="580">seemed</TOKEN>
+  <TOKEN id="L0C04CW6C-4-22" pos="word" morph="none" start_char="582" end_char="592">unstoppable</TOKEN>
+  <TOKEN id="L0C04CW6C-4-23" pos="word" morph="none" start_char="594" end_char="596">and</TOKEN>
+  <TOKEN id="L0C04CW6C-4-24" pos="word" morph="none" start_char="598" end_char="600">the</TOKEN>
+  <TOKEN id="L0C04CW6C-4-25" pos="word" morph="none" start_char="602" end_char="613">firefighters</TOKEN>
+  <TOKEN id="L0C04CW6C-4-26" pos="word" morph="none" start_char="615" end_char="617">had</TOKEN>
+  <TOKEN id="L0C04CW6C-4-27" pos="word" morph="none" start_char="619" end_char="620">to</TOKEN>
+  <TOKEN id="L0C04CW6C-4-28" pos="word" morph="none" start_char="622" end_char="626">raise</TOKEN>
+  <TOKEN id="L0C04CW6C-4-29" pos="word" morph="none" start_char="628" end_char="630">the</TOKEN>
+  <TOKEN id="L0C04CW6C-4-30" pos="word" morph="none" start_char="632" end_char="636">roofs</TOKEN>
+  <TOKEN id="L0C04CW6C-4-31" pos="word" morph="none" start_char="638" end_char="639">of</TOKEN>
+  <TOKEN id="L0C04CW6C-4-32" pos="word" morph="none" start_char="641" end_char="643">the</TOKEN>
+  <TOKEN id="L0C04CW6C-4-33" pos="word" morph="none" start_char="645" end_char="655">surrounding</TOKEN>
+  <TOKEN id="L0C04CW6C-4-34" pos="word" morph="none" start_char="657" end_char="662">houses</TOKEN>
+  <TOKEN id="L0C04CW6C-4-35" pos="word" morph="none" start_char="664" end_char="665">to</TOKEN>
+  <TOKEN id="L0C04CW6C-4-36" pos="word" morph="none" start_char="667" end_char="673">prevent</TOKEN>
+  <TOKEN id="L0C04CW6C-4-37" pos="word" morph="none" start_char="675" end_char="676">it</TOKEN>
+  <TOKEN id="L0C04CW6C-4-38" pos="word" morph="none" start_char="678" end_char="681">from</TOKEN>
+  <TOKEN id="L0C04CW6C-4-39" pos="word" morph="none" start_char="683" end_char="691">spreading</TOKEN>
+  <TOKEN id="L0C04CW6C-4-40" pos="word" morph="none" start_char="692" end_char="692">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-5" start_char="695" end_char="744">
+  <ORIGINAL_TEXT>There are the firefighters on the roof of a house.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-5-0" pos="word" morph="none" start_char="695" end_char="699">There</TOKEN>
+  <TOKEN id="L0C04CW6C-5-1" pos="word" morph="none" start_char="701" end_char="703">are</TOKEN>
+  <TOKEN id="L0C04CW6C-5-2" pos="word" morph="none" start_char="705" end_char="707">the</TOKEN>
+  <TOKEN id="L0C04CW6C-5-3" pos="word" morph="none" start_char="709" end_char="720">firefighters</TOKEN>
+  <TOKEN id="L0C04CW6C-5-4" pos="word" morph="none" start_char="722" end_char="723">on</TOKEN>
+  <TOKEN id="L0C04CW6C-5-5" pos="word" morph="none" start_char="725" end_char="727">the</TOKEN>
+  <TOKEN id="L0C04CW6C-5-6" pos="word" morph="none" start_char="729" end_char="732">roof</TOKEN>
+  <TOKEN id="L0C04CW6C-5-7" pos="word" morph="none" start_char="734" end_char="735">of</TOKEN>
+  <TOKEN id="L0C04CW6C-5-8" pos="word" morph="none" start_char="737" end_char="737">a</TOKEN>
+  <TOKEN id="L0C04CW6C-5-9" pos="word" morph="none" start_char="739" end_char="743">house</TOKEN>
+  <TOKEN id="L0C04CW6C-5-10" pos="word" morph="none" start_char="744" end_char="744">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-6" start_char="747" end_char="780">
+  <ORIGINAL_TEXT>They are very close to the flames.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-6-0" pos="word" morph="none" start_char="747" end_char="750">They</TOKEN>
+  <TOKEN id="L0C04CW6C-6-1" pos="word" morph="none" start_char="752" end_char="754">are</TOKEN>
+  <TOKEN id="L0C04CW6C-6-2" pos="word" morph="none" start_char="756" end_char="759">very</TOKEN>
+  <TOKEN id="L0C04CW6C-6-3" pos="word" morph="none" start_char="761" end_char="765">close</TOKEN>
+  <TOKEN id="L0C04CW6C-6-4" pos="word" morph="none" start_char="767" end_char="768">to</TOKEN>
+  <TOKEN id="L0C04CW6C-6-5" pos="word" morph="none" start_char="770" end_char="772">the</TOKEN>
+  <TOKEN id="L0C04CW6C-6-6" pos="word" morph="none" start_char="774" end_char="779">flames</TOKEN>
+  <TOKEN id="L0C04CW6C-6-7" pos="word" morph="none" start_char="780" end_char="780">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-7" start_char="783" end_char="853">
+  <ORIGINAL_TEXT>Explosions continue to be heard and an explosion is heard again. Three.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-7-0" pos="word" morph="none" start_char="783" end_char="792">Explosions</TOKEN>
+  <TOKEN id="L0C04CW6C-7-1" pos="word" morph="none" start_char="794" end_char="801">continue</TOKEN>
+  <TOKEN id="L0C04CW6C-7-2" pos="word" morph="none" start_char="803" end_char="804">to</TOKEN>
+  <TOKEN id="L0C04CW6C-7-3" pos="word" morph="none" start_char="806" end_char="807">be</TOKEN>
+  <TOKEN id="L0C04CW6C-7-4" pos="word" morph="none" start_char="809" end_char="813">heard</TOKEN>
+  <TOKEN id="L0C04CW6C-7-5" pos="word" morph="none" start_char="815" end_char="817">and</TOKEN>
+  <TOKEN id="L0C04CW6C-7-6" pos="word" morph="none" start_char="819" end_char="820">an</TOKEN>
+  <TOKEN id="L0C04CW6C-7-7" pos="word" morph="none" start_char="822" end_char="830">explosion</TOKEN>
+  <TOKEN id="L0C04CW6C-7-8" pos="word" morph="none" start_char="832" end_char="833">is</TOKEN>
+  <TOKEN id="L0C04CW6C-7-9" pos="word" morph="none" start_char="835" end_char="839">heard</TOKEN>
+  <TOKEN id="L0C04CW6C-7-10" pos="word" morph="none" start_char="841" end_char="845">again</TOKEN>
+  <TOKEN id="L0C04CW6C-7-11" pos="word" morph="none" start_char="846" end_char="846">.</TOKEN>
+  <TOKEN id="L0C04CW6C-7-12" pos="word" morph="none" start_char="848" end_char="852">Three</TOKEN>
+  <TOKEN id="L0C04CW6C-7-13" pos="word" morph="none" start_char="853" end_char="853">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-8" start_char="856" end_char="902">
+  <ORIGINAL_TEXT>Days after the incident, the picture was bleak.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-8-0" pos="word" morph="none" start_char="856" end_char="859">Days</TOKEN>
+  <TOKEN id="L0C04CW6C-8-1" pos="word" morph="none" start_char="861" end_char="865">after</TOKEN>
+  <TOKEN id="L0C04CW6C-8-2" pos="word" morph="none" start_char="867" end_char="869">the</TOKEN>
+  <TOKEN id="L0C04CW6C-8-3" pos="word" morph="none" start_char="871" end_char="878">incident</TOKEN>
+  <TOKEN id="L0C04CW6C-8-4" pos="word" morph="none" start_char="879" end_char="879">,</TOKEN>
+  <TOKEN id="L0C04CW6C-8-5" pos="word" morph="none" start_char="881" end_char="883">the</TOKEN>
+  <TOKEN id="L0C04CW6C-8-6" pos="word" morph="none" start_char="885" end_char="891">picture</TOKEN>
+  <TOKEN id="L0C04CW6C-8-7" pos="word" morph="none" start_char="893" end_char="895">was</TOKEN>
+  <TOKEN id="L0C04CW6C-8-8" pos="word" morph="none" start_char="897" end_char="901">bleak</TOKEN>
+  <TOKEN id="L0C04CW6C-8-9" pos="word" morph="none" start_char="902" end_char="902">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-9" start_char="905" end_char="1004">
+  <ORIGINAL_TEXT>The entire pallet factory was consumed by flames, including vehicles and machinery that were inside.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-9-0" pos="word" morph="none" start_char="905" end_char="907">The</TOKEN>
+  <TOKEN id="L0C04CW6C-9-1" pos="word" morph="none" start_char="909" end_char="914">entire</TOKEN>
+  <TOKEN id="L0C04CW6C-9-2" pos="word" morph="none" start_char="916" end_char="921">pallet</TOKEN>
+  <TOKEN id="L0C04CW6C-9-3" pos="word" morph="none" start_char="923" end_char="929">factory</TOKEN>
+  <TOKEN id="L0C04CW6C-9-4" pos="word" morph="none" start_char="931" end_char="933">was</TOKEN>
+  <TOKEN id="L0C04CW6C-9-5" pos="word" morph="none" start_char="935" end_char="942">consumed</TOKEN>
+  <TOKEN id="L0C04CW6C-9-6" pos="word" morph="none" start_char="944" end_char="945">by</TOKEN>
+  <TOKEN id="L0C04CW6C-9-7" pos="word" morph="none" start_char="947" end_char="952">flames</TOKEN>
+  <TOKEN id="L0C04CW6C-9-8" pos="word" morph="none" start_char="953" end_char="953">,</TOKEN>
+  <TOKEN id="L0C04CW6C-9-9" pos="word" morph="none" start_char="955" end_char="963">including</TOKEN>
+  <TOKEN id="L0C04CW6C-9-10" pos="word" morph="none" start_char="965" end_char="972">vehicles</TOKEN>
+  <TOKEN id="L0C04CW6C-9-11" pos="word" morph="none" start_char="974" end_char="976">and</TOKEN>
+  <TOKEN id="L0C04CW6C-9-12" pos="word" morph="none" start_char="978" end_char="986">machinery</TOKEN>
+  <TOKEN id="L0C04CW6C-9-13" pos="word" morph="none" start_char="988" end_char="991">that</TOKEN>
+  <TOKEN id="L0C04CW6C-9-14" pos="word" morph="none" start_char="993" end_char="996">were</TOKEN>
+  <TOKEN id="L0C04CW6C-9-15" pos="word" morph="none" start_char="998" end_char="1003">inside</TOKEN>
+  <TOKEN id="L0C04CW6C-9-16" pos="word" morph="none" start_char="1004" end_char="1004">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-10" start_char="1007" end_char="1084">
+  <ORIGINAL_TEXT>But thanks to the work of the firefighters, the fire did not reach the houses.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-10-0" pos="word" morph="none" start_char="1007" end_char="1009">But</TOKEN>
+  <TOKEN id="L0C04CW6C-10-1" pos="word" morph="none" start_char="1011" end_char="1016">thanks</TOKEN>
+  <TOKEN id="L0C04CW6C-10-2" pos="word" morph="none" start_char="1018" end_char="1019">to</TOKEN>
+  <TOKEN id="L0C04CW6C-10-3" pos="word" morph="none" start_char="1021" end_char="1023">the</TOKEN>
+  <TOKEN id="L0C04CW6C-10-4" pos="word" morph="none" start_char="1025" end_char="1028">work</TOKEN>
+  <TOKEN id="L0C04CW6C-10-5" pos="word" morph="none" start_char="1030" end_char="1031">of</TOKEN>
+  <TOKEN id="L0C04CW6C-10-6" pos="word" morph="none" start_char="1033" end_char="1035">the</TOKEN>
+  <TOKEN id="L0C04CW6C-10-7" pos="word" morph="none" start_char="1037" end_char="1048">firefighters</TOKEN>
+  <TOKEN id="L0C04CW6C-10-8" pos="word" morph="none" start_char="1049" end_char="1049">,</TOKEN>
+  <TOKEN id="L0C04CW6C-10-9" pos="word" morph="none" start_char="1051" end_char="1053">the</TOKEN>
+  <TOKEN id="L0C04CW6C-10-10" pos="word" morph="none" start_char="1055" end_char="1058">fire</TOKEN>
+  <TOKEN id="L0C04CW6C-10-11" pos="word" morph="none" start_char="1060" end_char="1062">did</TOKEN>
+  <TOKEN id="L0C04CW6C-10-12" pos="word" morph="none" start_char="1064" end_char="1066">not</TOKEN>
+  <TOKEN id="L0C04CW6C-10-13" pos="word" morph="none" start_char="1068" end_char="1072">reach</TOKEN>
+  <TOKEN id="L0C04CW6C-10-14" pos="word" morph="none" start_char="1074" end_char="1076">the</TOKEN>
+  <TOKEN id="L0C04CW6C-10-15" pos="word" morph="none" start_char="1078" end_char="1083">houses</TOKEN>
+  <TOKEN id="L0C04CW6C-10-16" pos="word" morph="none" start_char="1084" end_char="1084">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-11" start_char="1087" end_char="1320">
+  <ORIGINAL_TEXT>They adjusted here and increased the water to defend the house, since this year EFE she had nothing that there was or due to damages where the numbers were provided, she has Yes, they went up to those who did not, it is not a problem.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-11-0" pos="word" morph="none" start_char="1087" end_char="1090">They</TOKEN>
+  <TOKEN id="L0C04CW6C-11-1" pos="word" morph="none" start_char="1092" end_char="1099">adjusted</TOKEN>
+  <TOKEN id="L0C04CW6C-11-2" pos="word" morph="none" start_char="1101" end_char="1104">here</TOKEN>
+  <TOKEN id="L0C04CW6C-11-3" pos="word" morph="none" start_char="1106" end_char="1108">and</TOKEN>
+  <TOKEN id="L0C04CW6C-11-4" pos="word" morph="none" start_char="1110" end_char="1118">increased</TOKEN>
+  <TOKEN id="L0C04CW6C-11-5" pos="word" morph="none" start_char="1120" end_char="1122">the</TOKEN>
+  <TOKEN id="L0C04CW6C-11-6" pos="word" morph="none" start_char="1124" end_char="1128">water</TOKEN>
+  <TOKEN id="L0C04CW6C-11-7" pos="word" morph="none" start_char="1130" end_char="1131">to</TOKEN>
+  <TOKEN id="L0C04CW6C-11-8" pos="word" morph="none" start_char="1133" end_char="1138">defend</TOKEN>
+  <TOKEN id="L0C04CW6C-11-9" pos="word" morph="none" start_char="1140" end_char="1142">the</TOKEN>
+  <TOKEN id="L0C04CW6C-11-10" pos="word" morph="none" start_char="1144" end_char="1148">house</TOKEN>
+  <TOKEN id="L0C04CW6C-11-11" pos="word" morph="none" start_char="1149" end_char="1149">,</TOKEN>
+  <TOKEN id="L0C04CW6C-11-12" pos="word" morph="none" start_char="1151" end_char="1155">since</TOKEN>
+  <TOKEN id="L0C04CW6C-11-13" pos="word" morph="none" start_char="1157" end_char="1160">this</TOKEN>
+  <TOKEN id="L0C04CW6C-11-14" pos="word" morph="none" start_char="1162" end_char="1165">year</TOKEN>
+  <TOKEN id="L0C04CW6C-11-15" pos="word" morph="none" start_char="1167" end_char="1169">EFE</TOKEN>
+  <TOKEN id="L0C04CW6C-11-16" pos="word" morph="none" start_char="1171" end_char="1173">she</TOKEN>
+  <TOKEN id="L0C04CW6C-11-17" pos="word" morph="none" start_char="1175" end_char="1177">had</TOKEN>
+  <TOKEN id="L0C04CW6C-11-18" pos="word" morph="none" start_char="1179" end_char="1185">nothing</TOKEN>
+  <TOKEN id="L0C04CW6C-11-19" pos="word" morph="none" start_char="1187" end_char="1190">that</TOKEN>
+  <TOKEN id="L0C04CW6C-11-20" pos="word" morph="none" start_char="1192" end_char="1196">there</TOKEN>
+  <TOKEN id="L0C04CW6C-11-21" pos="word" morph="none" start_char="1198" end_char="1200">was</TOKEN>
+  <TOKEN id="L0C04CW6C-11-22" pos="word" morph="none" start_char="1202" end_char="1203">or</TOKEN>
+  <TOKEN id="L0C04CW6C-11-23" pos="word" morph="none" start_char="1205" end_char="1207">due</TOKEN>
+  <TOKEN id="L0C04CW6C-11-24" pos="word" morph="none" start_char="1209" end_char="1210">to</TOKEN>
+  <TOKEN id="L0C04CW6C-11-25" pos="word" morph="none" start_char="1212" end_char="1218">damages</TOKEN>
+  <TOKEN id="L0C04CW6C-11-26" pos="word" morph="none" start_char="1220" end_char="1224">where</TOKEN>
+  <TOKEN id="L0C04CW6C-11-27" pos="word" morph="none" start_char="1226" end_char="1228">the</TOKEN>
+  <TOKEN id="L0C04CW6C-11-28" pos="word" morph="none" start_char="1230" end_char="1236">numbers</TOKEN>
+  <TOKEN id="L0C04CW6C-11-29" pos="word" morph="none" start_char="1238" end_char="1241">were</TOKEN>
+  <TOKEN id="L0C04CW6C-11-30" pos="word" morph="none" start_char="1243" end_char="1250">provided</TOKEN>
+  <TOKEN id="L0C04CW6C-11-31" pos="word" morph="none" start_char="1251" end_char="1251">,</TOKEN>
+  <TOKEN id="L0C04CW6C-11-32" pos="word" morph="none" start_char="1253" end_char="1255">she</TOKEN>
+  <TOKEN id="L0C04CW6C-11-33" pos="word" morph="none" start_char="1257" end_char="1259">has</TOKEN>
+  <TOKEN id="L0C04CW6C-11-34" pos="word" morph="none" start_char="1261" end_char="1263">Yes</TOKEN>
+  <TOKEN id="L0C04CW6C-11-35" pos="word" morph="none" start_char="1264" end_char="1264">,</TOKEN>
+  <TOKEN id="L0C04CW6C-11-36" pos="word" morph="none" start_char="1266" end_char="1269">they</TOKEN>
+  <TOKEN id="L0C04CW6C-11-37" pos="word" morph="none" start_char="1271" end_char="1274">went</TOKEN>
+  <TOKEN id="L0C04CW6C-11-38" pos="word" morph="none" start_char="1276" end_char="1277">up</TOKEN>
+  <TOKEN id="L0C04CW6C-11-39" pos="word" morph="none" start_char="1279" end_char="1280">to</TOKEN>
+  <TOKEN id="L0C04CW6C-11-40" pos="word" morph="none" start_char="1282" end_char="1286">those</TOKEN>
+  <TOKEN id="L0C04CW6C-11-41" pos="word" morph="none" start_char="1288" end_char="1290">who</TOKEN>
+  <TOKEN id="L0C04CW6C-11-42" pos="word" morph="none" start_char="1292" end_char="1294">did</TOKEN>
+  <TOKEN id="L0C04CW6C-11-43" pos="word" morph="none" start_char="1296" end_char="1298">not</TOKEN>
+  <TOKEN id="L0C04CW6C-11-44" pos="word" morph="none" start_char="1299" end_char="1299">,</TOKEN>
+  <TOKEN id="L0C04CW6C-11-45" pos="word" morph="none" start_char="1301" end_char="1302">it</TOKEN>
+  <TOKEN id="L0C04CW6C-11-46" pos="word" morph="none" start_char="1304" end_char="1305">is</TOKEN>
+  <TOKEN id="L0C04CW6C-11-47" pos="word" morph="none" start_char="1307" end_char="1309">not</TOKEN>
+  <TOKEN id="L0C04CW6C-11-48" pos="word" morph="none" start_char="1311" end_char="1311">a</TOKEN>
+  <TOKEN id="L0C04CW6C-11-49" pos="word" morph="none" start_char="1313" end_char="1319">problem</TOKEN>
+  <TOKEN id="L0C04CW6C-11-50" pos="word" morph="none" start_char="1320" end_char="1320">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-12" start_char="1323" end_char="1521">
+  <ORIGINAL_TEXT>And with the morning they had to defend this house, they lament No water for the house and here, so that some Humberto and his wife had to go to sleep in a hotel while the services were restored But.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-12-0" pos="word" morph="none" start_char="1323" end_char="1325">And</TOKEN>
+  <TOKEN id="L0C04CW6C-12-1" pos="word" morph="none" start_char="1327" end_char="1330">with</TOKEN>
+  <TOKEN id="L0C04CW6C-12-2" pos="word" morph="none" start_char="1332" end_char="1334">the</TOKEN>
+  <TOKEN id="L0C04CW6C-12-3" pos="word" morph="none" start_char="1336" end_char="1342">morning</TOKEN>
+  <TOKEN id="L0C04CW6C-12-4" pos="word" morph="none" start_char="1344" end_char="1347">they</TOKEN>
+  <TOKEN id="L0C04CW6C-12-5" pos="word" morph="none" start_char="1349" end_char="1351">had</TOKEN>
+  <TOKEN id="L0C04CW6C-12-6" pos="word" morph="none" start_char="1353" end_char="1354">to</TOKEN>
+  <TOKEN id="L0C04CW6C-12-7" pos="word" morph="none" start_char="1356" end_char="1361">defend</TOKEN>
+  <TOKEN id="L0C04CW6C-12-8" pos="word" morph="none" start_char="1363" end_char="1366">this</TOKEN>
+  <TOKEN id="L0C04CW6C-12-9" pos="word" morph="none" start_char="1368" end_char="1372">house</TOKEN>
+  <TOKEN id="L0C04CW6C-12-10" pos="word" morph="none" start_char="1373" end_char="1373">,</TOKEN>
+  <TOKEN id="L0C04CW6C-12-11" pos="word" morph="none" start_char="1375" end_char="1378">they</TOKEN>
+  <TOKEN id="L0C04CW6C-12-12" pos="word" morph="none" start_char="1380" end_char="1385">lament</TOKEN>
+  <TOKEN id="L0C04CW6C-12-13" pos="word" morph="none" start_char="1387" end_char="1388">No</TOKEN>
+  <TOKEN id="L0C04CW6C-12-14" pos="word" morph="none" start_char="1390" end_char="1394">water</TOKEN>
+  <TOKEN id="L0C04CW6C-12-15" pos="word" morph="none" start_char="1396" end_char="1398">for</TOKEN>
+  <TOKEN id="L0C04CW6C-12-16" pos="word" morph="none" start_char="1400" end_char="1402">the</TOKEN>
+  <TOKEN id="L0C04CW6C-12-17" pos="word" morph="none" start_char="1404" end_char="1408">house</TOKEN>
+  <TOKEN id="L0C04CW6C-12-18" pos="word" morph="none" start_char="1410" end_char="1412">and</TOKEN>
+  <TOKEN id="L0C04CW6C-12-19" pos="word" morph="none" start_char="1414" end_char="1417">here</TOKEN>
+  <TOKEN id="L0C04CW6C-12-20" pos="word" morph="none" start_char="1418" end_char="1418">,</TOKEN>
+  <TOKEN id="L0C04CW6C-12-21" pos="word" morph="none" start_char="1420" end_char="1421">so</TOKEN>
+  <TOKEN id="L0C04CW6C-12-22" pos="word" morph="none" start_char="1423" end_char="1426">that</TOKEN>
+  <TOKEN id="L0C04CW6C-12-23" pos="word" morph="none" start_char="1428" end_char="1431">some</TOKEN>
+  <TOKEN id="L0C04CW6C-12-24" pos="word" morph="none" start_char="1433" end_char="1440">Humberto</TOKEN>
+  <TOKEN id="L0C04CW6C-12-25" pos="word" morph="none" start_char="1442" end_char="1444">and</TOKEN>
+  <TOKEN id="L0C04CW6C-12-26" pos="word" morph="none" start_char="1446" end_char="1448">his</TOKEN>
+  <TOKEN id="L0C04CW6C-12-27" pos="word" morph="none" start_char="1450" end_char="1453">wife</TOKEN>
+  <TOKEN id="L0C04CW6C-12-28" pos="word" morph="none" start_char="1455" end_char="1457">had</TOKEN>
+  <TOKEN id="L0C04CW6C-12-29" pos="word" morph="none" start_char="1459" end_char="1460">to</TOKEN>
+  <TOKEN id="L0C04CW6C-12-30" pos="word" morph="none" start_char="1462" end_char="1463">go</TOKEN>
+  <TOKEN id="L0C04CW6C-12-31" pos="word" morph="none" start_char="1465" end_char="1466">to</TOKEN>
+  <TOKEN id="L0C04CW6C-12-32" pos="word" morph="none" start_char="1468" end_char="1472">sleep</TOKEN>
+  <TOKEN id="L0C04CW6C-12-33" pos="word" morph="none" start_char="1474" end_char="1475">in</TOKEN>
+  <TOKEN id="L0C04CW6C-12-34" pos="word" morph="none" start_char="1477" end_char="1477">a</TOKEN>
+  <TOKEN id="L0C04CW6C-12-35" pos="word" morph="none" start_char="1479" end_char="1483">hotel</TOKEN>
+  <TOKEN id="L0C04CW6C-12-36" pos="word" morph="none" start_char="1485" end_char="1489">while</TOKEN>
+  <TOKEN id="L0C04CW6C-12-37" pos="word" morph="none" start_char="1491" end_char="1493">the</TOKEN>
+  <TOKEN id="L0C04CW6C-12-38" pos="word" morph="none" start_char="1495" end_char="1502">services</TOKEN>
+  <TOKEN id="L0C04CW6C-12-39" pos="word" morph="none" start_char="1504" end_char="1507">were</TOKEN>
+  <TOKEN id="L0C04CW6C-12-40" pos="word" morph="none" start_char="1509" end_char="1516">restored</TOKEN>
+  <TOKEN id="L0C04CW6C-12-41" pos="word" morph="none" start_char="1518" end_char="1520">But</TOKEN>
+  <TOKEN id="L0C04CW6C-12-42" pos="word" morph="none" start_char="1521" end_char="1521">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-13" start_char="1524" end_char="1643">
+  <ORIGINAL_TEXT>Upon returning, all his things were intact, except for the videos of the windows that ended up breaking due to the heat.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-13-0" pos="word" morph="none" start_char="1524" end_char="1527">Upon</TOKEN>
+  <TOKEN id="L0C04CW6C-13-1" pos="word" morph="none" start_char="1529" end_char="1537">returning</TOKEN>
+  <TOKEN id="L0C04CW6C-13-2" pos="word" morph="none" start_char="1538" end_char="1538">,</TOKEN>
+  <TOKEN id="L0C04CW6C-13-3" pos="word" morph="none" start_char="1540" end_char="1542">all</TOKEN>
+  <TOKEN id="L0C04CW6C-13-4" pos="word" morph="none" start_char="1544" end_char="1546">his</TOKEN>
+  <TOKEN id="L0C04CW6C-13-5" pos="word" morph="none" start_char="1548" end_char="1553">things</TOKEN>
+  <TOKEN id="L0C04CW6C-13-6" pos="word" morph="none" start_char="1555" end_char="1558">were</TOKEN>
+  <TOKEN id="L0C04CW6C-13-7" pos="word" morph="none" start_char="1560" end_char="1565">intact</TOKEN>
+  <TOKEN id="L0C04CW6C-13-8" pos="word" morph="none" start_char="1566" end_char="1566">,</TOKEN>
+  <TOKEN id="L0C04CW6C-13-9" pos="word" morph="none" start_char="1568" end_char="1573">except</TOKEN>
+  <TOKEN id="L0C04CW6C-13-10" pos="word" morph="none" start_char="1575" end_char="1577">for</TOKEN>
+  <TOKEN id="L0C04CW6C-13-11" pos="word" morph="none" start_char="1579" end_char="1581">the</TOKEN>
+  <TOKEN id="L0C04CW6C-13-12" pos="word" morph="none" start_char="1583" end_char="1588">videos</TOKEN>
+  <TOKEN id="L0C04CW6C-13-13" pos="word" morph="none" start_char="1590" end_char="1591">of</TOKEN>
+  <TOKEN id="L0C04CW6C-13-14" pos="word" morph="none" start_char="1593" end_char="1595">the</TOKEN>
+  <TOKEN id="L0C04CW6C-13-15" pos="word" morph="none" start_char="1597" end_char="1603">windows</TOKEN>
+  <TOKEN id="L0C04CW6C-13-16" pos="word" morph="none" start_char="1605" end_char="1608">that</TOKEN>
+  <TOKEN id="L0C04CW6C-13-17" pos="word" morph="none" start_char="1610" end_char="1614">ended</TOKEN>
+  <TOKEN id="L0C04CW6C-13-18" pos="word" morph="none" start_char="1616" end_char="1617">up</TOKEN>
+  <TOKEN id="L0C04CW6C-13-19" pos="word" morph="none" start_char="1619" end_char="1626">breaking</TOKEN>
+  <TOKEN id="L0C04CW6C-13-20" pos="word" morph="none" start_char="1628" end_char="1630">due</TOKEN>
+  <TOKEN id="L0C04CW6C-13-21" pos="word" morph="none" start_char="1632" end_char="1633">to</TOKEN>
+  <TOKEN id="L0C04CW6C-13-22" pos="word" morph="none" start_char="1635" end_char="1637">the</TOKEN>
+  <TOKEN id="L0C04CW6C-13-23" pos="word" morph="none" start_char="1639" end_char="1642">heat</TOKEN>
+  <TOKEN id="L0C04CW6C-13-24" pos="word" morph="none" start_char="1643" end_char="1643">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-14" start_char="1646" end_char="1753">
+  <ORIGINAL_TEXT>I was that there were actresses that all my jars and end up selling this shadow is saved, go and everything.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-14-0" pos="word" morph="none" start_char="1646" end_char="1646">I</TOKEN>
+  <TOKEN id="L0C04CW6C-14-1" pos="word" morph="none" start_char="1648" end_char="1650">was</TOKEN>
+  <TOKEN id="L0C04CW6C-14-2" pos="word" morph="none" start_char="1652" end_char="1655">that</TOKEN>
+  <TOKEN id="L0C04CW6C-14-3" pos="word" morph="none" start_char="1657" end_char="1661">there</TOKEN>
+  <TOKEN id="L0C04CW6C-14-4" pos="word" morph="none" start_char="1663" end_char="1666">were</TOKEN>
+  <TOKEN id="L0C04CW6C-14-5" pos="word" morph="none" start_char="1668" end_char="1676">actresses</TOKEN>
+  <TOKEN id="L0C04CW6C-14-6" pos="word" morph="none" start_char="1678" end_char="1681">that</TOKEN>
+  <TOKEN id="L0C04CW6C-14-7" pos="word" morph="none" start_char="1683" end_char="1685">all</TOKEN>
+  <TOKEN id="L0C04CW6C-14-8" pos="word" morph="none" start_char="1687" end_char="1688">my</TOKEN>
+  <TOKEN id="L0C04CW6C-14-9" pos="word" morph="none" start_char="1690" end_char="1693">jars</TOKEN>
+  <TOKEN id="L0C04CW6C-14-10" pos="word" morph="none" start_char="1695" end_char="1697">and</TOKEN>
+  <TOKEN id="L0C04CW6C-14-11" pos="word" morph="none" start_char="1699" end_char="1701">end</TOKEN>
+  <TOKEN id="L0C04CW6C-14-12" pos="word" morph="none" start_char="1703" end_char="1704">up</TOKEN>
+  <TOKEN id="L0C04CW6C-14-13" pos="word" morph="none" start_char="1706" end_char="1712">selling</TOKEN>
+  <TOKEN id="L0C04CW6C-14-14" pos="word" morph="none" start_char="1714" end_char="1717">this</TOKEN>
+  <TOKEN id="L0C04CW6C-14-15" pos="word" morph="none" start_char="1719" end_char="1724">shadow</TOKEN>
+  <TOKEN id="L0C04CW6C-14-16" pos="word" morph="none" start_char="1726" end_char="1727">is</TOKEN>
+  <TOKEN id="L0C04CW6C-14-17" pos="word" morph="none" start_char="1729" end_char="1733">saved</TOKEN>
+  <TOKEN id="L0C04CW6C-14-18" pos="word" morph="none" start_char="1734" end_char="1734">,</TOKEN>
+  <TOKEN id="L0C04CW6C-14-19" pos="word" morph="none" start_char="1736" end_char="1737">go</TOKEN>
+  <TOKEN id="L0C04CW6C-14-20" pos="word" morph="none" start_char="1739" end_char="1741">and</TOKEN>
+  <TOKEN id="L0C04CW6C-14-21" pos="word" morph="none" start_char="1743" end_char="1752">everything</TOKEN>
+  <TOKEN id="L0C04CW6C-14-22" pos="word" morph="none" start_char="1753" end_char="1753">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-15" start_char="1756" end_char="1864">
+  <ORIGINAL_TEXT>I broke all the videos of Upstairs and at the school for allies La Hague All about La Hague arrives so bills.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-15-0" pos="word" morph="none" start_char="1756" end_char="1756">I</TOKEN>
+  <TOKEN id="L0C04CW6C-15-1" pos="word" morph="none" start_char="1758" end_char="1762">broke</TOKEN>
+  <TOKEN id="L0C04CW6C-15-2" pos="word" morph="none" start_char="1764" end_char="1766">all</TOKEN>
+  <TOKEN id="L0C04CW6C-15-3" pos="word" morph="none" start_char="1768" end_char="1770">the</TOKEN>
+  <TOKEN id="L0C04CW6C-15-4" pos="word" morph="none" start_char="1772" end_char="1777">videos</TOKEN>
+  <TOKEN id="L0C04CW6C-15-5" pos="word" morph="none" start_char="1779" end_char="1780">of</TOKEN>
+  <TOKEN id="L0C04CW6C-15-6" pos="word" morph="none" start_char="1782" end_char="1789">Upstairs</TOKEN>
+  <TOKEN id="L0C04CW6C-15-7" pos="word" morph="none" start_char="1791" end_char="1793">and</TOKEN>
+  <TOKEN id="L0C04CW6C-15-8" pos="word" morph="none" start_char="1795" end_char="1796">at</TOKEN>
+  <TOKEN id="L0C04CW6C-15-9" pos="word" morph="none" start_char="1798" end_char="1800">the</TOKEN>
+  <TOKEN id="L0C04CW6C-15-10" pos="word" morph="none" start_char="1802" end_char="1807">school</TOKEN>
+  <TOKEN id="L0C04CW6C-15-11" pos="word" morph="none" start_char="1809" end_char="1811">for</TOKEN>
+  <TOKEN id="L0C04CW6C-15-12" pos="word" morph="none" start_char="1813" end_char="1818">allies</TOKEN>
+  <TOKEN id="L0C04CW6C-15-13" pos="word" morph="none" start_char="1820" end_char="1821">La</TOKEN>
+  <TOKEN id="L0C04CW6C-15-14" pos="word" morph="none" start_char="1823" end_char="1827">Hague</TOKEN>
+  <TOKEN id="L0C04CW6C-15-15" pos="word" morph="none" start_char="1829" end_char="1831">All</TOKEN>
+  <TOKEN id="L0C04CW6C-15-16" pos="word" morph="none" start_char="1833" end_char="1837">about</TOKEN>
+  <TOKEN id="L0C04CW6C-15-17" pos="word" morph="none" start_char="1839" end_char="1840">La</TOKEN>
+  <TOKEN id="L0C04CW6C-15-18" pos="word" morph="none" start_char="1842" end_char="1846">Hague</TOKEN>
+  <TOKEN id="L0C04CW6C-15-19" pos="word" morph="none" start_char="1848" end_char="1854">arrives</TOKEN>
+  <TOKEN id="L0C04CW6C-15-20" pos="word" morph="none" start_char="1856" end_char="1857">so</TOKEN>
+  <TOKEN id="L0C04CW6C-15-21" pos="word" morph="none" start_char="1859" end_char="1863">bills</TOKEN>
+  <TOKEN id="L0C04CW6C-15-22" pos="word" morph="none" start_char="1864" end_char="1864">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-16" start_char="1867" end_char="1959">
+  <ORIGINAL_TEXT>According to the Civil Protection authorities, the cause of the fire was a short circuit Now.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-16-0" pos="word" morph="none" start_char="1867" end_char="1875">According</TOKEN>
+  <TOKEN id="L0C04CW6C-16-1" pos="word" morph="none" start_char="1877" end_char="1878">to</TOKEN>
+  <TOKEN id="L0C04CW6C-16-2" pos="word" morph="none" start_char="1880" end_char="1882">the</TOKEN>
+  <TOKEN id="L0C04CW6C-16-3" pos="word" morph="none" start_char="1884" end_char="1888">Civil</TOKEN>
+  <TOKEN id="L0C04CW6C-16-4" pos="word" morph="none" start_char="1890" end_char="1899">Protection</TOKEN>
+  <TOKEN id="L0C04CW6C-16-5" pos="word" morph="none" start_char="1901" end_char="1911">authorities</TOKEN>
+  <TOKEN id="L0C04CW6C-16-6" pos="word" morph="none" start_char="1912" end_char="1912">,</TOKEN>
+  <TOKEN id="L0C04CW6C-16-7" pos="word" morph="none" start_char="1914" end_char="1916">the</TOKEN>
+  <TOKEN id="L0C04CW6C-16-8" pos="word" morph="none" start_char="1918" end_char="1922">cause</TOKEN>
+  <TOKEN id="L0C04CW6C-16-9" pos="word" morph="none" start_char="1924" end_char="1925">of</TOKEN>
+  <TOKEN id="L0C04CW6C-16-10" pos="word" morph="none" start_char="1927" end_char="1929">the</TOKEN>
+  <TOKEN id="L0C04CW6C-16-11" pos="word" morph="none" start_char="1931" end_char="1934">fire</TOKEN>
+  <TOKEN id="L0C04CW6C-16-12" pos="word" morph="none" start_char="1936" end_char="1938">was</TOKEN>
+  <TOKEN id="L0C04CW6C-16-13" pos="word" morph="none" start_char="1940" end_char="1940">a</TOKEN>
+  <TOKEN id="L0C04CW6C-16-14" pos="word" morph="none" start_char="1942" end_char="1946">short</TOKEN>
+  <TOKEN id="L0C04CW6C-16-15" pos="word" morph="none" start_char="1948" end_char="1954">circuit</TOKEN>
+  <TOKEN id="L0C04CW6C-16-16" pos="word" morph="none" start_char="1956" end_char="1958">Now</TOKEN>
+  <TOKEN id="L0C04CW6C-16-17" pos="word" morph="none" start_char="1959" end_char="1959">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-17" start_char="1962" end_char="2080">
+  <ORIGINAL_TEXT>The only thing missing is for the platform manufacturer to take responsibility for the damage to the neighbors' houses.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-17-0" pos="word" morph="none" start_char="1962" end_char="1964">The</TOKEN>
+  <TOKEN id="L0C04CW6C-17-1" pos="word" morph="none" start_char="1966" end_char="1969">only</TOKEN>
+  <TOKEN id="L0C04CW6C-17-2" pos="word" morph="none" start_char="1971" end_char="1975">thing</TOKEN>
+  <TOKEN id="L0C04CW6C-17-3" pos="word" morph="none" start_char="1977" end_char="1983">missing</TOKEN>
+  <TOKEN id="L0C04CW6C-17-4" pos="word" morph="none" start_char="1985" end_char="1986">is</TOKEN>
+  <TOKEN id="L0C04CW6C-17-5" pos="word" morph="none" start_char="1988" end_char="1990">for</TOKEN>
+  <TOKEN id="L0C04CW6C-17-6" pos="word" morph="none" start_char="1992" end_char="1994">the</TOKEN>
+  <TOKEN id="L0C04CW6C-17-7" pos="word" morph="none" start_char="1996" end_char="2003">platform</TOKEN>
+  <TOKEN id="L0C04CW6C-17-8" pos="word" morph="none" start_char="2005" end_char="2016">manufacturer</TOKEN>
+  <TOKEN id="L0C04CW6C-17-9" pos="word" morph="none" start_char="2018" end_char="2019">to</TOKEN>
+  <TOKEN id="L0C04CW6C-17-10" pos="word" morph="none" start_char="2021" end_char="2024">take</TOKEN>
+  <TOKEN id="L0C04CW6C-17-11" pos="word" morph="none" start_char="2026" end_char="2039">responsibility</TOKEN>
+  <TOKEN id="L0C04CW6C-17-12" pos="word" morph="none" start_char="2041" end_char="2043">for</TOKEN>
+  <TOKEN id="L0C04CW6C-17-13" pos="word" morph="none" start_char="2045" end_char="2047">the</TOKEN>
+  <TOKEN id="L0C04CW6C-17-14" pos="word" morph="none" start_char="2049" end_char="2054">damage</TOKEN>
+  <TOKEN id="L0C04CW6C-17-15" pos="word" morph="none" start_char="2056" end_char="2057">to</TOKEN>
+  <TOKEN id="L0C04CW6C-17-16" pos="word" morph="none" start_char="2059" end_char="2061">the</TOKEN>
+  <TOKEN id="L0C04CW6C-17-17" pos="word" morph="none" start_char="2063" end_char="2071">neighbors</TOKEN>
+  <TOKEN id="L0C04CW6C-17-18" pos="word" morph="none" start_char="2072" end_char="2072">'</TOKEN>
+  <TOKEN id="L0C04CW6C-17-19" pos="word" morph="none" start_char="2074" end_char="2079">houses</TOKEN>
+  <TOKEN id="L0C04CW6C-17-20" pos="word" morph="none" start_char="2080" end_char="2080">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-18" start_char="2083" end_char="2151">
+  <ORIGINAL_TEXT>The most important thing is that there were no human losses to mourn.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-18-0" pos="word" morph="none" start_char="2083" end_char="2085">The</TOKEN>
+  <TOKEN id="L0C04CW6C-18-1" pos="word" morph="none" start_char="2087" end_char="2090">most</TOKEN>
+  <TOKEN id="L0C04CW6C-18-2" pos="word" morph="none" start_char="2092" end_char="2100">important</TOKEN>
+  <TOKEN id="L0C04CW6C-18-3" pos="word" morph="none" start_char="2102" end_char="2106">thing</TOKEN>
+  <TOKEN id="L0C04CW6C-18-4" pos="word" morph="none" start_char="2108" end_char="2109">is</TOKEN>
+  <TOKEN id="L0C04CW6C-18-5" pos="word" morph="none" start_char="2111" end_char="2114">that</TOKEN>
+  <TOKEN id="L0C04CW6C-18-6" pos="word" morph="none" start_char="2116" end_char="2120">there</TOKEN>
+  <TOKEN id="L0C04CW6C-18-7" pos="word" morph="none" start_char="2122" end_char="2125">were</TOKEN>
+  <TOKEN id="L0C04CW6C-18-8" pos="word" morph="none" start_char="2127" end_char="2128">no</TOKEN>
+  <TOKEN id="L0C04CW6C-18-9" pos="word" morph="none" start_char="2130" end_char="2134">human</TOKEN>
+  <TOKEN id="L0C04CW6C-18-10" pos="word" morph="none" start_char="2136" end_char="2141">losses</TOKEN>
+  <TOKEN id="L0C04CW6C-18-11" pos="word" morph="none" start_char="2143" end_char="2144">to</TOKEN>
+  <TOKEN id="L0C04CW6C-18-12" pos="word" morph="none" start_char="2146" end_char="2150">mourn</TOKEN>
+  <TOKEN id="L0C04CW6C-18-13" pos="word" morph="none" start_char="2151" end_char="2151">.</TOKEN>
+</SEG>
+<SEG id="L0C04CW6C-19" start_char="2154" end_char="2156">
+  <ORIGINAL_TEXT>The</ORIGINAL_TEXT>
+  <TOKEN id="L0C04CW6C-19-0" pos="word" morph="none" start_char="2154" end_char="2156">The</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

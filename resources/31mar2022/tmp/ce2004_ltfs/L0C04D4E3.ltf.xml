@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng"><DOC id="L0C04D4E3" lang="eng" tokenization="unknown" grammar="none" raw_text_char_length="2694" raw_text_md5="unknown">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="60">
+  <ORIGINAL_TEXT>Businessman will be sentenced for salmonella cases in the US</ORIGINAL_TEXT>
+  <TOKEN id="segment-0-0" pos="word" morph="none" start_char="1" end_char="11">Businessman</TOKEN>
+  <TOKEN id="segment-0-1" pos="word" morph="none" start_char="13" end_char="16">will</TOKEN>
+  <TOKEN id="segment-0-2" pos="word" morph="none" start_char="18" end_char="19">be</TOKEN>
+  <TOKEN id="segment-0-3" pos="word" morph="none" start_char="21" end_char="29">sentenced</TOKEN>
+  <TOKEN id="segment-0-4" pos="word" morph="none" start_char="31" end_char="33">for</TOKEN>
+  <TOKEN id="segment-0-5" pos="word" morph="none" start_char="35" end_char="44">salmonella</TOKEN>
+  <TOKEN id="segment-0-6" pos="word" morph="none" start_char="46" end_char="50">cases</TOKEN>
+  <TOKEN id="segment-0-7" pos="word" morph="none" start_char="52" end_char="53">in</TOKEN>
+  <TOKEN id="segment-0-8" pos="word" morph="none" start_char="55" end_char="57">the</TOKEN>
+  <TOKEN id="segment-0-9" pos="word" morph="none" start_char="59" end_char="60">US</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="63" end_char="78">
+  <ORIGINAL_TEXT>Photography null</ORIGINAL_TEXT>
+  <TOKEN id="segment-1-0" pos="word" morph="none" start_char="63" end_char="73">Photography</TOKEN>
+  <TOKEN id="segment-1-1" pos="word" morph="none" start_char="75" end_char="78">null</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="81" end_char="320">
+  <ORIGINAL_TEXT>A year after a federal jury convicted him of crimes linked to a salmonella outbreak said to have killed nine people and sickened hundreds, former executive Stewart Parnell is returning to court where he could be sentenced to life in prison.</ORIGINAL_TEXT>
+  <TOKEN id="segment-2-0" pos="word" morph="none" start_char="81" end_char="81">A</TOKEN>
+  <TOKEN id="segment-2-1" pos="word" morph="none" start_char="83" end_char="86">year</TOKEN>
+  <TOKEN id="segment-2-2" pos="word" morph="none" start_char="88" end_char="92">after</TOKEN>
+  <TOKEN id="segment-2-3" pos="word" morph="none" start_char="94" end_char="94">a</TOKEN>
+  <TOKEN id="segment-2-4" pos="word" morph="none" start_char="96" end_char="102">federal</TOKEN>
+  <TOKEN id="segment-2-5" pos="word" morph="none" start_char="104" end_char="107">jury</TOKEN>
+  <TOKEN id="segment-2-6" pos="word" morph="none" start_char="109" end_char="117">convicted</TOKEN>
+  <TOKEN id="segment-2-7" pos="word" morph="none" start_char="119" end_char="121">him</TOKEN>
+  <TOKEN id="segment-2-8" pos="word" morph="none" start_char="123" end_char="124">of</TOKEN>
+  <TOKEN id="segment-2-9" pos="word" morph="none" start_char="126" end_char="131">crimes</TOKEN>
+  <TOKEN id="segment-2-10" pos="word" morph="none" start_char="133" end_char="138">linked</TOKEN>
+  <TOKEN id="segment-2-11" pos="word" morph="none" start_char="140" end_char="141">to</TOKEN>
+  <TOKEN id="segment-2-12" pos="word" morph="none" start_char="143" end_char="143">a</TOKEN>
+  <TOKEN id="segment-2-13" pos="word" morph="none" start_char="145" end_char="154">salmonella</TOKEN>
+  <TOKEN id="segment-2-14" pos="word" morph="none" start_char="156" end_char="163">outbreak</TOKEN>
+  <TOKEN id="segment-2-15" pos="word" morph="none" start_char="165" end_char="168">said</TOKEN>
+  <TOKEN id="segment-2-16" pos="word" morph="none" start_char="170" end_char="171">to</TOKEN>
+  <TOKEN id="segment-2-17" pos="word" morph="none" start_char="173" end_char="176">have</TOKEN>
+  <TOKEN id="segment-2-18" pos="word" morph="none" start_char="178" end_char="183">killed</TOKEN>
+  <TOKEN id="segment-2-19" pos="word" morph="none" start_char="185" end_char="188">nine</TOKEN>
+  <TOKEN id="segment-2-20" pos="word" morph="none" start_char="190" end_char="195">people</TOKEN>
+  <TOKEN id="segment-2-21" pos="word" morph="none" start_char="197" end_char="199">and</TOKEN>
+  <TOKEN id="segment-2-22" pos="word" morph="none" start_char="201" end_char="208">sickened</TOKEN>
+  <TOKEN id="segment-2-23" pos="word" morph="none" start_char="210" end_char="217">hundreds</TOKEN>
+  <TOKEN id="segment-2-24" pos="word" morph="none" start_char="218" end_char="218">,</TOKEN>
+  <TOKEN id="segment-2-25" pos="word" morph="none" start_char="220" end_char="225">former</TOKEN>
+  <TOKEN id="segment-2-26" pos="word" morph="none" start_char="227" end_char="235">executive</TOKEN>
+  <TOKEN id="segment-2-27" pos="word" morph="none" start_char="237" end_char="243">Stewart</TOKEN>
+  <TOKEN id="segment-2-28" pos="word" morph="none" start_char="245" end_char="251">Parnell</TOKEN>
+  <TOKEN id="segment-2-29" pos="word" morph="none" start_char="253" end_char="254">is</TOKEN>
+  <TOKEN id="segment-2-30" pos="word" morph="none" start_char="256" end_char="264">returning</TOKEN>
+  <TOKEN id="segment-2-31" pos="word" morph="none" start_char="266" end_char="267">to</TOKEN>
+  <TOKEN id="segment-2-32" pos="word" morph="none" start_char="269" end_char="273">court</TOKEN>
+  <TOKEN id="segment-2-33" pos="word" morph="none" start_char="275" end_char="279">where</TOKEN>
+  <TOKEN id="segment-2-34" pos="word" morph="none" start_char="281" end_char="282">he</TOKEN>
+  <TOKEN id="segment-2-35" pos="word" morph="none" start_char="284" end_char="288">could</TOKEN>
+  <TOKEN id="segment-2-36" pos="word" morph="none" start_char="290" end_char="291">be</TOKEN>
+  <TOKEN id="segment-2-37" pos="word" morph="none" start_char="293" end_char="301">sentenced</TOKEN>
+  <TOKEN id="segment-2-38" pos="word" morph="none" start_char="303" end_char="304">to</TOKEN>
+  <TOKEN id="segment-2-39" pos="word" morph="none" start_char="306" end_char="309">life</TOKEN>
+  <TOKEN id="segment-2-40" pos="word" morph="none" start_char="311" end_char="312">in</TOKEN>
+  <TOKEN id="segment-2-41" pos="word" morph="none" start_char="314" end_char="319">prison</TOKEN>
+  <TOKEN id="segment-2-42" pos="word" morph="none" start_char="320" end_char="320">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="323" end_char="454">
+  <ORIGINAL_TEXT>The sentencing hearing takes place Monday in Albany, Georgia, for the 61-year-old former owner of the Peanut Corporation of America.</ORIGINAL_TEXT>
+  <TOKEN id="segment-3-0" pos="word" morph="none" start_char="323" end_char="325">The</TOKEN>
+  <TOKEN id="segment-3-1" pos="word" morph="none" start_char="327" end_char="336">sentencing</TOKEN>
+  <TOKEN id="segment-3-2" pos="word" morph="none" start_char="338" end_char="344">hearing</TOKEN>
+  <TOKEN id="segment-3-3" pos="word" morph="none" start_char="346" end_char="350">takes</TOKEN>
+  <TOKEN id="segment-3-4" pos="word" morph="none" start_char="352" end_char="356">place</TOKEN>
+  <TOKEN id="segment-3-5" pos="word" morph="none" start_char="358" end_char="363">Monday</TOKEN>
+  <TOKEN id="segment-3-6" pos="word" morph="none" start_char="365" end_char="366">in</TOKEN>
+  <TOKEN id="segment-3-7" pos="word" morph="none" start_char="368" end_char="373">Albany</TOKEN>
+  <TOKEN id="segment-3-8" pos="word" morph="none" start_char="374" end_char="374">,</TOKEN>
+  <TOKEN id="segment-3-9" pos="word" morph="none" start_char="376" end_char="382">Georgia</TOKEN>
+  <TOKEN id="segment-3-10" pos="word" morph="none" start_char="383" end_char="383">,</TOKEN>
+  <TOKEN id="segment-3-11" pos="word" morph="none" start_char="385" end_char="387">for</TOKEN>
+  <TOKEN id="segment-3-12" pos="word" morph="none" start_char="389" end_char="391">the</TOKEN>
+  <TOKEN id="segment-3-13" pos="word" morph="none" start_char="393" end_char="399">61-year</TOKEN>
+  <TOKEN id="segment-3-14" pos="word" morph="none" start_char="400" end_char="400">-</TOKEN>
+  <TOKEN id="segment-3-15" pos="word" morph="none" start_char="401" end_char="403">old</TOKEN>
+  <TOKEN id="segment-3-16" pos="word" morph="none" start_char="405" end_char="410">former</TOKEN>
+  <TOKEN id="segment-3-17" pos="word" morph="none" start_char="412" end_char="416">owner</TOKEN>
+  <TOKEN id="segment-3-18" pos="word" morph="none" start_char="418" end_char="419">of</TOKEN>
+  <TOKEN id="segment-3-19" pos="word" morph="none" start_char="421" end_char="423">the</TOKEN>
+  <TOKEN id="segment-3-20" pos="word" morph="none" start_char="425" end_char="430">Peanut</TOKEN>
+  <TOKEN id="segment-3-21" pos="word" morph="none" start_char="432" end_char="442">Corporation</TOKEN>
+  <TOKEN id="segment-3-22" pos="word" morph="none" start_char="444" end_char="445">of</TOKEN>
+  <TOKEN id="segment-3-23" pos="word" morph="none" start_char="447" end_char="453">America</TOKEN>
+  <TOKEN id="segment-3-24" pos="word" morph="none" start_char="454" end_char="454">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="457" end_char="649">
+  <ORIGINAL_TEXT>Joining Parnell are two co-defendants &#8212; his brother and a plant manager &#8212; who have also been found guilty in what experts are calling the first food poisoning trial of American food processors.</ORIGINAL_TEXT>
+  <TOKEN id="segment-4-0" pos="word" morph="none" start_char="457" end_char="463">Joining</TOKEN>
+  <TOKEN id="segment-4-1" pos="word" morph="none" start_char="465" end_char="471">Parnell</TOKEN>
+  <TOKEN id="segment-4-2" pos="word" morph="none" start_char="473" end_char="475">are</TOKEN>
+  <TOKEN id="segment-4-3" pos="word" morph="none" start_char="477" end_char="479">two</TOKEN>
+  <TOKEN id="segment-4-4" pos="word" morph="none" start_char="481" end_char="482">co</TOKEN>
+  <TOKEN id="segment-4-5" pos="word" morph="none" start_char="483" end_char="483">-</TOKEN>
+  <TOKEN id="segment-4-6" pos="word" morph="none" start_char="484" end_char="493">defendants</TOKEN>
+  <TOKEN id="segment-4-7" pos="word" morph="none" start_char="495" end_char="495">&#8212;</TOKEN>
+  <TOKEN id="segment-4-8" pos="word" morph="none" start_char="497" end_char="499">his</TOKEN>
+  <TOKEN id="segment-4-9" pos="word" morph="none" start_char="501" end_char="507">brother</TOKEN>
+  <TOKEN id="segment-4-10" pos="word" morph="none" start_char="509" end_char="511">and</TOKEN>
+  <TOKEN id="segment-4-11" pos="word" morph="none" start_char="513" end_char="513">a</TOKEN>
+  <TOKEN id="segment-4-12" pos="word" morph="none" start_char="515" end_char="519">plant</TOKEN>
+  <TOKEN id="segment-4-13" pos="word" morph="none" start_char="521" end_char="527">manager</TOKEN>
+  <TOKEN id="segment-4-14" pos="word" morph="none" start_char="529" end_char="529">&#8212;</TOKEN>
+  <TOKEN id="segment-4-15" pos="word" morph="none" start_char="531" end_char="533">who</TOKEN>
+  <TOKEN id="segment-4-16" pos="word" morph="none" start_char="535" end_char="538">have</TOKEN>
+  <TOKEN id="segment-4-17" pos="word" morph="none" start_char="540" end_char="543">also</TOKEN>
+  <TOKEN id="segment-4-18" pos="word" morph="none" start_char="545" end_char="548">been</TOKEN>
+  <TOKEN id="segment-4-19" pos="word" morph="none" start_char="550" end_char="554">found</TOKEN>
+  <TOKEN id="segment-4-20" pos="word" morph="none" start_char="556" end_char="561">guilty</TOKEN>
+  <TOKEN id="segment-4-21" pos="word" morph="none" start_char="563" end_char="564">in</TOKEN>
+  <TOKEN id="segment-4-22" pos="word" morph="none" start_char="566" end_char="569">what</TOKEN>
+  <TOKEN id="segment-4-23" pos="word" morph="none" start_char="571" end_char="577">experts</TOKEN>
+  <TOKEN id="segment-4-24" pos="word" morph="none" start_char="579" end_char="581">are</TOKEN>
+  <TOKEN id="segment-4-25" pos="word" morph="none" start_char="583" end_char="589">calling</TOKEN>
+  <TOKEN id="segment-4-26" pos="word" morph="none" start_char="591" end_char="593">the</TOKEN>
+  <TOKEN id="segment-4-27" pos="word" morph="none" start_char="595" end_char="599">first</TOKEN>
+  <TOKEN id="segment-4-28" pos="word" morph="none" start_char="601" end_char="604">food</TOKEN>
+  <TOKEN id="segment-4-29" pos="word" morph="none" start_char="606" end_char="614">poisoning</TOKEN>
+  <TOKEN id="segment-4-30" pos="word" morph="none" start_char="616" end_char="620">trial</TOKEN>
+  <TOKEN id="segment-4-31" pos="word" morph="none" start_char="622" end_char="623">of</TOKEN>
+  <TOKEN id="segment-4-32" pos="word" morph="none" start_char="625" end_char="632">American</TOKEN>
+  <TOKEN id="segment-4-33" pos="word" morph="none" start_char="634" end_char="637">food</TOKEN>
+  <TOKEN id="segment-4-34" pos="word" morph="none" start_char="639" end_char="648">processors</TOKEN>
+  <TOKEN id="segment-4-35" pos="word" morph="none" start_char="649" end_char="649">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="652" end_char="872">
+  <ORIGINAL_TEXT>Parnell was convicted on Sept. 19, 2014, of knowingly shipping salmonella-tainted peanut butter from his Blakely, Georgia, plant to Kellogg's and other customers who used it in a variety of human and animal food products.</ORIGINAL_TEXT>
+  <TOKEN id="segment-5-0" pos="word" morph="none" start_char="652" end_char="658">Parnell</TOKEN>
+  <TOKEN id="segment-5-1" pos="word" morph="none" start_char="660" end_char="662">was</TOKEN>
+  <TOKEN id="segment-5-2" pos="word" morph="none" start_char="664" end_char="672">convicted</TOKEN>
+  <TOKEN id="segment-5-3" pos="word" morph="none" start_char="674" end_char="675">on</TOKEN>
+  <TOKEN id="segment-5-4" pos="word" morph="none" start_char="677" end_char="681">Sept.</TOKEN>
+  <TOKEN id="segment-5-5" pos="word" morph="none" start_char="683" end_char="684">19</TOKEN>
+  <TOKEN id="segment-5-6" pos="word" morph="none" start_char="685" end_char="685">,</TOKEN>
+  <TOKEN id="segment-5-7" pos="word" morph="none" start_char="687" end_char="690">2014</TOKEN>
+  <TOKEN id="segment-5-8" pos="word" morph="none" start_char="691" end_char="691">,</TOKEN>
+  <TOKEN id="segment-5-9" pos="word" morph="none" start_char="693" end_char="694">of</TOKEN>
+  <TOKEN id="segment-5-10" pos="word" morph="none" start_char="696" end_char="704">knowingly</TOKEN>
+  <TOKEN id="segment-5-11" pos="word" morph="none" start_char="706" end_char="713">shipping</TOKEN>
+  <TOKEN id="segment-5-12" pos="word" morph="none" start_char="715" end_char="724">salmonella</TOKEN>
+  <TOKEN id="segment-5-13" pos="word" morph="none" start_char="725" end_char="725">-</TOKEN>
+  <TOKEN id="segment-5-14" pos="word" morph="none" start_char="726" end_char="732">tainted</TOKEN>
+  <TOKEN id="segment-5-15" pos="word" morph="none" start_char="734" end_char="739">peanut</TOKEN>
+  <TOKEN id="segment-5-16" pos="word" morph="none" start_char="741" end_char="746">butter</TOKEN>
+  <TOKEN id="segment-5-17" pos="word" morph="none" start_char="748" end_char="751">from</TOKEN>
+  <TOKEN id="segment-5-18" pos="word" morph="none" start_char="753" end_char="755">his</TOKEN>
+  <TOKEN id="segment-5-19" pos="word" morph="none" start_char="757" end_char="763">Blakely</TOKEN>
+  <TOKEN id="segment-5-20" pos="word" morph="none" start_char="764" end_char="764">,</TOKEN>
+  <TOKEN id="segment-5-21" pos="word" morph="none" start_char="766" end_char="772">Georgia</TOKEN>
+  <TOKEN id="segment-5-22" pos="word" morph="none" start_char="773" end_char="773">,</TOKEN>
+  <TOKEN id="segment-5-23" pos="word" morph="none" start_char="775" end_char="779">plant</TOKEN>
+  <TOKEN id="segment-5-24" pos="word" morph="none" start_char="781" end_char="782">to</TOKEN>
+  <TOKEN id="segment-5-25" pos="word" morph="none" start_char="784" end_char="790">Kellogg</TOKEN>
+  <TOKEN id="segment-5-26" pos="word" morph="none" start_char="791" end_char="792">'s</TOKEN>
+  <TOKEN id="segment-5-27" pos="word" morph="none" start_char="794" end_char="796">and</TOKEN>
+  <TOKEN id="segment-5-28" pos="word" morph="none" start_char="798" end_char="802">other</TOKEN>
+  <TOKEN id="segment-5-29" pos="word" morph="none" start_char="804" end_char="812">customers</TOKEN>
+  <TOKEN id="segment-5-30" pos="word" morph="none" start_char="814" end_char="816">who</TOKEN>
+  <TOKEN id="segment-5-31" pos="word" morph="none" start_char="818" end_char="821">used</TOKEN>
+  <TOKEN id="segment-5-32" pos="word" morph="none" start_char="823" end_char="824">it</TOKEN>
+  <TOKEN id="segment-5-33" pos="word" morph="none" start_char="826" end_char="827">in</TOKEN>
+  <TOKEN id="segment-5-34" pos="word" morph="none" start_char="829" end_char="829">a</TOKEN>
+  <TOKEN id="segment-5-35" pos="word" morph="none" start_char="831" end_char="837">variety</TOKEN>
+  <TOKEN id="segment-5-36" pos="word" morph="none" start_char="839" end_char="840">of</TOKEN>
+  <TOKEN id="segment-5-37" pos="word" morph="none" start_char="842" end_char="846">human</TOKEN>
+  <TOKEN id="segment-5-38" pos="word" morph="none" start_char="848" end_char="850">and</TOKEN>
+  <TOKEN id="segment-5-39" pos="word" morph="none" start_char="852" end_char="857">animal</TOKEN>
+  <TOKEN id="segment-5-40" pos="word" morph="none" start_char="859" end_char="862">food</TOKEN>
+  <TOKEN id="segment-5-41" pos="word" morph="none" start_char="864" end_char="871">products</TOKEN>
+  <TOKEN id="segment-5-42" pos="word" morph="none" start_char="872" end_char="872">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="875" end_char="1001">
+  <ORIGINAL_TEXT>The jury also found Parnell and his brother, Michael Parnell, guilty of falsifying exploratory lab test results for salmonella.</ORIGINAL_TEXT>
+  <TOKEN id="segment-6-0" pos="word" morph="none" start_char="875" end_char="877">The</TOKEN>
+  <TOKEN id="segment-6-1" pos="word" morph="none" start_char="879" end_char="882">jury</TOKEN>
+  <TOKEN id="segment-6-2" pos="word" morph="none" start_char="884" end_char="887">also</TOKEN>
+  <TOKEN id="segment-6-3" pos="word" morph="none" start_char="889" end_char="893">found</TOKEN>
+  <TOKEN id="segment-6-4" pos="word" morph="none" start_char="895" end_char="901">Parnell</TOKEN>
+  <TOKEN id="segment-6-5" pos="word" morph="none" start_char="903" end_char="905">and</TOKEN>
+  <TOKEN id="segment-6-6" pos="word" morph="none" start_char="907" end_char="909">his</TOKEN>
+  <TOKEN id="segment-6-7" pos="word" morph="none" start_char="911" end_char="917">brother</TOKEN>
+  <TOKEN id="segment-6-8" pos="word" morph="none" start_char="918" end_char="918">,</TOKEN>
+  <TOKEN id="segment-6-9" pos="word" morph="none" start_char="920" end_char="926">Michael</TOKEN>
+  <TOKEN id="segment-6-10" pos="word" morph="none" start_char="928" end_char="934">Parnell</TOKEN>
+  <TOKEN id="segment-6-11" pos="word" morph="none" start_char="935" end_char="935">,</TOKEN>
+  <TOKEN id="segment-6-12" pos="word" morph="none" start_char="937" end_char="942">guilty</TOKEN>
+  <TOKEN id="segment-6-13" pos="word" morph="none" start_char="944" end_char="945">of</TOKEN>
+  <TOKEN id="segment-6-14" pos="word" morph="none" start_char="947" end_char="956">falsifying</TOKEN>
+  <TOKEN id="segment-6-15" pos="word" morph="none" start_char="958" end_char="968">exploratory</TOKEN>
+  <TOKEN id="segment-6-16" pos="word" morph="none" start_char="970" end_char="972">lab</TOKEN>
+  <TOKEN id="segment-6-17" pos="word" morph="none" start_char="974" end_char="977">test</TOKEN>
+  <TOKEN id="segment-6-18" pos="word" morph="none" start_char="979" end_char="985">results</TOKEN>
+  <TOKEN id="segment-6-19" pos="word" morph="none" start_char="987" end_char="989">for</TOKEN>
+  <TOKEN id="segment-6-20" pos="word" morph="none" start_char="991" end_char="1000">salmonella</TOKEN>
+  <TOKEN id="segment-6-21" pos="word" morph="none" start_char="1001" end_char="1001">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1004" end_char="1173">
+  <ORIGINAL_TEXT>The brothers were charged after a salmonella outbreak that sickened 714 people in 46 states was traced to the Peanut Corporation plant in Blakely, Georgia, in early 2009.</ORIGINAL_TEXT>
+  <TOKEN id="segment-7-0" pos="word" morph="none" start_char="1004" end_char="1006">The</TOKEN>
+  <TOKEN id="segment-7-1" pos="word" morph="none" start_char="1008" end_char="1015">brothers</TOKEN>
+  <TOKEN id="segment-7-2" pos="word" morph="none" start_char="1017" end_char="1020">were</TOKEN>
+  <TOKEN id="segment-7-3" pos="word" morph="none" start_char="1022" end_char="1028">charged</TOKEN>
+  <TOKEN id="segment-7-4" pos="word" morph="none" start_char="1030" end_char="1034">after</TOKEN>
+  <TOKEN id="segment-7-5" pos="word" morph="none" start_char="1036" end_char="1036">a</TOKEN>
+  <TOKEN id="segment-7-6" pos="word" morph="none" start_char="1038" end_char="1047">salmonella</TOKEN>
+  <TOKEN id="segment-7-7" pos="word" morph="none" start_char="1049" end_char="1056">outbreak</TOKEN>
+  <TOKEN id="segment-7-8" pos="word" morph="none" start_char="1058" end_char="1061">that</TOKEN>
+  <TOKEN id="segment-7-9" pos="word" morph="none" start_char="1063" end_char="1070">sickened</TOKEN>
+  <TOKEN id="segment-7-10" pos="word" morph="none" start_char="1072" end_char="1074">714</TOKEN>
+  <TOKEN id="segment-7-11" pos="word" morph="none" start_char="1076" end_char="1081">people</TOKEN>
+  <TOKEN id="segment-7-12" pos="word" morph="none" start_char="1083" end_char="1084">in</TOKEN>
+  <TOKEN id="segment-7-13" pos="word" morph="none" start_char="1086" end_char="1087">46</TOKEN>
+  <TOKEN id="segment-7-14" pos="word" morph="none" start_char="1089" end_char="1094">states</TOKEN>
+  <TOKEN id="segment-7-15" pos="word" morph="none" start_char="1096" end_char="1098">was</TOKEN>
+  <TOKEN id="segment-7-16" pos="word" morph="none" start_char="1100" end_char="1105">traced</TOKEN>
+  <TOKEN id="segment-7-17" pos="word" morph="none" start_char="1107" end_char="1108">to</TOKEN>
+  <TOKEN id="segment-7-18" pos="word" morph="none" start_char="1110" end_char="1112">the</TOKEN>
+  <TOKEN id="segment-7-19" pos="word" morph="none" start_char="1114" end_char="1119">Peanut</TOKEN>
+  <TOKEN id="segment-7-20" pos="word" morph="none" start_char="1121" end_char="1131">Corporation</TOKEN>
+  <TOKEN id="segment-7-21" pos="word" morph="none" start_char="1133" end_char="1137">plant</TOKEN>
+  <TOKEN id="segment-7-22" pos="word" morph="none" start_char="1139" end_char="1140">in</TOKEN>
+  <TOKEN id="segment-7-23" pos="word" morph="none" start_char="1142" end_char="1148">Blakely</TOKEN>
+  <TOKEN id="segment-7-24" pos="word" morph="none" start_char="1149" end_char="1149">,</TOKEN>
+  <TOKEN id="segment-7-25" pos="word" morph="none" start_char="1151" end_char="1157">Georgia</TOKEN>
+  <TOKEN id="segment-7-26" pos="word" morph="none" start_char="1158" end_char="1158">,</TOKEN>
+  <TOKEN id="segment-7-27" pos="word" morph="none" start_char="1160" end_char="1161">in</TOKEN>
+  <TOKEN id="segment-7-28" pos="word" morph="none" start_char="1163" end_char="1167">early</TOKEN>
+  <TOKEN id="segment-7-29" pos="word" morph="none" start_char="1169" end_char="1172">2009</TOKEN>
+  <TOKEN id="segment-7-30" pos="word" morph="none" start_char="1173" end_char="1173">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1176" end_char="1410">
+  <ORIGINAL_TEXT>The Centers for Disease Control and Prevention reported that nine people who ate contaminated peanut butter died during the outbreak in 2008 and 2009, although they couldn't say for sure that salmonella was the cause of all the deaths.</ORIGINAL_TEXT>
+  <TOKEN id="segment-8-0" pos="word" morph="none" start_char="1176" end_char="1178">The</TOKEN>
+  <TOKEN id="segment-8-1" pos="word" morph="none" start_char="1180" end_char="1186">Centers</TOKEN>
+  <TOKEN id="segment-8-2" pos="word" morph="none" start_char="1188" end_char="1190">for</TOKEN>
+  <TOKEN id="segment-8-3" pos="word" morph="none" start_char="1192" end_char="1198">Disease</TOKEN>
+  <TOKEN id="segment-8-4" pos="word" morph="none" start_char="1200" end_char="1206">Control</TOKEN>
+  <TOKEN id="segment-8-5" pos="word" morph="none" start_char="1208" end_char="1210">and</TOKEN>
+  <TOKEN id="segment-8-6" pos="word" morph="none" start_char="1212" end_char="1221">Prevention</TOKEN>
+  <TOKEN id="segment-8-7" pos="word" morph="none" start_char="1223" end_char="1230">reported</TOKEN>
+  <TOKEN id="segment-8-8" pos="word" morph="none" start_char="1232" end_char="1235">that</TOKEN>
+  <TOKEN id="segment-8-9" pos="word" morph="none" start_char="1237" end_char="1240">nine</TOKEN>
+  <TOKEN id="segment-8-10" pos="word" morph="none" start_char="1242" end_char="1247">people</TOKEN>
+  <TOKEN id="segment-8-11" pos="word" morph="none" start_char="1249" end_char="1251">who</TOKEN>
+  <TOKEN id="segment-8-12" pos="word" morph="none" start_char="1253" end_char="1255">ate</TOKEN>
+  <TOKEN id="segment-8-13" pos="word" morph="none" start_char="1257" end_char="1268">contaminated</TOKEN>
+  <TOKEN id="segment-8-14" pos="word" morph="none" start_char="1270" end_char="1275">peanut</TOKEN>
+  <TOKEN id="segment-8-15" pos="word" morph="none" start_char="1277" end_char="1282">butter</TOKEN>
+  <TOKEN id="segment-8-16" pos="word" morph="none" start_char="1284" end_char="1287">died</TOKEN>
+  <TOKEN id="segment-8-17" pos="word" morph="none" start_char="1289" end_char="1294">during</TOKEN>
+  <TOKEN id="segment-8-18" pos="word" morph="none" start_char="1296" end_char="1298">the</TOKEN>
+  <TOKEN id="segment-8-19" pos="word" morph="none" start_char="1300" end_char="1307">outbreak</TOKEN>
+  <TOKEN id="segment-8-20" pos="word" morph="none" start_char="1309" end_char="1310">in</TOKEN>
+  <TOKEN id="segment-8-21" pos="word" morph="none" start_char="1312" end_char="1315">2008</TOKEN>
+  <TOKEN id="segment-8-22" pos="word" morph="none" start_char="1317" end_char="1319">and</TOKEN>
+  <TOKEN id="segment-8-23" pos="word" morph="none" start_char="1321" end_char="1324">2009</TOKEN>
+  <TOKEN id="segment-8-24" pos="word" morph="none" start_char="1325" end_char="1325">,</TOKEN>
+  <TOKEN id="segment-8-25" pos="word" morph="none" start_char="1327" end_char="1334">although</TOKEN>
+  <TOKEN id="segment-8-26" pos="word" morph="none" start_char="1336" end_char="1339">they</TOKEN>
+  <TOKEN id="segment-8-27" pos="word" morph="none" start_char="1341" end_char="1345">could</TOKEN>
+  <TOKEN id="segment-8-28" pos="word" morph="none" start_char="1346" end_char="1348">n't</TOKEN>
+  <TOKEN id="segment-8-29" pos="word" morph="none" start_char="1350" end_char="1352">say</TOKEN>
+  <TOKEN id="segment-8-30" pos="word" morph="none" start_char="1354" end_char="1356">for</TOKEN>
+  <TOKEN id="segment-8-31" pos="word" morph="none" start_char="1358" end_char="1361">sure</TOKEN>
+  <TOKEN id="segment-8-32" pos="word" morph="none" start_char="1363" end_char="1366">that</TOKEN>
+  <TOKEN id="segment-8-33" pos="word" morph="none" start_char="1368" end_char="1377">salmonella</TOKEN>
+  <TOKEN id="segment-8-34" pos="word" morph="none" start_char="1379" end_char="1381">was</TOKEN>
+  <TOKEN id="segment-8-35" pos="word" morph="none" start_char="1383" end_char="1385">the</TOKEN>
+  <TOKEN id="segment-8-36" pos="word" morph="none" start_char="1387" end_char="1391">cause</TOKEN>
+  <TOKEN id="segment-8-37" pos="word" morph="none" start_char="1393" end_char="1394">of</TOKEN>
+  <TOKEN id="segment-8-38" pos="word" morph="none" start_char="1396" end_char="1398">all</TOKEN>
+  <TOKEN id="segment-8-39" pos="word" morph="none" start_char="1400" end_char="1402">the</TOKEN>
+  <TOKEN id="segment-8-40" pos="word" morph="none" start_char="1404" end_char="1409">deaths</TOKEN>
+  <TOKEN id="segment-8-41" pos="word" morph="none" start_char="1410" end_char="1410">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1413" end_char="1509">
+  <ORIGINAL_TEXT>Federal investigators found a leaking roof at the plant with cockroaches and evidence of rodents.</ORIGINAL_TEXT>
+  <TOKEN id="segment-9-0" pos="word" morph="none" start_char="1413" end_char="1419">Federal</TOKEN>
+  <TOKEN id="segment-9-1" pos="word" morph="none" start_char="1421" end_char="1433">investigators</TOKEN>
+  <TOKEN id="segment-9-2" pos="word" morph="none" start_char="1435" end_char="1439">found</TOKEN>
+  <TOKEN id="segment-9-3" pos="word" morph="none" start_char="1441" end_char="1441">a</TOKEN>
+  <TOKEN id="segment-9-4" pos="word" morph="none" start_char="1443" end_char="1449">leaking</TOKEN>
+  <TOKEN id="segment-9-5" pos="word" morph="none" start_char="1451" end_char="1454">roof</TOKEN>
+  <TOKEN id="segment-9-6" pos="word" morph="none" start_char="1456" end_char="1457">at</TOKEN>
+  <TOKEN id="segment-9-7" pos="word" morph="none" start_char="1459" end_char="1461">the</TOKEN>
+  <TOKEN id="segment-9-8" pos="word" morph="none" start_char="1463" end_char="1467">plant</TOKEN>
+  <TOKEN id="segment-9-9" pos="word" morph="none" start_char="1469" end_char="1472">with</TOKEN>
+  <TOKEN id="segment-9-10" pos="word" morph="none" start_char="1474" end_char="1484">cockroaches</TOKEN>
+  <TOKEN id="segment-9-11" pos="word" morph="none" start_char="1486" end_char="1488">and</TOKEN>
+  <TOKEN id="segment-9-12" pos="word" morph="none" start_char="1490" end_char="1497">evidence</TOKEN>
+  <TOKEN id="segment-9-13" pos="word" morph="none" start_char="1499" end_char="1500">of</TOKEN>
+  <TOKEN id="segment-9-14" pos="word" morph="none" start_char="1502" end_char="1508">rodents</TOKEN>
+  <TOKEN id="segment-9-15" pos="word" morph="none" start_char="1509" end_char="1509">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1512" end_char="1651">
+  <ORIGINAL_TEXT>They also discovered emails and records that food products containing salmonella, proven in lab tests, had been shipped to customers anyway.</ORIGINAL_TEXT>
+  <TOKEN id="segment-10-0" pos="word" morph="none" start_char="1512" end_char="1515">They</TOKEN>
+  <TOKEN id="segment-10-1" pos="word" morph="none" start_char="1517" end_char="1520">also</TOKEN>
+  <TOKEN id="segment-10-2" pos="word" morph="none" start_char="1522" end_char="1531">discovered</TOKEN>
+  <TOKEN id="segment-10-3" pos="word" morph="none" start_char="1533" end_char="1538">emails</TOKEN>
+  <TOKEN id="segment-10-4" pos="word" morph="none" start_char="1540" end_char="1542">and</TOKEN>
+  <TOKEN id="segment-10-5" pos="word" morph="none" start_char="1544" end_char="1550">records</TOKEN>
+  <TOKEN id="segment-10-6" pos="word" morph="none" start_char="1552" end_char="1555">that</TOKEN>
+  <TOKEN id="segment-10-7" pos="word" morph="none" start_char="1557" end_char="1560">food</TOKEN>
+  <TOKEN id="segment-10-8" pos="word" morph="none" start_char="1562" end_char="1569">products</TOKEN>
+  <TOKEN id="segment-10-9" pos="word" morph="none" start_char="1571" end_char="1580">containing</TOKEN>
+  <TOKEN id="segment-10-10" pos="word" morph="none" start_char="1582" end_char="1591">salmonella</TOKEN>
+  <TOKEN id="segment-10-11" pos="word" morph="none" start_char="1592" end_char="1592">,</TOKEN>
+  <TOKEN id="segment-10-12" pos="word" morph="none" start_char="1594" end_char="1599">proven</TOKEN>
+  <TOKEN id="segment-10-13" pos="word" morph="none" start_char="1601" end_char="1602">in</TOKEN>
+  <TOKEN id="segment-10-14" pos="word" morph="none" start_char="1604" end_char="1606">lab</TOKEN>
+  <TOKEN id="segment-10-15" pos="word" morph="none" start_char="1608" end_char="1612">tests</TOKEN>
+  <TOKEN id="segment-10-16" pos="word" morph="none" start_char="1613" end_char="1613">,</TOKEN>
+  <TOKEN id="segment-10-17" pos="word" morph="none" start_char="1615" end_char="1617">had</TOKEN>
+  <TOKEN id="segment-10-18" pos="word" morph="none" start_char="1619" end_char="1622">been</TOKEN>
+  <TOKEN id="segment-10-19" pos="word" morph="none" start_char="1624" end_char="1630">shipped</TOKEN>
+  <TOKEN id="segment-10-20" pos="word" morph="none" start_char="1632" end_char="1633">to</TOKEN>
+  <TOKEN id="segment-10-21" pos="word" morph="none" start_char="1635" end_char="1643">customers</TOKEN>
+  <TOKEN id="segment-10-22" pos="word" morph="none" start_char="1645" end_char="1650">anyway</TOKEN>
+  <TOKEN id="segment-10-23" pos="word" morph="none" start_char="1651" end_char="1651">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1654" end_char="1784">
+  <ORIGINAL_TEXT>Other batches of product were not tested but were shipped to customers with lacking lab records assuring they were salmonella-free.</ORIGINAL_TEXT>
+  <TOKEN id="segment-11-0" pos="word" morph="none" start_char="1654" end_char="1658">Other</TOKEN>
+  <TOKEN id="segment-11-1" pos="word" morph="none" start_char="1660" end_char="1666">batches</TOKEN>
+  <TOKEN id="segment-11-2" pos="word" morph="none" start_char="1668" end_char="1669">of</TOKEN>
+  <TOKEN id="segment-11-3" pos="word" morph="none" start_char="1671" end_char="1677">product</TOKEN>
+  <TOKEN id="segment-11-4" pos="word" morph="none" start_char="1679" end_char="1682">were</TOKEN>
+  <TOKEN id="segment-11-5" pos="word" morph="none" start_char="1684" end_char="1686">not</TOKEN>
+  <TOKEN id="segment-11-6" pos="word" morph="none" start_char="1688" end_char="1693">tested</TOKEN>
+  <TOKEN id="segment-11-7" pos="word" morph="none" start_char="1695" end_char="1697">but</TOKEN>
+  <TOKEN id="segment-11-8" pos="word" morph="none" start_char="1699" end_char="1702">were</TOKEN>
+  <TOKEN id="segment-11-9" pos="word" morph="none" start_char="1704" end_char="1710">shipped</TOKEN>
+  <TOKEN id="segment-11-10" pos="word" morph="none" start_char="1712" end_char="1713">to</TOKEN>
+  <TOKEN id="segment-11-11" pos="word" morph="none" start_char="1715" end_char="1723">customers</TOKEN>
+  <TOKEN id="segment-11-12" pos="word" morph="none" start_char="1725" end_char="1728">with</TOKEN>
+  <TOKEN id="segment-11-13" pos="word" morph="none" start_char="1730" end_char="1736">lacking</TOKEN>
+  <TOKEN id="segment-11-14" pos="word" morph="none" start_char="1738" end_char="1740">lab</TOKEN>
+  <TOKEN id="segment-11-15" pos="word" morph="none" start_char="1742" end_char="1748">records</TOKEN>
+  <TOKEN id="segment-11-16" pos="word" morph="none" start_char="1750" end_char="1757">assuring</TOKEN>
+  <TOKEN id="segment-11-17" pos="word" morph="none" start_char="1759" end_char="1762">they</TOKEN>
+  <TOKEN id="segment-11-18" pos="word" morph="none" start_char="1764" end_char="1767">were</TOKEN>
+  <TOKEN id="segment-11-19" pos="word" morph="none" start_char="1769" end_char="1778">salmonella</TOKEN>
+  <TOKEN id="segment-11-20" pos="word" morph="none" start_char="1779" end_char="1779">-</TOKEN>
+  <TOKEN id="segment-11-21" pos="word" morph="none" start_char="1780" end_char="1783">free</TOKEN>
+  <TOKEN id="segment-11-22" pos="word" morph="none" start_char="1784" end_char="1784">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1787" end_char="1819">
+  <ORIGINAL_TEXT>In a court order Friday, Judge W.</ORIGINAL_TEXT>
+  <TOKEN id="segment-12-0" pos="word" morph="none" start_char="1787" end_char="1788">In</TOKEN>
+  <TOKEN id="segment-12-1" pos="word" morph="none" start_char="1790" end_char="1790">a</TOKEN>
+  <TOKEN id="segment-12-2" pos="word" morph="none" start_char="1792" end_char="1796">court</TOKEN>
+  <TOKEN id="segment-12-3" pos="word" morph="none" start_char="1798" end_char="1802">order</TOKEN>
+  <TOKEN id="segment-12-4" pos="word" morph="none" start_char="1804" end_char="1809">Friday</TOKEN>
+  <TOKEN id="segment-12-5" pos="word" morph="none" start_char="1810" end_char="1810">,</TOKEN>
+  <TOKEN id="segment-12-6" pos="word" morph="none" start_char="1812" end_char="1816">Judge</TOKEN>
+  <TOKEN id="segment-12-7" pos="word" morph="none" start_char="1818" end_char="1819">W.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1822" end_char="1944">
+  <ORIGINAL_TEXT>Louis Sands indicated that Stewart Parnell faces a possible prison sentence of up to 9,636 months, equivalent to 803 years.</ORIGINAL_TEXT>
+  <TOKEN id="segment-13-0" pos="word" morph="none" start_char="1822" end_char="1826">Louis</TOKEN>
+  <TOKEN id="segment-13-1" pos="word" morph="none" start_char="1828" end_char="1832">Sands</TOKEN>
+  <TOKEN id="segment-13-2" pos="word" morph="none" start_char="1834" end_char="1842">indicated</TOKEN>
+  <TOKEN id="segment-13-3" pos="word" morph="none" start_char="1844" end_char="1847">that</TOKEN>
+  <TOKEN id="segment-13-4" pos="word" morph="none" start_char="1849" end_char="1855">Stewart</TOKEN>
+  <TOKEN id="segment-13-5" pos="word" morph="none" start_char="1857" end_char="1863">Parnell</TOKEN>
+  <TOKEN id="segment-13-6" pos="word" morph="none" start_char="1865" end_char="1869">faces</TOKEN>
+  <TOKEN id="segment-13-7" pos="word" morph="none" start_char="1871" end_char="1871">a</TOKEN>
+  <TOKEN id="segment-13-8" pos="word" morph="none" start_char="1873" end_char="1880">possible</TOKEN>
+  <TOKEN id="segment-13-9" pos="word" morph="none" start_char="1882" end_char="1887">prison</TOKEN>
+  <TOKEN id="segment-13-10" pos="word" morph="none" start_char="1889" end_char="1896">sentence</TOKEN>
+  <TOKEN id="segment-13-11" pos="word" morph="none" start_char="1898" end_char="1899">of</TOKEN>
+  <TOKEN id="segment-13-12" pos="word" morph="none" start_char="1901" end_char="1902">up</TOKEN>
+  <TOKEN id="segment-13-13" pos="word" morph="none" start_char="1904" end_char="1905">to</TOKEN>
+  <TOKEN id="segment-13-14" pos="word" morph="none" start_char="1907" end_char="1911">9,636</TOKEN>
+  <TOKEN id="segment-13-15" pos="word" morph="none" start_char="1913" end_char="1918">months</TOKEN>
+  <TOKEN id="segment-13-16" pos="word" morph="none" start_char="1919" end_char="1919">,</TOKEN>
+  <TOKEN id="segment-13-17" pos="word" morph="none" start_char="1921" end_char="1930">equivalent</TOKEN>
+  <TOKEN id="segment-13-18" pos="word" morph="none" start_char="1932" end_char="1933">to</TOKEN>
+  <TOKEN id="segment-13-19" pos="word" morph="none" start_char="1935" end_char="1937">803</TOKEN>
+  <TOKEN id="segment-13-20" pos="word" morph="none" start_char="1939" end_char="1943">years</TOKEN>
+  <TOKEN id="segment-13-21" pos="word" morph="none" start_char="1944" end_char="1944">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1947" end_char="2207">
+  <ORIGINAL_TEXT>The office that prepares pre-sentencing reports to guide federal judges recommended the harsh sentence based on the number of sick and estimates that the outbreak, which triggered one of the largest food recalls in US history, cost Parnell clients $144 million.</ORIGINAL_TEXT>
+  <TOKEN id="segment-14-0" pos="word" morph="none" start_char="1947" end_char="1949">The</TOKEN>
+  <TOKEN id="segment-14-1" pos="word" morph="none" start_char="1951" end_char="1956">office</TOKEN>
+  <TOKEN id="segment-14-2" pos="word" morph="none" start_char="1958" end_char="1961">that</TOKEN>
+  <TOKEN id="segment-14-3" pos="word" morph="none" start_char="1963" end_char="1970">prepares</TOKEN>
+  <TOKEN id="segment-14-4" pos="word" morph="none" start_char="1972" end_char="1974">pre</TOKEN>
+  <TOKEN id="segment-14-5" pos="word" morph="none" start_char="1975" end_char="1975">-</TOKEN>
+  <TOKEN id="segment-14-6" pos="word" morph="none" start_char="1976" end_char="1985">sentencing</TOKEN>
+  <TOKEN id="segment-14-7" pos="word" morph="none" start_char="1987" end_char="1993">reports</TOKEN>
+  <TOKEN id="segment-14-8" pos="word" morph="none" start_char="1995" end_char="1996">to</TOKEN>
+  <TOKEN id="segment-14-9" pos="word" morph="none" start_char="1998" end_char="2002">guide</TOKEN>
+  <TOKEN id="segment-14-10" pos="word" morph="none" start_char="2004" end_char="2010">federal</TOKEN>
+  <TOKEN id="segment-14-11" pos="word" morph="none" start_char="2012" end_char="2017">judges</TOKEN>
+  <TOKEN id="segment-14-12" pos="word" morph="none" start_char="2019" end_char="2029">recommended</TOKEN>
+  <TOKEN id="segment-14-13" pos="word" morph="none" start_char="2031" end_char="2033">the</TOKEN>
+  <TOKEN id="segment-14-14" pos="word" morph="none" start_char="2035" end_char="2039">harsh</TOKEN>
+  <TOKEN id="segment-14-15" pos="word" morph="none" start_char="2041" end_char="2048">sentence</TOKEN>
+  <TOKEN id="segment-14-16" pos="word" morph="none" start_char="2050" end_char="2054">based</TOKEN>
+  <TOKEN id="segment-14-17" pos="word" morph="none" start_char="2056" end_char="2057">on</TOKEN>
+  <TOKEN id="segment-14-18" pos="word" morph="none" start_char="2059" end_char="2061">the</TOKEN>
+  <TOKEN id="segment-14-19" pos="word" morph="none" start_char="2063" end_char="2068">number</TOKEN>
+  <TOKEN id="segment-14-20" pos="word" morph="none" start_char="2070" end_char="2071">of</TOKEN>
+  <TOKEN id="segment-14-21" pos="word" morph="none" start_char="2073" end_char="2076">sick</TOKEN>
+  <TOKEN id="segment-14-22" pos="word" morph="none" start_char="2078" end_char="2080">and</TOKEN>
+  <TOKEN id="segment-14-23" pos="word" morph="none" start_char="2082" end_char="2090">estimates</TOKEN>
+  <TOKEN id="segment-14-24" pos="word" morph="none" start_char="2092" end_char="2095">that</TOKEN>
+  <TOKEN id="segment-14-25" pos="word" morph="none" start_char="2097" end_char="2099">the</TOKEN>
+  <TOKEN id="segment-14-26" pos="word" morph="none" start_char="2101" end_char="2108">outbreak</TOKEN>
+  <TOKEN id="segment-14-27" pos="word" morph="none" start_char="2109" end_char="2109">,</TOKEN>
+  <TOKEN id="segment-14-28" pos="word" morph="none" start_char="2111" end_char="2115">which</TOKEN>
+  <TOKEN id="segment-14-29" pos="word" morph="none" start_char="2117" end_char="2125">triggered</TOKEN>
+  <TOKEN id="segment-14-30" pos="word" morph="none" start_char="2127" end_char="2129">one</TOKEN>
+  <TOKEN id="segment-14-31" pos="word" morph="none" start_char="2131" end_char="2132">of</TOKEN>
+  <TOKEN id="segment-14-32" pos="word" morph="none" start_char="2134" end_char="2136">the</TOKEN>
+  <TOKEN id="segment-14-33" pos="word" morph="none" start_char="2138" end_char="2144">largest</TOKEN>
+  <TOKEN id="segment-14-34" pos="word" morph="none" start_char="2146" end_char="2149">food</TOKEN>
+  <TOKEN id="segment-14-35" pos="word" morph="none" start_char="2151" end_char="2157">recalls</TOKEN>
+  <TOKEN id="segment-14-36" pos="word" morph="none" start_char="2159" end_char="2160">in</TOKEN>
+  <TOKEN id="segment-14-37" pos="word" morph="none" start_char="2162" end_char="2163">US</TOKEN>
+  <TOKEN id="segment-14-38" pos="word" morph="none" start_char="2165" end_char="2171">history</TOKEN>
+  <TOKEN id="segment-14-39" pos="word" morph="none" start_char="2172" end_char="2172">,</TOKEN>
+  <TOKEN id="segment-14-40" pos="word" morph="none" start_char="2174" end_char="2177">cost</TOKEN>
+  <TOKEN id="segment-14-41" pos="word" morph="none" start_char="2179" end_char="2185">Parnell</TOKEN>
+  <TOKEN id="segment-14-42" pos="word" morph="none" start_char="2187" end_char="2193">clients</TOKEN>
+  <TOKEN id="segment-14-43" pos="word" morph="none" start_char="2195" end_char="2195">$</TOKEN>
+  <TOKEN id="segment-14-44" pos="word" morph="none" start_char="2196" end_char="2198">144</TOKEN>
+  <TOKEN id="segment-14-45" pos="word" morph="none" start_char="2200" end_char="2206">million</TOKEN>
+  <TOKEN id="segment-14-46" pos="word" morph="none" start_char="2207" end_char="2207">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2210" end_char="2266">
+  <ORIGINAL_TEXT>The judge has the authority to impose a lighter sentence.</ORIGINAL_TEXT>
+  <TOKEN id="segment-15-0" pos="word" morph="none" start_char="2210" end_char="2212">The</TOKEN>
+  <TOKEN id="segment-15-1" pos="word" morph="none" start_char="2214" end_char="2218">judge</TOKEN>
+  <TOKEN id="segment-15-2" pos="word" morph="none" start_char="2220" end_char="2222">has</TOKEN>
+  <TOKEN id="segment-15-3" pos="word" morph="none" start_char="2224" end_char="2226">the</TOKEN>
+  <TOKEN id="segment-15-4" pos="word" morph="none" start_char="2228" end_char="2236">authority</TOKEN>
+  <TOKEN id="segment-15-5" pos="word" morph="none" start_char="2238" end_char="2239">to</TOKEN>
+  <TOKEN id="segment-15-6" pos="word" morph="none" start_char="2241" end_char="2246">impose</TOKEN>
+  <TOKEN id="segment-15-7" pos="word" morph="none" start_char="2248" end_char="2248">a</TOKEN>
+  <TOKEN id="segment-15-8" pos="word" morph="none" start_char="2250" end_char="2256">lighter</TOKEN>
+  <TOKEN id="segment-15-9" pos="word" morph="none" start_char="2258" end_char="2265">sentence</TOKEN>
+  <TOKEN id="segment-15-10" pos="word" morph="none" start_char="2266" end_char="2266">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2269" end_char="2480">
+  <ORIGINAL_TEXT>Randy Napier, whose 80-year-old mother in Ohio died of salmonella poisoning after eating tainted peanut butter from the Parnell plant, said he will testify at the hearing and ask the magistrate not to show mercy.</ORIGINAL_TEXT>
+  <TOKEN id="segment-16-0" pos="word" morph="none" start_char="2269" end_char="2273">Randy</TOKEN>
+  <TOKEN id="segment-16-1" pos="word" morph="none" start_char="2275" end_char="2280">Napier</TOKEN>
+  <TOKEN id="segment-16-2" pos="word" morph="none" start_char="2281" end_char="2281">,</TOKEN>
+  <TOKEN id="segment-16-3" pos="word" morph="none" start_char="2283" end_char="2287">whose</TOKEN>
+  <TOKEN id="segment-16-4" pos="word" morph="none" start_char="2289" end_char="2295">80-year</TOKEN>
+  <TOKEN id="segment-16-5" pos="word" morph="none" start_char="2296" end_char="2296">-</TOKEN>
+  <TOKEN id="segment-16-6" pos="word" morph="none" start_char="2297" end_char="2299">old</TOKEN>
+  <TOKEN id="segment-16-7" pos="word" morph="none" start_char="2301" end_char="2306">mother</TOKEN>
+  <TOKEN id="segment-16-8" pos="word" morph="none" start_char="2308" end_char="2309">in</TOKEN>
+  <TOKEN id="segment-16-9" pos="word" morph="none" start_char="2311" end_char="2314">Ohio</TOKEN>
+  <TOKEN id="segment-16-10" pos="word" morph="none" start_char="2316" end_char="2319">died</TOKEN>
+  <TOKEN id="segment-16-11" pos="word" morph="none" start_char="2321" end_char="2322">of</TOKEN>
+  <TOKEN id="segment-16-12" pos="word" morph="none" start_char="2324" end_char="2333">salmonella</TOKEN>
+  <TOKEN id="segment-16-13" pos="word" morph="none" start_char="2335" end_char="2343">poisoning</TOKEN>
+  <TOKEN id="segment-16-14" pos="word" morph="none" start_char="2345" end_char="2349">after</TOKEN>
+  <TOKEN id="segment-16-15" pos="word" morph="none" start_char="2351" end_char="2356">eating</TOKEN>
+  <TOKEN id="segment-16-16" pos="word" morph="none" start_char="2358" end_char="2364">tainted</TOKEN>
+  <TOKEN id="segment-16-17" pos="word" morph="none" start_char="2366" end_char="2371">peanut</TOKEN>
+  <TOKEN id="segment-16-18" pos="word" morph="none" start_char="2373" end_char="2378">butter</TOKEN>
+  <TOKEN id="segment-16-19" pos="word" morph="none" start_char="2380" end_char="2383">from</TOKEN>
+  <TOKEN id="segment-16-20" pos="word" morph="none" start_char="2385" end_char="2387">the</TOKEN>
+  <TOKEN id="segment-16-21" pos="word" morph="none" start_char="2389" end_char="2395">Parnell</TOKEN>
+  <TOKEN id="segment-16-22" pos="word" morph="none" start_char="2397" end_char="2401">plant</TOKEN>
+  <TOKEN id="segment-16-23" pos="word" morph="none" start_char="2402" end_char="2402">,</TOKEN>
+  <TOKEN id="segment-16-24" pos="word" morph="none" start_char="2404" end_char="2407">said</TOKEN>
+  <TOKEN id="segment-16-25" pos="word" morph="none" start_char="2409" end_char="2410">he</TOKEN>
+  <TOKEN id="segment-16-26" pos="word" morph="none" start_char="2412" end_char="2415">will</TOKEN>
+  <TOKEN id="segment-16-27" pos="word" morph="none" start_char="2417" end_char="2423">testify</TOKEN>
+  <TOKEN id="segment-16-28" pos="word" morph="none" start_char="2425" end_char="2426">at</TOKEN>
+  <TOKEN id="segment-16-29" pos="word" morph="none" start_char="2428" end_char="2430">the</TOKEN>
+  <TOKEN id="segment-16-30" pos="word" morph="none" start_char="2432" end_char="2438">hearing</TOKEN>
+  <TOKEN id="segment-16-31" pos="word" morph="none" start_char="2440" end_char="2442">and</TOKEN>
+  <TOKEN id="segment-16-32" pos="word" morph="none" start_char="2444" end_char="2446">ask</TOKEN>
+  <TOKEN id="segment-16-33" pos="word" morph="none" start_char="2448" end_char="2450">the</TOKEN>
+  <TOKEN id="segment-16-34" pos="word" morph="none" start_char="2452" end_char="2461">magistrate</TOKEN>
+  <TOKEN id="segment-16-35" pos="word" morph="none" start_char="2463" end_char="2465">not</TOKEN>
+  <TOKEN id="segment-16-36" pos="word" morph="none" start_char="2467" end_char="2468">to</TOKEN>
+  <TOKEN id="segment-16-37" pos="word" morph="none" start_char="2470" end_char="2473">show</TOKEN>
+  <TOKEN id="segment-16-38" pos="word" morph="none" start_char="2475" end_char="2479">mercy</TOKEN>
+  <TOKEN id="segment-16-39" pos="word" morph="none" start_char="2480" end_char="2480">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2483" end_char="2578">
+  <ORIGINAL_TEXT>"We need to send a message to these food processors," the Durham, North Carolina, resident said.</ORIGINAL_TEXT>
+  <TOKEN id="segment-17-0" pos="word" morph="none" start_char="2483" end_char="2483">"</TOKEN>
+  <TOKEN id="segment-17-1" pos="word" morph="none" start_char="2484" end_char="2485">We</TOKEN>
+  <TOKEN id="segment-17-2" pos="word" morph="none" start_char="2487" end_char="2490">need</TOKEN>
+  <TOKEN id="segment-17-3" pos="word" morph="none" start_char="2492" end_char="2493">to</TOKEN>
+  <TOKEN id="segment-17-4" pos="word" morph="none" start_char="2495" end_char="2498">send</TOKEN>
+  <TOKEN id="segment-17-5" pos="word" morph="none" start_char="2500" end_char="2500">a</TOKEN>
+  <TOKEN id="segment-17-6" pos="word" morph="none" start_char="2502" end_char="2508">message</TOKEN>
+  <TOKEN id="segment-17-7" pos="word" morph="none" start_char="2510" end_char="2511">to</TOKEN>
+  <TOKEN id="segment-17-8" pos="word" morph="none" start_char="2513" end_char="2517">these</TOKEN>
+  <TOKEN id="segment-17-9" pos="word" morph="none" start_char="2519" end_char="2522">food</TOKEN>
+  <TOKEN id="segment-17-10" pos="word" morph="none" start_char="2524" end_char="2533">processors</TOKEN>
+  <TOKEN id="segment-17-11" pos="word" morph="none" start_char="2534" end_char="2534">,</TOKEN>
+  <TOKEN id="segment-17-12" pos="word" morph="none" start_char="2535" end_char="2535">"</TOKEN>
+  <TOKEN id="segment-17-13" pos="word" morph="none" start_char="2537" end_char="2539">the</TOKEN>
+  <TOKEN id="segment-17-14" pos="word" morph="none" start_char="2541" end_char="2546">Durham</TOKEN>
+  <TOKEN id="segment-17-15" pos="word" morph="none" start_char="2547" end_char="2547">,</TOKEN>
+  <TOKEN id="segment-17-16" pos="word" morph="none" start_char="2549" end_char="2553">North</TOKEN>
+  <TOKEN id="segment-17-17" pos="word" morph="none" start_char="2555" end_char="2562">Carolina</TOKEN>
+  <TOKEN id="segment-17-18" pos="word" morph="none" start_char="2563" end_char="2563">,</TOKEN>
+  <TOKEN id="segment-17-19" pos="word" morph="none" start_char="2565" end_char="2572">resident</TOKEN>
+  <TOKEN id="segment-17-20" pos="word" morph="none" start_char="2574" end_char="2577">said</TOKEN>
+  <TOKEN id="segment-17-21" pos="word" morph="none" start_char="2578" end_char="2578">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2581" end_char="2657">
+  <ORIGINAL_TEXT>"No one else has to go through what we went through, watching my mother die."</ORIGINAL_TEXT>
+  <TOKEN id="segment-18-0" pos="word" morph="none" start_char="2581" end_char="2581">"</TOKEN>
+  <TOKEN id="segment-18-1" pos="word" morph="none" start_char="2582" end_char="2583">No</TOKEN>
+  <TOKEN id="segment-18-2" pos="word" morph="none" start_char="2585" end_char="2587">one</TOKEN>
+  <TOKEN id="segment-18-3" pos="word" morph="none" start_char="2589" end_char="2592">else</TOKEN>
+  <TOKEN id="segment-18-4" pos="word" morph="none" start_char="2594" end_char="2596">has</TOKEN>
+  <TOKEN id="segment-18-5" pos="word" morph="none" start_char="2598" end_char="2599">to</TOKEN>
+  <TOKEN id="segment-18-6" pos="word" morph="none" start_char="2601" end_char="2602">go</TOKEN>
+  <TOKEN id="segment-18-7" pos="word" morph="none" start_char="2604" end_char="2610">through</TOKEN>
+  <TOKEN id="segment-18-8" pos="word" morph="none" start_char="2612" end_char="2615">what</TOKEN>
+  <TOKEN id="segment-18-9" pos="word" morph="none" start_char="2617" end_char="2618">we</TOKEN>
+  <TOKEN id="segment-18-10" pos="word" morph="none" start_char="2620" end_char="2623">went</TOKEN>
+  <TOKEN id="segment-18-11" pos="word" morph="none" start_char="2625" end_char="2631">through</TOKEN>
+  <TOKEN id="segment-18-12" pos="word" morph="none" start_char="2632" end_char="2632">,</TOKEN>
+  <TOKEN id="segment-18-13" pos="word" morph="none" start_char="2634" end_char="2641">watching</TOKEN>
+  <TOKEN id="segment-18-14" pos="word" morph="none" start_char="2643" end_char="2644">my</TOKEN>
+  <TOKEN id="segment-18-15" pos="word" morph="none" start_char="2646" end_char="2651">mother</TOKEN>
+  <TOKEN id="segment-18-16" pos="word" morph="none" start_char="2653" end_char="2655">die</TOKEN>
+  <TOKEN id="segment-18-17" pos="word" morph="none" start_char="2656" end_char="2656">.</TOKEN>
+  <TOKEN id="segment-18-18" pos="word" morph="none" start_char="2657" end_char="2657">"</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2660" end_char="2672">
+  <ORIGINAL_TEXT>related notes</ORIGINAL_TEXT>
+  <TOKEN id="segment-19-0" pos="word" morph="none" start_char="2660" end_char="2666">related</TOKEN>
+  <TOKEN id="segment-19-1" pos="word" morph="none" start_char="2668" end_char="2672">notes</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="L0C04GC2M" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="54" raw_text_md5="b05de9094a1ccb4049730c6dd68c8533">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="47">
+<ORIGINAL_TEXT>Phoenix14News: NC Fair Leads To E-Coli Outbreak</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="13">Phoenix14News</TOKEN>
+<TOKEN id="token-0-1" pos="punct" morph="none" start_char="14" end_char="14">:</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="16" end_char="17">NC</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="19" end_char="22">Fair</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="24" end_char="28">Leads</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="30" end_char="31">To</TOKEN>
+<TOKEN id="token-0-6" pos="unknown" morph="none" start_char="33" end_char="38">E-Coli</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="40" end_char="47">Outbreak</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="L0C04GC2I" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="1213" raw_text_md5="06ce01b73092e2de1131730e30692844">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="21">
+<ORIGINAL_TEXT>Nacho Cheese Botulism</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="5">Nacho</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="7" end_char="12">Cheese</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="14" end_char="21">Botulism</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="26" end_char="55">
+<ORIGINAL_TEXT>Nacho Cheese Botulism Outbreak</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="26" end_char="30">Nacho</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="32" end_char="37">Cheese</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="39" end_char="46">Botulism</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="48" end_char="55">Outbreak</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="58" end_char="199">
+<ORIGINAL_TEXT>Nacho cheese sauce is the likely culprit in a botulism outbreak that has sickened at least five people who visited a Walnut Grove gas station.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="58" end_char="62">Nacho</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="64" end_char="69">cheese</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="71" end_char="75">sauce</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="77" end_char="78">is</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="80" end_char="82">the</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="84" end_char="89">likely</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="91" end_char="97">culprit</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="99" end_char="100">in</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="102" end_char="102">a</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="104" end_char="111">botulism</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="113" end_char="120">outbreak</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="122" end_char="125">that</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="127" end_char="129">has</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="131" end_char="138">sickened</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="140" end_char="141">at</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="143" end_char="147">least</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="149" end_char="152">five</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="154" end_char="159">people</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="161" end_char="163">who</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="165" end_char="171">visited</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="173" end_char="173">a</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="175" end_char="180">Walnut</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="182" end_char="186">Grove</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="188" end_char="190">gas</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="192" end_char="198">station</TOKEN>
+<TOKEN id="token-2-25" pos="punct" morph="none" start_char="199" end_char="199">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="201" end_char="381">
+<ORIGINAL_TEXT>Based on preliminary data, the source of their illnesses appears to be prepared food, particularly nacho cheese sauce, from the Valley Oak Food and Fuel gas station in Walnut Grove.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="201" end_char="205">Based</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="207" end_char="208">on</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="210" end_char="220">preliminary</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="222" end_char="225">data</TOKEN>
+<TOKEN id="token-3-4" pos="punct" morph="none" start_char="226" end_char="226">,</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="228" end_char="230">the</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="232" end_char="237">source</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="239" end_char="240">of</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="242" end_char="246">their</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="248" end_char="256">illnesses</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="258" end_char="264">appears</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="266" end_char="267">to</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="269" end_char="270">be</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="272" end_char="279">prepared</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="281" end_char="284">food</TOKEN>
+<TOKEN id="token-3-15" pos="punct" morph="none" start_char="285" end_char="285">,</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="287" end_char="298">particularly</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="300" end_char="304">nacho</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="306" end_char="311">cheese</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="313" end_char="317">sauce</TOKEN>
+<TOKEN id="token-3-20" pos="punct" morph="none" start_char="318" end_char="318">,</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="320" end_char="323">from</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="325" end_char="327">the</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="329" end_char="334">Valley</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="336" end_char="338">Oak</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="340" end_char="343">Food</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="345" end_char="347">and</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="349" end_char="352">Fuel</TOKEN>
+<TOKEN id="token-3-28" pos="word" morph="none" start_char="354" end_char="356">gas</TOKEN>
+<TOKEN id="token-3-29" pos="word" morph="none" start_char="358" end_char="364">station</TOKEN>
+<TOKEN id="token-3-30" pos="word" morph="none" start_char="366" end_char="367">in</TOKEN>
+<TOKEN id="token-3-31" pos="word" morph="none" start_char="369" end_char="374">Walnut</TOKEN>
+<TOKEN id="token-3-32" pos="word" morph="none" start_char="376" end_char="380">Grove</TOKEN>
+<TOKEN id="token-3-33" pos="punct" morph="none" start_char="381" end_char="381">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="383" end_char="506">
+<ORIGINAL_TEXT>The sale of prepared food at this location was halted on May 5, by Sacramento County Department of Environmental Management.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="383" end_char="385">The</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="387" end_char="390">sale</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="392" end_char="393">of</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="395" end_char="402">prepared</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="404" end_char="407">food</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="409" end_char="410">at</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="412" end_char="415">this</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="417" end_char="424">location</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="426" end_char="428">was</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="430" end_char="435">halted</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="437" end_char="438">on</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="440" end_char="442">May</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="444" end_char="444">5</TOKEN>
+<TOKEN id="token-4-13" pos="punct" morph="none" start_char="445" end_char="445">,</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="447" end_char="448">by</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="450" end_char="459">Sacramento</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="461" end_char="466">County</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="468" end_char="477">Department</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="479" end_char="480">of</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="482" end_char="494">Environmental</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="496" end_char="505">Management</TOKEN>
+<TOKEN id="token-4-21" pos="punct" morph="none" start_char="506" end_char="506">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="508" end_char="636">
+<ORIGINAL_TEXT>Botulism is a rare but serious paralytic illness caused by a nerve toxin that is produced by the bacterium Clostridium botulinum.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="508" end_char="515">Botulism</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="517" end_char="518">is</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="520" end_char="520">a</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="522" end_char="525">rare</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="527" end_char="529">but</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="531" end_char="537">serious</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="539" end_char="547">paralytic</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="549" end_char="555">illness</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="557" end_char="562">caused</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="564" end_char="565">by</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="567" end_char="567">a</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="569" end_char="573">nerve</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="575" end_char="579">toxin</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="581" end_char="584">that</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="586" end_char="587">is</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="589" end_char="596">produced</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="598" end_char="599">by</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="601" end_char="603">the</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="605" end_char="613">bacterium</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="615" end_char="625">Clostridium</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="627" end_char="635">botulinum</TOKEN>
+<TOKEN id="token-5-21" pos="punct" morph="none" start_char="636" end_char="636">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="638" end_char="777">
+<ORIGINAL_TEXT>Symptoms can include double vision, blurred vision, drooping eyelids, slurred speech, difficulty swallowing, dry mouth, and muscle weakness.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="638" end_char="645">Symptoms</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="647" end_char="649">can</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="651" end_char="657">include</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="659" end_char="664">double</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="666" end_char="671">vision</TOKEN>
+<TOKEN id="token-6-5" pos="punct" morph="none" start_char="672" end_char="672">,</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="674" end_char="680">blurred</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="682" end_char="687">vision</TOKEN>
+<TOKEN id="token-6-8" pos="punct" morph="none" start_char="688" end_char="688">,</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="690" end_char="697">drooping</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="699" end_char="705">eyelids</TOKEN>
+<TOKEN id="token-6-11" pos="punct" morph="none" start_char="706" end_char="706">,</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="708" end_char="714">slurred</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="716" end_char="721">speech</TOKEN>
+<TOKEN id="token-6-14" pos="punct" morph="none" start_char="722" end_char="722">,</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="724" end_char="733">difficulty</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="735" end_char="744">swallowing</TOKEN>
+<TOKEN id="token-6-17" pos="punct" morph="none" start_char="745" end_char="745">,</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="747" end_char="749">dry</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="751" end_char="755">mouth</TOKEN>
+<TOKEN id="token-6-20" pos="punct" morph="none" start_char="756" end_char="756">,</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="758" end_char="760">and</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="762" end_char="767">muscle</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="769" end_char="776">weakness</TOKEN>
+<TOKEN id="token-6-24" pos="punct" morph="none" start_char="777" end_char="777">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="779" end_char="997">
+<ORIGINAL_TEXT>Persons who consumed prepared food, particularly nacho cheese sauce, from Valley Oak Food and Fuel gas station from April 23, 2017 through May 5, 2017 and have symptoms should contact their medical provider immediately.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="779" end_char="785">Persons</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="787" end_char="789">who</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="791" end_char="798">consumed</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="800" end_char="807">prepared</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="809" end_char="812">food</TOKEN>
+<TOKEN id="token-7-5" pos="punct" morph="none" start_char="813" end_char="813">,</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="815" end_char="826">particularly</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="828" end_char="832">nacho</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="834" end_char="839">cheese</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="841" end_char="845">sauce</TOKEN>
+<TOKEN id="token-7-10" pos="punct" morph="none" start_char="846" end_char="846">,</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="848" end_char="851">from</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="853" end_char="858">Valley</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="860" end_char="862">Oak</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="864" end_char="867">Food</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="869" end_char="871">and</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="873" end_char="876">Fuel</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="878" end_char="880">gas</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="882" end_char="888">station</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="890" end_char="893">from</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="895" end_char="899">April</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="901" end_char="902">23</TOKEN>
+<TOKEN id="token-7-22" pos="punct" morph="none" start_char="903" end_char="903">,</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="905" end_char="908">2017</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="910" end_char="916">through</TOKEN>
+<TOKEN id="token-7-25" pos="word" morph="none" start_char="918" end_char="920">May</TOKEN>
+<TOKEN id="token-7-26" pos="word" morph="none" start_char="922" end_char="922">5</TOKEN>
+<TOKEN id="token-7-27" pos="punct" morph="none" start_char="923" end_char="923">,</TOKEN>
+<TOKEN id="token-7-28" pos="word" morph="none" start_char="925" end_char="928">2017</TOKEN>
+<TOKEN id="token-7-29" pos="word" morph="none" start_char="930" end_char="932">and</TOKEN>
+<TOKEN id="token-7-30" pos="word" morph="none" start_char="934" end_char="937">have</TOKEN>
+<TOKEN id="token-7-31" pos="word" morph="none" start_char="939" end_char="946">symptoms</TOKEN>
+<TOKEN id="token-7-32" pos="word" morph="none" start_char="948" end_char="953">should</TOKEN>
+<TOKEN id="token-7-33" pos="word" morph="none" start_char="955" end_char="961">contact</TOKEN>
+<TOKEN id="token-7-34" pos="word" morph="none" start_char="963" end_char="967">their</TOKEN>
+<TOKEN id="token-7-35" pos="word" morph="none" start_char="969" end_char="975">medical</TOKEN>
+<TOKEN id="token-7-36" pos="word" morph="none" start_char="977" end_char="984">provider</TOKEN>
+<TOKEN id="token-7-37" pos="word" morph="none" start_char="986" end_char="996">immediately</TOKEN>
+<TOKEN id="token-7-38" pos="punct" morph="none" start_char="997" end_char="997">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="999" end_char="1208">
+<ORIGINAL_TEXT>If you or a family member became ill with a Hepatitis A infection after consuming food and you’re interested in pursuing a legal claim, contact the Marler Clark Hepatitis A attorneys for a free case evaluation.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="999" end_char="1000">If</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1002" end_char="1004">you</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1006" end_char="1007">or</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1009" end_char="1009">a</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1011" end_char="1016">family</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1018" end_char="1023">member</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1025" end_char="1030">became</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1032" end_char="1034">ill</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1036" end_char="1039">with</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1041" end_char="1041">a</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1043" end_char="1051">Hepatitis</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1053" end_char="1053">A</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1055" end_char="1063">infection</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1065" end_char="1069">after</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1071" end_char="1079">consuming</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1081" end_char="1084">food</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1086" end_char="1088">and</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1090" end_char="1095">you’re</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1097" end_char="1106">interested</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1108" end_char="1109">in</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1111" end_char="1118">pursuing</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1120" end_char="1120">a</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="1122" end_char="1126">legal</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1128" end_char="1132">claim</TOKEN>
+<TOKEN id="token-8-24" pos="punct" morph="none" start_char="1133" end_char="1133">,</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1135" end_char="1141">contact</TOKEN>
+<TOKEN id="token-8-26" pos="word" morph="none" start_char="1143" end_char="1145">the</TOKEN>
+<TOKEN id="token-8-27" pos="word" morph="none" start_char="1147" end_char="1152">Marler</TOKEN>
+<TOKEN id="token-8-28" pos="word" morph="none" start_char="1154" end_char="1158">Clark</TOKEN>
+<TOKEN id="token-8-29" pos="word" morph="none" start_char="1160" end_char="1168">Hepatitis</TOKEN>
+<TOKEN id="token-8-30" pos="word" morph="none" start_char="1170" end_char="1170">A</TOKEN>
+<TOKEN id="token-8-31" pos="word" morph="none" start_char="1172" end_char="1180">attorneys</TOKEN>
+<TOKEN id="token-8-32" pos="word" morph="none" start_char="1182" end_char="1184">for</TOKEN>
+<TOKEN id="token-8-33" pos="word" morph="none" start_char="1186" end_char="1186">a</TOKEN>
+<TOKEN id="token-8-34" pos="word" morph="none" start_char="1188" end_char="1191">free</TOKEN>
+<TOKEN id="token-8-35" pos="word" morph="none" start_char="1193" end_char="1196">case</TOKEN>
+<TOKEN id="token-8-36" pos="word" morph="none" start_char="1198" end_char="1207">evaluation</TOKEN>
+<TOKEN id="token-8-37" pos="punct" morph="none" start_char="1208" end_char="1208">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

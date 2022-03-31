@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng"><DOC id="L0C04FL7F" lang="eng" tokenization="unknown" grammar="none" raw_text_char_length="1279" raw_text_md5="unknown">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="56">
+  <ORIGINAL_TEXT>California: 1 person dies from botulism linked to cheese</ORIGINAL_TEXT>
+  <TOKEN id="segment-0-0" pos="word" morph="none" start_char="1" end_char="10">California</TOKEN>
+  <TOKEN id="segment-0-1" pos="word" morph="none" start_char="11" end_char="11">:</TOKEN>
+  <TOKEN id="segment-0-2" pos="word" morph="none" start_char="13" end_char="13">1</TOKEN>
+  <TOKEN id="segment-0-3" pos="word" morph="none" start_char="15" end_char="20">person</TOKEN>
+  <TOKEN id="segment-0-4" pos="word" morph="none" start_char="22" end_char="25">dies</TOKEN>
+  <TOKEN id="segment-0-5" pos="word" morph="none" start_char="27" end_char="30">from</TOKEN>
+  <TOKEN id="segment-0-6" pos="word" morph="none" start_char="32" end_char="39">botulism</TOKEN>
+  <TOKEN id="segment-0-7" pos="word" morph="none" start_char="41" end_char="46">linked</TOKEN>
+  <TOKEN id="segment-0-8" pos="word" morph="none" start_char="48" end_char="49">to</TOKEN>
+  <TOKEN id="segment-0-9" pos="word" morph="none" start_char="51" end_char="56">cheese</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="59" end_char="262">
+  <ORIGINAL_TEXT>SACRAMENTO, Calif. (AP) - A botulism outbreak linked to nacho cheese sauce sold at a California gas station has already killed one man and hospitalized at least nine people, health officials said Tuesday.</ORIGINAL_TEXT>
+  <TOKEN id="segment-1-0" pos="word" morph="none" start_char="59" end_char="68">SACRAMENTO</TOKEN>
+  <TOKEN id="segment-1-1" pos="word" morph="none" start_char="69" end_char="69">,</TOKEN>
+  <TOKEN id="segment-1-2" pos="word" morph="none" start_char="71" end_char="76">Calif.</TOKEN>
+  <TOKEN id="segment-1-3" pos="word" morph="none" start_char="78" end_char="78">(</TOKEN>
+  <TOKEN id="segment-1-4" pos="word" morph="none" start_char="79" end_char="80">AP</TOKEN>
+  <TOKEN id="segment-1-5" pos="word" morph="none" start_char="81" end_char="81">)</TOKEN>
+  <TOKEN id="segment-1-6" pos="word" morph="none" start_char="83" end_char="83">-</TOKEN>
+  <TOKEN id="segment-1-7" pos="word" morph="none" start_char="85" end_char="85">A</TOKEN>
+  <TOKEN id="segment-1-8" pos="word" morph="none" start_char="87" end_char="94">botulism</TOKEN>
+  <TOKEN id="segment-1-9" pos="word" morph="none" start_char="96" end_char="103">outbreak</TOKEN>
+  <TOKEN id="segment-1-10" pos="word" morph="none" start_char="105" end_char="110">linked</TOKEN>
+  <TOKEN id="segment-1-11" pos="word" morph="none" start_char="112" end_char="113">to</TOKEN>
+  <TOKEN id="segment-1-12" pos="word" morph="none" start_char="115" end_char="119">nacho</TOKEN>
+  <TOKEN id="segment-1-13" pos="word" morph="none" start_char="121" end_char="126">cheese</TOKEN>
+  <TOKEN id="segment-1-14" pos="word" morph="none" start_char="128" end_char="132">sauce</TOKEN>
+  <TOKEN id="segment-1-15" pos="word" morph="none" start_char="134" end_char="137">sold</TOKEN>
+  <TOKEN id="segment-1-16" pos="word" morph="none" start_char="139" end_char="140">at</TOKEN>
+  <TOKEN id="segment-1-17" pos="word" morph="none" start_char="142" end_char="142">a</TOKEN>
+  <TOKEN id="segment-1-18" pos="word" morph="none" start_char="144" end_char="153">California</TOKEN>
+  <TOKEN id="segment-1-19" pos="word" morph="none" start_char="155" end_char="157">gas</TOKEN>
+  <TOKEN id="segment-1-20" pos="word" morph="none" start_char="159" end_char="165">station</TOKEN>
+  <TOKEN id="segment-1-21" pos="word" morph="none" start_char="167" end_char="169">has</TOKEN>
+  <TOKEN id="segment-1-22" pos="word" morph="none" start_char="171" end_char="177">already</TOKEN>
+  <TOKEN id="segment-1-23" pos="word" morph="none" start_char="179" end_char="184">killed</TOKEN>
+  <TOKEN id="segment-1-24" pos="word" morph="none" start_char="186" end_char="188">one</TOKEN>
+  <TOKEN id="segment-1-25" pos="word" morph="none" start_char="190" end_char="192">man</TOKEN>
+  <TOKEN id="segment-1-26" pos="word" morph="none" start_char="194" end_char="196">and</TOKEN>
+  <TOKEN id="segment-1-27" pos="word" morph="none" start_char="198" end_char="209">hospitalized</TOKEN>
+  <TOKEN id="segment-1-28" pos="word" morph="none" start_char="211" end_char="212">at</TOKEN>
+  <TOKEN id="segment-1-29" pos="word" morph="none" start_char="214" end_char="218">least</TOKEN>
+  <TOKEN id="segment-1-30" pos="word" morph="none" start_char="220" end_char="223">nine</TOKEN>
+  <TOKEN id="segment-1-31" pos="word" morph="none" start_char="225" end_char="230">people</TOKEN>
+  <TOKEN id="segment-1-32" pos="word" morph="none" start_char="231" end_char="231">,</TOKEN>
+  <TOKEN id="segment-1-33" pos="word" morph="none" start_char="233" end_char="238">health</TOKEN>
+  <TOKEN id="segment-1-34" pos="word" morph="none" start_char="240" end_char="248">officials</TOKEN>
+  <TOKEN id="segment-1-35" pos="word" morph="none" start_char="250" end_char="253">said</TOKEN>
+  <TOKEN id="segment-1-36" pos="word" morph="none" start_char="255" end_char="261">Tuesday</TOKEN>
+  <TOKEN id="segment-1-37" pos="word" morph="none" start_char="262" end_char="262">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="265" end_char="356">
+  <ORIGINAL_TEXT>The San Francisco coroner's office identified the dead man as Martin Galindo Larios Jr., 37.</ORIGINAL_TEXT>
+  <TOKEN id="segment-2-0" pos="word" morph="none" start_char="265" end_char="267">The</TOKEN>
+  <TOKEN id="segment-2-1" pos="word" morph="none" start_char="269" end_char="271">San</TOKEN>
+  <TOKEN id="segment-2-2" pos="word" morph="none" start_char="273" end_char="281">Francisco</TOKEN>
+  <TOKEN id="segment-2-3" pos="word" morph="none" start_char="283" end_char="289">coroner</TOKEN>
+  <TOKEN id="segment-2-4" pos="word" morph="none" start_char="290" end_char="291">'s</TOKEN>
+  <TOKEN id="segment-2-5" pos="word" morph="none" start_char="293" end_char="298">office</TOKEN>
+  <TOKEN id="segment-2-6" pos="word" morph="none" start_char="300" end_char="309">identified</TOKEN>
+  <TOKEN id="segment-2-7" pos="word" morph="none" start_char="311" end_char="313">the</TOKEN>
+  <TOKEN id="segment-2-8" pos="word" morph="none" start_char="315" end_char="318">dead</TOKEN>
+  <TOKEN id="segment-2-9" pos="word" morph="none" start_char="320" end_char="322">man</TOKEN>
+  <TOKEN id="segment-2-10" pos="word" morph="none" start_char="324" end_char="325">as</TOKEN>
+  <TOKEN id="segment-2-11" pos="word" morph="none" start_char="327" end_char="332">Martin</TOKEN>
+  <TOKEN id="segment-2-12" pos="word" morph="none" start_char="334" end_char="340">Galindo</TOKEN>
+  <TOKEN id="segment-2-13" pos="word" morph="none" start_char="342" end_char="347">Larios</TOKEN>
+  <TOKEN id="segment-2-14" pos="word" morph="none" start_char="349" end_char="351">Jr.</TOKEN>
+  <TOKEN id="segment-2-15" pos="word" morph="none" start_char="352" end_char="352">,</TOKEN>
+  <TOKEN id="segment-2-16" pos="word" morph="none" start_char="354" end_char="355">37</TOKEN>
+  <TOKEN id="segment-2-17" pos="word" morph="none" start_char="356" end_char="356">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="359" end_char="554">
+  <ORIGINAL_TEXT>Matt Conens, a spokesman for the California Department of Health, declined to reveal more details about the death, the conditions of the other patients or the status of the outbreak investigation.</ORIGINAL_TEXT>
+  <TOKEN id="segment-3-0" pos="word" morph="none" start_char="359" end_char="362">Matt</TOKEN>
+  <TOKEN id="segment-3-1" pos="word" morph="none" start_char="364" end_char="369">Conens</TOKEN>
+  <TOKEN id="segment-3-2" pos="word" morph="none" start_char="370" end_char="370">,</TOKEN>
+  <TOKEN id="segment-3-3" pos="word" morph="none" start_char="372" end_char="372">a</TOKEN>
+  <TOKEN id="segment-3-4" pos="word" morph="none" start_char="374" end_char="382">spokesman</TOKEN>
+  <TOKEN id="segment-3-5" pos="word" morph="none" start_char="384" end_char="386">for</TOKEN>
+  <TOKEN id="segment-3-6" pos="word" morph="none" start_char="388" end_char="390">the</TOKEN>
+  <TOKEN id="segment-3-7" pos="word" morph="none" start_char="392" end_char="401">California</TOKEN>
+  <TOKEN id="segment-3-8" pos="word" morph="none" start_char="403" end_char="412">Department</TOKEN>
+  <TOKEN id="segment-3-9" pos="word" morph="none" start_char="414" end_char="415">of</TOKEN>
+  <TOKEN id="segment-3-10" pos="word" morph="none" start_char="417" end_char="422">Health</TOKEN>
+  <TOKEN id="segment-3-11" pos="word" morph="none" start_char="423" end_char="423">,</TOKEN>
+  <TOKEN id="segment-3-12" pos="word" morph="none" start_char="425" end_char="432">declined</TOKEN>
+  <TOKEN id="segment-3-13" pos="word" morph="none" start_char="434" end_char="435">to</TOKEN>
+  <TOKEN id="segment-3-14" pos="word" morph="none" start_char="437" end_char="442">reveal</TOKEN>
+  <TOKEN id="segment-3-15" pos="word" morph="none" start_char="444" end_char="447">more</TOKEN>
+  <TOKEN id="segment-3-16" pos="word" morph="none" start_char="449" end_char="455">details</TOKEN>
+  <TOKEN id="segment-3-17" pos="word" morph="none" start_char="457" end_char="461">about</TOKEN>
+  <TOKEN id="segment-3-18" pos="word" morph="none" start_char="463" end_char="465">the</TOKEN>
+  <TOKEN id="segment-3-19" pos="word" morph="none" start_char="467" end_char="471">death</TOKEN>
+  <TOKEN id="segment-3-20" pos="word" morph="none" start_char="472" end_char="472">,</TOKEN>
+  <TOKEN id="segment-3-21" pos="word" morph="none" start_char="474" end_char="476">the</TOKEN>
+  <TOKEN id="segment-3-22" pos="word" morph="none" start_char="478" end_char="487">conditions</TOKEN>
+  <TOKEN id="segment-3-23" pos="word" morph="none" start_char="489" end_char="490">of</TOKEN>
+  <TOKEN id="segment-3-24" pos="word" morph="none" start_char="492" end_char="494">the</TOKEN>
+  <TOKEN id="segment-3-25" pos="word" morph="none" start_char="496" end_char="500">other</TOKEN>
+  <TOKEN id="segment-3-26" pos="word" morph="none" start_char="502" end_char="509">patients</TOKEN>
+  <TOKEN id="segment-3-27" pos="word" morph="none" start_char="511" end_char="512">or</TOKEN>
+  <TOKEN id="segment-3-28" pos="word" morph="none" start_char="514" end_char="516">the</TOKEN>
+  <TOKEN id="segment-3-29" pos="word" morph="none" start_char="518" end_char="523">status</TOKEN>
+  <TOKEN id="segment-3-30" pos="word" morph="none" start_char="525" end_char="526">of</TOKEN>
+  <TOKEN id="segment-3-31" pos="word" morph="none" start_char="528" end_char="530">the</TOKEN>
+  <TOKEN id="segment-3-32" pos="word" morph="none" start_char="532" end_char="539">outbreak</TOKEN>
+  <TOKEN id="segment-3-33" pos="word" morph="none" start_char="541" end_char="553">investigation</TOKEN>
+  <TOKEN id="segment-3-34" pos="word" morph="none" start_char="554" end_char="554">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="557" end_char="680">
+  <ORIGINAL_TEXT>Tests confirmed the presence of botulinum toxin in cheese dip sold at a gas station in Walnut Grove, a suburb of Sacramento.</ORIGINAL_TEXT>
+  <TOKEN id="segment-4-0" pos="word" morph="none" start_char="557" end_char="561">Tests</TOKEN>
+  <TOKEN id="segment-4-1" pos="word" morph="none" start_char="563" end_char="571">confirmed</TOKEN>
+  <TOKEN id="segment-4-2" pos="word" morph="none" start_char="573" end_char="575">the</TOKEN>
+  <TOKEN id="segment-4-3" pos="word" morph="none" start_char="577" end_char="584">presence</TOKEN>
+  <TOKEN id="segment-4-4" pos="word" morph="none" start_char="586" end_char="587">of</TOKEN>
+  <TOKEN id="segment-4-5" pos="word" morph="none" start_char="589" end_char="597">botulinum</TOKEN>
+  <TOKEN id="segment-4-6" pos="word" morph="none" start_char="599" end_char="603">toxin</TOKEN>
+  <TOKEN id="segment-4-7" pos="word" morph="none" start_char="605" end_char="606">in</TOKEN>
+  <TOKEN id="segment-4-8" pos="word" morph="none" start_char="608" end_char="613">cheese</TOKEN>
+  <TOKEN id="segment-4-9" pos="word" morph="none" start_char="615" end_char="617">dip</TOKEN>
+  <TOKEN id="segment-4-10" pos="word" morph="none" start_char="619" end_char="622">sold</TOKEN>
+  <TOKEN id="segment-4-11" pos="word" morph="none" start_char="624" end_char="625">at</TOKEN>
+  <TOKEN id="segment-4-12" pos="word" morph="none" start_char="627" end_char="627">a</TOKEN>
+  <TOKEN id="segment-4-13" pos="word" morph="none" start_char="629" end_char="631">gas</TOKEN>
+  <TOKEN id="segment-4-14" pos="word" morph="none" start_char="633" end_char="639">station</TOKEN>
+  <TOKEN id="segment-4-15" pos="word" morph="none" start_char="641" end_char="642">in</TOKEN>
+  <TOKEN id="segment-4-16" pos="word" morph="none" start_char="644" end_char="649">Walnut</TOKEN>
+  <TOKEN id="segment-4-17" pos="word" morph="none" start_char="651" end_char="655">Grove</TOKEN>
+  <TOKEN id="segment-4-18" pos="word" morph="none" start_char="656" end_char="656">,</TOKEN>
+  <TOKEN id="segment-4-19" pos="word" morph="none" start_char="658" end_char="658">a</TOKEN>
+  <TOKEN id="segment-4-20" pos="word" morph="none" start_char="660" end_char="665">suburb</TOKEN>
+  <TOKEN id="segment-4-21" pos="word" morph="none" start_char="667" end_char="668">of</TOKEN>
+  <TOKEN id="segment-4-22" pos="word" morph="none" start_char="670" end_char="679">Sacramento</TOKEN>
+  <TOKEN id="segment-4-23" pos="word" morph="none" start_char="680" end_char="680">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="683" end_char="888">
+  <ORIGINAL_TEXT>The California Department of Health said last week that the container and cheese sauce were removed from the site on May 5 and that officials believe there is no further risk of contamination to the public.</ORIGINAL_TEXT>
+  <TOKEN id="segment-5-0" pos="word" morph="none" start_char="683" end_char="685">The</TOKEN>
+  <TOKEN id="segment-5-1" pos="word" morph="none" start_char="687" end_char="696">California</TOKEN>
+  <TOKEN id="segment-5-2" pos="word" morph="none" start_char="698" end_char="707">Department</TOKEN>
+  <TOKEN id="segment-5-3" pos="word" morph="none" start_char="709" end_char="710">of</TOKEN>
+  <TOKEN id="segment-5-4" pos="word" morph="none" start_char="712" end_char="717">Health</TOKEN>
+  <TOKEN id="segment-5-5" pos="word" morph="none" start_char="719" end_char="722">said</TOKEN>
+  <TOKEN id="segment-5-6" pos="word" morph="none" start_char="724" end_char="727">last</TOKEN>
+  <TOKEN id="segment-5-7" pos="word" morph="none" start_char="729" end_char="732">week</TOKEN>
+  <TOKEN id="segment-5-8" pos="word" morph="none" start_char="734" end_char="737">that</TOKEN>
+  <TOKEN id="segment-5-9" pos="word" morph="none" start_char="739" end_char="741">the</TOKEN>
+  <TOKEN id="segment-5-10" pos="word" morph="none" start_char="743" end_char="751">container</TOKEN>
+  <TOKEN id="segment-5-11" pos="word" morph="none" start_char="753" end_char="755">and</TOKEN>
+  <TOKEN id="segment-5-12" pos="word" morph="none" start_char="757" end_char="762">cheese</TOKEN>
+  <TOKEN id="segment-5-13" pos="word" morph="none" start_char="764" end_char="768">sauce</TOKEN>
+  <TOKEN id="segment-5-14" pos="word" morph="none" start_char="770" end_char="773">were</TOKEN>
+  <TOKEN id="segment-5-15" pos="word" morph="none" start_char="775" end_char="781">removed</TOKEN>
+  <TOKEN id="segment-5-16" pos="word" morph="none" start_char="783" end_char="786">from</TOKEN>
+  <TOKEN id="segment-5-17" pos="word" morph="none" start_char="788" end_char="790">the</TOKEN>
+  <TOKEN id="segment-5-18" pos="word" morph="none" start_char="792" end_char="795">site</TOKEN>
+  <TOKEN id="segment-5-19" pos="word" morph="none" start_char="797" end_char="798">on</TOKEN>
+  <TOKEN id="segment-5-20" pos="word" morph="none" start_char="800" end_char="802">May</TOKEN>
+  <TOKEN id="segment-5-21" pos="word" morph="none" start_char="804" end_char="804">5</TOKEN>
+  <TOKEN id="segment-5-22" pos="word" morph="none" start_char="806" end_char="808">and</TOKEN>
+  <TOKEN id="segment-5-23" pos="word" morph="none" start_char="810" end_char="813">that</TOKEN>
+  <TOKEN id="segment-5-24" pos="word" morph="none" start_char="815" end_char="823">officials</TOKEN>
+  <TOKEN id="segment-5-25" pos="word" morph="none" start_char="825" end_char="831">believe</TOKEN>
+  <TOKEN id="segment-5-26" pos="word" morph="none" start_char="833" end_char="837">there</TOKEN>
+  <TOKEN id="segment-5-27" pos="word" morph="none" start_char="839" end_char="840">is</TOKEN>
+  <TOKEN id="segment-5-28" pos="word" morph="none" start_char="842" end_char="843">no</TOKEN>
+  <TOKEN id="segment-5-29" pos="word" morph="none" start_char="845" end_char="851">further</TOKEN>
+  <TOKEN id="segment-5-30" pos="word" morph="none" start_char="853" end_char="856">risk</TOKEN>
+  <TOKEN id="segment-5-31" pos="word" morph="none" start_char="858" end_char="859">of</TOKEN>
+  <TOKEN id="segment-5-32" pos="word" morph="none" start_char="861" end_char="873">contamination</TOKEN>
+  <TOKEN id="segment-5-33" pos="word" morph="none" start_char="875" end_char="876">to</TOKEN>
+  <TOKEN id="segment-5-34" pos="word" morph="none" start_char="878" end_char="880">the</TOKEN>
+  <TOKEN id="segment-5-35" pos="word" morph="none" start_char="882" end_char="887">public</TOKEN>
+  <TOKEN id="segment-5-36" pos="word" morph="none" start_char="888" end_char="888">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="891" end_char="1087">
+  <ORIGINAL_TEXT>Food distributor Gehl Foods said it received notification from the Food and Drug Administration (FDA) that the company's cheese sauce was among the products seized by the agency at the gas station.</ORIGINAL_TEXT>
+  <TOKEN id="segment-6-0" pos="word" morph="none" start_char="891" end_char="894">Food</TOKEN>
+  <TOKEN id="segment-6-1" pos="word" morph="none" start_char="896" end_char="906">distributor</TOKEN>
+  <TOKEN id="segment-6-2" pos="word" morph="none" start_char="908" end_char="911">Gehl</TOKEN>
+  <TOKEN id="segment-6-3" pos="word" morph="none" start_char="913" end_char="917">Foods</TOKEN>
+  <TOKEN id="segment-6-4" pos="word" morph="none" start_char="919" end_char="922">said</TOKEN>
+  <TOKEN id="segment-6-5" pos="word" morph="none" start_char="924" end_char="925">it</TOKEN>
+  <TOKEN id="segment-6-6" pos="word" morph="none" start_char="927" end_char="934">received</TOKEN>
+  <TOKEN id="segment-6-7" pos="word" morph="none" start_char="936" end_char="947">notification</TOKEN>
+  <TOKEN id="segment-6-8" pos="word" morph="none" start_char="949" end_char="952">from</TOKEN>
+  <TOKEN id="segment-6-9" pos="word" morph="none" start_char="954" end_char="956">the</TOKEN>
+  <TOKEN id="segment-6-10" pos="word" morph="none" start_char="958" end_char="961">Food</TOKEN>
+  <TOKEN id="segment-6-11" pos="word" morph="none" start_char="963" end_char="965">and</TOKEN>
+  <TOKEN id="segment-6-12" pos="word" morph="none" start_char="967" end_char="970">Drug</TOKEN>
+  <TOKEN id="segment-6-13" pos="word" morph="none" start_char="972" end_char="985">Administration</TOKEN>
+  <TOKEN id="segment-6-14" pos="word" morph="none" start_char="987" end_char="987">(</TOKEN>
+  <TOKEN id="segment-6-15" pos="word" morph="none" start_char="988" end_char="990">FDA</TOKEN>
+  <TOKEN id="segment-6-16" pos="word" morph="none" start_char="991" end_char="991">)</TOKEN>
+  <TOKEN id="segment-6-17" pos="word" morph="none" start_char="993" end_char="996">that</TOKEN>
+  <TOKEN id="segment-6-18" pos="word" morph="none" start_char="998" end_char="1000">the</TOKEN>
+  <TOKEN id="segment-6-19" pos="word" morph="none" start_char="1002" end_char="1008">company</TOKEN>
+  <TOKEN id="segment-6-20" pos="word" morph="none" start_char="1009" end_char="1010">'s</TOKEN>
+  <TOKEN id="segment-6-21" pos="word" morph="none" start_char="1012" end_char="1017">cheese</TOKEN>
+  <TOKEN id="segment-6-22" pos="word" morph="none" start_char="1019" end_char="1023">sauce</TOKEN>
+  <TOKEN id="segment-6-23" pos="word" morph="none" start_char="1025" end_char="1027">was</TOKEN>
+  <TOKEN id="segment-6-24" pos="word" morph="none" start_char="1029" end_char="1033">among</TOKEN>
+  <TOKEN id="segment-6-25" pos="word" morph="none" start_char="1035" end_char="1037">the</TOKEN>
+  <TOKEN id="segment-6-26" pos="word" morph="none" start_char="1039" end_char="1046">products</TOKEN>
+  <TOKEN id="segment-6-27" pos="word" morph="none" start_char="1048" end_char="1053">seized</TOKEN>
+  <TOKEN id="segment-6-28" pos="word" morph="none" start_char="1055" end_char="1056">by</TOKEN>
+  <TOKEN id="segment-6-29" pos="word" morph="none" start_char="1058" end_char="1060">the</TOKEN>
+  <TOKEN id="segment-6-30" pos="word" morph="none" start_char="1062" end_char="1067">agency</TOKEN>
+  <TOKEN id="segment-6-31" pos="word" morph="none" start_char="1069" end_char="1070">at</TOKEN>
+  <TOKEN id="segment-6-32" pos="word" morph="none" start_char="1072" end_char="1074">the</TOKEN>
+  <TOKEN id="segment-6-33" pos="word" morph="none" start_char="1076" end_char="1078">gas</TOKEN>
+  <TOKEN id="segment-6-34" pos="word" morph="none" start_char="1080" end_char="1086">station</TOKEN>
+  <TOKEN id="segment-6-35" pos="word" morph="none" start_char="1087" end_char="1087">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1090" end_char="1202">
+  <ORIGINAL_TEXT>The manufacturer also said that an independent laboratory found no trace of the toxin in the samples it examined.</ORIGINAL_TEXT>
+  <TOKEN id="segment-7-0" pos="word" morph="none" start_char="1090" end_char="1092">The</TOKEN>
+  <TOKEN id="segment-7-1" pos="word" morph="none" start_char="1094" end_char="1105">manufacturer</TOKEN>
+  <TOKEN id="segment-7-2" pos="word" morph="none" start_char="1107" end_char="1110">also</TOKEN>
+  <TOKEN id="segment-7-3" pos="word" morph="none" start_char="1112" end_char="1115">said</TOKEN>
+  <TOKEN id="segment-7-4" pos="word" morph="none" start_char="1117" end_char="1120">that</TOKEN>
+  <TOKEN id="segment-7-5" pos="word" morph="none" start_char="1122" end_char="1123">an</TOKEN>
+  <TOKEN id="segment-7-6" pos="word" morph="none" start_char="1125" end_char="1135">independent</TOKEN>
+  <TOKEN id="segment-7-7" pos="word" morph="none" start_char="1137" end_char="1146">laboratory</TOKEN>
+  <TOKEN id="segment-7-8" pos="word" morph="none" start_char="1148" end_char="1152">found</TOKEN>
+  <TOKEN id="segment-7-9" pos="word" morph="none" start_char="1154" end_char="1155">no</TOKEN>
+  <TOKEN id="segment-7-10" pos="word" morph="none" start_char="1157" end_char="1161">trace</TOKEN>
+  <TOKEN id="segment-7-11" pos="word" morph="none" start_char="1163" end_char="1164">of</TOKEN>
+  <TOKEN id="segment-7-12" pos="word" morph="none" start_char="1166" end_char="1168">the</TOKEN>
+  <TOKEN id="segment-7-13" pos="word" morph="none" start_char="1170" end_char="1174">toxin</TOKEN>
+  <TOKEN id="segment-7-14" pos="word" morph="none" start_char="1176" end_char="1177">in</TOKEN>
+  <TOKEN id="segment-7-15" pos="word" morph="none" start_char="1179" end_char="1181">the</TOKEN>
+  <TOKEN id="segment-7-16" pos="word" morph="none" start_char="1183" end_char="1189">samples</TOKEN>
+  <TOKEN id="segment-7-17" pos="word" morph="none" start_char="1191" end_char="1192">it</TOKEN>
+  <TOKEN id="segment-7-18" pos="word" morph="none" start_char="1194" end_char="1201">examined</TOKEN>
+  <TOKEN id="segment-7-19" pos="word" morph="none" start_char="1202" end_char="1202">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1205" end_char="1268">
+  <ORIGINAL_TEXT>There is no recall of the product in question, the company said.</ORIGINAL_TEXT>
+  <TOKEN id="segment-8-0" pos="word" morph="none" start_char="1205" end_char="1209">There</TOKEN>
+  <TOKEN id="segment-8-1" pos="word" morph="none" start_char="1211" end_char="1212">is</TOKEN>
+  <TOKEN id="segment-8-2" pos="word" morph="none" start_char="1214" end_char="1215">no</TOKEN>
+  <TOKEN id="segment-8-3" pos="word" morph="none" start_char="1217" end_char="1222">recall</TOKEN>
+  <TOKEN id="segment-8-4" pos="word" morph="none" start_char="1224" end_char="1225">of</TOKEN>
+  <TOKEN id="segment-8-5" pos="word" morph="none" start_char="1227" end_char="1229">the</TOKEN>
+  <TOKEN id="segment-8-6" pos="word" morph="none" start_char="1231" end_char="1237">product</TOKEN>
+  <TOKEN id="segment-8-7" pos="word" morph="none" start_char="1239" end_char="1240">in</TOKEN>
+  <TOKEN id="segment-8-8" pos="word" morph="none" start_char="1242" end_char="1249">question</TOKEN>
+  <TOKEN id="segment-8-9" pos="word" morph="none" start_char="1250" end_char="1250">,</TOKEN>
+  <TOKEN id="segment-8-10" pos="word" morph="none" start_char="1252" end_char="1254">the</TOKEN>
+  <TOKEN id="segment-8-11" pos="word" morph="none" start_char="1256" end_char="1262">company</TOKEN>
+  <TOKEN id="segment-8-12" pos="word" morph="none" start_char="1264" end_char="1267">said</TOKEN>
+  <TOKEN id="segment-8-13" pos="word" morph="none" start_char="1268" end_char="1268">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

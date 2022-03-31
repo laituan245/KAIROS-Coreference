@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng"><DOC id="L0C04FQCG" lang="eng" tokenization="unknown" grammar="none" raw_text_char_length="2389" raw_text_md5="unknown">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="83">
+  <ORIGINAL_TEXT>Chipotle seeks to 'clean' its image after closing restaurants due to virus outbreak</ORIGINAL_TEXT>
+  <TOKEN id="segment-0-0" pos="word" morph="none" start_char="1" end_char="8">Chipotle</TOKEN>
+  <TOKEN id="segment-0-1" pos="word" morph="none" start_char="10" end_char="14">seeks</TOKEN>
+  <TOKEN id="segment-0-2" pos="word" morph="none" start_char="16" end_char="17">to</TOKEN>
+  <TOKEN id="segment-0-3" pos="word" morph="none" start_char="19" end_char="19">'</TOKEN>
+  <TOKEN id="segment-0-4" pos="word" morph="none" start_char="20" end_char="24">clean</TOKEN>
+  <TOKEN id="segment-0-5" pos="word" morph="none" start_char="25" end_char="25">'</TOKEN>
+  <TOKEN id="segment-0-6" pos="word" morph="none" start_char="27" end_char="29">its</TOKEN>
+  <TOKEN id="segment-0-7" pos="word" morph="none" start_char="31" end_char="35">image</TOKEN>
+  <TOKEN id="segment-0-8" pos="word" morph="none" start_char="37" end_char="41">after</TOKEN>
+  <TOKEN id="segment-0-9" pos="word" morph="none" start_char="43" end_char="49">closing</TOKEN>
+  <TOKEN id="segment-0-10" pos="word" morph="none" start_char="51" end_char="61">restaurants</TOKEN>
+  <TOKEN id="segment-0-11" pos="word" morph="none" start_char="63" end_char="65">due</TOKEN>
+  <TOKEN id="segment-0-12" pos="word" morph="none" start_char="67" end_char="68">to</TOKEN>
+  <TOKEN id="segment-0-13" pos="word" morph="none" start_char="70" end_char="74">virus</TOKEN>
+  <TOKEN id="segment-0-14" pos="word" morph="none" start_char="76" end_char="83">outbreak</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="86" end_char="257">
+  <ORIGINAL_TEXT>With a brand value of around 4,442 million dollars according to Kantar Millward Brown; shares in the first days of the week of Chipotle registered a decline of 6.83 percent</ORIGINAL_TEXT>
+  <TOKEN id="segment-1-0" pos="word" morph="none" start_char="86" end_char="89">With</TOKEN>
+  <TOKEN id="segment-1-1" pos="word" morph="none" start_char="91" end_char="91">a</TOKEN>
+  <TOKEN id="segment-1-2" pos="word" morph="none" start_char="93" end_char="97">brand</TOKEN>
+  <TOKEN id="segment-1-3" pos="word" morph="none" start_char="99" end_char="103">value</TOKEN>
+  <TOKEN id="segment-1-4" pos="word" morph="none" start_char="105" end_char="106">of</TOKEN>
+  <TOKEN id="segment-1-5" pos="word" morph="none" start_char="108" end_char="113">around</TOKEN>
+  <TOKEN id="segment-1-6" pos="word" morph="none" start_char="115" end_char="119">4,442</TOKEN>
+  <TOKEN id="segment-1-7" pos="word" morph="none" start_char="121" end_char="127">million</TOKEN>
+  <TOKEN id="segment-1-8" pos="word" morph="none" start_char="129" end_char="135">dollars</TOKEN>
+  <TOKEN id="segment-1-9" pos="word" morph="none" start_char="137" end_char="145">according</TOKEN>
+  <TOKEN id="segment-1-10" pos="word" morph="none" start_char="147" end_char="148">to</TOKEN>
+  <TOKEN id="segment-1-11" pos="word" morph="none" start_char="150" end_char="155">Kantar</TOKEN>
+  <TOKEN id="segment-1-12" pos="word" morph="none" start_char="157" end_char="164">Millward</TOKEN>
+  <TOKEN id="segment-1-13" pos="word" morph="none" start_char="166" end_char="170">Brown</TOKEN>
+  <TOKEN id="segment-1-14" pos="word" morph="none" start_char="171" end_char="171">;</TOKEN>
+  <TOKEN id="segment-1-15" pos="word" morph="none" start_char="173" end_char="178">shares</TOKEN>
+  <TOKEN id="segment-1-16" pos="word" morph="none" start_char="180" end_char="181">in</TOKEN>
+  <TOKEN id="segment-1-17" pos="word" morph="none" start_char="183" end_char="185">the</TOKEN>
+  <TOKEN id="segment-1-18" pos="word" morph="none" start_char="187" end_char="191">first</TOKEN>
+  <TOKEN id="segment-1-19" pos="word" morph="none" start_char="193" end_char="196">days</TOKEN>
+  <TOKEN id="segment-1-20" pos="word" morph="none" start_char="198" end_char="199">of</TOKEN>
+  <TOKEN id="segment-1-21" pos="word" morph="none" start_char="201" end_char="203">the</TOKEN>
+  <TOKEN id="segment-1-22" pos="word" morph="none" start_char="205" end_char="208">week</TOKEN>
+  <TOKEN id="segment-1-23" pos="word" morph="none" start_char="210" end_char="211">of</TOKEN>
+  <TOKEN id="segment-1-24" pos="word" morph="none" start_char="213" end_char="220">Chipotle</TOKEN>
+  <TOKEN id="segment-1-25" pos="word" morph="none" start_char="222" end_char="231">registered</TOKEN>
+  <TOKEN id="segment-1-26" pos="word" morph="none" start_char="233" end_char="233">a</TOKEN>
+  <TOKEN id="segment-1-27" pos="word" morph="none" start_char="235" end_char="241">decline</TOKEN>
+  <TOKEN id="segment-1-28" pos="word" morph="none" start_char="243" end_char="244">of</TOKEN>
+  <TOKEN id="segment-1-29" pos="word" morph="none" start_char="246" end_char="249">6.83</TOKEN>
+  <TOKEN id="segment-1-30" pos="word" morph="none" start_char="251" end_char="257">percent</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="260" end_char="488">
+  <ORIGINAL_TEXT>In mid-2015, the Mexican restaurant in the United States, Chipotle, had a 2.2 percent market share in the United States within the fast food sector, according to IBISWorld; at the time, McDonald's led the segment with 17 percent.</ORIGINAL_TEXT>
+  <TOKEN id="segment-2-0" pos="word" morph="none" start_char="260" end_char="261">In</TOKEN>
+  <TOKEN id="segment-2-1" pos="word" morph="none" start_char="263" end_char="270">mid-2015</TOKEN>
+  <TOKEN id="segment-2-2" pos="word" morph="none" start_char="271" end_char="271">,</TOKEN>
+  <TOKEN id="segment-2-3" pos="word" morph="none" start_char="273" end_char="275">the</TOKEN>
+  <TOKEN id="segment-2-4" pos="word" morph="none" start_char="277" end_char="283">Mexican</TOKEN>
+  <TOKEN id="segment-2-5" pos="word" morph="none" start_char="285" end_char="294">restaurant</TOKEN>
+  <TOKEN id="segment-2-6" pos="word" morph="none" start_char="296" end_char="297">in</TOKEN>
+  <TOKEN id="segment-2-7" pos="word" morph="none" start_char="299" end_char="301">the</TOKEN>
+  <TOKEN id="segment-2-8" pos="word" morph="none" start_char="303" end_char="308">United</TOKEN>
+  <TOKEN id="segment-2-9" pos="word" morph="none" start_char="310" end_char="315">States</TOKEN>
+  <TOKEN id="segment-2-10" pos="word" morph="none" start_char="316" end_char="316">,</TOKEN>
+  <TOKEN id="segment-2-11" pos="word" morph="none" start_char="318" end_char="325">Chipotle</TOKEN>
+  <TOKEN id="segment-2-12" pos="word" morph="none" start_char="326" end_char="326">,</TOKEN>
+  <TOKEN id="segment-2-13" pos="word" morph="none" start_char="328" end_char="330">had</TOKEN>
+  <TOKEN id="segment-2-14" pos="word" morph="none" start_char="332" end_char="332">a</TOKEN>
+  <TOKEN id="segment-2-15" pos="word" morph="none" start_char="334" end_char="336">2.2</TOKEN>
+  <TOKEN id="segment-2-16" pos="word" morph="none" start_char="338" end_char="344">percent</TOKEN>
+  <TOKEN id="segment-2-17" pos="word" morph="none" start_char="346" end_char="351">market</TOKEN>
+  <TOKEN id="segment-2-18" pos="word" morph="none" start_char="353" end_char="357">share</TOKEN>
+  <TOKEN id="segment-2-19" pos="word" morph="none" start_char="359" end_char="360">in</TOKEN>
+  <TOKEN id="segment-2-20" pos="word" morph="none" start_char="362" end_char="364">the</TOKEN>
+  <TOKEN id="segment-2-21" pos="word" morph="none" start_char="366" end_char="371">United</TOKEN>
+  <TOKEN id="segment-2-22" pos="word" morph="none" start_char="373" end_char="378">States</TOKEN>
+  <TOKEN id="segment-2-23" pos="word" morph="none" start_char="380" end_char="385">within</TOKEN>
+  <TOKEN id="segment-2-24" pos="word" morph="none" start_char="387" end_char="389">the</TOKEN>
+  <TOKEN id="segment-2-25" pos="word" morph="none" start_char="391" end_char="394">fast</TOKEN>
+  <TOKEN id="segment-2-26" pos="word" morph="none" start_char="396" end_char="399">food</TOKEN>
+  <TOKEN id="segment-2-27" pos="word" morph="none" start_char="401" end_char="406">sector</TOKEN>
+  <TOKEN id="segment-2-28" pos="word" morph="none" start_char="407" end_char="407">,</TOKEN>
+  <TOKEN id="segment-2-29" pos="word" morph="none" start_char="409" end_char="417">according</TOKEN>
+  <TOKEN id="segment-2-30" pos="word" morph="none" start_char="419" end_char="420">to</TOKEN>
+  <TOKEN id="segment-2-31" pos="word" morph="none" start_char="422" end_char="430">IBISWorld</TOKEN>
+  <TOKEN id="segment-2-32" pos="word" morph="none" start_char="431" end_char="431">;</TOKEN>
+  <TOKEN id="segment-2-33" pos="word" morph="none" start_char="433" end_char="434">at</TOKEN>
+  <TOKEN id="segment-2-34" pos="word" morph="none" start_char="436" end_char="438">the</TOKEN>
+  <TOKEN id="segment-2-35" pos="word" morph="none" start_char="440" end_char="443">time</TOKEN>
+  <TOKEN id="segment-2-36" pos="word" morph="none" start_char="444" end_char="444">,</TOKEN>
+  <TOKEN id="segment-2-37" pos="word" morph="none" start_char="446" end_char="453">McDonald</TOKEN>
+  <TOKEN id="segment-2-38" pos="word" morph="none" start_char="454" end_char="455">'s</TOKEN>
+  <TOKEN id="segment-2-39" pos="word" morph="none" start_char="457" end_char="459">led</TOKEN>
+  <TOKEN id="segment-2-40" pos="word" morph="none" start_char="461" end_char="463">the</TOKEN>
+  <TOKEN id="segment-2-41" pos="word" morph="none" start_char="465" end_char="471">segment</TOKEN>
+  <TOKEN id="segment-2-42" pos="word" morph="none" start_char="473" end_char="476">with</TOKEN>
+  <TOKEN id="segment-2-43" pos="word" morph="none" start_char="478" end_char="479">17</TOKEN>
+  <TOKEN id="segment-2-44" pos="word" morph="none" start_char="481" end_char="487">percent</TOKEN>
+  <TOKEN id="segment-2-45" pos="word" morph="none" start_char="488" end_char="488">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="491" end_char="636">
+  <ORIGINAL_TEXT>However, at the end of that same year, the Mexican food company experienced a series of food misfortunes, which directly impacted its brand value.</ORIGINAL_TEXT>
+  <TOKEN id="segment-3-0" pos="word" morph="none" start_char="491" end_char="497">However</TOKEN>
+  <TOKEN id="segment-3-1" pos="word" morph="none" start_char="498" end_char="498">,</TOKEN>
+  <TOKEN id="segment-3-2" pos="word" morph="none" start_char="500" end_char="501">at</TOKEN>
+  <TOKEN id="segment-3-3" pos="word" morph="none" start_char="503" end_char="505">the</TOKEN>
+  <TOKEN id="segment-3-4" pos="word" morph="none" start_char="507" end_char="509">end</TOKEN>
+  <TOKEN id="segment-3-5" pos="word" morph="none" start_char="511" end_char="512">of</TOKEN>
+  <TOKEN id="segment-3-6" pos="word" morph="none" start_char="514" end_char="517">that</TOKEN>
+  <TOKEN id="segment-3-7" pos="word" morph="none" start_char="519" end_char="522">same</TOKEN>
+  <TOKEN id="segment-3-8" pos="word" morph="none" start_char="524" end_char="527">year</TOKEN>
+  <TOKEN id="segment-3-9" pos="word" morph="none" start_char="528" end_char="528">,</TOKEN>
+  <TOKEN id="segment-3-10" pos="word" morph="none" start_char="530" end_char="532">the</TOKEN>
+  <TOKEN id="segment-3-11" pos="word" morph="none" start_char="534" end_char="540">Mexican</TOKEN>
+  <TOKEN id="segment-3-12" pos="word" morph="none" start_char="542" end_char="545">food</TOKEN>
+  <TOKEN id="segment-3-13" pos="word" morph="none" start_char="547" end_char="553">company</TOKEN>
+  <TOKEN id="segment-3-14" pos="word" morph="none" start_char="555" end_char="565">experienced</TOKEN>
+  <TOKEN id="segment-3-15" pos="word" morph="none" start_char="567" end_char="567">a</TOKEN>
+  <TOKEN id="segment-3-16" pos="word" morph="none" start_char="569" end_char="574">series</TOKEN>
+  <TOKEN id="segment-3-17" pos="word" morph="none" start_char="576" end_char="577">of</TOKEN>
+  <TOKEN id="segment-3-18" pos="word" morph="none" start_char="579" end_char="582">food</TOKEN>
+  <TOKEN id="segment-3-19" pos="word" morph="none" start_char="584" end_char="594">misfortunes</TOKEN>
+  <TOKEN id="segment-3-20" pos="word" morph="none" start_char="595" end_char="595">,</TOKEN>
+  <TOKEN id="segment-3-21" pos="word" morph="none" start_char="597" end_char="601">which</TOKEN>
+  <TOKEN id="segment-3-22" pos="word" morph="none" start_char="603" end_char="610">directly</TOKEN>
+  <TOKEN id="segment-3-23" pos="word" morph="none" start_char="612" end_char="619">impacted</TOKEN>
+  <TOKEN id="segment-3-24" pos="word" morph="none" start_char="621" end_char="623">its</TOKEN>
+  <TOKEN id="segment-3-25" pos="word" morph="none" start_char="625" end_char="629">brand</TOKEN>
+  <TOKEN id="segment-3-26" pos="word" morph="none" start_char="631" end_char="635">value</TOKEN>
+  <TOKEN id="segment-3-27" pos="word" morph="none" start_char="636" end_char="636">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="639" end_char="861">
+  <ORIGINAL_TEXT>During this week Chipotle reported the reopening of one of its establishments in Ohio after authorities investigate reports of illness related to that business; the company, as a precautionary measure, had closed the store.</ORIGINAL_TEXT>
+  <TOKEN id="segment-4-0" pos="word" morph="none" start_char="639" end_char="644">During</TOKEN>
+  <TOKEN id="segment-4-1" pos="word" morph="none" start_char="646" end_char="649">this</TOKEN>
+  <TOKEN id="segment-4-2" pos="word" morph="none" start_char="651" end_char="654">week</TOKEN>
+  <TOKEN id="segment-4-3" pos="word" morph="none" start_char="656" end_char="663">Chipotle</TOKEN>
+  <TOKEN id="segment-4-4" pos="word" morph="none" start_char="665" end_char="672">reported</TOKEN>
+  <TOKEN id="segment-4-5" pos="word" morph="none" start_char="674" end_char="676">the</TOKEN>
+  <TOKEN id="segment-4-6" pos="word" morph="none" start_char="678" end_char="686">reopening</TOKEN>
+  <TOKEN id="segment-4-7" pos="word" morph="none" start_char="688" end_char="689">of</TOKEN>
+  <TOKEN id="segment-4-8" pos="word" morph="none" start_char="691" end_char="693">one</TOKEN>
+  <TOKEN id="segment-4-9" pos="word" morph="none" start_char="695" end_char="696">of</TOKEN>
+  <TOKEN id="segment-4-10" pos="word" morph="none" start_char="698" end_char="700">its</TOKEN>
+  <TOKEN id="segment-4-11" pos="word" morph="none" start_char="702" end_char="715">establishments</TOKEN>
+  <TOKEN id="segment-4-12" pos="word" morph="none" start_char="717" end_char="718">in</TOKEN>
+  <TOKEN id="segment-4-13" pos="word" morph="none" start_char="720" end_char="723">Ohio</TOKEN>
+  <TOKEN id="segment-4-14" pos="word" morph="none" start_char="725" end_char="729">after</TOKEN>
+  <TOKEN id="segment-4-15" pos="word" morph="none" start_char="731" end_char="741">authorities</TOKEN>
+  <TOKEN id="segment-4-16" pos="word" morph="none" start_char="743" end_char="753">investigate</TOKEN>
+  <TOKEN id="segment-4-17" pos="word" morph="none" start_char="755" end_char="761">reports</TOKEN>
+  <TOKEN id="segment-4-18" pos="word" morph="none" start_char="763" end_char="764">of</TOKEN>
+  <TOKEN id="segment-4-19" pos="word" morph="none" start_char="766" end_char="772">illness</TOKEN>
+  <TOKEN id="segment-4-20" pos="word" morph="none" start_char="774" end_char="780">related</TOKEN>
+  <TOKEN id="segment-4-21" pos="word" morph="none" start_char="782" end_char="783">to</TOKEN>
+  <TOKEN id="segment-4-22" pos="word" morph="none" start_char="785" end_char="788">that</TOKEN>
+  <TOKEN id="segment-4-23" pos="word" morph="none" start_char="790" end_char="797">business</TOKEN>
+  <TOKEN id="segment-4-24" pos="word" morph="none" start_char="798" end_char="798">;</TOKEN>
+  <TOKEN id="segment-4-25" pos="word" morph="none" start_char="800" end_char="802">the</TOKEN>
+  <TOKEN id="segment-4-26" pos="word" morph="none" start_char="804" end_char="810">company</TOKEN>
+  <TOKEN id="segment-4-27" pos="word" morph="none" start_char="811" end_char="811">,</TOKEN>
+  <TOKEN id="segment-4-28" pos="word" morph="none" start_char="813" end_char="814">as</TOKEN>
+  <TOKEN id="segment-4-29" pos="word" morph="none" start_char="816" end_char="816">a</TOKEN>
+  <TOKEN id="segment-4-30" pos="word" morph="none" start_char="818" end_char="830">precautionary</TOKEN>
+  <TOKEN id="segment-4-31" pos="word" morph="none" start_char="832" end_char="838">measure</TOKEN>
+  <TOKEN id="segment-4-32" pos="word" morph="none" start_char="839" end_char="839">,</TOKEN>
+  <TOKEN id="segment-4-33" pos="word" morph="none" start_char="841" end_char="843">had</TOKEN>
+  <TOKEN id="segment-4-34" pos="word" morph="none" start_char="845" end_char="850">closed</TOKEN>
+  <TOKEN id="segment-4-35" pos="word" morph="none" start_char="852" end_char="854">the</TOKEN>
+  <TOKEN id="segment-4-36" pos="word" morph="none" start_char="856" end_char="860">store</TOKEN>
+  <TOKEN id="segment-4-37" pos="word" morph="none" start_char="861" end_char="861">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="864" end_char="1039">
+  <ORIGINAL_TEXT>Likewise, it implemented its protocols in response to food safety, which include the replacement of food and the cleaning of the restaurant, according to various press reports.</ORIGINAL_TEXT>
+  <TOKEN id="segment-5-0" pos="word" morph="none" start_char="864" end_char="871">Likewise</TOKEN>
+  <TOKEN id="segment-5-1" pos="word" morph="none" start_char="872" end_char="872">,</TOKEN>
+  <TOKEN id="segment-5-2" pos="word" morph="none" start_char="874" end_char="875">it</TOKEN>
+  <TOKEN id="segment-5-3" pos="word" morph="none" start_char="877" end_char="887">implemented</TOKEN>
+  <TOKEN id="segment-5-4" pos="word" morph="none" start_char="889" end_char="891">its</TOKEN>
+  <TOKEN id="segment-5-5" pos="word" morph="none" start_char="893" end_char="901">protocols</TOKEN>
+  <TOKEN id="segment-5-6" pos="word" morph="none" start_char="903" end_char="904">in</TOKEN>
+  <TOKEN id="segment-5-7" pos="word" morph="none" start_char="906" end_char="913">response</TOKEN>
+  <TOKEN id="segment-5-8" pos="word" morph="none" start_char="915" end_char="916">to</TOKEN>
+  <TOKEN id="segment-5-9" pos="word" morph="none" start_char="918" end_char="921">food</TOKEN>
+  <TOKEN id="segment-5-10" pos="word" morph="none" start_char="923" end_char="928">safety</TOKEN>
+  <TOKEN id="segment-5-11" pos="word" morph="none" start_char="929" end_char="929">,</TOKEN>
+  <TOKEN id="segment-5-12" pos="word" morph="none" start_char="931" end_char="935">which</TOKEN>
+  <TOKEN id="segment-5-13" pos="word" morph="none" start_char="937" end_char="943">include</TOKEN>
+  <TOKEN id="segment-5-14" pos="word" morph="none" start_char="945" end_char="947">the</TOKEN>
+  <TOKEN id="segment-5-15" pos="word" morph="none" start_char="949" end_char="959">replacement</TOKEN>
+  <TOKEN id="segment-5-16" pos="word" morph="none" start_char="961" end_char="962">of</TOKEN>
+  <TOKEN id="segment-5-17" pos="word" morph="none" start_char="964" end_char="967">food</TOKEN>
+  <TOKEN id="segment-5-18" pos="word" morph="none" start_char="969" end_char="971">and</TOKEN>
+  <TOKEN id="segment-5-19" pos="word" morph="none" start_char="973" end_char="975">the</TOKEN>
+  <TOKEN id="segment-5-20" pos="word" morph="none" start_char="977" end_char="984">cleaning</TOKEN>
+  <TOKEN id="segment-5-21" pos="word" morph="none" start_char="986" end_char="987">of</TOKEN>
+  <TOKEN id="segment-5-22" pos="word" morph="none" start_char="989" end_char="991">the</TOKEN>
+  <TOKEN id="segment-5-23" pos="word" morph="none" start_char="993" end_char="1002">restaurant</TOKEN>
+  <TOKEN id="segment-5-24" pos="word" morph="none" start_char="1003" end_char="1003">,</TOKEN>
+  <TOKEN id="segment-5-25" pos="word" morph="none" start_char="1005" end_char="1013">according</TOKEN>
+  <TOKEN id="segment-5-26" pos="word" morph="none" start_char="1015" end_char="1016">to</TOKEN>
+  <TOKEN id="segment-5-27" pos="word" morph="none" start_char="1018" end_char="1024">various</TOKEN>
+  <TOKEN id="segment-5-28" pos="word" morph="none" start_char="1026" end_char="1030">press</TOKEN>
+  <TOKEN id="segment-5-29" pos="word" morph="none" start_char="1032" end_char="1038">reports</TOKEN>
+  <TOKEN id="segment-5-30" pos="word" morph="none" start_char="1039" end_char="1039">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="1042" end_char="1185">
+  <ORIGINAL_TEXT>According to reports, health officials indicated that they received 368 queries related to possible diseases transmitted by food from the brand.</ORIGINAL_TEXT>
+  <TOKEN id="segment-6-0" pos="word" morph="none" start_char="1042" end_char="1050">According</TOKEN>
+  <TOKEN id="segment-6-1" pos="word" morph="none" start_char="1052" end_char="1053">to</TOKEN>
+  <TOKEN id="segment-6-2" pos="word" morph="none" start_char="1055" end_char="1061">reports</TOKEN>
+  <TOKEN id="segment-6-3" pos="word" morph="none" start_char="1062" end_char="1062">,</TOKEN>
+  <TOKEN id="segment-6-4" pos="word" morph="none" start_char="1064" end_char="1069">health</TOKEN>
+  <TOKEN id="segment-6-5" pos="word" morph="none" start_char="1071" end_char="1079">officials</TOKEN>
+  <TOKEN id="segment-6-6" pos="word" morph="none" start_char="1081" end_char="1089">indicated</TOKEN>
+  <TOKEN id="segment-6-7" pos="word" morph="none" start_char="1091" end_char="1094">that</TOKEN>
+  <TOKEN id="segment-6-8" pos="word" morph="none" start_char="1096" end_char="1099">they</TOKEN>
+  <TOKEN id="segment-6-9" pos="word" morph="none" start_char="1101" end_char="1108">received</TOKEN>
+  <TOKEN id="segment-6-10" pos="word" morph="none" start_char="1110" end_char="1112">368</TOKEN>
+  <TOKEN id="segment-6-11" pos="word" morph="none" start_char="1114" end_char="1120">queries</TOKEN>
+  <TOKEN id="segment-6-12" pos="word" morph="none" start_char="1122" end_char="1128">related</TOKEN>
+  <TOKEN id="segment-6-13" pos="word" morph="none" start_char="1130" end_char="1131">to</TOKEN>
+  <TOKEN id="segment-6-14" pos="word" morph="none" start_char="1133" end_char="1140">possible</TOKEN>
+  <TOKEN id="segment-6-15" pos="word" morph="none" start_char="1142" end_char="1149">diseases</TOKEN>
+  <TOKEN id="segment-6-16" pos="word" morph="none" start_char="1151" end_char="1161">transmitted</TOKEN>
+  <TOKEN id="segment-6-17" pos="word" morph="none" start_char="1163" end_char="1164">by</TOKEN>
+  <TOKEN id="segment-6-18" pos="word" morph="none" start_char="1166" end_char="1169">food</TOKEN>
+  <TOKEN id="segment-6-19" pos="word" morph="none" start_char="1171" end_char="1174">from</TOKEN>
+  <TOKEN id="segment-6-20" pos="word" morph="none" start_char="1176" end_char="1178">the</TOKEN>
+  <TOKEN id="segment-6-21" pos="word" morph="none" start_char="1180" end_char="1184">brand</TOKEN>
+  <TOKEN id="segment-6-22" pos="word" morph="none" start_char="1185" end_char="1185">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1188" end_char="1416">
+  <ORIGINAL_TEXT>Meanwhile, the company must take action to undertake a legal defense after being sued by a customer who said that he bought three chicken tacos in the affected unit and began to experience nausea as well as severe abdominal pain.</ORIGINAL_TEXT>
+  <TOKEN id="segment-7-0" pos="word" morph="none" start_char="1188" end_char="1196">Meanwhile</TOKEN>
+  <TOKEN id="segment-7-1" pos="word" morph="none" start_char="1197" end_char="1197">,</TOKEN>
+  <TOKEN id="segment-7-2" pos="word" morph="none" start_char="1199" end_char="1201">the</TOKEN>
+  <TOKEN id="segment-7-3" pos="word" morph="none" start_char="1203" end_char="1209">company</TOKEN>
+  <TOKEN id="segment-7-4" pos="word" morph="none" start_char="1211" end_char="1214">must</TOKEN>
+  <TOKEN id="segment-7-5" pos="word" morph="none" start_char="1216" end_char="1219">take</TOKEN>
+  <TOKEN id="segment-7-6" pos="word" morph="none" start_char="1221" end_char="1226">action</TOKEN>
+  <TOKEN id="segment-7-7" pos="word" morph="none" start_char="1228" end_char="1229">to</TOKEN>
+  <TOKEN id="segment-7-8" pos="word" morph="none" start_char="1231" end_char="1239">undertake</TOKEN>
+  <TOKEN id="segment-7-9" pos="word" morph="none" start_char="1241" end_char="1241">a</TOKEN>
+  <TOKEN id="segment-7-10" pos="word" morph="none" start_char="1243" end_char="1247">legal</TOKEN>
+  <TOKEN id="segment-7-11" pos="word" morph="none" start_char="1249" end_char="1255">defense</TOKEN>
+  <TOKEN id="segment-7-12" pos="word" morph="none" start_char="1257" end_char="1261">after</TOKEN>
+  <TOKEN id="segment-7-13" pos="word" morph="none" start_char="1263" end_char="1267">being</TOKEN>
+  <TOKEN id="segment-7-14" pos="word" morph="none" start_char="1269" end_char="1272">sued</TOKEN>
+  <TOKEN id="segment-7-15" pos="word" morph="none" start_char="1274" end_char="1275">by</TOKEN>
+  <TOKEN id="segment-7-16" pos="word" morph="none" start_char="1277" end_char="1277">a</TOKEN>
+  <TOKEN id="segment-7-17" pos="word" morph="none" start_char="1279" end_char="1286">customer</TOKEN>
+  <TOKEN id="segment-7-18" pos="word" morph="none" start_char="1288" end_char="1290">who</TOKEN>
+  <TOKEN id="segment-7-19" pos="word" morph="none" start_char="1292" end_char="1295">said</TOKEN>
+  <TOKEN id="segment-7-20" pos="word" morph="none" start_char="1297" end_char="1300">that</TOKEN>
+  <TOKEN id="segment-7-21" pos="word" morph="none" start_char="1302" end_char="1303">he</TOKEN>
+  <TOKEN id="segment-7-22" pos="word" morph="none" start_char="1305" end_char="1310">bought</TOKEN>
+  <TOKEN id="segment-7-23" pos="word" morph="none" start_char="1312" end_char="1316">three</TOKEN>
+  <TOKEN id="segment-7-24" pos="word" morph="none" start_char="1318" end_char="1324">chicken</TOKEN>
+  <TOKEN id="segment-7-25" pos="word" morph="none" start_char="1326" end_char="1330">tacos</TOKEN>
+  <TOKEN id="segment-7-26" pos="word" morph="none" start_char="1332" end_char="1333">in</TOKEN>
+  <TOKEN id="segment-7-27" pos="word" morph="none" start_char="1335" end_char="1337">the</TOKEN>
+  <TOKEN id="segment-7-28" pos="word" morph="none" start_char="1339" end_char="1346">affected</TOKEN>
+  <TOKEN id="segment-7-29" pos="word" morph="none" start_char="1348" end_char="1351">unit</TOKEN>
+  <TOKEN id="segment-7-30" pos="word" morph="none" start_char="1353" end_char="1355">and</TOKEN>
+  <TOKEN id="segment-7-31" pos="word" morph="none" start_char="1357" end_char="1361">began</TOKEN>
+  <TOKEN id="segment-7-32" pos="word" morph="none" start_char="1363" end_char="1364">to</TOKEN>
+  <TOKEN id="segment-7-33" pos="word" morph="none" start_char="1366" end_char="1375">experience</TOKEN>
+  <TOKEN id="segment-7-34" pos="word" morph="none" start_char="1377" end_char="1382">nausea</TOKEN>
+  <TOKEN id="segment-7-35" pos="word" morph="none" start_char="1384" end_char="1385">as</TOKEN>
+  <TOKEN id="segment-7-36" pos="word" morph="none" start_char="1387" end_char="1390">well</TOKEN>
+  <TOKEN id="segment-7-37" pos="word" morph="none" start_char="1392" end_char="1393">as</TOKEN>
+  <TOKEN id="segment-7-38" pos="word" morph="none" start_char="1395" end_char="1400">severe</TOKEN>
+  <TOKEN id="segment-7-39" pos="word" morph="none" start_char="1402" end_char="1410">abdominal</TOKEN>
+  <TOKEN id="segment-7-40" pos="word" morph="none" start_char="1412" end_char="1415">pain</TOKEN>
+  <TOKEN id="segment-7-41" pos="word" morph="none" start_char="1416" end_char="1416">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1419" end_char="1661">
+  <ORIGINAL_TEXT>With a brand value of around 4,442 million dollars according to Kantar Millward Brown; Shares in the first days of the week of the fast food chain registered a decrease of 6.83 percent to 433.66 dollars on the New York Stock Exchange, reported</ORIGINAL_TEXT>
+  <TOKEN id="segment-8-0" pos="word" morph="none" start_char="1419" end_char="1422">With</TOKEN>
+  <TOKEN id="segment-8-1" pos="word" morph="none" start_char="1424" end_char="1424">a</TOKEN>
+  <TOKEN id="segment-8-2" pos="word" morph="none" start_char="1426" end_char="1430">brand</TOKEN>
+  <TOKEN id="segment-8-3" pos="word" morph="none" start_char="1432" end_char="1436">value</TOKEN>
+  <TOKEN id="segment-8-4" pos="word" morph="none" start_char="1438" end_char="1439">of</TOKEN>
+  <TOKEN id="segment-8-5" pos="word" morph="none" start_char="1441" end_char="1446">around</TOKEN>
+  <TOKEN id="segment-8-6" pos="word" morph="none" start_char="1448" end_char="1452">4,442</TOKEN>
+  <TOKEN id="segment-8-7" pos="word" morph="none" start_char="1454" end_char="1460">million</TOKEN>
+  <TOKEN id="segment-8-8" pos="word" morph="none" start_char="1462" end_char="1468">dollars</TOKEN>
+  <TOKEN id="segment-8-9" pos="word" morph="none" start_char="1470" end_char="1478">according</TOKEN>
+  <TOKEN id="segment-8-10" pos="word" morph="none" start_char="1480" end_char="1481">to</TOKEN>
+  <TOKEN id="segment-8-11" pos="word" morph="none" start_char="1483" end_char="1488">Kantar</TOKEN>
+  <TOKEN id="segment-8-12" pos="word" morph="none" start_char="1490" end_char="1497">Millward</TOKEN>
+  <TOKEN id="segment-8-13" pos="word" morph="none" start_char="1499" end_char="1503">Brown</TOKEN>
+  <TOKEN id="segment-8-14" pos="word" morph="none" start_char="1504" end_char="1504">;</TOKEN>
+  <TOKEN id="segment-8-15" pos="word" morph="none" start_char="1506" end_char="1511">Shares</TOKEN>
+  <TOKEN id="segment-8-16" pos="word" morph="none" start_char="1513" end_char="1514">in</TOKEN>
+  <TOKEN id="segment-8-17" pos="word" morph="none" start_char="1516" end_char="1518">the</TOKEN>
+  <TOKEN id="segment-8-18" pos="word" morph="none" start_char="1520" end_char="1524">first</TOKEN>
+  <TOKEN id="segment-8-19" pos="word" morph="none" start_char="1526" end_char="1529">days</TOKEN>
+  <TOKEN id="segment-8-20" pos="word" morph="none" start_char="1531" end_char="1532">of</TOKEN>
+  <TOKEN id="segment-8-21" pos="word" morph="none" start_char="1534" end_char="1536">the</TOKEN>
+  <TOKEN id="segment-8-22" pos="word" morph="none" start_char="1538" end_char="1541">week</TOKEN>
+  <TOKEN id="segment-8-23" pos="word" morph="none" start_char="1543" end_char="1544">of</TOKEN>
+  <TOKEN id="segment-8-24" pos="word" morph="none" start_char="1546" end_char="1548">the</TOKEN>
+  <TOKEN id="segment-8-25" pos="word" morph="none" start_char="1550" end_char="1553">fast</TOKEN>
+  <TOKEN id="segment-8-26" pos="word" morph="none" start_char="1555" end_char="1558">food</TOKEN>
+  <TOKEN id="segment-8-27" pos="word" morph="none" start_char="1560" end_char="1564">chain</TOKEN>
+  <TOKEN id="segment-8-28" pos="word" morph="none" start_char="1566" end_char="1575">registered</TOKEN>
+  <TOKEN id="segment-8-29" pos="word" morph="none" start_char="1577" end_char="1577">a</TOKEN>
+  <TOKEN id="segment-8-30" pos="word" morph="none" start_char="1579" end_char="1586">decrease</TOKEN>
+  <TOKEN id="segment-8-31" pos="word" morph="none" start_char="1588" end_char="1589">of</TOKEN>
+  <TOKEN id="segment-8-32" pos="word" morph="none" start_char="1591" end_char="1594">6.83</TOKEN>
+  <TOKEN id="segment-8-33" pos="word" morph="none" start_char="1596" end_char="1602">percent</TOKEN>
+  <TOKEN id="segment-8-34" pos="word" morph="none" start_char="1604" end_char="1605">to</TOKEN>
+  <TOKEN id="segment-8-35" pos="word" morph="none" start_char="1607" end_char="1612">433.66</TOKEN>
+  <TOKEN id="segment-8-36" pos="word" morph="none" start_char="1614" end_char="1620">dollars</TOKEN>
+  <TOKEN id="segment-8-37" pos="word" morph="none" start_char="1622" end_char="1623">on</TOKEN>
+  <TOKEN id="segment-8-38" pos="word" morph="none" start_char="1625" end_char="1627">the</TOKEN>
+  <TOKEN id="segment-8-39" pos="word" morph="none" start_char="1629" end_char="1631">New</TOKEN>
+  <TOKEN id="segment-8-40" pos="word" morph="none" start_char="1633" end_char="1636">York</TOKEN>
+  <TOKEN id="segment-8-41" pos="word" morph="none" start_char="1638" end_char="1642">Stock</TOKEN>
+  <TOKEN id="segment-8-42" pos="word" morph="none" start_char="1644" end_char="1651">Exchange</TOKEN>
+  <TOKEN id="segment-8-43" pos="word" morph="none" start_char="1652" end_char="1652">,</TOKEN>
+  <TOKEN id="segment-8-44" pos="word" morph="none" start_char="1654" end_char="1661">reported</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1664" end_char="1679">
+  <ORIGINAL_TEXT>Business Insider</ORIGINAL_TEXT>
+  <TOKEN id="segment-9-0" pos="word" morph="none" start_char="1664" end_char="1671">Business</TOKEN>
+  <TOKEN id="segment-9-1" pos="word" morph="none" start_char="1673" end_char="1679">Insider</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1682" end_char="1682">
+  <ORIGINAL_TEXT>.</ORIGINAL_TEXT>
+  <TOKEN id="segment-10-0" pos="word" morph="none" start_char="1682" end_char="1682">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1685" end_char="1763">
+  <ORIGINAL_TEXT>In recent days, the chain offered training to its kitchen teams on food safety.</ORIGINAL_TEXT>
+  <TOKEN id="segment-11-0" pos="word" morph="none" start_char="1685" end_char="1686">In</TOKEN>
+  <TOKEN id="segment-11-1" pos="word" morph="none" start_char="1688" end_char="1693">recent</TOKEN>
+  <TOKEN id="segment-11-2" pos="word" morph="none" start_char="1695" end_char="1698">days</TOKEN>
+  <TOKEN id="segment-11-3" pos="word" morph="none" start_char="1699" end_char="1699">,</TOKEN>
+  <TOKEN id="segment-11-4" pos="word" morph="none" start_char="1701" end_char="1703">the</TOKEN>
+  <TOKEN id="segment-11-5" pos="word" morph="none" start_char="1705" end_char="1709">chain</TOKEN>
+  <TOKEN id="segment-11-6" pos="word" morph="none" start_char="1711" end_char="1717">offered</TOKEN>
+  <TOKEN id="segment-11-7" pos="word" morph="none" start_char="1719" end_char="1726">training</TOKEN>
+  <TOKEN id="segment-11-8" pos="word" morph="none" start_char="1728" end_char="1729">to</TOKEN>
+  <TOKEN id="segment-11-9" pos="word" morph="none" start_char="1731" end_char="1733">its</TOKEN>
+  <TOKEN id="segment-11-10" pos="word" morph="none" start_char="1735" end_char="1741">kitchen</TOKEN>
+  <TOKEN id="segment-11-11" pos="word" morph="none" start_char="1743" end_char="1747">teams</TOKEN>
+  <TOKEN id="segment-11-12" pos="word" morph="none" start_char="1749" end_char="1750">on</TOKEN>
+  <TOKEN id="segment-11-13" pos="word" morph="none" start_char="1752" end_char="1755">food</TOKEN>
+  <TOKEN id="segment-11-14" pos="word" morph="none" start_char="1757" end_char="1762">safety</TOKEN>
+  <TOKEN id="segment-11-15" pos="word" morph="none" start_char="1763" end_char="1763">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1766" end_char="1887">
+  <ORIGINAL_TEXT>This, after an employee fell ill due to a novivirus outbreak, which also briefly forced a restaurant in Virginia to close.</ORIGINAL_TEXT>
+  <TOKEN id="segment-12-0" pos="word" morph="none" start_char="1766" end_char="1769">This</TOKEN>
+  <TOKEN id="segment-12-1" pos="word" morph="none" start_char="1770" end_char="1770">,</TOKEN>
+  <TOKEN id="segment-12-2" pos="word" morph="none" start_char="1772" end_char="1776">after</TOKEN>
+  <TOKEN id="segment-12-3" pos="word" morph="none" start_char="1778" end_char="1779">an</TOKEN>
+  <TOKEN id="segment-12-4" pos="word" morph="none" start_char="1781" end_char="1788">employee</TOKEN>
+  <TOKEN id="segment-12-5" pos="word" morph="none" start_char="1790" end_char="1793">fell</TOKEN>
+  <TOKEN id="segment-12-6" pos="word" morph="none" start_char="1795" end_char="1797">ill</TOKEN>
+  <TOKEN id="segment-12-7" pos="word" morph="none" start_char="1799" end_char="1801">due</TOKEN>
+  <TOKEN id="segment-12-8" pos="word" morph="none" start_char="1803" end_char="1804">to</TOKEN>
+  <TOKEN id="segment-12-9" pos="word" morph="none" start_char="1806" end_char="1806">a</TOKEN>
+  <TOKEN id="segment-12-10" pos="word" morph="none" start_char="1808" end_char="1816">novivirus</TOKEN>
+  <TOKEN id="segment-12-11" pos="word" morph="none" start_char="1818" end_char="1825">outbreak</TOKEN>
+  <TOKEN id="segment-12-12" pos="word" morph="none" start_char="1826" end_char="1826">,</TOKEN>
+  <TOKEN id="segment-12-13" pos="word" morph="none" start_char="1828" end_char="1832">which</TOKEN>
+  <TOKEN id="segment-12-14" pos="word" morph="none" start_char="1834" end_char="1837">also</TOKEN>
+  <TOKEN id="segment-12-15" pos="word" morph="none" start_char="1839" end_char="1845">briefly</TOKEN>
+  <TOKEN id="segment-12-16" pos="word" morph="none" start_char="1847" end_char="1852">forced</TOKEN>
+  <TOKEN id="segment-12-17" pos="word" morph="none" start_char="1854" end_char="1854">a</TOKEN>
+  <TOKEN id="segment-12-18" pos="word" morph="none" start_char="1856" end_char="1865">restaurant</TOKEN>
+  <TOKEN id="segment-12-19" pos="word" morph="none" start_char="1867" end_char="1868">in</TOKEN>
+  <TOKEN id="segment-12-20" pos="word" morph="none" start_char="1870" end_char="1877">Virginia</TOKEN>
+  <TOKEN id="segment-12-21" pos="word" morph="none" start_char="1879" end_char="1880">to</TOKEN>
+  <TOKEN id="segment-12-22" pos="word" morph="none" start_char="1882" end_char="1886">close</TOKEN>
+  <TOKEN id="segment-12-23" pos="word" morph="none" start_char="1887" end_char="1887">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1890" end_char="2091">
+  <ORIGINAL_TEXT>Therefore, preparing a procedures or operational manual serves as an administrative instrument that has the objective of supporting the daily activities of the different areas of a company or franchise.</ORIGINAL_TEXT>
+  <TOKEN id="segment-13-0" pos="word" morph="none" start_char="1890" end_char="1898">Therefore</TOKEN>
+  <TOKEN id="segment-13-1" pos="word" morph="none" start_char="1899" end_char="1899">,</TOKEN>
+  <TOKEN id="segment-13-2" pos="word" morph="none" start_char="1901" end_char="1909">preparing</TOKEN>
+  <TOKEN id="segment-13-3" pos="word" morph="none" start_char="1911" end_char="1911">a</TOKEN>
+  <TOKEN id="segment-13-4" pos="word" morph="none" start_char="1913" end_char="1922">procedures</TOKEN>
+  <TOKEN id="segment-13-5" pos="word" morph="none" start_char="1924" end_char="1925">or</TOKEN>
+  <TOKEN id="segment-13-6" pos="word" morph="none" start_char="1927" end_char="1937">operational</TOKEN>
+  <TOKEN id="segment-13-7" pos="word" morph="none" start_char="1939" end_char="1944">manual</TOKEN>
+  <TOKEN id="segment-13-8" pos="word" morph="none" start_char="1946" end_char="1951">serves</TOKEN>
+  <TOKEN id="segment-13-9" pos="word" morph="none" start_char="1953" end_char="1954">as</TOKEN>
+  <TOKEN id="segment-13-10" pos="word" morph="none" start_char="1956" end_char="1957">an</TOKEN>
+  <TOKEN id="segment-13-11" pos="word" morph="none" start_char="1959" end_char="1972">administrative</TOKEN>
+  <TOKEN id="segment-13-12" pos="word" morph="none" start_char="1974" end_char="1983">instrument</TOKEN>
+  <TOKEN id="segment-13-13" pos="word" morph="none" start_char="1985" end_char="1988">that</TOKEN>
+  <TOKEN id="segment-13-14" pos="word" morph="none" start_char="1990" end_char="1992">has</TOKEN>
+  <TOKEN id="segment-13-15" pos="word" morph="none" start_char="1994" end_char="1996">the</TOKEN>
+  <TOKEN id="segment-13-16" pos="word" morph="none" start_char="1998" end_char="2006">objective</TOKEN>
+  <TOKEN id="segment-13-17" pos="word" morph="none" start_char="2008" end_char="2009">of</TOKEN>
+  <TOKEN id="segment-13-18" pos="word" morph="none" start_char="2011" end_char="2020">supporting</TOKEN>
+  <TOKEN id="segment-13-19" pos="word" morph="none" start_char="2022" end_char="2024">the</TOKEN>
+  <TOKEN id="segment-13-20" pos="word" morph="none" start_char="2026" end_char="2030">daily</TOKEN>
+  <TOKEN id="segment-13-21" pos="word" morph="none" start_char="2032" end_char="2041">activities</TOKEN>
+  <TOKEN id="segment-13-22" pos="word" morph="none" start_char="2043" end_char="2044">of</TOKEN>
+  <TOKEN id="segment-13-23" pos="word" morph="none" start_char="2046" end_char="2048">the</TOKEN>
+  <TOKEN id="segment-13-24" pos="word" morph="none" start_char="2050" end_char="2058">different</TOKEN>
+  <TOKEN id="segment-13-25" pos="word" morph="none" start_char="2060" end_char="2064">areas</TOKEN>
+  <TOKEN id="segment-13-26" pos="word" morph="none" start_char="2066" end_char="2067">of</TOKEN>
+  <TOKEN id="segment-13-27" pos="word" morph="none" start_char="2069" end_char="2069">a</TOKEN>
+  <TOKEN id="segment-13-28" pos="word" morph="none" start_char="2071" end_char="2077">company</TOKEN>
+  <TOKEN id="segment-13-29" pos="word" morph="none" start_char="2079" end_char="2080">or</TOKEN>
+  <TOKEN id="segment-13-30" pos="word" morph="none" start_char="2082" end_char="2090">franchise</TOKEN>
+  <TOKEN id="segment-13-31" pos="word" morph="none" start_char="2091" end_char="2091">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="2094" end_char="2241">
+  <ORIGINAL_TEXT>Likewise, the manuals methodically record both the actions and the operations that must be followed to carry out the general functions of a company.</ORIGINAL_TEXT>
+  <TOKEN id="segment-14-0" pos="word" morph="none" start_char="2094" end_char="2101">Likewise</TOKEN>
+  <TOKEN id="segment-14-1" pos="word" morph="none" start_char="2102" end_char="2102">,</TOKEN>
+  <TOKEN id="segment-14-2" pos="word" morph="none" start_char="2104" end_char="2106">the</TOKEN>
+  <TOKEN id="segment-14-3" pos="word" morph="none" start_char="2108" end_char="2114">manuals</TOKEN>
+  <TOKEN id="segment-14-4" pos="word" morph="none" start_char="2116" end_char="2127">methodically</TOKEN>
+  <TOKEN id="segment-14-5" pos="word" morph="none" start_char="2129" end_char="2134">record</TOKEN>
+  <TOKEN id="segment-14-6" pos="word" morph="none" start_char="2136" end_char="2139">both</TOKEN>
+  <TOKEN id="segment-14-7" pos="word" morph="none" start_char="2141" end_char="2143">the</TOKEN>
+  <TOKEN id="segment-14-8" pos="word" morph="none" start_char="2145" end_char="2151">actions</TOKEN>
+  <TOKEN id="segment-14-9" pos="word" morph="none" start_char="2153" end_char="2155">and</TOKEN>
+  <TOKEN id="segment-14-10" pos="word" morph="none" start_char="2157" end_char="2159">the</TOKEN>
+  <TOKEN id="segment-14-11" pos="word" morph="none" start_char="2161" end_char="2170">operations</TOKEN>
+  <TOKEN id="segment-14-12" pos="word" morph="none" start_char="2172" end_char="2175">that</TOKEN>
+  <TOKEN id="segment-14-13" pos="word" morph="none" start_char="2177" end_char="2180">must</TOKEN>
+  <TOKEN id="segment-14-14" pos="word" morph="none" start_char="2182" end_char="2183">be</TOKEN>
+  <TOKEN id="segment-14-15" pos="word" morph="none" start_char="2185" end_char="2192">followed</TOKEN>
+  <TOKEN id="segment-14-16" pos="word" morph="none" start_char="2194" end_char="2195">to</TOKEN>
+  <TOKEN id="segment-14-17" pos="word" morph="none" start_char="2197" end_char="2201">carry</TOKEN>
+  <TOKEN id="segment-14-18" pos="word" morph="none" start_char="2203" end_char="2205">out</TOKEN>
+  <TOKEN id="segment-14-19" pos="word" morph="none" start_char="2207" end_char="2209">the</TOKEN>
+  <TOKEN id="segment-14-20" pos="word" morph="none" start_char="2211" end_char="2217">general</TOKEN>
+  <TOKEN id="segment-14-21" pos="word" morph="none" start_char="2219" end_char="2227">functions</TOKEN>
+  <TOKEN id="segment-14-22" pos="word" morph="none" start_char="2229" end_char="2230">of</TOKEN>
+  <TOKEN id="segment-14-23" pos="word" morph="none" start_char="2232" end_char="2232">a</TOKEN>
+  <TOKEN id="segment-14-24" pos="word" morph="none" start_char="2234" end_char="2240">company</TOKEN>
+  <TOKEN id="segment-14-25" pos="word" morph="none" start_char="2241" end_char="2241">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2244" end_char="2371">
+  <ORIGINAL_TEXT>Similarly, the process of activities and tasks can be measurable, something that this company needs to implement or restructure.</ORIGINAL_TEXT>
+  <TOKEN id="segment-15-0" pos="word" morph="none" start_char="2244" end_char="2252">Similarly</TOKEN>
+  <TOKEN id="segment-15-1" pos="word" morph="none" start_char="2253" end_char="2253">,</TOKEN>
+  <TOKEN id="segment-15-2" pos="word" morph="none" start_char="2255" end_char="2257">the</TOKEN>
+  <TOKEN id="segment-15-3" pos="word" morph="none" start_char="2259" end_char="2265">process</TOKEN>
+  <TOKEN id="segment-15-4" pos="word" morph="none" start_char="2267" end_char="2268">of</TOKEN>
+  <TOKEN id="segment-15-5" pos="word" morph="none" start_char="2270" end_char="2279">activities</TOKEN>
+  <TOKEN id="segment-15-6" pos="word" morph="none" start_char="2281" end_char="2283">and</TOKEN>
+  <TOKEN id="segment-15-7" pos="word" morph="none" start_char="2285" end_char="2289">tasks</TOKEN>
+  <TOKEN id="segment-15-8" pos="word" morph="none" start_char="2291" end_char="2293">can</TOKEN>
+  <TOKEN id="segment-15-9" pos="word" morph="none" start_char="2295" end_char="2296">be</TOKEN>
+  <TOKEN id="segment-15-10" pos="word" morph="none" start_char="2298" end_char="2307">measurable</TOKEN>
+  <TOKEN id="segment-15-11" pos="word" morph="none" start_char="2308" end_char="2308">,</TOKEN>
+  <TOKEN id="segment-15-12" pos="word" morph="none" start_char="2310" end_char="2318">something</TOKEN>
+  <TOKEN id="segment-15-13" pos="word" morph="none" start_char="2320" end_char="2323">that</TOKEN>
+  <TOKEN id="segment-15-14" pos="word" morph="none" start_char="2325" end_char="2328">this</TOKEN>
+  <TOKEN id="segment-15-15" pos="word" morph="none" start_char="2330" end_char="2336">company</TOKEN>
+  <TOKEN id="segment-15-16" pos="word" morph="none" start_char="2338" end_char="2342">needs</TOKEN>
+  <TOKEN id="segment-15-17" pos="word" morph="none" start_char="2344" end_char="2345">to</TOKEN>
+  <TOKEN id="segment-15-18" pos="word" morph="none" start_char="2347" end_char="2355">implement</TOKEN>
+  <TOKEN id="segment-15-19" pos="word" morph="none" start_char="2357" end_char="2358">or</TOKEN>
+  <TOKEN id="segment-15-20" pos="word" morph="none" start_char="2360" end_char="2370">restructure</TOKEN>
+  <TOKEN id="segment-15-21" pos="word" morph="none" start_char="2371" end_char="2371">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

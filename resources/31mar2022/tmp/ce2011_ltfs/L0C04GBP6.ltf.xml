@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="L0C04GBP6">
+		<TEXT>
+			<SEG id="L0C04GBP6-0" start_char="0" end_char="80">
+				<ORIGINAL_TEXT>We've got some tips on how to stay healthy and tonight's Phoenix 14 health watch.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="4">We've</TOKEN>
+				<TOKEN id="token-0-1" start_char="6" end_char="8">got</TOKEN>
+				<TOKEN id="token-0-2" start_char="10" end_char="13">some</TOKEN>
+				<TOKEN id="token-0-3" start_char="15" end_char="18">tips</TOKEN>
+				<TOKEN id="token-0-4" start_char="20" end_char="21">on</TOKEN>
+				<TOKEN id="token-0-5" start_char="23" end_char="25">how</TOKEN>
+				<TOKEN id="token-0-6" start_char="27" end_char="28">to</TOKEN>
+				<TOKEN id="token-0-7" start_char="30" end_char="33">stay</TOKEN>
+				<TOKEN id="token-0-8" start_char="35" end_char="41">healthy</TOKEN>
+				<TOKEN id="token-0-9" start_char="43" end_char="45">and</TOKEN>
+				<TOKEN id="token-0-10" start_char="47" end_char="55">tonight's</TOKEN>
+				<TOKEN id="token-0-11" start_char="57" end_char="63">Phoenix</TOKEN>
+				<TOKEN id="token-0-12" start_char="65" end_char="66">14</TOKEN>
+				<TOKEN id="token-0-13" start_char="68" end_char="73">health</TOKEN>
+				<TOKEN id="token-0-14" start_char="75" end_char="79">watch</TOKEN>
+				<TOKEN id="token-0-15" start_char="80" end_char="80">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-1" start_char="82" end_char="167">
+				<ORIGINAL_TEXT>It's been confirmed that nine people who attended the state fair were infected with E.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="82" end_char="85">It's</TOKEN>
+				<TOKEN id="token-1-1" start_char="87" end_char="90">been</TOKEN>
+				<TOKEN id="token-1-2" start_char="92" end_char="100">confirmed</TOKEN>
+				<TOKEN id="token-1-3" start_char="102" end_char="105">that</TOKEN>
+				<TOKEN id="token-1-4" start_char="107" end_char="110">nine</TOKEN>
+				<TOKEN id="token-1-5" start_char="112" end_char="117">people</TOKEN>
+				<TOKEN id="token-1-6" start_char="119" end_char="121">who</TOKEN>
+				<TOKEN id="token-1-7" start_char="123" end_char="130">attended</TOKEN>
+				<TOKEN id="token-1-8" start_char="132" end_char="134">the</TOKEN>
+				<TOKEN id="token-1-9" start_char="136" end_char="140">state</TOKEN>
+				<TOKEN id="token-1-10" start_char="142" end_char="145">fair</TOKEN>
+				<TOKEN id="token-1-11" start_char="147" end_char="150">were</TOKEN>
+				<TOKEN id="token-1-12" start_char="152" end_char="159">infected</TOKEN>
+				<TOKEN id="token-1-13" start_char="161" end_char="164">with</TOKEN>
+				<TOKEN id="token-1-14" start_char="166" end_char="166">E</TOKEN>
+				<TOKEN id="token-1-15" start_char="167" end_char="167">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-2" start_char="169" end_char="284">
+				<ORIGINAL_TEXT>Coli and 15 are still unconfirmed scarlet faker has more on where the bacteria comes from and how it can be avoided.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="169" end_char="172">Coli</TOKEN>
+				<TOKEN id="token-2-1" start_char="174" end_char="176">and</TOKEN>
+				<TOKEN id="token-2-2" start_char="178" end_char="179">15</TOKEN>
+				<TOKEN id="token-2-3" start_char="181" end_char="183">are</TOKEN>
+				<TOKEN id="token-2-4" start_char="185" end_char="189">still</TOKEN>
+				<TOKEN id="token-2-5" start_char="191" end_char="201">unconfirmed</TOKEN>
+				<TOKEN id="token-2-6" start_char="203" end_char="209">scarlet</TOKEN>
+				<TOKEN id="token-2-7" start_char="211" end_char="215">faker</TOKEN>
+				<TOKEN id="token-2-8" start_char="217" end_char="219">has</TOKEN>
+				<TOKEN id="token-2-9" start_char="221" end_char="224">more</TOKEN>
+				<TOKEN id="token-2-10" start_char="226" end_char="227">on</TOKEN>
+				<TOKEN id="token-2-11" start_char="229" end_char="233">where</TOKEN>
+				<TOKEN id="token-2-12" start_char="235" end_char="237">the</TOKEN>
+				<TOKEN id="token-2-13" start_char="239" end_char="246">bacteria</TOKEN>
+				<TOKEN id="token-2-14" start_char="248" end_char="252">comes</TOKEN>
+				<TOKEN id="token-2-15" start_char="254" end_char="257">from</TOKEN>
+				<TOKEN id="token-2-16" start_char="259" end_char="261">and</TOKEN>
+				<TOKEN id="token-2-17" start_char="263" end_char="265">how</TOKEN>
+				<TOKEN id="token-2-18" start_char="267" end_char="268">it</TOKEN>
+				<TOKEN id="token-2-19" start_char="270" end_char="272">can</TOKEN>
+				<TOKEN id="token-2-20" start_char="274" end_char="275">be</TOKEN>
+				<TOKEN id="token-2-21" start_char="277" end_char="283">avoided</TOKEN>
+				<TOKEN id="token-2-22" start_char="284" end_char="284">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-3" start_char="286" end_char="530">
+				<ORIGINAL_TEXT>This is not the first time there has been any coli outbreak after the north Carolina state fair and it may not be the last Doctor Stephanie, niece of the north Carolina public health division talked about e coli how it forms and how to avoid it.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="286" end_char="289">This</TOKEN>
+				<TOKEN id="token-3-1" start_char="291" end_char="292">is</TOKEN>
+				<TOKEN id="token-3-2" start_char="294" end_char="296">not</TOKEN>
+				<TOKEN id="token-3-3" start_char="298" end_char="300">the</TOKEN>
+				<TOKEN id="token-3-4" start_char="302" end_char="306">first</TOKEN>
+				<TOKEN id="token-3-5" start_char="308" end_char="311">time</TOKEN>
+				<TOKEN id="token-3-6" start_char="313" end_char="317">there</TOKEN>
+				<TOKEN id="token-3-7" start_char="319" end_char="321">has</TOKEN>
+				<TOKEN id="token-3-8" start_char="323" end_char="326">been</TOKEN>
+				<TOKEN id="token-3-9" start_char="328" end_char="330">any</TOKEN>
+				<TOKEN id="token-3-10" start_char="332" end_char="335">coli</TOKEN>
+				<TOKEN id="token-3-11" start_char="337" end_char="344">outbreak</TOKEN>
+				<TOKEN id="token-3-12" start_char="346" end_char="350">after</TOKEN>
+				<TOKEN id="token-3-13" start_char="352" end_char="354">the</TOKEN>
+				<TOKEN id="token-3-14" start_char="356" end_char="360">north</TOKEN>
+				<TOKEN id="token-3-15" start_char="362" end_char="369">Carolina</TOKEN>
+				<TOKEN id="token-3-16" start_char="371" end_char="375">state</TOKEN>
+				<TOKEN id="token-3-17" start_char="377" end_char="380">fair</TOKEN>
+				<TOKEN id="token-3-18" start_char="382" end_char="384">and</TOKEN>
+				<TOKEN id="token-3-19" start_char="386" end_char="387">it</TOKEN>
+				<TOKEN id="token-3-20" start_char="389" end_char="391">may</TOKEN>
+				<TOKEN id="token-3-21" start_char="393" end_char="395">not</TOKEN>
+				<TOKEN id="token-3-22" start_char="397" end_char="398">be</TOKEN>
+				<TOKEN id="token-3-23" start_char="400" end_char="402">the</TOKEN>
+				<TOKEN id="token-3-24" start_char="404" end_char="407">last</TOKEN>
+				<TOKEN id="token-3-25" start_char="409" end_char="414">Doctor</TOKEN>
+				<TOKEN id="token-3-26" start_char="416" end_char="424">Stephanie</TOKEN>
+				<TOKEN id="token-3-27" start_char="425" end_char="425">,</TOKEN>
+				<TOKEN id="token-3-28" start_char="427" end_char="431">niece</TOKEN>
+				<TOKEN id="token-3-29" start_char="433" end_char="434">of</TOKEN>
+				<TOKEN id="token-3-30" start_char="436" end_char="438">the</TOKEN>
+				<TOKEN id="token-3-31" start_char="440" end_char="444">north</TOKEN>
+				<TOKEN id="token-3-32" start_char="446" end_char="453">Carolina</TOKEN>
+				<TOKEN id="token-3-33" start_char="455" end_char="460">public</TOKEN>
+				<TOKEN id="token-3-34" start_char="462" end_char="467">health</TOKEN>
+				<TOKEN id="token-3-35" start_char="469" end_char="476">division</TOKEN>
+				<TOKEN id="token-3-36" start_char="478" end_char="483">talked</TOKEN>
+				<TOKEN id="token-3-37" start_char="485" end_char="489">about</TOKEN>
+				<TOKEN id="token-3-38" start_char="491" end_char="491">e</TOKEN>
+				<TOKEN id="token-3-39" start_char="493" end_char="496">coli</TOKEN>
+				<TOKEN id="token-3-40" start_char="498" end_char="500">how</TOKEN>
+				<TOKEN id="token-3-41" start_char="502" end_char="503">it</TOKEN>
+				<TOKEN id="token-3-42" start_char="505" end_char="509">forms</TOKEN>
+				<TOKEN id="token-3-43" start_char="511" end_char="513">and</TOKEN>
+				<TOKEN id="token-3-44" start_char="515" end_char="517">how</TOKEN>
+				<TOKEN id="token-3-45" start_char="519" end_char="520">to</TOKEN>
+				<TOKEN id="token-3-46" start_char="522" end_char="526">avoid</TOKEN>
+				<TOKEN id="token-3-47" start_char="528" end_char="529">it</TOKEN>
+				<TOKEN id="token-3-48" start_char="530" end_char="530">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-4" start_char="532" end_char="607">
+				<ORIGINAL_TEXT>Hands are the primary way that contaminated material gets into a human body.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="532" end_char="536">Hands</TOKEN>
+				<TOKEN id="token-4-1" start_char="538" end_char="540">are</TOKEN>
+				<TOKEN id="token-4-2" start_char="542" end_char="544">the</TOKEN>
+				<TOKEN id="token-4-3" start_char="546" end_char="552">primary</TOKEN>
+				<TOKEN id="token-4-4" start_char="554" end_char="556">way</TOKEN>
+				<TOKEN id="token-4-5" start_char="558" end_char="561">that</TOKEN>
+				<TOKEN id="token-4-6" start_char="563" end_char="574">contaminated</TOKEN>
+				<TOKEN id="token-4-7" start_char="576" end_char="583">material</TOKEN>
+				<TOKEN id="token-4-8" start_char="585" end_char="588">gets</TOKEN>
+				<TOKEN id="token-4-9" start_char="590" end_char="593">into</TOKEN>
+				<TOKEN id="token-4-10" start_char="595" end_char="595">a</TOKEN>
+				<TOKEN id="token-4-11" start_char="597" end_char="601">human</TOKEN>
+				<TOKEN id="token-4-12" start_char="603" end_char="606">body</TOKEN>
+				<TOKEN id="token-4-13" start_char="607" end_char="607">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-5" start_char="609" end_char="706">
+				<ORIGINAL_TEXT>So washing your hands after you use the restroom before you eat definitely after visiting animals.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="609" end_char="610">So</TOKEN>
+				<TOKEN id="token-5-1" start_char="612" end_char="618">washing</TOKEN>
+				<TOKEN id="token-5-2" start_char="620" end_char="623">your</TOKEN>
+				<TOKEN id="token-5-3" start_char="625" end_char="629">hands</TOKEN>
+				<TOKEN id="token-5-4" start_char="631" end_char="635">after</TOKEN>
+				<TOKEN id="token-5-5" start_char="637" end_char="639">you</TOKEN>
+				<TOKEN id="token-5-6" start_char="641" end_char="643">use</TOKEN>
+				<TOKEN id="token-5-7" start_char="645" end_char="647">the</TOKEN>
+				<TOKEN id="token-5-8" start_char="649" end_char="656">restroom</TOKEN>
+				<TOKEN id="token-5-9" start_char="658" end_char="663">before</TOKEN>
+				<TOKEN id="token-5-10" start_char="665" end_char="667">you</TOKEN>
+				<TOKEN id="token-5-11" start_char="669" end_char="671">eat</TOKEN>
+				<TOKEN id="token-5-12" start_char="673" end_char="682">definitely</TOKEN>
+				<TOKEN id="token-5-13" start_char="684" end_char="688">after</TOKEN>
+				<TOKEN id="token-5-14" start_char="690" end_char="697">visiting</TOKEN>
+				<TOKEN id="token-5-15" start_char="699" end_char="705">animals</TOKEN>
+				<TOKEN id="token-5-16" start_char="706" end_char="706">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-6" start_char="708" end_char="754">
+				<ORIGINAL_TEXT>That's the best way to kind of prevent equally.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="708" end_char="713">That's</TOKEN>
+				<TOKEN id="token-6-1" start_char="715" end_char="717">the</TOKEN>
+				<TOKEN id="token-6-2" start_char="719" end_char="722">best</TOKEN>
+				<TOKEN id="token-6-3" start_char="724" end_char="726">way</TOKEN>
+				<TOKEN id="token-6-4" start_char="728" end_char="729">to</TOKEN>
+				<TOKEN id="token-6-5" start_char="731" end_char="734">kind</TOKEN>
+				<TOKEN id="token-6-6" start_char="736" end_char="737">of</TOKEN>
+				<TOKEN id="token-6-7" start_char="739" end_char="745">prevent</TOKEN>
+				<TOKEN id="token-6-8" start_char="747" end_char="753">equally</TOKEN>
+				<TOKEN id="token-6-9" start_char="754" end_char="754">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-7" start_char="756" end_char="932">
+				<ORIGINAL_TEXT>Ellen biology professor Antonio Izzo said that E coli forms in the gut and that it can be produced by contact with animal feces as well as contaminated meats and dairy products.</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="756" end_char="760">Ellen</TOKEN>
+				<TOKEN id="token-7-1" start_char="762" end_char="768">biology</TOKEN>
+				<TOKEN id="token-7-2" start_char="770" end_char="778">professor</TOKEN>
+				<TOKEN id="token-7-3" start_char="780" end_char="786">Antonio</TOKEN>
+				<TOKEN id="token-7-4" start_char="788" end_char="791">Izzo</TOKEN>
+				<TOKEN id="token-7-5" start_char="793" end_char="796">said</TOKEN>
+				<TOKEN id="token-7-6" start_char="798" end_char="801">that</TOKEN>
+				<TOKEN id="token-7-7" start_char="803" end_char="803">E</TOKEN>
+				<TOKEN id="token-7-8" start_char="805" end_char="808">coli</TOKEN>
+				<TOKEN id="token-7-9" start_char="810" end_char="814">forms</TOKEN>
+				<TOKEN id="token-7-10" start_char="816" end_char="817">in</TOKEN>
+				<TOKEN id="token-7-11" start_char="819" end_char="821">the</TOKEN>
+				<TOKEN id="token-7-12" start_char="823" end_char="825">gut</TOKEN>
+				<TOKEN id="token-7-13" start_char="827" end_char="829">and</TOKEN>
+				<TOKEN id="token-7-14" start_char="831" end_char="834">that</TOKEN>
+				<TOKEN id="token-7-15" start_char="836" end_char="837">it</TOKEN>
+				<TOKEN id="token-7-16" start_char="839" end_char="841">can</TOKEN>
+				<TOKEN id="token-7-17" start_char="843" end_char="844">be</TOKEN>
+				<TOKEN id="token-7-18" start_char="846" end_char="853">produced</TOKEN>
+				<TOKEN id="token-7-19" start_char="855" end_char="856">by</TOKEN>
+				<TOKEN id="token-7-20" start_char="858" end_char="864">contact</TOKEN>
+				<TOKEN id="token-7-21" start_char="866" end_char="869">with</TOKEN>
+				<TOKEN id="token-7-22" start_char="871" end_char="876">animal</TOKEN>
+				<TOKEN id="token-7-23" start_char="878" end_char="882">feces</TOKEN>
+				<TOKEN id="token-7-24" start_char="884" end_char="885">as</TOKEN>
+				<TOKEN id="token-7-25" start_char="887" end_char="890">well</TOKEN>
+				<TOKEN id="token-7-26" start_char="892" end_char="893">as</TOKEN>
+				<TOKEN id="token-7-27" start_char="895" end_char="906">contaminated</TOKEN>
+				<TOKEN id="token-7-28" start_char="908" end_char="912">meats</TOKEN>
+				<TOKEN id="token-7-29" start_char="914" end_char="916">and</TOKEN>
+				<TOKEN id="token-7-30" start_char="918" end_char="922">dairy</TOKEN>
+				<TOKEN id="token-7-31" start_char="924" end_char="931">products</TOKEN>
+				<TOKEN id="token-7-32" start_char="932" end_char="932">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-8" start_char="934" end_char="1021">
+				<ORIGINAL_TEXT>Well, first of stress that I mean yes there's plenty of plenty of good e coli out there.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="934" end_char="937">Well</TOKEN>
+				<TOKEN id="token-8-1" start_char="938" end_char="938">,</TOKEN>
+				<TOKEN id="token-8-2" start_char="940" end_char="944">first</TOKEN>
+				<TOKEN id="token-8-3" start_char="946" end_char="947">of</TOKEN>
+				<TOKEN id="token-8-4" start_char="949" end_char="954">stress</TOKEN>
+				<TOKEN id="token-8-5" start_char="956" end_char="959">that</TOKEN>
+				<TOKEN id="token-8-6" start_char="961" end_char="961">I</TOKEN>
+				<TOKEN id="token-8-7" start_char="963" end_char="966">mean</TOKEN>
+				<TOKEN id="token-8-8" start_char="968" end_char="970">yes</TOKEN>
+				<TOKEN id="token-8-9" start_char="972" end_char="978">there's</TOKEN>
+				<TOKEN id="token-8-10" start_char="980" end_char="985">plenty</TOKEN>
+				<TOKEN id="token-8-11" start_char="987" end_char="988">of</TOKEN>
+				<TOKEN id="token-8-12" start_char="990" end_char="995">plenty</TOKEN>
+				<TOKEN id="token-8-13" start_char="997" end_char="998">of</TOKEN>
+				<TOKEN id="token-8-14" start_char="1000" end_char="1003">good</TOKEN>
+				<TOKEN id="token-8-15" start_char="1005" end_char="1005">e</TOKEN>
+				<TOKEN id="token-8-16" start_char="1007" end_char="1010">coli</TOKEN>
+				<TOKEN id="token-8-17" start_char="1012" end_char="1014">out</TOKEN>
+				<TOKEN id="token-8-18" start_char="1016" end_char="1020">there</TOKEN>
+				<TOKEN id="token-8-19" start_char="1021" end_char="1021">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-9" start_char="1023" end_char="1052">
+				<ORIGINAL_TEXT>We carry these around with us.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="1023" end_char="1024">We</TOKEN>
+				<TOKEN id="token-9-1" start_char="1026" end_char="1030">carry</TOKEN>
+				<TOKEN id="token-9-2" start_char="1032" end_char="1036">these</TOKEN>
+				<TOKEN id="token-9-3" start_char="1038" end_char="1043">around</TOKEN>
+				<TOKEN id="token-9-4" start_char="1045" end_char="1048">with</TOKEN>
+				<TOKEN id="token-9-5" start_char="1050" end_char="1051">us</TOKEN>
+				<TOKEN id="token-9-6" start_char="1052" end_char="1052">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-10" start_char="1054" end_char="1143">
+				<ORIGINAL_TEXT>Anyways, you've got Numbers in the ballpark of maybe 1% of all the microbes that are in U.</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="1054" end_char="1060">Anyways</TOKEN>
+				<TOKEN id="token-10-1" start_char="1061" end_char="1061">,</TOKEN>
+				<TOKEN id="token-10-2" start_char="1063" end_char="1068">you've</TOKEN>
+				<TOKEN id="token-10-3" start_char="1070" end_char="1072">got</TOKEN>
+				<TOKEN id="token-10-4" start_char="1074" end_char="1080">Numbers</TOKEN>
+				<TOKEN id="token-10-5" start_char="1082" end_char="1083">in</TOKEN>
+				<TOKEN id="token-10-6" start_char="1085" end_char="1087">the</TOKEN>
+				<TOKEN id="token-10-7" start_char="1089" end_char="1096">ballpark</TOKEN>
+				<TOKEN id="token-10-8" start_char="1098" end_char="1099">of</TOKEN>
+				<TOKEN id="token-10-9" start_char="1101" end_char="1105">maybe</TOKEN>
+				<TOKEN id="token-10-10" start_char="1107" end_char="1107">1</TOKEN>
+				<TOKEN id="token-10-11" start_char="1108" end_char="1108">%</TOKEN>
+				<TOKEN id="token-10-12" start_char="1110" end_char="1111">of</TOKEN>
+				<TOKEN id="token-10-13" start_char="1113" end_char="1115">all</TOKEN>
+				<TOKEN id="token-10-14" start_char="1117" end_char="1119">the</TOKEN>
+				<TOKEN id="token-10-15" start_char="1121" end_char="1128">microbes</TOKEN>
+				<TOKEN id="token-10-16" start_char="1130" end_char="1133">that</TOKEN>
+				<TOKEN id="token-10-17" start_char="1135" end_char="1137">are</TOKEN>
+				<TOKEN id="token-10-18" start_char="1139" end_char="1140">in</TOKEN>
+				<TOKEN id="token-10-19" start_char="1142" end_char="1142">U</TOKEN>
+				<TOKEN id="token-10-20" start_char="1143" end_char="1143">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-11" start_char="1145" end_char="1146">
+				<ORIGINAL_TEXT>R.</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="1145" end_char="1145">R</TOKEN>
+				<TOKEN id="token-11-1" start_char="1146" end_char="1146">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-12" start_char="1148" end_char="1149">
+				<ORIGINAL_TEXT>E.</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="1148" end_char="1148">E</TOKEN>
+				<TOKEN id="token-12-1" start_char="1149" end_char="1149">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-13" start_char="1151" end_char="1155">
+				<ORIGINAL_TEXT>coli.</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="1151" end_char="1154">coli</TOKEN>
+				<TOKEN id="token-13-1" start_char="1155" end_char="1155">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-14" start_char="1157" end_char="1250">
+				<ORIGINAL_TEXT>Here's an example of a strain of E coli now, although e coli can be harmful to the human body.</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="1157" end_char="1162">Here's</TOKEN>
+				<TOKEN id="token-14-1" start_char="1164" end_char="1165">an</TOKEN>
+				<TOKEN id="token-14-2" start_char="1167" end_char="1173">example</TOKEN>
+				<TOKEN id="token-14-3" start_char="1175" end_char="1176">of</TOKEN>
+				<TOKEN id="token-14-4" start_char="1178" end_char="1178">a</TOKEN>
+				<TOKEN id="token-14-5" start_char="1180" end_char="1185">strain</TOKEN>
+				<TOKEN id="token-14-6" start_char="1187" end_char="1188">of</TOKEN>
+				<TOKEN id="token-14-7" start_char="1190" end_char="1190">E</TOKEN>
+				<TOKEN id="token-14-8" start_char="1192" end_char="1195">coli</TOKEN>
+				<TOKEN id="token-14-9" start_char="1197" end_char="1199">now</TOKEN>
+				<TOKEN id="token-14-10" start_char="1200" end_char="1200">,</TOKEN>
+				<TOKEN id="token-14-11" start_char="1202" end_char="1209">although</TOKEN>
+				<TOKEN id="token-14-12" start_char="1211" end_char="1211">e</TOKEN>
+				<TOKEN id="token-14-13" start_char="1213" end_char="1216">coli</TOKEN>
+				<TOKEN id="token-14-14" start_char="1218" end_char="1220">can</TOKEN>
+				<TOKEN id="token-14-15" start_char="1222" end_char="1223">be</TOKEN>
+				<TOKEN id="token-14-16" start_char="1225" end_char="1231">harmful</TOKEN>
+				<TOKEN id="token-14-17" start_char="1233" end_char="1234">to</TOKEN>
+				<TOKEN id="token-14-18" start_char="1236" end_char="1238">the</TOKEN>
+				<TOKEN id="token-14-19" start_char="1240" end_char="1244">human</TOKEN>
+				<TOKEN id="token-14-20" start_char="1246" end_char="1249">body</TOKEN>
+				<TOKEN id="token-14-21" start_char="1250" end_char="1250">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-15" start_char="1252" end_char="1440">
+				<ORIGINAL_TEXT>Scientists and researchers often use it because it's easy to manipulate and grow And as of now Doctor Nice says officials are doing everything they can to pinpoint a source of the outbreak.</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="1252" end_char="1261">Scientists</TOKEN>
+				<TOKEN id="token-15-1" start_char="1263" end_char="1265">and</TOKEN>
+				<TOKEN id="token-15-2" start_char="1267" end_char="1277">researchers</TOKEN>
+				<TOKEN id="token-15-3" start_char="1279" end_char="1283">often</TOKEN>
+				<TOKEN id="token-15-4" start_char="1285" end_char="1287">use</TOKEN>
+				<TOKEN id="token-15-5" start_char="1289" end_char="1290">it</TOKEN>
+				<TOKEN id="token-15-6" start_char="1292" end_char="1298">because</TOKEN>
+				<TOKEN id="token-15-7" start_char="1300" end_char="1303">it's</TOKEN>
+				<TOKEN id="token-15-8" start_char="1305" end_char="1308">easy</TOKEN>
+				<TOKEN id="token-15-9" start_char="1310" end_char="1311">to</TOKEN>
+				<TOKEN id="token-15-10" start_char="1313" end_char="1322">manipulate</TOKEN>
+				<TOKEN id="token-15-11" start_char="1324" end_char="1326">and</TOKEN>
+				<TOKEN id="token-15-12" start_char="1328" end_char="1331">grow</TOKEN>
+				<TOKEN id="token-15-13" start_char="1333" end_char="1335">And</TOKEN>
+				<TOKEN id="token-15-14" start_char="1337" end_char="1338">as</TOKEN>
+				<TOKEN id="token-15-15" start_char="1340" end_char="1341">of</TOKEN>
+				<TOKEN id="token-15-16" start_char="1343" end_char="1345">now</TOKEN>
+				<TOKEN id="token-15-17" start_char="1347" end_char="1352">Doctor</TOKEN>
+				<TOKEN id="token-15-18" start_char="1354" end_char="1357">Nice</TOKEN>
+				<TOKEN id="token-15-19" start_char="1359" end_char="1362">says</TOKEN>
+				<TOKEN id="token-15-20" start_char="1364" end_char="1372">officials</TOKEN>
+				<TOKEN id="token-15-21" start_char="1374" end_char="1376">are</TOKEN>
+				<TOKEN id="token-15-22" start_char="1378" end_char="1382">doing</TOKEN>
+				<TOKEN id="token-15-23" start_char="1384" end_char="1393">everything</TOKEN>
+				<TOKEN id="token-15-24" start_char="1395" end_char="1398">they</TOKEN>
+				<TOKEN id="token-15-25" start_char="1400" end_char="1402">can</TOKEN>
+				<TOKEN id="token-15-26" start_char="1404" end_char="1405">to</TOKEN>
+				<TOKEN id="token-15-27" start_char="1407" end_char="1414">pinpoint</TOKEN>
+				<TOKEN id="token-15-28" start_char="1416" end_char="1416">a</TOKEN>
+				<TOKEN id="token-15-29" start_char="1418" end_char="1423">source</TOKEN>
+				<TOKEN id="token-15-30" start_char="1425" end_char="1426">of</TOKEN>
+				<TOKEN id="token-15-31" start_char="1428" end_char="1430">the</TOKEN>
+				<TOKEN id="token-15-32" start_char="1432" end_char="1439">outbreak</TOKEN>
+				<TOKEN id="token-15-33" start_char="1440" end_char="1440">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-16" start_char="1442" end_char="1657">
+				<ORIGINAL_TEXT>So at this point, what we're doing is comparing the activities of those people who are ill and attended the state fair with the activities of people who did not become ill but attended the state fair on the same day.</ORIGINAL_TEXT>
+				<TOKEN id="token-16-0" start_char="1442" end_char="1443">So</TOKEN>
+				<TOKEN id="token-16-1" start_char="1445" end_char="1446">at</TOKEN>
+				<TOKEN id="token-16-2" start_char="1448" end_char="1451">this</TOKEN>
+				<TOKEN id="token-16-3" start_char="1453" end_char="1457">point</TOKEN>
+				<TOKEN id="token-16-4" start_char="1458" end_char="1458">,</TOKEN>
+				<TOKEN id="token-16-5" start_char="1460" end_char="1463">what</TOKEN>
+				<TOKEN id="token-16-6" start_char="1465" end_char="1469">we're</TOKEN>
+				<TOKEN id="token-16-7" start_char="1471" end_char="1475">doing</TOKEN>
+				<TOKEN id="token-16-8" start_char="1477" end_char="1478">is</TOKEN>
+				<TOKEN id="token-16-9" start_char="1480" end_char="1488">comparing</TOKEN>
+				<TOKEN id="token-16-10" start_char="1490" end_char="1492">the</TOKEN>
+				<TOKEN id="token-16-11" start_char="1494" end_char="1503">activities</TOKEN>
+				<TOKEN id="token-16-12" start_char="1505" end_char="1506">of</TOKEN>
+				<TOKEN id="token-16-13" start_char="1508" end_char="1512">those</TOKEN>
+				<TOKEN id="token-16-14" start_char="1514" end_char="1519">people</TOKEN>
+				<TOKEN id="token-16-15" start_char="1521" end_char="1523">who</TOKEN>
+				<TOKEN id="token-16-16" start_char="1525" end_char="1527">are</TOKEN>
+				<TOKEN id="token-16-17" start_char="1529" end_char="1531">ill</TOKEN>
+				<TOKEN id="token-16-18" start_char="1533" end_char="1535">and</TOKEN>
+				<TOKEN id="token-16-19" start_char="1537" end_char="1544">attended</TOKEN>
+				<TOKEN id="token-16-20" start_char="1546" end_char="1548">the</TOKEN>
+				<TOKEN id="token-16-21" start_char="1550" end_char="1554">state</TOKEN>
+				<TOKEN id="token-16-22" start_char="1556" end_char="1559">fair</TOKEN>
+				<TOKEN id="token-16-23" start_char="1561" end_char="1564">with</TOKEN>
+				<TOKEN id="token-16-24" start_char="1566" end_char="1568">the</TOKEN>
+				<TOKEN id="token-16-25" start_char="1570" end_char="1579">activities</TOKEN>
+				<TOKEN id="token-16-26" start_char="1581" end_char="1582">of</TOKEN>
+				<TOKEN id="token-16-27" start_char="1584" end_char="1589">people</TOKEN>
+				<TOKEN id="token-16-28" start_char="1591" end_char="1593">who</TOKEN>
+				<TOKEN id="token-16-29" start_char="1595" end_char="1597">did</TOKEN>
+				<TOKEN id="token-16-30" start_char="1599" end_char="1601">not</TOKEN>
+				<TOKEN id="token-16-31" start_char="1603" end_char="1608">become</TOKEN>
+				<TOKEN id="token-16-32" start_char="1610" end_char="1612">ill</TOKEN>
+				<TOKEN id="token-16-33" start_char="1614" end_char="1616">but</TOKEN>
+				<TOKEN id="token-16-34" start_char="1618" end_char="1625">attended</TOKEN>
+				<TOKEN id="token-16-35" start_char="1627" end_char="1629">the</TOKEN>
+				<TOKEN id="token-16-36" start_char="1631" end_char="1635">state</TOKEN>
+				<TOKEN id="token-16-37" start_char="1637" end_char="1640">fair</TOKEN>
+				<TOKEN id="token-16-38" start_char="1642" end_char="1643">on</TOKEN>
+				<TOKEN id="token-16-39" start_char="1645" end_char="1647">the</TOKEN>
+				<TOKEN id="token-16-40" start_char="1649" end_char="1652">same</TOKEN>
+				<TOKEN id="token-16-41" start_char="1654" end_char="1656">day</TOKEN>
+				<TOKEN id="token-16-42" start_char="1657" end_char="1657">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-17" start_char="1659" end_char="1773">
+				<ORIGINAL_TEXT>But Doctor Niece and Professor Aiso said not to drive yourself crazy when it comes to worrying about this bacteria.</ORIGINAL_TEXT>
+				<TOKEN id="token-17-0" start_char="1659" end_char="1661">But</TOKEN>
+				<TOKEN id="token-17-1" start_char="1663" end_char="1668">Doctor</TOKEN>
+				<TOKEN id="token-17-2" start_char="1670" end_char="1674">Niece</TOKEN>
+				<TOKEN id="token-17-3" start_char="1676" end_char="1678">and</TOKEN>
+				<TOKEN id="token-17-4" start_char="1680" end_char="1688">Professor</TOKEN>
+				<TOKEN id="token-17-5" start_char="1690" end_char="1693">Aiso</TOKEN>
+				<TOKEN id="token-17-6" start_char="1695" end_char="1698">said</TOKEN>
+				<TOKEN id="token-17-7" start_char="1700" end_char="1702">not</TOKEN>
+				<TOKEN id="token-17-8" start_char="1704" end_char="1705">to</TOKEN>
+				<TOKEN id="token-17-9" start_char="1707" end_char="1711">drive</TOKEN>
+				<TOKEN id="token-17-10" start_char="1713" end_char="1720">yourself</TOKEN>
+				<TOKEN id="token-17-11" start_char="1722" end_char="1726">crazy</TOKEN>
+				<TOKEN id="token-17-12" start_char="1728" end_char="1731">when</TOKEN>
+				<TOKEN id="token-17-13" start_char="1733" end_char="1734">it</TOKEN>
+				<TOKEN id="token-17-14" start_char="1736" end_char="1740">comes</TOKEN>
+				<TOKEN id="token-17-15" start_char="1742" end_char="1743">to</TOKEN>
+				<TOKEN id="token-17-16" start_char="1745" end_char="1752">worrying</TOKEN>
+				<TOKEN id="token-17-17" start_char="1754" end_char="1758">about</TOKEN>
+				<TOKEN id="token-17-18" start_char="1760" end_char="1763">this</TOKEN>
+				<TOKEN id="token-17-19" start_char="1765" end_char="1772">bacteria</TOKEN>
+				<TOKEN id="token-17-20" start_char="1773" end_char="1773">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-18" start_char="1775" end_char="1908">
+				<ORIGINAL_TEXT>Making sure your meat is cooked, washing your hands and making sure your dairy products are pasteurized are important tips to avoid E.</ORIGINAL_TEXT>
+				<TOKEN id="token-18-0" start_char="1775" end_char="1780">Making</TOKEN>
+				<TOKEN id="token-18-1" start_char="1782" end_char="1785">sure</TOKEN>
+				<TOKEN id="token-18-2" start_char="1787" end_char="1790">your</TOKEN>
+				<TOKEN id="token-18-3" start_char="1792" end_char="1795">meat</TOKEN>
+				<TOKEN id="token-18-4" start_char="1797" end_char="1798">is</TOKEN>
+				<TOKEN id="token-18-5" start_char="1800" end_char="1805">cooked</TOKEN>
+				<TOKEN id="token-18-6" start_char="1806" end_char="1806">,</TOKEN>
+				<TOKEN id="token-18-7" start_char="1808" end_char="1814">washing</TOKEN>
+				<TOKEN id="token-18-8" start_char="1816" end_char="1819">your</TOKEN>
+				<TOKEN id="token-18-9" start_char="1821" end_char="1825">hands</TOKEN>
+				<TOKEN id="token-18-10" start_char="1827" end_char="1829">and</TOKEN>
+				<TOKEN id="token-18-11" start_char="1831" end_char="1836">making</TOKEN>
+				<TOKEN id="token-18-12" start_char="1838" end_char="1841">sure</TOKEN>
+				<TOKEN id="token-18-13" start_char="1843" end_char="1846">your</TOKEN>
+				<TOKEN id="token-18-14" start_char="1848" end_char="1852">dairy</TOKEN>
+				<TOKEN id="token-18-15" start_char="1854" end_char="1861">products</TOKEN>
+				<TOKEN id="token-18-16" start_char="1863" end_char="1865">are</TOKEN>
+				<TOKEN id="token-18-17" start_char="1867" end_char="1877">pasteurized</TOKEN>
+				<TOKEN id="token-18-18" start_char="1879" end_char="1881">are</TOKEN>
+				<TOKEN id="token-18-19" start_char="1883" end_char="1891">important</TOKEN>
+				<TOKEN id="token-18-20" start_char="1893" end_char="1896">tips</TOKEN>
+				<TOKEN id="token-18-21" start_char="1898" end_char="1899">to</TOKEN>
+				<TOKEN id="token-18-22" start_char="1901" end_char="1905">avoid</TOKEN>
+				<TOKEN id="token-18-23" start_char="1907" end_char="1907">E</TOKEN>
+				<TOKEN id="token-18-24" start_char="1908" end_char="1908">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-19" start_char="1910" end_char="1924">
+				<ORIGINAL_TEXT>Coli poisoning.</ORIGINAL_TEXT>
+				<TOKEN id="token-19-0" start_char="1910" end_char="1913">Coli</TOKEN>
+				<TOKEN id="token-19-1" start_char="1915" end_char="1923">poisoning</TOKEN>
+				<TOKEN id="token-19-2" start_char="1924" end_char="1924">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-20" start_char="1926" end_char="1941">
+				<ORIGINAL_TEXT>Scarlett fake r.</ORIGINAL_TEXT>
+				<TOKEN id="token-20-0" start_char="1926" end_char="1933">Scarlett</TOKEN>
+				<TOKEN id="token-20-1" start_char="1935" end_char="1938">fake</TOKEN>
+				<TOKEN id="token-20-2" start_char="1940" end_char="1940">r</TOKEN>
+				<TOKEN id="token-20-3" start_char="1941" end_char="1941">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-21" start_char="1943" end_char="2009">
+				<ORIGINAL_TEXT>Phoenix 14 News dr Nice says that some of the common symptoms of e.</ORIGINAL_TEXT>
+				<TOKEN id="token-21-0" start_char="1943" end_char="1949">Phoenix</TOKEN>
+				<TOKEN id="token-21-1" start_char="1951" end_char="1952">14</TOKEN>
+				<TOKEN id="token-21-2" start_char="1954" end_char="1957">News</TOKEN>
+				<TOKEN id="token-21-3" start_char="1959" end_char="1960">dr</TOKEN>
+				<TOKEN id="token-21-4" start_char="1962" end_char="1965">Nice</TOKEN>
+				<TOKEN id="token-21-5" start_char="1967" end_char="1970">says</TOKEN>
+				<TOKEN id="token-21-6" start_char="1972" end_char="1975">that</TOKEN>
+				<TOKEN id="token-21-7" start_char="1977" end_char="1980">some</TOKEN>
+				<TOKEN id="token-21-8" start_char="1982" end_char="1983">of</TOKEN>
+				<TOKEN id="token-21-9" start_char="1985" end_char="1987">the</TOKEN>
+				<TOKEN id="token-21-10" start_char="1989" end_char="1994">common</TOKEN>
+				<TOKEN id="token-21-11" start_char="1996" end_char="2003">symptoms</TOKEN>
+				<TOKEN id="token-21-12" start_char="2005" end_char="2006">of</TOKEN>
+				<TOKEN id="token-21-13" start_char="2008" end_char="2008">e</TOKEN>
+				<TOKEN id="token-21-14" start_char="2009" end_char="2009">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-22" start_char="2011" end_char="2082">
+				<ORIGINAL_TEXT>Coli poisoning are nausea, vomiting, stomach cramps and bloody diarrhea.</ORIGINAL_TEXT>
+				<TOKEN id="token-22-0" start_char="2011" end_char="2014">Coli</TOKEN>
+				<TOKEN id="token-22-1" start_char="2016" end_char="2024">poisoning</TOKEN>
+				<TOKEN id="token-22-2" start_char="2026" end_char="2028">are</TOKEN>
+				<TOKEN id="token-22-3" start_char="2030" end_char="2035">nausea</TOKEN>
+				<TOKEN id="token-22-4" start_char="2036" end_char="2036">,</TOKEN>
+				<TOKEN id="token-22-5" start_char="2038" end_char="2045">vomiting</TOKEN>
+				<TOKEN id="token-22-6" start_char="2046" end_char="2046">,</TOKEN>
+				<TOKEN id="token-22-7" start_char="2048" end_char="2054">stomach</TOKEN>
+				<TOKEN id="token-22-8" start_char="2056" end_char="2061">cramps</TOKEN>
+				<TOKEN id="token-22-9" start_char="2063" end_char="2065">and</TOKEN>
+				<TOKEN id="token-22-10" start_char="2067" end_char="2072">bloody</TOKEN>
+				<TOKEN id="token-22-11" start_char="2074" end_char="2081">diarrhea</TOKEN>
+				<TOKEN id="token-22-12" start_char="2082" end_char="2082">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-23" start_char="2084" end_char="2137">
+				<ORIGINAL_TEXT>Doctors have not pinpointed the cause of the outbreak.</ORIGINAL_TEXT>
+				<TOKEN id="token-23-0" start_char="2084" end_char="2090">Doctors</TOKEN>
+				<TOKEN id="token-23-1" start_char="2092" end_char="2095">have</TOKEN>
+				<TOKEN id="token-23-2" start_char="2097" end_char="2099">not</TOKEN>
+				<TOKEN id="token-23-3" start_char="2101" end_char="2110">pinpointed</TOKEN>
+				<TOKEN id="token-23-4" start_char="2112" end_char="2114">the</TOKEN>
+				<TOKEN id="token-23-5" start_char="2116" end_char="2120">cause</TOKEN>
+				<TOKEN id="token-23-6" start_char="2122" end_char="2123">of</TOKEN>
+				<TOKEN id="token-23-7" start_char="2125" end_char="2127">the</TOKEN>
+				<TOKEN id="token-23-8" start_char="2129" end_char="2136">outbreak</TOKEN>
+				<TOKEN id="token-23-9" start_char="2137" end_char="2137">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04GBP6-24" start_char="2139" end_char="2186">
+				<ORIGINAL_TEXT>But Nice says they are working rapidly to do so.</ORIGINAL_TEXT>
+				<TOKEN id="token-24-0" start_char="2139" end_char="2141">But</TOKEN>
+				<TOKEN id="token-24-1" start_char="2143" end_char="2146">Nice</TOKEN>
+				<TOKEN id="token-24-2" start_char="2148" end_char="2151">says</TOKEN>
+				<TOKEN id="token-24-3" start_char="2153" end_char="2156">they</TOKEN>
+				<TOKEN id="token-24-4" start_char="2158" end_char="2160">are</TOKEN>
+				<TOKEN id="token-24-5" start_char="2162" end_char="2168">working</TOKEN>
+				<TOKEN id="token-24-6" start_char="2170" end_char="2176">rapidly</TOKEN>
+				<TOKEN id="token-24-7" start_char="2178" end_char="2179">to</TOKEN>
+				<TOKEN id="token-24-8" start_char="2181" end_char="2182">do</TOKEN>
+				<TOKEN id="token-24-9" start_char="2184" end_char="2185">so</TOKEN>
+				<TOKEN id="token-24-10" start_char="2186" end_char="2186">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

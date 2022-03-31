@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng"><DOC id="L0C04FQXK" lang="eng" tokenization="unknown" grammar="none" raw_text_char_length="1784" raw_text_md5="unknown">
+<TEXT>
+<SEG id="L0C04FQXK-0" start_char="1" end_char="31">
+  <ORIGINAL_TEXT>The doctors could not save him.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-0-0" pos="word" morph="none" start_char="1" end_char="3">The</TOKEN>
+  <TOKEN id="L0C04FQXK-0-1" pos="word" morph="none" start_char="5" end_char="11">doctors</TOKEN>
+  <TOKEN id="L0C04FQXK-0-2" pos="word" morph="none" start_char="13" end_char="17">could</TOKEN>
+  <TOKEN id="L0C04FQXK-0-3" pos="word" morph="none" start_char="19" end_char="21">not</TOKEN>
+  <TOKEN id="L0C04FQXK-0-4" pos="word" morph="none" start_char="23" end_char="26">save</TOKEN>
+  <TOKEN id="L0C04FQXK-0-5" pos="word" morph="none" start_char="28" end_char="30">him</TOKEN>
+  <TOKEN id="L0C04FQXK-0-6" pos="word" morph="none" start_char="31" end_char="31">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-1" start_char="34" end_char="107">
+  <ORIGINAL_TEXT>Mart&#237;n Galindo died of botulism, leaving behind his wife and two children.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-1-0" pos="word" morph="none" start_char="34" end_char="39">Mart&#237;n</TOKEN>
+  <TOKEN id="L0C04FQXK-1-1" pos="word" morph="none" start_char="41" end_char="47">Galindo</TOKEN>
+  <TOKEN id="L0C04FQXK-1-2" pos="word" morph="none" start_char="49" end_char="52">died</TOKEN>
+  <TOKEN id="L0C04FQXK-1-3" pos="word" morph="none" start_char="54" end_char="55">of</TOKEN>
+  <TOKEN id="L0C04FQXK-1-4" pos="word" morph="none" start_char="57" end_char="64">botulism</TOKEN>
+  <TOKEN id="L0C04FQXK-1-5" pos="word" morph="none" start_char="65" end_char="65">,</TOKEN>
+  <TOKEN id="L0C04FQXK-1-6" pos="word" morph="none" start_char="67" end_char="73">leaving</TOKEN>
+  <TOKEN id="L0C04FQXK-1-7" pos="word" morph="none" start_char="75" end_char="80">behind</TOKEN>
+  <TOKEN id="L0C04FQXK-1-8" pos="word" morph="none" start_char="82" end_char="84">his</TOKEN>
+  <TOKEN id="L0C04FQXK-1-9" pos="word" morph="none" start_char="86" end_char="89">wife</TOKEN>
+  <TOKEN id="L0C04FQXK-1-10" pos="word" morph="none" start_char="91" end_char="93">and</TOKEN>
+  <TOKEN id="L0C04FQXK-1-11" pos="word" morph="none" start_char="95" end_char="97">two</TOKEN>
+  <TOKEN id="L0C04FQXK-1-12" pos="word" morph="none" start_char="99" end_char="106">children</TOKEN>
+  <TOKEN id="L0C04FQXK-1-13" pos="word" morph="none" start_char="107" end_char="107">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-2" start_char="110" end_char="289">
+  <ORIGINAL_TEXT>Health officials say he contracted it when he ate that for nachos at this nearby Sacramento gas station. Deaths from botulism are rare, but the bacteria can be extremely dangerous.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-2-0" pos="word" morph="none" start_char="110" end_char="115">Health</TOKEN>
+  <TOKEN id="L0C04FQXK-2-1" pos="word" morph="none" start_char="117" end_char="125">officials</TOKEN>
+  <TOKEN id="L0C04FQXK-2-2" pos="word" morph="none" start_char="127" end_char="129">say</TOKEN>
+  <TOKEN id="L0C04FQXK-2-3" pos="word" morph="none" start_char="131" end_char="132">he</TOKEN>
+  <TOKEN id="L0C04FQXK-2-4" pos="word" morph="none" start_char="134" end_char="143">contracted</TOKEN>
+  <TOKEN id="L0C04FQXK-2-5" pos="word" morph="none" start_char="145" end_char="146">it</TOKEN>
+  <TOKEN id="L0C04FQXK-2-6" pos="word" morph="none" start_char="148" end_char="151">when</TOKEN>
+  <TOKEN id="L0C04FQXK-2-7" pos="word" morph="none" start_char="153" end_char="154">he</TOKEN>
+  <TOKEN id="L0C04FQXK-2-8" pos="word" morph="none" start_char="156" end_char="158">ate</TOKEN>
+  <TOKEN id="L0C04FQXK-2-9" pos="word" morph="none" start_char="160" end_char="163">that</TOKEN>
+  <TOKEN id="L0C04FQXK-2-10" pos="word" morph="none" start_char="165" end_char="167">for</TOKEN>
+  <TOKEN id="L0C04FQXK-2-11" pos="word" morph="none" start_char="169" end_char="174">nachos</TOKEN>
+  <TOKEN id="L0C04FQXK-2-12" pos="word" morph="none" start_char="176" end_char="177">at</TOKEN>
+  <TOKEN id="L0C04FQXK-2-13" pos="word" morph="none" start_char="179" end_char="182">this</TOKEN>
+  <TOKEN id="L0C04FQXK-2-14" pos="word" morph="none" start_char="184" end_char="189">nearby</TOKEN>
+  <TOKEN id="L0C04FQXK-2-15" pos="word" morph="none" start_char="191" end_char="200">Sacramento</TOKEN>
+  <TOKEN id="L0C04FQXK-2-16" pos="word" morph="none" start_char="202" end_char="204">gas</TOKEN>
+  <TOKEN id="L0C04FQXK-2-17" pos="word" morph="none" start_char="206" end_char="212">station</TOKEN>
+  <TOKEN id="L0C04FQXK-2-18" pos="word" morph="none" start_char="213" end_char="213">.</TOKEN>
+  <TOKEN id="L0C04FQXK-2-19" pos="word" morph="none" start_char="215" end_char="220">Deaths</TOKEN>
+  <TOKEN id="L0C04FQXK-2-20" pos="word" morph="none" start_char="222" end_char="225">from</TOKEN>
+  <TOKEN id="L0C04FQXK-2-21" pos="word" morph="none" start_char="227" end_char="234">botulism</TOKEN>
+  <TOKEN id="L0C04FQXK-2-22" pos="word" morph="none" start_char="236" end_char="238">are</TOKEN>
+  <TOKEN id="L0C04FQXK-2-23" pos="word" morph="none" start_char="240" end_char="243">rare</TOKEN>
+  <TOKEN id="L0C04FQXK-2-24" pos="word" morph="none" start_char="244" end_char="244">,</TOKEN>
+  <TOKEN id="L0C04FQXK-2-25" pos="word" morph="none" start_char="246" end_char="248">but</TOKEN>
+  <TOKEN id="L0C04FQXK-2-26" pos="word" morph="none" start_char="250" end_char="252">the</TOKEN>
+  <TOKEN id="L0C04FQXK-2-27" pos="word" morph="none" start_char="254" end_char="261">bacteria</TOKEN>
+  <TOKEN id="L0C04FQXK-2-28" pos="word" morph="none" start_char="263" end_char="265">can</TOKEN>
+  <TOKEN id="L0C04FQXK-2-29" pos="word" morph="none" start_char="267" end_char="268">be</TOKEN>
+  <TOKEN id="L0C04FQXK-2-30" pos="word" morph="none" start_char="270" end_char="278">extremely</TOKEN>
+  <TOKEN id="L0C04FQXK-2-31" pos="word" morph="none" start_char="280" end_char="288">dangerous</TOKEN>
+  <TOKEN id="L0C04FQXK-2-32" pos="word" morph="none" start_char="289" end_char="289">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-3" start_char="292" end_char="424">
+  <ORIGINAL_TEXT>E botulism is a toxin that comes out of the bacteria and that can be found in food, for example, and that affects the nervous system.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-3-0" pos="word" morph="none" start_char="292" end_char="292">E</TOKEN>
+  <TOKEN id="L0C04FQXK-3-1" pos="word" morph="none" start_char="294" end_char="301">botulism</TOKEN>
+  <TOKEN id="L0C04FQXK-3-2" pos="word" morph="none" start_char="303" end_char="304">is</TOKEN>
+  <TOKEN id="L0C04FQXK-3-3" pos="word" morph="none" start_char="306" end_char="306">a</TOKEN>
+  <TOKEN id="L0C04FQXK-3-4" pos="word" morph="none" start_char="308" end_char="312">toxin</TOKEN>
+  <TOKEN id="L0C04FQXK-3-5" pos="word" morph="none" start_char="314" end_char="317">that</TOKEN>
+  <TOKEN id="L0C04FQXK-3-6" pos="word" morph="none" start_char="319" end_char="323">comes</TOKEN>
+  <TOKEN id="L0C04FQXK-3-7" pos="word" morph="none" start_char="325" end_char="327">out</TOKEN>
+  <TOKEN id="L0C04FQXK-3-8" pos="word" morph="none" start_char="329" end_char="330">of</TOKEN>
+  <TOKEN id="L0C04FQXK-3-9" pos="word" morph="none" start_char="332" end_char="334">the</TOKEN>
+  <TOKEN id="L0C04FQXK-3-10" pos="word" morph="none" start_char="336" end_char="343">bacteria</TOKEN>
+  <TOKEN id="L0C04FQXK-3-11" pos="word" morph="none" start_char="345" end_char="347">and</TOKEN>
+  <TOKEN id="L0C04FQXK-3-12" pos="word" morph="none" start_char="349" end_char="352">that</TOKEN>
+  <TOKEN id="L0C04FQXK-3-13" pos="word" morph="none" start_char="354" end_char="356">can</TOKEN>
+  <TOKEN id="L0C04FQXK-3-14" pos="word" morph="none" start_char="358" end_char="359">be</TOKEN>
+  <TOKEN id="L0C04FQXK-3-15" pos="word" morph="none" start_char="361" end_char="365">found</TOKEN>
+  <TOKEN id="L0C04FQXK-3-16" pos="word" morph="none" start_char="367" end_char="368">in</TOKEN>
+  <TOKEN id="L0C04FQXK-3-17" pos="word" morph="none" start_char="370" end_char="373">food</TOKEN>
+  <TOKEN id="L0C04FQXK-3-18" pos="word" morph="none" start_char="374" end_char="374">,</TOKEN>
+  <TOKEN id="L0C04FQXK-3-19" pos="word" morph="none" start_char="376" end_char="378">for</TOKEN>
+  <TOKEN id="L0C04FQXK-3-20" pos="word" morph="none" start_char="380" end_char="386">example</TOKEN>
+  <TOKEN id="L0C04FQXK-3-21" pos="word" morph="none" start_char="387" end_char="387">,</TOKEN>
+  <TOKEN id="L0C04FQXK-3-22" pos="word" morph="none" start_char="389" end_char="391">and</TOKEN>
+  <TOKEN id="L0C04FQXK-3-23" pos="word" morph="none" start_char="393" end_char="396">that</TOKEN>
+  <TOKEN id="L0C04FQXK-3-24" pos="word" morph="none" start_char="398" end_char="404">affects</TOKEN>
+  <TOKEN id="L0C04FQXK-3-25" pos="word" morph="none" start_char="406" end_char="408">the</TOKEN>
+  <TOKEN id="L0C04FQXK-3-26" pos="word" morph="none" start_char="410" end_char="416">nervous</TOKEN>
+  <TOKEN id="L0C04FQXK-3-27" pos="word" morph="none" start_char="418" end_char="423">system</TOKEN>
+  <TOKEN id="L0C04FQXK-3-28" pos="word" morph="none" start_char="424" end_char="424">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-4" start_char="427" end_char="553">
+  <ORIGINAL_TEXT>Mart&#237;n Galindo was hospitalized for several weeks in this blood hospital in his son until he finally fell into a coma and died.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-4-0" pos="word" morph="none" start_char="427" end_char="432">Mart&#237;n</TOKEN>
+  <TOKEN id="L0C04FQXK-4-1" pos="word" morph="none" start_char="434" end_char="440">Galindo</TOKEN>
+  <TOKEN id="L0C04FQXK-4-2" pos="word" morph="none" start_char="442" end_char="444">was</TOKEN>
+  <TOKEN id="L0C04FQXK-4-3" pos="word" morph="none" start_char="446" end_char="457">hospitalized</TOKEN>
+  <TOKEN id="L0C04FQXK-4-4" pos="word" morph="none" start_char="459" end_char="461">for</TOKEN>
+  <TOKEN id="L0C04FQXK-4-5" pos="word" morph="none" start_char="463" end_char="469">several</TOKEN>
+  <TOKEN id="L0C04FQXK-4-6" pos="word" morph="none" start_char="471" end_char="475">weeks</TOKEN>
+  <TOKEN id="L0C04FQXK-4-7" pos="word" morph="none" start_char="477" end_char="478">in</TOKEN>
+  <TOKEN id="L0C04FQXK-4-8" pos="word" morph="none" start_char="480" end_char="483">this</TOKEN>
+  <TOKEN id="L0C04FQXK-4-9" pos="word" morph="none" start_char="485" end_char="489">blood</TOKEN>
+  <TOKEN id="L0C04FQXK-4-10" pos="word" morph="none" start_char="491" end_char="498">hospital</TOKEN>
+  <TOKEN id="L0C04FQXK-4-11" pos="word" morph="none" start_char="500" end_char="501">in</TOKEN>
+  <TOKEN id="L0C04FQXK-4-12" pos="word" morph="none" start_char="503" end_char="505">his</TOKEN>
+  <TOKEN id="L0C04FQXK-4-13" pos="word" morph="none" start_char="507" end_char="509">son</TOKEN>
+  <TOKEN id="L0C04FQXK-4-14" pos="word" morph="none" start_char="511" end_char="515">until</TOKEN>
+  <TOKEN id="L0C04FQXK-4-15" pos="word" morph="none" start_char="517" end_char="518">he</TOKEN>
+  <TOKEN id="L0C04FQXK-4-16" pos="word" morph="none" start_char="520" end_char="526">finally</TOKEN>
+  <TOKEN id="L0C04FQXK-4-17" pos="word" morph="none" start_char="528" end_char="531">fell</TOKEN>
+  <TOKEN id="L0C04FQXK-4-18" pos="word" morph="none" start_char="533" end_char="536">into</TOKEN>
+  <TOKEN id="L0C04FQXK-4-19" pos="word" morph="none" start_char="538" end_char="538">a</TOKEN>
+  <TOKEN id="L0C04FQXK-4-20" pos="word" morph="none" start_char="540" end_char="543">coma</TOKEN>
+  <TOKEN id="L0C04FQXK-4-21" pos="word" morph="none" start_char="545" end_char="547">and</TOKEN>
+  <TOKEN id="L0C04FQXK-4-22" pos="word" morph="none" start_char="549" end_char="552">died</TOKEN>
+  <TOKEN id="L0C04FQXK-4-23" pos="word" morph="none" start_char="553" end_char="553">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-5" start_char="556" end_char="587">
+  <ORIGINAL_TEXT>He is not the only one affected.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-5-0" pos="word" morph="none" start_char="556" end_char="557">He</TOKEN>
+  <TOKEN id="L0C04FQXK-5-1" pos="word" morph="none" start_char="559" end_char="560">is</TOKEN>
+  <TOKEN id="L0C04FQXK-5-2" pos="word" morph="none" start_char="562" end_char="564">not</TOKEN>
+  <TOKEN id="L0C04FQXK-5-3" pos="word" morph="none" start_char="566" end_char="568">the</TOKEN>
+  <TOKEN id="L0C04FQXK-5-4" pos="word" morph="none" start_char="570" end_char="573">only</TOKEN>
+  <TOKEN id="L0C04FQXK-5-5" pos="word" morph="none" start_char="575" end_char="577">one</TOKEN>
+  <TOKEN id="L0C04FQXK-5-6" pos="word" morph="none" start_char="579" end_char="586">affected</TOKEN>
+  <TOKEN id="L0C04FQXK-5-7" pos="word" morph="none" start_char="587" end_char="587">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-6" start_char="590" end_char="672">
+  <ORIGINAL_TEXT>Another nine people are fighting the bacteria in different hospitals in the region.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-6-0" pos="word" morph="none" start_char="590" end_char="596">Another</TOKEN>
+  <TOKEN id="L0C04FQXK-6-1" pos="word" morph="none" start_char="598" end_char="601">nine</TOKEN>
+  <TOKEN id="L0C04FQXK-6-2" pos="word" morph="none" start_char="603" end_char="608">people</TOKEN>
+  <TOKEN id="L0C04FQXK-6-3" pos="word" morph="none" start_char="610" end_char="612">are</TOKEN>
+  <TOKEN id="L0C04FQXK-6-4" pos="word" morph="none" start_char="614" end_char="621">fighting</TOKEN>
+  <TOKEN id="L0C04FQXK-6-5" pos="word" morph="none" start_char="623" end_char="625">the</TOKEN>
+  <TOKEN id="L0C04FQXK-6-6" pos="word" morph="none" start_char="627" end_char="634">bacteria</TOKEN>
+  <TOKEN id="L0C04FQXK-6-7" pos="word" morph="none" start_char="636" end_char="637">in</TOKEN>
+  <TOKEN id="L0C04FQXK-6-8" pos="word" morph="none" start_char="639" end_char="647">different</TOKEN>
+  <TOKEN id="L0C04FQXK-6-9" pos="word" morph="none" start_char="649" end_char="657">hospitals</TOKEN>
+  <TOKEN id="L0C04FQXK-6-10" pos="word" morph="none" start_char="659" end_char="660">in</TOKEN>
+  <TOKEN id="L0C04FQXK-6-11" pos="word" morph="none" start_char="662" end_char="664">the</TOKEN>
+  <TOKEN id="L0C04FQXK-6-12" pos="word" morph="none" start_char="666" end_char="671">region</TOKEN>
+  <TOKEN id="L0C04FQXK-6-13" pos="word" morph="none" start_char="672" end_char="672">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-7" start_char="675" end_char="743">
+  <ORIGINAL_TEXT>Doesn't C&#243;rdoba give botulism and it caused a cardiac arrest for him.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-7-0" pos="word" morph="none" start_char="675" end_char="678">Does</TOKEN>
+  <TOKEN id="L0C04FQXK-7-1" pos="word" morph="none" start_char="679" end_char="681">n't</TOKEN>
+  <TOKEN id="L0C04FQXK-7-2" pos="word" morph="none" start_char="683" end_char="689">C&#243;rdoba</TOKEN>
+  <TOKEN id="L0C04FQXK-7-3" pos="word" morph="none" start_char="691" end_char="694">give</TOKEN>
+  <TOKEN id="L0C04FQXK-7-4" pos="word" morph="none" start_char="696" end_char="703">botulism</TOKEN>
+  <TOKEN id="L0C04FQXK-7-5" pos="word" morph="none" start_char="705" end_char="707">and</TOKEN>
+  <TOKEN id="L0C04FQXK-7-6" pos="word" morph="none" start_char="709" end_char="710">it</TOKEN>
+  <TOKEN id="L0C04FQXK-7-7" pos="word" morph="none" start_char="712" end_char="717">caused</TOKEN>
+  <TOKEN id="L0C04FQXK-7-8" pos="word" morph="none" start_char="719" end_char="719">a</TOKEN>
+  <TOKEN id="L0C04FQXK-7-9" pos="word" morph="none" start_char="721" end_char="727">cardiac</TOKEN>
+  <TOKEN id="L0C04FQXK-7-10" pos="word" morph="none" start_char="729" end_char="734">arrest</TOKEN>
+  <TOKEN id="L0C04FQXK-7-11" pos="word" morph="none" start_char="736" end_char="738">for</TOKEN>
+  <TOKEN id="L0C04FQXK-7-12" pos="word" morph="none" start_char="740" end_char="742">him</TOKEN>
+  <TOKEN id="L0C04FQXK-7-13" pos="word" morph="none" start_char="743" end_char="743">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-8" start_char="746" end_char="771">
+  <ORIGINAL_TEXT>The symptoms started fast.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-8-0" pos="word" morph="none" start_char="746" end_char="748">The</TOKEN>
+  <TOKEN id="L0C04FQXK-8-1" pos="word" morph="none" start_char="750" end_char="757">symptoms</TOKEN>
+  <TOKEN id="L0C04FQXK-8-2" pos="word" morph="none" start_char="759" end_char="765">started</TOKEN>
+  <TOKEN id="L0C04FQXK-8-3" pos="word" morph="none" start_char="767" end_char="770">fast</TOKEN>
+  <TOKEN id="L0C04FQXK-8-4" pos="word" morph="none" start_char="771" end_char="771">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-9" start_char="774" end_char="891">
+  <ORIGINAL_TEXT>He lost strength in his body, This headaches and what happened, the most serious that he was after closing his throat.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-9-0" pos="word" morph="none" start_char="774" end_char="775">He</TOKEN>
+  <TOKEN id="L0C04FQXK-9-1" pos="word" morph="none" start_char="777" end_char="780">lost</TOKEN>
+  <TOKEN id="L0C04FQXK-9-2" pos="word" morph="none" start_char="782" end_char="789">strength</TOKEN>
+  <TOKEN id="L0C04FQXK-9-3" pos="word" morph="none" start_char="791" end_char="792">in</TOKEN>
+  <TOKEN id="L0C04FQXK-9-4" pos="word" morph="none" start_char="794" end_char="796">his</TOKEN>
+  <TOKEN id="L0C04FQXK-9-5" pos="word" morph="none" start_char="798" end_char="801">body</TOKEN>
+  <TOKEN id="L0C04FQXK-9-6" pos="word" morph="none" start_char="802" end_char="802">,</TOKEN>
+  <TOKEN id="L0C04FQXK-9-7" pos="word" morph="none" start_char="804" end_char="807">This</TOKEN>
+  <TOKEN id="L0C04FQXK-9-8" pos="word" morph="none" start_char="809" end_char="817">headaches</TOKEN>
+  <TOKEN id="L0C04FQXK-9-9" pos="word" morph="none" start_char="819" end_char="821">and</TOKEN>
+  <TOKEN id="L0C04FQXK-9-10" pos="word" morph="none" start_char="823" end_char="826">what</TOKEN>
+  <TOKEN id="L0C04FQXK-9-11" pos="word" morph="none" start_char="828" end_char="835">happened</TOKEN>
+  <TOKEN id="L0C04FQXK-9-12" pos="word" morph="none" start_char="836" end_char="836">,</TOKEN>
+  <TOKEN id="L0C04FQXK-9-13" pos="word" morph="none" start_char="838" end_char="840">the</TOKEN>
+  <TOKEN id="L0C04FQXK-9-14" pos="word" morph="none" start_char="842" end_char="845">most</TOKEN>
+  <TOKEN id="L0C04FQXK-9-15" pos="word" morph="none" start_char="847" end_char="853">serious</TOKEN>
+  <TOKEN id="L0C04FQXK-9-16" pos="word" morph="none" start_char="855" end_char="858">that</TOKEN>
+  <TOKEN id="L0C04FQXK-9-17" pos="word" morph="none" start_char="860" end_char="861">he</TOKEN>
+  <TOKEN id="L0C04FQXK-9-18" pos="word" morph="none" start_char="863" end_char="865">was</TOKEN>
+  <TOKEN id="L0C04FQXK-9-19" pos="word" morph="none" start_char="867" end_char="871">after</TOKEN>
+  <TOKEN id="L0C04FQXK-9-20" pos="word" morph="none" start_char="873" end_char="879">closing</TOKEN>
+  <TOKEN id="L0C04FQXK-9-21" pos="word" morph="none" start_char="881" end_char="883">his</TOKEN>
+  <TOKEN id="L0C04FQXK-9-22" pos="word" morph="none" start_char="885" end_char="890">throat</TOKEN>
+  <TOKEN id="L0C04FQXK-9-23" pos="word" morph="none" start_char="891" end_char="891">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-10" start_char="894" end_char="969">
+  <ORIGINAL_TEXT>C&#243;rdoba als got intoxicated last month with nacho cheese at the gas station.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-10-0" pos="word" morph="none" start_char="894" end_char="900">C&#243;rdoba</TOKEN>
+  <TOKEN id="L0C04FQXK-10-1" pos="word" morph="none" start_char="902" end_char="904">als</TOKEN>
+  <TOKEN id="L0C04FQXK-10-2" pos="word" morph="none" start_char="906" end_char="908">got</TOKEN>
+  <TOKEN id="L0C04FQXK-10-3" pos="word" morph="none" start_char="910" end_char="920">intoxicated</TOKEN>
+  <TOKEN id="L0C04FQXK-10-4" pos="word" morph="none" start_char="922" end_char="925">last</TOKEN>
+  <TOKEN id="L0C04FQXK-10-5" pos="word" morph="none" start_char="927" end_char="931">month</TOKEN>
+  <TOKEN id="L0C04FQXK-10-6" pos="word" morph="none" start_char="933" end_char="936">with</TOKEN>
+  <TOKEN id="L0C04FQXK-10-7" pos="word" morph="none" start_char="938" end_char="942">nacho</TOKEN>
+  <TOKEN id="L0C04FQXK-10-8" pos="word" morph="none" start_char="944" end_char="949">cheese</TOKEN>
+  <TOKEN id="L0C04FQXK-10-9" pos="word" morph="none" start_char="951" end_char="952">at</TOKEN>
+  <TOKEN id="L0C04FQXK-10-10" pos="word" morph="none" start_char="954" end_char="956">the</TOKEN>
+  <TOKEN id="L0C04FQXK-10-11" pos="word" morph="none" start_char="958" end_char="960">gas</TOKEN>
+  <TOKEN id="L0C04FQXK-10-12" pos="word" morph="none" start_char="962" end_char="968">station</TOKEN>
+  <TOKEN id="L0C04FQXK-10-13" pos="word" morph="none" start_char="969" end_char="969">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-11" start_char="972" end_char="1054">
+  <ORIGINAL_TEXT>Three other members of his family experienced the same thing while walking to work.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-11-0" pos="word" morph="none" start_char="972" end_char="976">Three</TOKEN>
+  <TOKEN id="L0C04FQXK-11-1" pos="word" morph="none" start_char="978" end_char="982">other</TOKEN>
+  <TOKEN id="L0C04FQXK-11-2" pos="word" morph="none" start_char="984" end_char="990">members</TOKEN>
+  <TOKEN id="L0C04FQXK-11-3" pos="word" morph="none" start_char="992" end_char="993">of</TOKEN>
+  <TOKEN id="L0C04FQXK-11-4" pos="word" morph="none" start_char="995" end_char="997">his</TOKEN>
+  <TOKEN id="L0C04FQXK-11-5" pos="word" morph="none" start_char="999" end_char="1004">family</TOKEN>
+  <TOKEN id="L0C04FQXK-11-6" pos="word" morph="none" start_char="1006" end_char="1016">experienced</TOKEN>
+  <TOKEN id="L0C04FQXK-11-7" pos="word" morph="none" start_char="1018" end_char="1020">the</TOKEN>
+  <TOKEN id="L0C04FQXK-11-8" pos="word" morph="none" start_char="1022" end_char="1025">same</TOKEN>
+  <TOKEN id="L0C04FQXK-11-9" pos="word" morph="none" start_char="1027" end_char="1031">thing</TOKEN>
+  <TOKEN id="L0C04FQXK-11-10" pos="word" morph="none" start_char="1033" end_char="1037">while</TOKEN>
+  <TOKEN id="L0C04FQXK-11-11" pos="word" morph="none" start_char="1039" end_char="1045">walking</TOKEN>
+  <TOKEN id="L0C04FQXK-11-12" pos="word" morph="none" start_char="1047" end_char="1048">to</TOKEN>
+  <TOKEN id="L0C04FQXK-11-13" pos="word" morph="none" start_char="1050" end_char="1053">work</TOKEN>
+  <TOKEN id="L0C04FQXK-11-14" pos="word" morph="none" start_char="1054" end_char="1054">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-12" start_char="1057" end_char="1080">
+  <ORIGINAL_TEXT>I felt like I was dizzy.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-12-0" pos="word" morph="none" start_char="1057" end_char="1057">I</TOKEN>
+  <TOKEN id="L0C04FQXK-12-1" pos="word" morph="none" start_char="1059" end_char="1062">felt</TOKEN>
+  <TOKEN id="L0C04FQXK-12-2" pos="word" morph="none" start_char="1064" end_char="1067">like</TOKEN>
+  <TOKEN id="L0C04FQXK-12-3" pos="word" morph="none" start_char="1069" end_char="1069">I</TOKEN>
+  <TOKEN id="L0C04FQXK-12-4" pos="word" morph="none" start_char="1071" end_char="1073">was</TOKEN>
+  <TOKEN id="L0C04FQXK-12-5" pos="word" morph="none" start_char="1075" end_char="1079">dizzy</TOKEN>
+  <TOKEN id="L0C04FQXK-12-6" pos="word" morph="none" start_char="1080" end_char="1080">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-13" start_char="1083" end_char="1105">
+  <ORIGINAL_TEXT>In this my eyes burned.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-13-0" pos="word" morph="none" start_char="1083" end_char="1084">In</TOKEN>
+  <TOKEN id="L0C04FQXK-13-1" pos="word" morph="none" start_char="1086" end_char="1089">this</TOKEN>
+  <TOKEN id="L0C04FQXK-13-2" pos="word" morph="none" start_char="1091" end_char="1092">my</TOKEN>
+  <TOKEN id="L0C04FQXK-13-3" pos="word" morph="none" start_char="1094" end_char="1097">eyes</TOKEN>
+  <TOKEN id="L0C04FQXK-13-4" pos="word" morph="none" start_char="1099" end_char="1104">burned</TOKEN>
+  <TOKEN id="L0C04FQXK-13-5" pos="word" morph="none" start_char="1105" end_char="1105">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-14" start_char="1108" end_char="1177">
+  <ORIGINAL_TEXT>He saw that pair of forces in his body in a blur and he felt that way.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-14-0" pos="word" morph="none" start_char="1108" end_char="1109">He</TOKEN>
+  <TOKEN id="L0C04FQXK-14-1" pos="word" morph="none" start_char="1111" end_char="1113">saw</TOKEN>
+  <TOKEN id="L0C04FQXK-14-2" pos="word" morph="none" start_char="1115" end_char="1118">that</TOKEN>
+  <TOKEN id="L0C04FQXK-14-3" pos="word" morph="none" start_char="1120" end_char="1123">pair</TOKEN>
+  <TOKEN id="L0C04FQXK-14-4" pos="word" morph="none" start_char="1125" end_char="1126">of</TOKEN>
+  <TOKEN id="L0C04FQXK-14-5" pos="word" morph="none" start_char="1128" end_char="1133">forces</TOKEN>
+  <TOKEN id="L0C04FQXK-14-6" pos="word" morph="none" start_char="1135" end_char="1136">in</TOKEN>
+  <TOKEN id="L0C04FQXK-14-7" pos="word" morph="none" start_char="1138" end_char="1140">his</TOKEN>
+  <TOKEN id="L0C04FQXK-14-8" pos="word" morph="none" start_char="1142" end_char="1145">body</TOKEN>
+  <TOKEN id="L0C04FQXK-14-9" pos="word" morph="none" start_char="1147" end_char="1148">in</TOKEN>
+  <TOKEN id="L0C04FQXK-14-10" pos="word" morph="none" start_char="1150" end_char="1150">a</TOKEN>
+  <TOKEN id="L0C04FQXK-14-11" pos="word" morph="none" start_char="1152" end_char="1155">blur</TOKEN>
+  <TOKEN id="L0C04FQXK-14-12" pos="word" morph="none" start_char="1157" end_char="1159">and</TOKEN>
+  <TOKEN id="L0C04FQXK-14-13" pos="word" morph="none" start_char="1161" end_char="1162">he</TOKEN>
+  <TOKEN id="L0C04FQXK-14-14" pos="word" morph="none" start_char="1164" end_char="1167">felt</TOKEN>
+  <TOKEN id="L0C04FQXK-14-15" pos="word" morph="none" start_char="1169" end_char="1172">that</TOKEN>
+  <TOKEN id="L0C04FQXK-14-16" pos="word" morph="none" start_char="1174" end_char="1176">way</TOKEN>
+  <TOKEN id="L0C04FQXK-14-17" pos="word" morph="none" start_char="1177" end_char="1177">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-15" start_char="1180" end_char="1200">
+  <ORIGINAL_TEXT>He will keep walking.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-15-0" pos="word" morph="none" start_char="1180" end_char="1181">He</TOKEN>
+  <TOKEN id="L0C04FQXK-15-1" pos="word" morph="none" start_char="1183" end_char="1186">will</TOKEN>
+  <TOKEN id="L0C04FQXK-15-2" pos="word" morph="none" start_char="1188" end_char="1191">keep</TOKEN>
+  <TOKEN id="L0C04FQXK-15-3" pos="word" morph="none" start_char="1193" end_char="1199">walking</TOKEN>
+  <TOKEN id="L0C04FQXK-15-4" pos="word" morph="none" start_char="1200" end_char="1200">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-16" start_char="1203" end_char="1241">
+  <ORIGINAL_TEXT>I felt like he was going to shut me up.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-16-0" pos="word" morph="none" start_char="1203" end_char="1203">I</TOKEN>
+  <TOKEN id="L0C04FQXK-16-1" pos="word" morph="none" start_char="1205" end_char="1208">felt</TOKEN>
+  <TOKEN id="L0C04FQXK-16-2" pos="word" morph="none" start_char="1210" end_char="1213">like</TOKEN>
+  <TOKEN id="L0C04FQXK-16-3" pos="word" morph="none" start_char="1215" end_char="1216">he</TOKEN>
+  <TOKEN id="L0C04FQXK-16-4" pos="word" morph="none" start_char="1218" end_char="1220">was</TOKEN>
+  <TOKEN id="L0C04FQXK-16-5" pos="word" morph="none" start_char="1222" end_char="1226">going</TOKEN>
+  <TOKEN id="L0C04FQXK-16-6" pos="word" morph="none" start_char="1228" end_char="1229">to</TOKEN>
+  <TOKEN id="L0C04FQXK-16-7" pos="word" morph="none" start_char="1231" end_char="1234">shut</TOKEN>
+  <TOKEN id="L0C04FQXK-16-8" pos="word" morph="none" start_char="1236" end_char="1237">me</TOKEN>
+  <TOKEN id="L0C04FQXK-16-9" pos="word" morph="none" start_char="1239" end_char="1240">up</TOKEN>
+  <TOKEN id="L0C04FQXK-16-10" pos="word" morph="none" start_char="1241" end_char="1241">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-17" start_char="1244" end_char="1326">
+  <ORIGINAL_TEXT>Symptoms usually begin eighteen to thirty-six hours after eating the infected food.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-17-0" pos="word" morph="none" start_char="1244" end_char="1251">Symptoms</TOKEN>
+  <TOKEN id="L0C04FQXK-17-1" pos="word" morph="none" start_char="1253" end_char="1259">usually</TOKEN>
+  <TOKEN id="L0C04FQXK-17-2" pos="word" morph="none" start_char="1261" end_char="1265">begin</TOKEN>
+  <TOKEN id="L0C04FQXK-17-3" pos="word" morph="none" start_char="1267" end_char="1274">eighteen</TOKEN>
+  <TOKEN id="L0C04FQXK-17-4" pos="word" morph="none" start_char="1276" end_char="1277">to</TOKEN>
+  <TOKEN id="L0C04FQXK-17-5" pos="word" morph="none" start_char="1279" end_char="1284">thirty</TOKEN>
+  <TOKEN id="L0C04FQXK-17-6" pos="word" morph="none" start_char="1285" end_char="1285">-</TOKEN>
+  <TOKEN id="L0C04FQXK-17-7" pos="word" morph="none" start_char="1286" end_char="1288">six</TOKEN>
+  <TOKEN id="L0C04FQXK-17-8" pos="word" morph="none" start_char="1290" end_char="1294">hours</TOKEN>
+  <TOKEN id="L0C04FQXK-17-9" pos="word" morph="none" start_char="1296" end_char="1300">after</TOKEN>
+  <TOKEN id="L0C04FQXK-17-10" pos="word" morph="none" start_char="1302" end_char="1307">eating</TOKEN>
+  <TOKEN id="L0C04FQXK-17-11" pos="word" morph="none" start_char="1309" end_char="1311">the</TOKEN>
+  <TOKEN id="L0C04FQXK-17-12" pos="word" morph="none" start_char="1313" end_char="1320">infected</TOKEN>
+  <TOKEN id="L0C04FQXK-17-13" pos="word" morph="none" start_char="1322" end_char="1325">food</TOKEN>
+  <TOKEN id="L0C04FQXK-17-14" pos="word" morph="none" start_char="1326" end_char="1326">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-18" start_char="1329" end_char="1470">
+  <ORIGINAL_TEXT>The California Department of Health believes there will be no more victims because the contaminated cheese was withdrawn from sale last month.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-18-0" pos="word" morph="none" start_char="1329" end_char="1331">The</TOKEN>
+  <TOKEN id="L0C04FQXK-18-1" pos="word" morph="none" start_char="1333" end_char="1342">California</TOKEN>
+  <TOKEN id="L0C04FQXK-18-2" pos="word" morph="none" start_char="1344" end_char="1353">Department</TOKEN>
+  <TOKEN id="L0C04FQXK-18-3" pos="word" morph="none" start_char="1355" end_char="1356">of</TOKEN>
+  <TOKEN id="L0C04FQXK-18-4" pos="word" morph="none" start_char="1358" end_char="1363">Health</TOKEN>
+  <TOKEN id="L0C04FQXK-18-5" pos="word" morph="none" start_char="1365" end_char="1372">believes</TOKEN>
+  <TOKEN id="L0C04FQXK-18-6" pos="word" morph="none" start_char="1374" end_char="1378">there</TOKEN>
+  <TOKEN id="L0C04FQXK-18-7" pos="word" morph="none" start_char="1380" end_char="1383">will</TOKEN>
+  <TOKEN id="L0C04FQXK-18-8" pos="word" morph="none" start_char="1385" end_char="1386">be</TOKEN>
+  <TOKEN id="L0C04FQXK-18-9" pos="word" morph="none" start_char="1388" end_char="1389">no</TOKEN>
+  <TOKEN id="L0C04FQXK-18-10" pos="word" morph="none" start_char="1391" end_char="1394">more</TOKEN>
+  <TOKEN id="L0C04FQXK-18-11" pos="word" morph="none" start_char="1396" end_char="1402">victims</TOKEN>
+  <TOKEN id="L0C04FQXK-18-12" pos="word" morph="none" start_char="1404" end_char="1410">because</TOKEN>
+  <TOKEN id="L0C04FQXK-18-13" pos="word" morph="none" start_char="1412" end_char="1414">the</TOKEN>
+  <TOKEN id="L0C04FQXK-18-14" pos="word" morph="none" start_char="1416" end_char="1427">contaminated</TOKEN>
+  <TOKEN id="L0C04FQXK-18-15" pos="word" morph="none" start_char="1429" end_char="1434">cheese</TOKEN>
+  <TOKEN id="L0C04FQXK-18-16" pos="word" morph="none" start_char="1436" end_char="1438">was</TOKEN>
+  <TOKEN id="L0C04FQXK-18-17" pos="word" morph="none" start_char="1440" end_char="1448">withdrawn</TOKEN>
+  <TOKEN id="L0C04FQXK-18-18" pos="word" morph="none" start_char="1450" end_char="1453">from</TOKEN>
+  <TOKEN id="L0C04FQXK-18-19" pos="word" morph="none" start_char="1455" end_char="1458">sale</TOKEN>
+  <TOKEN id="L0C04FQXK-18-20" pos="word" morph="none" start_char="1460" end_char="1463">last</TOKEN>
+  <TOKEN id="L0C04FQXK-18-21" pos="word" morph="none" start_char="1465" end_char="1469">month</TOKEN>
+  <TOKEN id="L0C04FQXK-18-22" pos="word" morph="none" start_char="1470" end_char="1470">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-19" start_char="1473" end_char="1504">
+  <ORIGINAL_TEXT>And I hope this is also from Si.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-19-0" pos="word" morph="none" start_char="1473" end_char="1475">And</TOKEN>
+  <TOKEN id="L0C04FQXK-19-1" pos="word" morph="none" start_char="1477" end_char="1477">I</TOKEN>
+  <TOKEN id="L0C04FQXK-19-2" pos="word" morph="none" start_char="1479" end_char="1482">hope</TOKEN>
+  <TOKEN id="L0C04FQXK-19-3" pos="word" morph="none" start_char="1484" end_char="1487">this</TOKEN>
+  <TOKEN id="L0C04FQXK-19-4" pos="word" morph="none" start_char="1489" end_char="1490">is</TOKEN>
+  <TOKEN id="L0C04FQXK-19-5" pos="word" morph="none" start_char="1492" end_char="1495">also</TOKEN>
+  <TOKEN id="L0C04FQXK-19-6" pos="word" morph="none" start_char="1497" end_char="1500">from</TOKEN>
+  <TOKEN id="L0C04FQXK-19-7" pos="word" morph="none" start_char="1502" end_char="1503">Si</TOKEN>
+  <TOKEN id="L0C04FQXK-19-8" pos="word" morph="none" start_char="1504" end_char="1504">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-20" start_char="1507" end_char="1593">
+  <ORIGINAL_TEXT>It goes to those who have businesses that are more careful with the products they sell.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-20-0" pos="word" morph="none" start_char="1507" end_char="1508">It</TOKEN>
+  <TOKEN id="L0C04FQXK-20-1" pos="word" morph="none" start_char="1510" end_char="1513">goes</TOKEN>
+  <TOKEN id="L0C04FQXK-20-2" pos="word" morph="none" start_char="1515" end_char="1516">to</TOKEN>
+  <TOKEN id="L0C04FQXK-20-3" pos="word" morph="none" start_char="1518" end_char="1522">those</TOKEN>
+  <TOKEN id="L0C04FQXK-20-4" pos="word" morph="none" start_char="1524" end_char="1526">who</TOKEN>
+  <TOKEN id="L0C04FQXK-20-5" pos="word" morph="none" start_char="1528" end_char="1531">have</TOKEN>
+  <TOKEN id="L0C04FQXK-20-6" pos="word" morph="none" start_char="1533" end_char="1542">businesses</TOKEN>
+  <TOKEN id="L0C04FQXK-20-7" pos="word" morph="none" start_char="1544" end_char="1547">that</TOKEN>
+  <TOKEN id="L0C04FQXK-20-8" pos="word" morph="none" start_char="1549" end_char="1551">are</TOKEN>
+  <TOKEN id="L0C04FQXK-20-9" pos="word" morph="none" start_char="1553" end_char="1556">more</TOKEN>
+  <TOKEN id="L0C04FQXK-20-10" pos="word" morph="none" start_char="1558" end_char="1564">careful</TOKEN>
+  <TOKEN id="L0C04FQXK-20-11" pos="word" morph="none" start_char="1566" end_char="1569">with</TOKEN>
+  <TOKEN id="L0C04FQXK-20-12" pos="word" morph="none" start_char="1571" end_char="1573">the</TOKEN>
+  <TOKEN id="L0C04FQXK-20-13" pos="word" morph="none" start_char="1575" end_char="1582">products</TOKEN>
+  <TOKEN id="L0C04FQXK-20-14" pos="word" morph="none" start_char="1584" end_char="1587">they</TOKEN>
+  <TOKEN id="L0C04FQXK-20-15" pos="word" morph="none" start_char="1589" end_char="1592">sell</TOKEN>
+  <TOKEN id="L0C04FQXK-20-16" pos="word" morph="none" start_char="1593" end_char="1593">.</TOKEN>
+</SEG>
+<SEG id="L0C04FQXK-21" start_char="1596" end_char="1760">
+  <ORIGINAL_TEXT>This gives him because it is sad to go through this little consolation for those who have already suffered the consequences of Sandra slipped in and Majid Univisi&#243;n.</ORIGINAL_TEXT>
+  <TOKEN id="L0C04FQXK-21-0" pos="word" morph="none" start_char="1596" end_char="1599">This</TOKEN>
+  <TOKEN id="L0C04FQXK-21-1" pos="word" morph="none" start_char="1601" end_char="1605">gives</TOKEN>
+  <TOKEN id="L0C04FQXK-21-2" pos="word" morph="none" start_char="1607" end_char="1609">him</TOKEN>
+  <TOKEN id="L0C04FQXK-21-3" pos="word" morph="none" start_char="1611" end_char="1617">because</TOKEN>
+  <TOKEN id="L0C04FQXK-21-4" pos="word" morph="none" start_char="1619" end_char="1620">it</TOKEN>
+  <TOKEN id="L0C04FQXK-21-5" pos="word" morph="none" start_char="1622" end_char="1623">is</TOKEN>
+  <TOKEN id="L0C04FQXK-21-6" pos="word" morph="none" start_char="1625" end_char="1627">sad</TOKEN>
+  <TOKEN id="L0C04FQXK-21-7" pos="word" morph="none" start_char="1629" end_char="1630">to</TOKEN>
+  <TOKEN id="L0C04FQXK-21-8" pos="word" morph="none" start_char="1632" end_char="1633">go</TOKEN>
+  <TOKEN id="L0C04FQXK-21-9" pos="word" morph="none" start_char="1635" end_char="1641">through</TOKEN>
+  <TOKEN id="L0C04FQXK-21-10" pos="word" morph="none" start_char="1643" end_char="1646">this</TOKEN>
+  <TOKEN id="L0C04FQXK-21-11" pos="word" morph="none" start_char="1648" end_char="1653">little</TOKEN>
+  <TOKEN id="L0C04FQXK-21-12" pos="word" morph="none" start_char="1655" end_char="1665">consolation</TOKEN>
+  <TOKEN id="L0C04FQXK-21-13" pos="word" morph="none" start_char="1667" end_char="1669">for</TOKEN>
+  <TOKEN id="L0C04FQXK-21-14" pos="word" morph="none" start_char="1671" end_char="1675">those</TOKEN>
+  <TOKEN id="L0C04FQXK-21-15" pos="word" morph="none" start_char="1677" end_char="1679">who</TOKEN>
+  <TOKEN id="L0C04FQXK-21-16" pos="word" morph="none" start_char="1681" end_char="1684">have</TOKEN>
+  <TOKEN id="L0C04FQXK-21-17" pos="word" morph="none" start_char="1686" end_char="1692">already</TOKEN>
+  <TOKEN id="L0C04FQXK-21-18" pos="word" morph="none" start_char="1694" end_char="1701">suffered</TOKEN>
+  <TOKEN id="L0C04FQXK-21-19" pos="word" morph="none" start_char="1703" end_char="1705">the</TOKEN>
+  <TOKEN id="L0C04FQXK-21-20" pos="word" morph="none" start_char="1707" end_char="1718">consequences</TOKEN>
+  <TOKEN id="L0C04FQXK-21-21" pos="word" morph="none" start_char="1720" end_char="1721">of</TOKEN>
+  <TOKEN id="L0C04FQXK-21-22" pos="word" morph="none" start_char="1723" end_char="1728">Sandra</TOKEN>
+  <TOKEN id="L0C04FQXK-21-23" pos="word" morph="none" start_char="1730" end_char="1736">slipped</TOKEN>
+  <TOKEN id="L0C04FQXK-21-24" pos="word" morph="none" start_char="1738" end_char="1739">in</TOKEN>
+  <TOKEN id="L0C04FQXK-21-25" pos="word" morph="none" start_char="1741" end_char="1743">and</TOKEN>
+  <TOKEN id="L0C04FQXK-21-26" pos="word" morph="none" start_char="1745" end_char="1749">Majid</TOKEN>
+  <TOKEN id="L0C04FQXK-21-27" pos="word" morph="none" start_char="1751" end_char="1759">Univisi&#243;n</TOKEN>
+  <TOKEN id="L0C04FQXK-21-28" pos="word" morph="none" start_char="1760" end_char="1760">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

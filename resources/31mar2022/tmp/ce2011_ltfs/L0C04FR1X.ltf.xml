@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng"><DOC id="L0C04FR1X" lang="eng" tokenization="unknown" grammar="none" raw_text_char_length="1699" raw_text_md5="unknown">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="58">
+  <ORIGINAL_TEXT>Cases of E. coli Infected in North Carolina Increase to 10</ORIGINAL_TEXT>
+  <TOKEN id="segment-0-0" pos="word" morph="none" start_char="1" end_char="5">Cases</TOKEN>
+  <TOKEN id="segment-0-1" pos="word" morph="none" start_char="7" end_char="8">of</TOKEN>
+  <TOKEN id="segment-0-2" pos="word" morph="none" start_char="10" end_char="11">E.</TOKEN>
+  <TOKEN id="segment-0-3" pos="word" morph="none" start_char="13" end_char="16">coli</TOKEN>
+  <TOKEN id="segment-0-4" pos="word" morph="none" start_char="18" end_char="25">Infected</TOKEN>
+  <TOKEN id="segment-0-5" pos="word" morph="none" start_char="27" end_char="28">in</TOKEN>
+  <TOKEN id="segment-0-6" pos="word" morph="none" start_char="30" end_char="34">North</TOKEN>
+  <TOKEN id="segment-0-7" pos="word" morph="none" start_char="36" end_char="43">Carolina</TOKEN>
+  <TOKEN id="segment-0-8" pos="word" morph="none" start_char="45" end_char="52">Increase</TOKEN>
+  <TOKEN id="segment-0-9" pos="word" morph="none" start_char="54" end_char="55">to</TOKEN>
+  <TOKEN id="segment-0-10" pos="word" morph="none" start_char="57" end_char="58">10</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="61" end_char="275">
+  <ORIGINAL_TEXT>Charlotte (USA), Oct 28.- North Carolina health authorities today confirmed the increase to 10 cases of those infected with the E. coli bacteria and another 16 are under investigation in eight counties of the state.</ORIGINAL_TEXT>
+  <TOKEN id="segment-1-0" pos="word" morph="none" start_char="61" end_char="69">Charlotte</TOKEN>
+  <TOKEN id="segment-1-1" pos="word" morph="none" start_char="71" end_char="71">(</TOKEN>
+  <TOKEN id="segment-1-2" pos="word" morph="none" start_char="72" end_char="74">USA</TOKEN>
+  <TOKEN id="segment-1-3" pos="word" morph="none" start_char="75" end_char="75">)</TOKEN>
+  <TOKEN id="segment-1-4" pos="word" morph="none" start_char="76" end_char="76">,</TOKEN>
+  <TOKEN id="segment-1-5" pos="word" morph="none" start_char="78" end_char="80">Oct</TOKEN>
+  <TOKEN id="segment-1-6" pos="word" morph="none" start_char="82" end_char="85">28.-</TOKEN>
+  <TOKEN id="segment-1-7" pos="word" morph="none" start_char="87" end_char="91">North</TOKEN>
+  <TOKEN id="segment-1-8" pos="word" morph="none" start_char="93" end_char="100">Carolina</TOKEN>
+  <TOKEN id="segment-1-9" pos="word" morph="none" start_char="102" end_char="107">health</TOKEN>
+  <TOKEN id="segment-1-10" pos="word" morph="none" start_char="109" end_char="119">authorities</TOKEN>
+  <TOKEN id="segment-1-11" pos="word" morph="none" start_char="121" end_char="125">today</TOKEN>
+  <TOKEN id="segment-1-12" pos="word" morph="none" start_char="127" end_char="135">confirmed</TOKEN>
+  <TOKEN id="segment-1-13" pos="word" morph="none" start_char="137" end_char="139">the</TOKEN>
+  <TOKEN id="segment-1-14" pos="word" morph="none" start_char="141" end_char="148">increase</TOKEN>
+  <TOKEN id="segment-1-15" pos="word" morph="none" start_char="150" end_char="151">to</TOKEN>
+  <TOKEN id="segment-1-16" pos="word" morph="none" start_char="153" end_char="154">10</TOKEN>
+  <TOKEN id="segment-1-17" pos="word" morph="none" start_char="156" end_char="160">cases</TOKEN>
+  <TOKEN id="segment-1-18" pos="word" morph="none" start_char="162" end_char="163">of</TOKEN>
+  <TOKEN id="segment-1-19" pos="word" morph="none" start_char="165" end_char="169">those</TOKEN>
+  <TOKEN id="segment-1-20" pos="word" morph="none" start_char="171" end_char="178">infected</TOKEN>
+  <TOKEN id="segment-1-21" pos="word" morph="none" start_char="180" end_char="183">with</TOKEN>
+  <TOKEN id="segment-1-22" pos="word" morph="none" start_char="185" end_char="187">the</TOKEN>
+  <TOKEN id="segment-1-23" pos="word" morph="none" start_char="189" end_char="190">E.</TOKEN>
+  <TOKEN id="segment-1-24" pos="word" morph="none" start_char="192" end_char="195">coli</TOKEN>
+  <TOKEN id="segment-1-25" pos="word" morph="none" start_char="197" end_char="204">bacteria</TOKEN>
+  <TOKEN id="segment-1-26" pos="word" morph="none" start_char="206" end_char="208">and</TOKEN>
+  <TOKEN id="segment-1-27" pos="word" morph="none" start_char="210" end_char="216">another</TOKEN>
+  <TOKEN id="segment-1-28" pos="word" morph="none" start_char="218" end_char="219">16</TOKEN>
+  <TOKEN id="segment-1-29" pos="word" morph="none" start_char="221" end_char="223">are</TOKEN>
+  <TOKEN id="segment-1-30" pos="word" morph="none" start_char="225" end_char="229">under</TOKEN>
+  <TOKEN id="segment-1-31" pos="word" morph="none" start_char="231" end_char="243">investigation</TOKEN>
+  <TOKEN id="segment-1-32" pos="word" morph="none" start_char="245" end_char="246">in</TOKEN>
+  <TOKEN id="segment-1-33" pos="word" morph="none" start_char="248" end_char="252">eight</TOKEN>
+  <TOKEN id="segment-1-34" pos="word" morph="none" start_char="254" end_char="261">counties</TOKEN>
+  <TOKEN id="segment-1-35" pos="word" morph="none" start_char="263" end_char="264">of</TOKEN>
+  <TOKEN id="segment-1-36" pos="word" morph="none" start_char="266" end_char="268">the</TOKEN>
+  <TOKEN id="segment-1-37" pos="word" morph="none" start_char="270" end_char="274">state</TOKEN>
+  <TOKEN id="segment-1-38" pos="word" morph="none" start_char="275" end_char="275">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="278" end_char="495">
+  <ORIGINAL_TEXT>Most of those affected (14 in total) are in Wake County, where Raleigh, the state capital, is located and where the North Carolina State Fair was held, which was attended more than two weeks ago by a million of people.</ORIGINAL_TEXT>
+  <TOKEN id="segment-2-0" pos="word" morph="none" start_char="278" end_char="281">Most</TOKEN>
+  <TOKEN id="segment-2-1" pos="word" morph="none" start_char="283" end_char="284">of</TOKEN>
+  <TOKEN id="segment-2-2" pos="word" morph="none" start_char="286" end_char="290">those</TOKEN>
+  <TOKEN id="segment-2-3" pos="word" morph="none" start_char="292" end_char="299">affected</TOKEN>
+  <TOKEN id="segment-2-4" pos="word" morph="none" start_char="301" end_char="301">(</TOKEN>
+  <TOKEN id="segment-2-5" pos="word" morph="none" start_char="302" end_char="303">14</TOKEN>
+  <TOKEN id="segment-2-6" pos="word" morph="none" start_char="305" end_char="306">in</TOKEN>
+  <TOKEN id="segment-2-7" pos="word" morph="none" start_char="308" end_char="312">total</TOKEN>
+  <TOKEN id="segment-2-8" pos="word" morph="none" start_char="313" end_char="313">)</TOKEN>
+  <TOKEN id="segment-2-9" pos="word" morph="none" start_char="315" end_char="317">are</TOKEN>
+  <TOKEN id="segment-2-10" pos="word" morph="none" start_char="319" end_char="320">in</TOKEN>
+  <TOKEN id="segment-2-11" pos="word" morph="none" start_char="322" end_char="325">Wake</TOKEN>
+  <TOKEN id="segment-2-12" pos="word" morph="none" start_char="327" end_char="332">County</TOKEN>
+  <TOKEN id="segment-2-13" pos="word" morph="none" start_char="333" end_char="333">,</TOKEN>
+  <TOKEN id="segment-2-14" pos="word" morph="none" start_char="335" end_char="339">where</TOKEN>
+  <TOKEN id="segment-2-15" pos="word" morph="none" start_char="341" end_char="347">Raleigh</TOKEN>
+  <TOKEN id="segment-2-16" pos="word" morph="none" start_char="348" end_char="348">,</TOKEN>
+  <TOKEN id="segment-2-17" pos="word" morph="none" start_char="350" end_char="352">the</TOKEN>
+  <TOKEN id="segment-2-18" pos="word" morph="none" start_char="354" end_char="358">state</TOKEN>
+  <TOKEN id="segment-2-19" pos="word" morph="none" start_char="360" end_char="366">capital</TOKEN>
+  <TOKEN id="segment-2-20" pos="word" morph="none" start_char="367" end_char="367">,</TOKEN>
+  <TOKEN id="segment-2-21" pos="word" morph="none" start_char="369" end_char="370">is</TOKEN>
+  <TOKEN id="segment-2-22" pos="word" morph="none" start_char="372" end_char="378">located</TOKEN>
+  <TOKEN id="segment-2-23" pos="word" morph="none" start_char="380" end_char="382">and</TOKEN>
+  <TOKEN id="segment-2-24" pos="word" morph="none" start_char="384" end_char="388">where</TOKEN>
+  <TOKEN id="segment-2-25" pos="word" morph="none" start_char="390" end_char="392">the</TOKEN>
+  <TOKEN id="segment-2-26" pos="word" morph="none" start_char="394" end_char="398">North</TOKEN>
+  <TOKEN id="segment-2-27" pos="word" morph="none" start_char="400" end_char="407">Carolina</TOKEN>
+  <TOKEN id="segment-2-28" pos="word" morph="none" start_char="409" end_char="413">State</TOKEN>
+  <TOKEN id="segment-2-29" pos="word" morph="none" start_char="415" end_char="418">Fair</TOKEN>
+  <TOKEN id="segment-2-30" pos="word" morph="none" start_char="420" end_char="422">was</TOKEN>
+  <TOKEN id="segment-2-31" pos="word" morph="none" start_char="424" end_char="427">held</TOKEN>
+  <TOKEN id="segment-2-32" pos="word" morph="none" start_char="428" end_char="428">,</TOKEN>
+  <TOKEN id="segment-2-33" pos="word" morph="none" start_char="430" end_char="434">which</TOKEN>
+  <TOKEN id="segment-2-34" pos="word" morph="none" start_char="436" end_char="438">was</TOKEN>
+  <TOKEN id="segment-2-35" pos="word" morph="none" start_char="440" end_char="447">attended</TOKEN>
+  <TOKEN id="segment-2-36" pos="word" morph="none" start_char="449" end_char="452">more</TOKEN>
+  <TOKEN id="segment-2-37" pos="word" morph="none" start_char="454" end_char="457">than</TOKEN>
+  <TOKEN id="segment-2-38" pos="word" morph="none" start_char="459" end_char="461">two</TOKEN>
+  <TOKEN id="segment-2-39" pos="word" morph="none" start_char="463" end_char="467">weeks</TOKEN>
+  <TOKEN id="segment-2-40" pos="word" morph="none" start_char="469" end_char="471">ago</TOKEN>
+  <TOKEN id="segment-2-41" pos="word" morph="none" start_char="473" end_char="474">by</TOKEN>
+  <TOKEN id="segment-2-42" pos="word" morph="none" start_char="476" end_char="476">a</TOKEN>
+  <TOKEN id="segment-2-43" pos="word" morph="none" start_char="478" end_char="484">million</TOKEN>
+  <TOKEN id="segment-2-44" pos="word" morph="none" start_char="486" end_char="487">of</TOKEN>
+  <TOKEN id="segment-2-45" pos="word" morph="none" start_char="489" end_char="494">people</TOKEN>
+  <TOKEN id="segment-2-46" pos="word" morph="none" start_char="495" end_char="495">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="498" end_char="678">
+  <ORIGINAL_TEXT>Health investigators revealed that 23 of the 26 affected people attended the massive event and consider that this place could be the main focus of the outbreak of the microorganism.</ORIGINAL_TEXT>
+  <TOKEN id="segment-3-0" pos="word" morph="none" start_char="498" end_char="503">Health</TOKEN>
+  <TOKEN id="segment-3-1" pos="word" morph="none" start_char="505" end_char="517">investigators</TOKEN>
+  <TOKEN id="segment-3-2" pos="word" morph="none" start_char="519" end_char="526">revealed</TOKEN>
+  <TOKEN id="segment-3-3" pos="word" morph="none" start_char="528" end_char="531">that</TOKEN>
+  <TOKEN id="segment-3-4" pos="word" morph="none" start_char="533" end_char="534">23</TOKEN>
+  <TOKEN id="segment-3-5" pos="word" morph="none" start_char="536" end_char="537">of</TOKEN>
+  <TOKEN id="segment-3-6" pos="word" morph="none" start_char="539" end_char="541">the</TOKEN>
+  <TOKEN id="segment-3-7" pos="word" morph="none" start_char="543" end_char="544">26</TOKEN>
+  <TOKEN id="segment-3-8" pos="word" morph="none" start_char="546" end_char="553">affected</TOKEN>
+  <TOKEN id="segment-3-9" pos="word" morph="none" start_char="555" end_char="560">people</TOKEN>
+  <TOKEN id="segment-3-10" pos="word" morph="none" start_char="562" end_char="569">attended</TOKEN>
+  <TOKEN id="segment-3-11" pos="word" morph="none" start_char="571" end_char="573">the</TOKEN>
+  <TOKEN id="segment-3-12" pos="word" morph="none" start_char="575" end_char="581">massive</TOKEN>
+  <TOKEN id="segment-3-13" pos="word" morph="none" start_char="583" end_char="587">event</TOKEN>
+  <TOKEN id="segment-3-14" pos="word" morph="none" start_char="589" end_char="591">and</TOKEN>
+  <TOKEN id="segment-3-15" pos="word" morph="none" start_char="593" end_char="600">consider</TOKEN>
+  <TOKEN id="segment-3-16" pos="word" morph="none" start_char="602" end_char="605">that</TOKEN>
+  <TOKEN id="segment-3-17" pos="word" morph="none" start_char="607" end_char="610">this</TOKEN>
+  <TOKEN id="segment-3-18" pos="word" morph="none" start_char="612" end_char="616">place</TOKEN>
+  <TOKEN id="segment-3-19" pos="word" morph="none" start_char="618" end_char="622">could</TOKEN>
+  <TOKEN id="segment-3-20" pos="word" morph="none" start_char="624" end_char="625">be</TOKEN>
+  <TOKEN id="segment-3-21" pos="word" morph="none" start_char="627" end_char="629">the</TOKEN>
+  <TOKEN id="segment-3-22" pos="word" morph="none" start_char="631" end_char="634">main</TOKEN>
+  <TOKEN id="segment-3-23" pos="word" morph="none" start_char="636" end_char="640">focus</TOKEN>
+  <TOKEN id="segment-3-24" pos="word" morph="none" start_char="642" end_char="643">of</TOKEN>
+  <TOKEN id="segment-3-25" pos="word" morph="none" start_char="645" end_char="647">the</TOKEN>
+  <TOKEN id="segment-3-26" pos="word" morph="none" start_char="649" end_char="656">outbreak</TOKEN>
+  <TOKEN id="segment-3-27" pos="word" morph="none" start_char="658" end_char="659">of</TOKEN>
+  <TOKEN id="segment-3-28" pos="word" morph="none" start_char="661" end_char="663">the</TOKEN>
+  <TOKEN id="segment-3-29" pos="word" morph="none" start_char="665" end_char="677">microorganism</TOKEN>
+  <TOKEN id="segment-3-30" pos="word" morph="none" start_char="678" end_char="678">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="681" end_char="686">
+  <ORIGINAL_TEXT>The e.</ORIGINAL_TEXT>
+  <TOKEN id="segment-4-0" pos="word" morph="none" start_char="681" end_char="683">The</TOKEN>
+  <TOKEN id="segment-4-1" pos="word" morph="none" start_char="685" end_char="686">e.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="689" end_char="823">
+  <ORIGINAL_TEXT>coli produces sudden, intense diarrhoea, often with fever, gas, stomach cramps, vomiting, and in the most severe cases, kidney failure.</ORIGINAL_TEXT>
+  <TOKEN id="segment-5-0" pos="word" morph="none" start_char="689" end_char="692">coli</TOKEN>
+  <TOKEN id="segment-5-1" pos="word" morph="none" start_char="694" end_char="701">produces</TOKEN>
+  <TOKEN id="segment-5-2" pos="word" morph="none" start_char="703" end_char="708">sudden</TOKEN>
+  <TOKEN id="segment-5-3" pos="word" morph="none" start_char="709" end_char="709">,</TOKEN>
+  <TOKEN id="segment-5-4" pos="word" morph="none" start_char="711" end_char="717">intense</TOKEN>
+  <TOKEN id="segment-5-5" pos="word" morph="none" start_char="719" end_char="727">diarrhoea</TOKEN>
+  <TOKEN id="segment-5-6" pos="word" morph="none" start_char="728" end_char="728">,</TOKEN>
+  <TOKEN id="segment-5-7" pos="word" morph="none" start_char="730" end_char="734">often</TOKEN>
+  <TOKEN id="segment-5-8" pos="word" morph="none" start_char="736" end_char="739">with</TOKEN>
+  <TOKEN id="segment-5-9" pos="word" morph="none" start_char="741" end_char="745">fever</TOKEN>
+  <TOKEN id="segment-5-10" pos="word" morph="none" start_char="746" end_char="746">,</TOKEN>
+  <TOKEN id="segment-5-11" pos="word" morph="none" start_char="748" end_char="750">gas</TOKEN>
+  <TOKEN id="segment-5-12" pos="word" morph="none" start_char="751" end_char="751">,</TOKEN>
+  <TOKEN id="segment-5-13" pos="word" morph="none" start_char="753" end_char="759">stomach</TOKEN>
+  <TOKEN id="segment-5-14" pos="word" morph="none" start_char="761" end_char="766">cramps</TOKEN>
+  <TOKEN id="segment-5-15" pos="word" morph="none" start_char="767" end_char="767">,</TOKEN>
+  <TOKEN id="segment-5-16" pos="word" morph="none" start_char="769" end_char="776">vomiting</TOKEN>
+  <TOKEN id="segment-5-17" pos="word" morph="none" start_char="777" end_char="777">,</TOKEN>
+  <TOKEN id="segment-5-18" pos="word" morph="none" start_char="779" end_char="781">and</TOKEN>
+  <TOKEN id="segment-5-19" pos="word" morph="none" start_char="783" end_char="784">in</TOKEN>
+  <TOKEN id="segment-5-20" pos="word" morph="none" start_char="786" end_char="788">the</TOKEN>
+  <TOKEN id="segment-5-21" pos="word" morph="none" start_char="790" end_char="793">most</TOKEN>
+  <TOKEN id="segment-5-22" pos="word" morph="none" start_char="795" end_char="800">severe</TOKEN>
+  <TOKEN id="segment-5-23" pos="word" morph="none" start_char="802" end_char="806">cases</TOKEN>
+  <TOKEN id="segment-5-24" pos="word" morph="none" start_char="807" end_char="807">,</TOKEN>
+  <TOKEN id="segment-5-25" pos="word" morph="none" start_char="809" end_char="814">kidney</TOKEN>
+  <TOKEN id="segment-5-26" pos="word" morph="none" start_char="816" end_char="822">failure</TOKEN>
+  <TOKEN id="segment-5-27" pos="word" morph="none" start_char="823" end_char="823">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="826" end_char="932">
+  <ORIGINAL_TEXT>Of the 26 detected, 13 are adults and 13 children, of which four are hospitalized, in addition to an adult.</ORIGINAL_TEXT>
+  <TOKEN id="segment-6-0" pos="word" morph="none" start_char="826" end_char="827">Of</TOKEN>
+  <TOKEN id="segment-6-1" pos="word" morph="none" start_char="829" end_char="831">the</TOKEN>
+  <TOKEN id="segment-6-2" pos="word" morph="none" start_char="833" end_char="834">26</TOKEN>
+  <TOKEN id="segment-6-3" pos="word" morph="none" start_char="836" end_char="843">detected</TOKEN>
+  <TOKEN id="segment-6-4" pos="word" morph="none" start_char="844" end_char="844">,</TOKEN>
+  <TOKEN id="segment-6-5" pos="word" morph="none" start_char="846" end_char="847">13</TOKEN>
+  <TOKEN id="segment-6-6" pos="word" morph="none" start_char="849" end_char="851">are</TOKEN>
+  <TOKEN id="segment-6-7" pos="word" morph="none" start_char="853" end_char="858">adults</TOKEN>
+  <TOKEN id="segment-6-8" pos="word" morph="none" start_char="860" end_char="862">and</TOKEN>
+  <TOKEN id="segment-6-9" pos="word" morph="none" start_char="864" end_char="865">13</TOKEN>
+  <TOKEN id="segment-6-10" pos="word" morph="none" start_char="867" end_char="874">children</TOKEN>
+  <TOKEN id="segment-6-11" pos="word" morph="none" start_char="875" end_char="875">,</TOKEN>
+  <TOKEN id="segment-6-12" pos="word" morph="none" start_char="877" end_char="878">of</TOKEN>
+  <TOKEN id="segment-6-13" pos="word" morph="none" start_char="880" end_char="884">which</TOKEN>
+  <TOKEN id="segment-6-14" pos="word" morph="none" start_char="886" end_char="889">four</TOKEN>
+  <TOKEN id="segment-6-15" pos="word" morph="none" start_char="891" end_char="893">are</TOKEN>
+  <TOKEN id="segment-6-16" pos="word" morph="none" start_char="895" end_char="906">hospitalized</TOKEN>
+  <TOKEN id="segment-6-17" pos="word" morph="none" start_char="907" end_char="907">,</TOKEN>
+  <TOKEN id="segment-6-18" pos="word" morph="none" start_char="909" end_char="910">in</TOKEN>
+  <TOKEN id="segment-6-19" pos="word" morph="none" start_char="912" end_char="919">addition</TOKEN>
+  <TOKEN id="segment-6-20" pos="word" morph="none" start_char="921" end_char="922">to</TOKEN>
+  <TOKEN id="segment-6-21" pos="word" morph="none" start_char="924" end_char="925">an</TOKEN>
+  <TOKEN id="segment-6-22" pos="word" morph="none" start_char="927" end_char="931">adult</TOKEN>
+  <TOKEN id="segment-6-23" pos="word" morph="none" start_char="932" end_char="932">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="935" end_char="1112">
+  <ORIGINAL_TEXT>Julie Henry, spokesperson for the Department of Health and Human Services, confirmed to Efe today that the agency does not have statistics on the ethnic origin of those infected.</ORIGINAL_TEXT>
+  <TOKEN id="segment-7-0" pos="word" morph="none" start_char="935" end_char="939">Julie</TOKEN>
+  <TOKEN id="segment-7-1" pos="word" morph="none" start_char="941" end_char="945">Henry</TOKEN>
+  <TOKEN id="segment-7-2" pos="word" morph="none" start_char="946" end_char="946">,</TOKEN>
+  <TOKEN id="segment-7-3" pos="word" morph="none" start_char="948" end_char="959">spokesperson</TOKEN>
+  <TOKEN id="segment-7-4" pos="word" morph="none" start_char="961" end_char="963">for</TOKEN>
+  <TOKEN id="segment-7-5" pos="word" morph="none" start_char="965" end_char="967">the</TOKEN>
+  <TOKEN id="segment-7-6" pos="word" morph="none" start_char="969" end_char="978">Department</TOKEN>
+  <TOKEN id="segment-7-7" pos="word" morph="none" start_char="980" end_char="981">of</TOKEN>
+  <TOKEN id="segment-7-8" pos="word" morph="none" start_char="983" end_char="988">Health</TOKEN>
+  <TOKEN id="segment-7-9" pos="word" morph="none" start_char="990" end_char="992">and</TOKEN>
+  <TOKEN id="segment-7-10" pos="word" morph="none" start_char="994" end_char="998">Human</TOKEN>
+  <TOKEN id="segment-7-11" pos="word" morph="none" start_char="1000" end_char="1007">Services</TOKEN>
+  <TOKEN id="segment-7-12" pos="word" morph="none" start_char="1008" end_char="1008">,</TOKEN>
+  <TOKEN id="segment-7-13" pos="word" morph="none" start_char="1010" end_char="1018">confirmed</TOKEN>
+  <TOKEN id="segment-7-14" pos="word" morph="none" start_char="1020" end_char="1021">to</TOKEN>
+  <TOKEN id="segment-7-15" pos="word" morph="none" start_char="1023" end_char="1025">Efe</TOKEN>
+  <TOKEN id="segment-7-16" pos="word" morph="none" start_char="1027" end_char="1031">today</TOKEN>
+  <TOKEN id="segment-7-17" pos="word" morph="none" start_char="1033" end_char="1036">that</TOKEN>
+  <TOKEN id="segment-7-18" pos="word" morph="none" start_char="1038" end_char="1040">the</TOKEN>
+  <TOKEN id="segment-7-19" pos="word" morph="none" start_char="1042" end_char="1047">agency</TOKEN>
+  <TOKEN id="segment-7-20" pos="word" morph="none" start_char="1049" end_char="1052">does</TOKEN>
+  <TOKEN id="segment-7-21" pos="word" morph="none" start_char="1054" end_char="1056">not</TOKEN>
+  <TOKEN id="segment-7-22" pos="word" morph="none" start_char="1058" end_char="1061">have</TOKEN>
+  <TOKEN id="segment-7-23" pos="word" morph="none" start_char="1063" end_char="1072">statistics</TOKEN>
+  <TOKEN id="segment-7-24" pos="word" morph="none" start_char="1074" end_char="1075">on</TOKEN>
+  <TOKEN id="segment-7-25" pos="word" morph="none" start_char="1077" end_char="1079">the</TOKEN>
+  <TOKEN id="segment-7-26" pos="word" morph="none" start_char="1081" end_char="1086">ethnic</TOKEN>
+  <TOKEN id="segment-7-27" pos="word" morph="none" start_char="1088" end_char="1093">origin</TOKEN>
+  <TOKEN id="segment-7-28" pos="word" morph="none" start_char="1095" end_char="1096">of</TOKEN>
+  <TOKEN id="segment-7-29" pos="word" morph="none" start_char="1098" end_char="1102">those</TOKEN>
+  <TOKEN id="segment-7-30" pos="word" morph="none" start_char="1104" end_char="1111">infected</TOKEN>
+  <TOKEN id="segment-7-31" pos="word" morph="none" start_char="1112" end_char="1112">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1115" end_char="1220">
+  <ORIGINAL_TEXT>The state laboratory will carry out more analysis of samples that arrive at the entity during the weekend.</ORIGINAL_TEXT>
+  <TOKEN id="segment-8-0" pos="word" morph="none" start_char="1115" end_char="1117">The</TOKEN>
+  <TOKEN id="segment-8-1" pos="word" morph="none" start_char="1119" end_char="1123">state</TOKEN>
+  <TOKEN id="segment-8-2" pos="word" morph="none" start_char="1125" end_char="1134">laboratory</TOKEN>
+  <TOKEN id="segment-8-3" pos="word" morph="none" start_char="1136" end_char="1139">will</TOKEN>
+  <TOKEN id="segment-8-4" pos="word" morph="none" start_char="1141" end_char="1145">carry</TOKEN>
+  <TOKEN id="segment-8-5" pos="word" morph="none" start_char="1147" end_char="1149">out</TOKEN>
+  <TOKEN id="segment-8-6" pos="word" morph="none" start_char="1151" end_char="1154">more</TOKEN>
+  <TOKEN id="segment-8-7" pos="word" morph="none" start_char="1156" end_char="1163">analysis</TOKEN>
+  <TOKEN id="segment-8-8" pos="word" morph="none" start_char="1165" end_char="1166">of</TOKEN>
+  <TOKEN id="segment-8-9" pos="word" morph="none" start_char="1168" end_char="1174">samples</TOKEN>
+  <TOKEN id="segment-8-10" pos="word" morph="none" start_char="1176" end_char="1179">that</TOKEN>
+  <TOKEN id="segment-8-11" pos="word" morph="none" start_char="1181" end_char="1186">arrive</TOKEN>
+  <TOKEN id="segment-8-12" pos="word" morph="none" start_char="1188" end_char="1189">at</TOKEN>
+  <TOKEN id="segment-8-13" pos="word" morph="none" start_char="1191" end_char="1193">the</TOKEN>
+  <TOKEN id="segment-8-14" pos="word" morph="none" start_char="1195" end_char="1200">entity</TOKEN>
+  <TOKEN id="segment-8-15" pos="word" morph="none" start_char="1202" end_char="1207">during</TOKEN>
+  <TOKEN id="segment-8-16" pos="word" morph="none" start_char="1209" end_char="1211">the</TOKEN>
+  <TOKEN id="segment-8-17" pos="word" morph="none" start_char="1213" end_char="1219">weekend</TOKEN>
+  <TOKEN id="segment-8-18" pos="word" morph="none" start_char="1220" end_char="1220">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1223" end_char="1376">
+  <ORIGINAL_TEXT>Other counties with the presence of the bacteria include Sampson, with six cases, and one each in Cleveland, Durham, Franklin, Johnson, Orange and Wilson.</ORIGINAL_TEXT>
+  <TOKEN id="segment-9-0" pos="word" morph="none" start_char="1223" end_char="1227">Other</TOKEN>
+  <TOKEN id="segment-9-1" pos="word" morph="none" start_char="1229" end_char="1236">counties</TOKEN>
+  <TOKEN id="segment-9-2" pos="word" morph="none" start_char="1238" end_char="1241">with</TOKEN>
+  <TOKEN id="segment-9-3" pos="word" morph="none" start_char="1243" end_char="1245">the</TOKEN>
+  <TOKEN id="segment-9-4" pos="word" morph="none" start_char="1247" end_char="1254">presence</TOKEN>
+  <TOKEN id="segment-9-5" pos="word" morph="none" start_char="1256" end_char="1257">of</TOKEN>
+  <TOKEN id="segment-9-6" pos="word" morph="none" start_char="1259" end_char="1261">the</TOKEN>
+  <TOKEN id="segment-9-7" pos="word" morph="none" start_char="1263" end_char="1270">bacteria</TOKEN>
+  <TOKEN id="segment-9-8" pos="word" morph="none" start_char="1272" end_char="1278">include</TOKEN>
+  <TOKEN id="segment-9-9" pos="word" morph="none" start_char="1280" end_char="1286">Sampson</TOKEN>
+  <TOKEN id="segment-9-10" pos="word" morph="none" start_char="1287" end_char="1287">,</TOKEN>
+  <TOKEN id="segment-9-11" pos="word" morph="none" start_char="1289" end_char="1292">with</TOKEN>
+  <TOKEN id="segment-9-12" pos="word" morph="none" start_char="1294" end_char="1296">six</TOKEN>
+  <TOKEN id="segment-9-13" pos="word" morph="none" start_char="1298" end_char="1302">cases</TOKEN>
+  <TOKEN id="segment-9-14" pos="word" morph="none" start_char="1303" end_char="1303">,</TOKEN>
+  <TOKEN id="segment-9-15" pos="word" morph="none" start_char="1305" end_char="1307">and</TOKEN>
+  <TOKEN id="segment-9-16" pos="word" morph="none" start_char="1309" end_char="1311">one</TOKEN>
+  <TOKEN id="segment-9-17" pos="word" morph="none" start_char="1313" end_char="1316">each</TOKEN>
+  <TOKEN id="segment-9-18" pos="word" morph="none" start_char="1318" end_char="1319">in</TOKEN>
+  <TOKEN id="segment-9-19" pos="word" morph="none" start_char="1321" end_char="1329">Cleveland</TOKEN>
+  <TOKEN id="segment-9-20" pos="word" morph="none" start_char="1330" end_char="1330">,</TOKEN>
+  <TOKEN id="segment-9-21" pos="word" morph="none" start_char="1332" end_char="1337">Durham</TOKEN>
+  <TOKEN id="segment-9-22" pos="word" morph="none" start_char="1338" end_char="1338">,</TOKEN>
+  <TOKEN id="segment-9-23" pos="word" morph="none" start_char="1340" end_char="1347">Franklin</TOKEN>
+  <TOKEN id="segment-9-24" pos="word" morph="none" start_char="1348" end_char="1348">,</TOKEN>
+  <TOKEN id="segment-9-25" pos="word" morph="none" start_char="1350" end_char="1356">Johnson</TOKEN>
+  <TOKEN id="segment-9-26" pos="word" morph="none" start_char="1357" end_char="1357">,</TOKEN>
+  <TOKEN id="segment-9-27" pos="word" morph="none" start_char="1359" end_char="1364">Orange</TOKEN>
+  <TOKEN id="segment-9-28" pos="word" morph="none" start_char="1366" end_char="1368">and</TOKEN>
+  <TOKEN id="segment-9-29" pos="word" morph="none" start_char="1370" end_char="1375">Wilson</TOKEN>
+  <TOKEN id="segment-9-30" pos="word" morph="none" start_char="1376" end_char="1376">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1379" end_char="1571">
+  <ORIGINAL_TEXT>This type of bacteria usually lives in the intestines of animals and humans and is spread by many sources such as unpasteurized milk, spoiled meat, cold cuts, raw vegetables and spoiled cheese.</ORIGINAL_TEXT>
+  <TOKEN id="segment-10-0" pos="word" morph="none" start_char="1379" end_char="1382">This</TOKEN>
+  <TOKEN id="segment-10-1" pos="word" morph="none" start_char="1384" end_char="1387">type</TOKEN>
+  <TOKEN id="segment-10-2" pos="word" morph="none" start_char="1389" end_char="1390">of</TOKEN>
+  <TOKEN id="segment-10-3" pos="word" morph="none" start_char="1392" end_char="1399">bacteria</TOKEN>
+  <TOKEN id="segment-10-4" pos="word" morph="none" start_char="1401" end_char="1407">usually</TOKEN>
+  <TOKEN id="segment-10-5" pos="word" morph="none" start_char="1409" end_char="1413">lives</TOKEN>
+  <TOKEN id="segment-10-6" pos="word" morph="none" start_char="1415" end_char="1416">in</TOKEN>
+  <TOKEN id="segment-10-7" pos="word" morph="none" start_char="1418" end_char="1420">the</TOKEN>
+  <TOKEN id="segment-10-8" pos="word" morph="none" start_char="1422" end_char="1431">intestines</TOKEN>
+  <TOKEN id="segment-10-9" pos="word" morph="none" start_char="1433" end_char="1434">of</TOKEN>
+  <TOKEN id="segment-10-10" pos="word" morph="none" start_char="1436" end_char="1442">animals</TOKEN>
+  <TOKEN id="segment-10-11" pos="word" morph="none" start_char="1444" end_char="1446">and</TOKEN>
+  <TOKEN id="segment-10-12" pos="word" morph="none" start_char="1448" end_char="1453">humans</TOKEN>
+  <TOKEN id="segment-10-13" pos="word" morph="none" start_char="1455" end_char="1457">and</TOKEN>
+  <TOKEN id="segment-10-14" pos="word" morph="none" start_char="1459" end_char="1460">is</TOKEN>
+  <TOKEN id="segment-10-15" pos="word" morph="none" start_char="1462" end_char="1467">spread</TOKEN>
+  <TOKEN id="segment-10-16" pos="word" morph="none" start_char="1469" end_char="1470">by</TOKEN>
+  <TOKEN id="segment-10-17" pos="word" morph="none" start_char="1472" end_char="1475">many</TOKEN>
+  <TOKEN id="segment-10-18" pos="word" morph="none" start_char="1477" end_char="1483">sources</TOKEN>
+  <TOKEN id="segment-10-19" pos="word" morph="none" start_char="1485" end_char="1488">such</TOKEN>
+  <TOKEN id="segment-10-20" pos="word" morph="none" start_char="1490" end_char="1491">as</TOKEN>
+  <TOKEN id="segment-10-21" pos="word" morph="none" start_char="1493" end_char="1505">unpasteurized</TOKEN>
+  <TOKEN id="segment-10-22" pos="word" morph="none" start_char="1507" end_char="1510">milk</TOKEN>
+  <TOKEN id="segment-10-23" pos="word" morph="none" start_char="1511" end_char="1511">,</TOKEN>
+  <TOKEN id="segment-10-24" pos="word" morph="none" start_char="1513" end_char="1519">spoiled</TOKEN>
+  <TOKEN id="segment-10-25" pos="word" morph="none" start_char="1521" end_char="1524">meat</TOKEN>
+  <TOKEN id="segment-10-26" pos="word" morph="none" start_char="1525" end_char="1525">,</TOKEN>
+  <TOKEN id="segment-10-27" pos="word" morph="none" start_char="1527" end_char="1530">cold</TOKEN>
+  <TOKEN id="segment-10-28" pos="word" morph="none" start_char="1532" end_char="1535">cuts</TOKEN>
+  <TOKEN id="segment-10-29" pos="word" morph="none" start_char="1536" end_char="1536">,</TOKEN>
+  <TOKEN id="segment-10-30" pos="word" morph="none" start_char="1538" end_char="1540">raw</TOKEN>
+  <TOKEN id="segment-10-31" pos="word" morph="none" start_char="1542" end_char="1551">vegetables</TOKEN>
+  <TOKEN id="segment-10-32" pos="word" morph="none" start_char="1553" end_char="1555">and</TOKEN>
+  <TOKEN id="segment-10-33" pos="word" morph="none" start_char="1557" end_char="1563">spoiled</TOKEN>
+  <TOKEN id="segment-10-34" pos="word" morph="none" start_char="1565" end_char="1570">cheese</TOKEN>
+  <TOKEN id="segment-10-35" pos="word" morph="none" start_char="1571" end_char="1571">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1574" end_char="1685">
+  <ORIGINAL_TEXT>Once someone has eaten contaminated food, the infection can spread from person to person and from hand to mouth.</ORIGINAL_TEXT>
+  <TOKEN id="segment-11-0" pos="word" morph="none" start_char="1574" end_char="1577">Once</TOKEN>
+  <TOKEN id="segment-11-1" pos="word" morph="none" start_char="1579" end_char="1585">someone</TOKEN>
+  <TOKEN id="segment-11-2" pos="word" morph="none" start_char="1587" end_char="1589">has</TOKEN>
+  <TOKEN id="segment-11-3" pos="word" morph="none" start_char="1591" end_char="1595">eaten</TOKEN>
+  <TOKEN id="segment-11-4" pos="word" morph="none" start_char="1597" end_char="1608">contaminated</TOKEN>
+  <TOKEN id="segment-11-5" pos="word" morph="none" start_char="1610" end_char="1613">food</TOKEN>
+  <TOKEN id="segment-11-6" pos="word" morph="none" start_char="1614" end_char="1614">,</TOKEN>
+  <TOKEN id="segment-11-7" pos="word" morph="none" start_char="1616" end_char="1618">the</TOKEN>
+  <TOKEN id="segment-11-8" pos="word" morph="none" start_char="1620" end_char="1628">infection</TOKEN>
+  <TOKEN id="segment-11-9" pos="word" morph="none" start_char="1630" end_char="1632">can</TOKEN>
+  <TOKEN id="segment-11-10" pos="word" morph="none" start_char="1634" end_char="1639">spread</TOKEN>
+  <TOKEN id="segment-11-11" pos="word" morph="none" start_char="1641" end_char="1644">from</TOKEN>
+  <TOKEN id="segment-11-12" pos="word" morph="none" start_char="1646" end_char="1651">person</TOKEN>
+  <TOKEN id="segment-11-13" pos="word" morph="none" start_char="1653" end_char="1654">to</TOKEN>
+  <TOKEN id="segment-11-14" pos="word" morph="none" start_char="1656" end_char="1661">person</TOKEN>
+  <TOKEN id="segment-11-15" pos="word" morph="none" start_char="1663" end_char="1665">and</TOKEN>
+  <TOKEN id="segment-11-16" pos="word" morph="none" start_char="1667" end_char="1670">from</TOKEN>
+  <TOKEN id="segment-11-17" pos="word" morph="none" start_char="1672" end_char="1675">hand</TOKEN>
+  <TOKEN id="segment-11-18" pos="word" morph="none" start_char="1677" end_char="1678">to</TOKEN>
+  <TOKEN id="segment-11-19" pos="word" morph="none" start_char="1680" end_char="1684">mouth</TOKEN>
+  <TOKEN id="segment-11-20" pos="word" morph="none" start_char="1685" end_char="1685">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

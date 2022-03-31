@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng"><DOC id="L0C04FQFF" lang="eng" tokenization="unknown" grammar="none" raw_text_char_length="888" raw_text_md5="unknown">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="57">
+  <ORIGINAL_TEXT>North Carolina investigating 21 possible cases of E. coli</ORIGINAL_TEXT>
+  <TOKEN id="segment-0-0" pos="word" morph="none" start_char="1" end_char="5">North</TOKEN>
+  <TOKEN id="segment-0-1" pos="word" morph="none" start_char="7" end_char="14">Carolina</TOKEN>
+  <TOKEN id="segment-0-2" pos="word" morph="none" start_char="16" end_char="28">investigating</TOKEN>
+  <TOKEN id="segment-0-3" pos="word" morph="none" start_char="30" end_char="31">21</TOKEN>
+  <TOKEN id="segment-0-4" pos="word" morph="none" start_char="33" end_char="40">possible</TOKEN>
+  <TOKEN id="segment-0-5" pos="word" morph="none" start_char="42" end_char="46">cases</TOKEN>
+  <TOKEN id="segment-0-6" pos="word" morph="none" start_char="48" end_char="49">of</TOKEN>
+  <TOKEN id="segment-0-7" pos="word" morph="none" start_char="51" end_char="52">E.</TOKEN>
+  <TOKEN id="segment-0-8" pos="word" morph="none" start_char="54" end_char="57">coli</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="60" end_char="199">
+  <ORIGINAL_TEXT>RALEIGH, N.C. (AP) &#8212; Authorities in North Carolina are investigating up to 21 possible cases of E. coli affecting residents of six counties.</ORIGINAL_TEXT>
+  <TOKEN id="segment-1-0" pos="word" morph="none" start_char="60" end_char="66">RALEIGH</TOKEN>
+  <TOKEN id="segment-1-1" pos="word" morph="none" start_char="67" end_char="67">,</TOKEN>
+  <TOKEN id="segment-1-2" pos="word" morph="none" start_char="69" end_char="72">N.C.</TOKEN>
+  <TOKEN id="segment-1-3" pos="word" morph="none" start_char="74" end_char="74">(</TOKEN>
+  <TOKEN id="segment-1-4" pos="word" morph="none" start_char="75" end_char="76">AP</TOKEN>
+  <TOKEN id="segment-1-5" pos="word" morph="none" start_char="77" end_char="77">)</TOKEN>
+  <TOKEN id="segment-1-6" pos="word" morph="none" start_char="79" end_char="79">&#8212;</TOKEN>
+  <TOKEN id="segment-1-7" pos="word" morph="none" start_char="81" end_char="91">Authorities</TOKEN>
+  <TOKEN id="segment-1-8" pos="word" morph="none" start_char="93" end_char="94">in</TOKEN>
+  <TOKEN id="segment-1-9" pos="word" morph="none" start_char="96" end_char="100">North</TOKEN>
+  <TOKEN id="segment-1-10" pos="word" morph="none" start_char="102" end_char="109">Carolina</TOKEN>
+  <TOKEN id="segment-1-11" pos="word" morph="none" start_char="111" end_char="113">are</TOKEN>
+  <TOKEN id="segment-1-12" pos="word" morph="none" start_char="115" end_char="127">investigating</TOKEN>
+  <TOKEN id="segment-1-13" pos="word" morph="none" start_char="129" end_char="130">up</TOKEN>
+  <TOKEN id="segment-1-14" pos="word" morph="none" start_char="132" end_char="133">to</TOKEN>
+  <TOKEN id="segment-1-15" pos="word" morph="none" start_char="135" end_char="136">21</TOKEN>
+  <TOKEN id="segment-1-16" pos="word" morph="none" start_char="138" end_char="145">possible</TOKEN>
+  <TOKEN id="segment-1-17" pos="word" morph="none" start_char="147" end_char="151">cases</TOKEN>
+  <TOKEN id="segment-1-18" pos="word" morph="none" start_char="153" end_char="154">of</TOKEN>
+  <TOKEN id="segment-1-19" pos="word" morph="none" start_char="156" end_char="157">E.</TOKEN>
+  <TOKEN id="segment-1-20" pos="word" morph="none" start_char="159" end_char="162">coli</TOKEN>
+  <TOKEN id="segment-1-21" pos="word" morph="none" start_char="164" end_char="172">affecting</TOKEN>
+  <TOKEN id="segment-1-22" pos="word" morph="none" start_char="174" end_char="182">residents</TOKEN>
+  <TOKEN id="segment-1-23" pos="word" morph="none" start_char="184" end_char="185">of</TOKEN>
+  <TOKEN id="segment-1-24" pos="word" morph="none" start_char="187" end_char="189">six</TOKEN>
+  <TOKEN id="segment-1-25" pos="word" morph="none" start_char="191" end_char="198">counties</TOKEN>
+  <TOKEN id="segment-1-26" pos="word" morph="none" start_char="199" end_char="199">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="202" end_char="319">
+  <ORIGINAL_TEXT>State epidemiologist Megan Davies said Thursday that nine cases have been confirmed, and 12 more are under evaluation.</ORIGINAL_TEXT>
+  <TOKEN id="segment-2-0" pos="word" morph="none" start_char="202" end_char="206">State</TOKEN>
+  <TOKEN id="segment-2-1" pos="word" morph="none" start_char="208" end_char="221">epidemiologist</TOKEN>
+  <TOKEN id="segment-2-2" pos="word" morph="none" start_char="223" end_char="227">Megan</TOKEN>
+  <TOKEN id="segment-2-3" pos="word" morph="none" start_char="229" end_char="234">Davies</TOKEN>
+  <TOKEN id="segment-2-4" pos="word" morph="none" start_char="236" end_char="239">said</TOKEN>
+  <TOKEN id="segment-2-5" pos="word" morph="none" start_char="241" end_char="248">Thursday</TOKEN>
+  <TOKEN id="segment-2-6" pos="word" morph="none" start_char="250" end_char="253">that</TOKEN>
+  <TOKEN id="segment-2-7" pos="word" morph="none" start_char="255" end_char="258">nine</TOKEN>
+  <TOKEN id="segment-2-8" pos="word" morph="none" start_char="260" end_char="264">cases</TOKEN>
+  <TOKEN id="segment-2-9" pos="word" morph="none" start_char="266" end_char="269">have</TOKEN>
+  <TOKEN id="segment-2-10" pos="word" morph="none" start_char="271" end_char="274">been</TOKEN>
+  <TOKEN id="segment-2-11" pos="word" morph="none" start_char="276" end_char="284">confirmed</TOKEN>
+  <TOKEN id="segment-2-12" pos="word" morph="none" start_char="285" end_char="285">,</TOKEN>
+  <TOKEN id="segment-2-13" pos="word" morph="none" start_char="287" end_char="289">and</TOKEN>
+  <TOKEN id="segment-2-14" pos="word" morph="none" start_char="291" end_char="292">12</TOKEN>
+  <TOKEN id="segment-2-15" pos="word" morph="none" start_char="294" end_char="297">more</TOKEN>
+  <TOKEN id="segment-2-16" pos="word" morph="none" start_char="299" end_char="301">are</TOKEN>
+  <TOKEN id="segment-2-17" pos="word" morph="none" start_char="303" end_char="307">under</TOKEN>
+  <TOKEN id="segment-2-18" pos="word" morph="none" start_char="309" end_char="318">evaluation</TOKEN>
+  <TOKEN id="segment-2-19" pos="word" morph="none" start_char="319" end_char="319">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="322" end_char="373">
+  <ORIGINAL_TEXT>Four children remain hospitalized for the infection.</ORIGINAL_TEXT>
+  <TOKEN id="segment-3-0" pos="word" morph="none" start_char="322" end_char="325">Four</TOKEN>
+  <TOKEN id="segment-3-1" pos="word" morph="none" start_char="327" end_char="334">children</TOKEN>
+  <TOKEN id="segment-3-2" pos="word" morph="none" start_char="336" end_char="341">remain</TOKEN>
+  <TOKEN id="segment-3-3" pos="word" morph="none" start_char="343" end_char="354">hospitalized</TOKEN>
+  <TOKEN id="segment-3-4" pos="word" morph="none" start_char="356" end_char="358">for</TOKEN>
+  <TOKEN id="segment-3-5" pos="word" morph="none" start_char="360" end_char="362">the</TOKEN>
+  <TOKEN id="segment-3-6" pos="word" morph="none" start_char="364" end_char="372">infection</TOKEN>
+  <TOKEN id="segment-3-7" pos="word" morph="none" start_char="373" end_char="373">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="376" end_char="485">
+  <ORIGINAL_TEXT>Most of the cases are in Wake County, where seven infections have been confirmed and four others are possible.</ORIGINAL_TEXT>
+  <TOKEN id="segment-4-0" pos="word" morph="none" start_char="376" end_char="379">Most</TOKEN>
+  <TOKEN id="segment-4-1" pos="word" morph="none" start_char="381" end_char="382">of</TOKEN>
+  <TOKEN id="segment-4-2" pos="word" morph="none" start_char="384" end_char="386">the</TOKEN>
+  <TOKEN id="segment-4-3" pos="word" morph="none" start_char="388" end_char="392">cases</TOKEN>
+  <TOKEN id="segment-4-4" pos="word" morph="none" start_char="394" end_char="396">are</TOKEN>
+  <TOKEN id="segment-4-5" pos="word" morph="none" start_char="398" end_char="399">in</TOKEN>
+  <TOKEN id="segment-4-6" pos="word" morph="none" start_char="401" end_char="404">Wake</TOKEN>
+  <TOKEN id="segment-4-7" pos="word" morph="none" start_char="406" end_char="411">County</TOKEN>
+  <TOKEN id="segment-4-8" pos="word" morph="none" start_char="412" end_char="412">,</TOKEN>
+  <TOKEN id="segment-4-9" pos="word" morph="none" start_char="414" end_char="418">where</TOKEN>
+  <TOKEN id="segment-4-10" pos="word" morph="none" start_char="420" end_char="424">seven</TOKEN>
+  <TOKEN id="segment-4-11" pos="word" morph="none" start_char="426" end_char="435">infections</TOKEN>
+  <TOKEN id="segment-4-12" pos="word" morph="none" start_char="437" end_char="440">have</TOKEN>
+  <TOKEN id="segment-4-13" pos="word" morph="none" start_char="442" end_char="445">been</TOKEN>
+  <TOKEN id="segment-4-14" pos="word" morph="none" start_char="447" end_char="455">confirmed</TOKEN>
+  <TOKEN id="segment-4-15" pos="word" morph="none" start_char="457" end_char="459">and</TOKEN>
+  <TOKEN id="segment-4-16" pos="word" morph="none" start_char="461" end_char="464">four</TOKEN>
+  <TOKEN id="segment-4-17" pos="word" morph="none" start_char="466" end_char="471">others</TOKEN>
+  <TOKEN id="segment-4-18" pos="word" morph="none" start_char="473" end_char="475">are</TOKEN>
+  <TOKEN id="segment-4-19" pos="word" morph="none" start_char="477" end_char="484">possible</TOKEN>
+  <TOKEN id="segment-4-20" pos="word" morph="none" start_char="485" end_char="485">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="488" end_char="586">
+  <ORIGINAL_TEXT>Sampson County has six, and there is one each in Durham, Johnston, Franklin and Cleveland counties.</ORIGINAL_TEXT>
+  <TOKEN id="segment-5-0" pos="word" morph="none" start_char="488" end_char="494">Sampson</TOKEN>
+  <TOKEN id="segment-5-1" pos="word" morph="none" start_char="496" end_char="501">County</TOKEN>
+  <TOKEN id="segment-5-2" pos="word" morph="none" start_char="503" end_char="505">has</TOKEN>
+  <TOKEN id="segment-5-3" pos="word" morph="none" start_char="507" end_char="509">six</TOKEN>
+  <TOKEN id="segment-5-4" pos="word" morph="none" start_char="510" end_char="510">,</TOKEN>
+  <TOKEN id="segment-5-5" pos="word" morph="none" start_char="512" end_char="514">and</TOKEN>
+  <TOKEN id="segment-5-6" pos="word" morph="none" start_char="516" end_char="520">there</TOKEN>
+  <TOKEN id="segment-5-7" pos="word" morph="none" start_char="522" end_char="523">is</TOKEN>
+  <TOKEN id="segment-5-8" pos="word" morph="none" start_char="525" end_char="527">one</TOKEN>
+  <TOKEN id="segment-5-9" pos="word" morph="none" start_char="529" end_char="532">each</TOKEN>
+  <TOKEN id="segment-5-10" pos="word" morph="none" start_char="534" end_char="535">in</TOKEN>
+  <TOKEN id="segment-5-11" pos="word" morph="none" start_char="537" end_char="542">Durham</TOKEN>
+  <TOKEN id="segment-5-12" pos="word" morph="none" start_char="543" end_char="543">,</TOKEN>
+  <TOKEN id="segment-5-13" pos="word" morph="none" start_char="545" end_char="552">Johnston</TOKEN>
+  <TOKEN id="segment-5-14" pos="word" morph="none" start_char="553" end_char="553">,</TOKEN>
+  <TOKEN id="segment-5-15" pos="word" morph="none" start_char="555" end_char="562">Franklin</TOKEN>
+  <TOKEN id="segment-5-16" pos="word" morph="none" start_char="564" end_char="566">and</TOKEN>
+  <TOKEN id="segment-5-17" pos="word" morph="none" start_char="568" end_char="576">Cleveland</TOKEN>
+  <TOKEN id="segment-5-18" pos="word" morph="none" start_char="578" end_char="585">counties</TOKEN>
+  <TOKEN id="segment-5-19" pos="word" morph="none" start_char="586" end_char="586">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="589" end_char="765">
+  <ORIGINAL_TEXT>Eight of the nine confirmed cases occurred in people who attended the state fair, but Davies said investigators don't yet know how many of the possible cases attended the event.</ORIGINAL_TEXT>
+  <TOKEN id="segment-6-0" pos="word" morph="none" start_char="589" end_char="593">Eight</TOKEN>
+  <TOKEN id="segment-6-1" pos="word" morph="none" start_char="595" end_char="596">of</TOKEN>
+  <TOKEN id="segment-6-2" pos="word" morph="none" start_char="598" end_char="600">the</TOKEN>
+  <TOKEN id="segment-6-3" pos="word" morph="none" start_char="602" end_char="605">nine</TOKEN>
+  <TOKEN id="segment-6-4" pos="word" morph="none" start_char="607" end_char="615">confirmed</TOKEN>
+  <TOKEN id="segment-6-5" pos="word" morph="none" start_char="617" end_char="621">cases</TOKEN>
+  <TOKEN id="segment-6-6" pos="word" morph="none" start_char="623" end_char="630">occurred</TOKEN>
+  <TOKEN id="segment-6-7" pos="word" morph="none" start_char="632" end_char="633">in</TOKEN>
+  <TOKEN id="segment-6-8" pos="word" morph="none" start_char="635" end_char="640">people</TOKEN>
+  <TOKEN id="segment-6-9" pos="word" morph="none" start_char="642" end_char="644">who</TOKEN>
+  <TOKEN id="segment-6-10" pos="word" morph="none" start_char="646" end_char="653">attended</TOKEN>
+  <TOKEN id="segment-6-11" pos="word" morph="none" start_char="655" end_char="657">the</TOKEN>
+  <TOKEN id="segment-6-12" pos="word" morph="none" start_char="659" end_char="663">state</TOKEN>
+  <TOKEN id="segment-6-13" pos="word" morph="none" start_char="665" end_char="668">fair</TOKEN>
+  <TOKEN id="segment-6-14" pos="word" morph="none" start_char="669" end_char="669">,</TOKEN>
+  <TOKEN id="segment-6-15" pos="word" morph="none" start_char="671" end_char="673">but</TOKEN>
+  <TOKEN id="segment-6-16" pos="word" morph="none" start_char="675" end_char="680">Davies</TOKEN>
+  <TOKEN id="segment-6-17" pos="word" morph="none" start_char="682" end_char="685">said</TOKEN>
+  <TOKEN id="segment-6-18" pos="word" morph="none" start_char="687" end_char="699">investigators</TOKEN>
+  <TOKEN id="segment-6-19" pos="word" morph="none" start_char="701" end_char="702">do</TOKEN>
+  <TOKEN id="segment-6-20" pos="word" morph="none" start_char="703" end_char="705">n't</TOKEN>
+  <TOKEN id="segment-6-21" pos="word" morph="none" start_char="707" end_char="709">yet</TOKEN>
+  <TOKEN id="segment-6-22" pos="word" morph="none" start_char="711" end_char="714">know</TOKEN>
+  <TOKEN id="segment-6-23" pos="word" morph="none" start_char="716" end_char="718">how</TOKEN>
+  <TOKEN id="segment-6-24" pos="word" morph="none" start_char="720" end_char="723">many</TOKEN>
+  <TOKEN id="segment-6-25" pos="word" morph="none" start_char="725" end_char="726">of</TOKEN>
+  <TOKEN id="segment-6-26" pos="word" morph="none" start_char="728" end_char="730">the</TOKEN>
+  <TOKEN id="segment-6-27" pos="word" morph="none" start_char="732" end_char="739">possible</TOKEN>
+  <TOKEN id="segment-6-28" pos="word" morph="none" start_char="741" end_char="745">cases</TOKEN>
+  <TOKEN id="segment-6-29" pos="word" morph="none" start_char="747" end_char="754">attended</TOKEN>
+  <TOKEN id="segment-6-30" pos="word" morph="none" start_char="756" end_char="758">the</TOKEN>
+  <TOKEN id="segment-6-31" pos="word" morph="none" start_char="760" end_char="764">event</TOKEN>
+  <TOKEN id="segment-6-32" pos="word" morph="none" start_char="765" end_char="765">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="768" end_char="878">
+  <ORIGINAL_TEXT>Davies said it's not yet known precisely what else the confirmed cases had in common besides going to the fair.</ORIGINAL_TEXT>
+  <TOKEN id="segment-7-0" pos="word" morph="none" start_char="768" end_char="773">Davies</TOKEN>
+  <TOKEN id="segment-7-1" pos="word" morph="none" start_char="775" end_char="778">said</TOKEN>
+  <TOKEN id="segment-7-2" pos="word" morph="none" start_char="780" end_char="781">it</TOKEN>
+  <TOKEN id="segment-7-3" pos="word" morph="none" start_char="782" end_char="783">'s</TOKEN>
+  <TOKEN id="segment-7-4" pos="word" morph="none" start_char="785" end_char="787">not</TOKEN>
+  <TOKEN id="segment-7-5" pos="word" morph="none" start_char="789" end_char="791">yet</TOKEN>
+  <TOKEN id="segment-7-6" pos="word" morph="none" start_char="793" end_char="797">known</TOKEN>
+  <TOKEN id="segment-7-7" pos="word" morph="none" start_char="799" end_char="807">precisely</TOKEN>
+  <TOKEN id="segment-7-8" pos="word" morph="none" start_char="809" end_char="812">what</TOKEN>
+  <TOKEN id="segment-7-9" pos="word" morph="none" start_char="814" end_char="817">else</TOKEN>
+  <TOKEN id="segment-7-10" pos="word" morph="none" start_char="819" end_char="821">the</TOKEN>
+  <TOKEN id="segment-7-11" pos="word" morph="none" start_char="823" end_char="831">confirmed</TOKEN>
+  <TOKEN id="segment-7-12" pos="word" morph="none" start_char="833" end_char="837">cases</TOKEN>
+  <TOKEN id="segment-7-13" pos="word" morph="none" start_char="839" end_char="841">had</TOKEN>
+  <TOKEN id="segment-7-14" pos="word" morph="none" start_char="843" end_char="844">in</TOKEN>
+  <TOKEN id="segment-7-15" pos="word" morph="none" start_char="846" end_char="851">common</TOKEN>
+  <TOKEN id="segment-7-16" pos="word" morph="none" start_char="853" end_char="859">besides</TOKEN>
+  <TOKEN id="segment-7-17" pos="word" morph="none" start_char="861" end_char="865">going</TOKEN>
+  <TOKEN id="segment-7-18" pos="word" morph="none" start_char="867" end_char="868">to</TOKEN>
+  <TOKEN id="segment-7-19" pos="word" morph="none" start_char="870" end_char="872">the</TOKEN>
+  <TOKEN id="segment-7-20" pos="word" morph="none" start_char="874" end_char="877">fair</TOKEN>
+  <TOKEN id="segment-7-21" pos="word" morph="none" start_char="878" end_char="878">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

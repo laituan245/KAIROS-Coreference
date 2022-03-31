@@ -1,0 +1,1958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="L0C04D4DB" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="8868" raw_text_md5="95d6e8d67201352189ba27c4c3d7665a">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="41">
+<ORIGINAL_TEXT>Timeline of events in salmonella outbreak</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="8">Timeline</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="10" end_char="11">of</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="13" end_char="18">events</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="20" end_char="21">in</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="23" end_char="32">salmonella</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="34" end_char="41">outbreak</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="47" end_char="175">
+<ORIGINAL_TEXT>-- March 2005 - The Peanut Corporation of America plant opens a plant in Plainview, Texas which employes approximately 30 people.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="punct" morph="none" start_char="47" end_char="48">--</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="50" end_char="54">March</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="56" end_char="59">2005</TOKEN>
+<TOKEN id="token-1-3" pos="punct" morph="none" start_char="61" end_char="61">-</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="63" end_char="65">The</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="67" end_char="72">Peanut</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="74" end_char="84">Corporation</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="86" end_char="87">of</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="89" end_char="95">America</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="97" end_char="101">plant</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="103" end_char="107">opens</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="109" end_char="109">a</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="111" end_char="115">plant</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="117" end_char="118">in</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="120" end_char="128">Plainview</TOKEN>
+<TOKEN id="token-1-15" pos="punct" morph="none" start_char="129" end_char="129">,</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="131" end_char="135">Texas</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="137" end_char="141">which</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="143" end_char="150">employes</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="152" end_char="164">approximately</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="166" end_char="167">30</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="169" end_char="174">people</TOKEN>
+<TOKEN id="token-1-22" pos="punct" morph="none" start_char="175" end_char="175">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="177" end_char="337">
+<ORIGINAL_TEXT>It would later be discovered that PCA never notified all the various state agencies that regulate the plant and therfore it was never inspected until early 2009.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="177" end_char="178">It</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="180" end_char="184">would</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="186" end_char="190">later</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="192" end_char="193">be</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="195" end_char="204">discovered</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="206" end_char="209">that</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="211" end_char="213">PCA</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="215" end_char="219">never</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="221" end_char="228">notified</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="230" end_char="232">all</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="234" end_char="236">the</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="238" end_char="244">various</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="246" end_char="250">state</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="252" end_char="259">agencies</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="261" end_char="264">that</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="266" end_char="273">regulate</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="275" end_char="277">the</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="279" end_char="283">plant</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="285" end_char="287">and</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="289" end_char="296">therfore</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="298" end_char="299">it</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="301" end_char="303">was</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="305" end_char="309">never</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="311" end_char="319">inspected</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="321" end_char="325">until</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="327" end_char="331">early</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="333" end_char="336">2009</TOKEN>
+<TOKEN id="token-2-27" pos="punct" morph="none" start_char="337" end_char="337">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="340" end_char="488">
+<ORIGINAL_TEXT>-- 2006 - Four inspections by the Georgia Department of Agriculture cite numerous, repeated violations at the Blakely, Ga., plant of the Peanut Corp.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="punct" morph="none" start_char="340" end_char="341">--</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="343" end_char="346">2006</TOKEN>
+<TOKEN id="token-3-2" pos="punct" morph="none" start_char="348" end_char="348">-</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="350" end_char="353">Four</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="355" end_char="365">inspections</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="367" end_char="368">by</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="370" end_char="372">the</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="374" end_char="380">Georgia</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="382" end_char="391">Department</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="393" end_char="394">of</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="396" end_char="406">Agriculture</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="408" end_char="411">cite</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="413" end_char="420">numerous</TOKEN>
+<TOKEN id="token-3-13" pos="punct" morph="none" start_char="421" end_char="421">,</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="423" end_char="430">repeated</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="432" end_char="441">violations</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="443" end_char="444">at</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="446" end_char="448">the</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="450" end_char="456">Blakely</TOKEN>
+<TOKEN id="token-3-19" pos="punct" morph="none" start_char="457" end_char="457">,</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="459" end_char="460">Ga</TOKEN>
+<TOKEN id="token-3-21" pos="punct" morph="none" start_char="461" end_char="462">.,</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="464" end_char="468">plant</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="470" end_char="471">of</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="473" end_char="475">the</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="477" end_char="482">Peanut</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="484" end_char="487">Corp</TOKEN>
+<TOKEN id="token-3-27" pos="punct" morph="none" start_char="488" end_char="488">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="490" end_char="653">
+<ORIGINAL_TEXT>of America, a peanut processing company and maker of peanut butter for bulk distribution to institutions, food service industries, and private label food companies.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="490" end_char="491">of</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="493" end_char="499">America</TOKEN>
+<TOKEN id="token-4-2" pos="punct" morph="none" start_char="500" end_char="500">,</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="502" end_char="502">a</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="504" end_char="509">peanut</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="511" end_char="520">processing</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="522" end_char="528">company</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="530" end_char="532">and</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="534" end_char="538">maker</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="540" end_char="541">of</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="543" end_char="548">peanut</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="550" end_char="555">butter</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="557" end_char="559">for</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="561" end_char="564">bulk</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="566" end_char="577">distribution</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="579" end_char="580">to</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="582" end_char="593">institutions</TOKEN>
+<TOKEN id="token-4-17" pos="punct" morph="none" start_char="594" end_char="594">,</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="596" end_char="599">food</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="601" end_char="607">service</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="609" end_char="618">industries</TOKEN>
+<TOKEN id="token-4-21" pos="punct" morph="none" start_char="619" end_char="619">,</TOKEN>
+<TOKEN id="token-4-22" pos="word" morph="none" start_char="621" end_char="623">and</TOKEN>
+<TOKEN id="token-4-23" pos="word" morph="none" start_char="625" end_char="631">private</TOKEN>
+<TOKEN id="token-4-24" pos="word" morph="none" start_char="633" end_char="637">label</TOKEN>
+<TOKEN id="token-4-25" pos="word" morph="none" start_char="639" end_char="642">food</TOKEN>
+<TOKEN id="token-4-26" pos="word" morph="none" start_char="644" end_char="652">companies</TOKEN>
+<TOKEN id="token-4-27" pos="punct" morph="none" start_char="653" end_char="653">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="655" end_char="751">
+<ORIGINAL_TEXT>The violations include food residue buildup, storage on floors and the improper use of duct tape.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="655" end_char="657">The</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="659" end_char="668">violations</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="670" end_char="676">include</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="678" end_char="681">food</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="683" end_char="689">residue</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="691" end_char="697">buildup</TOKEN>
+<TOKEN id="token-5-6" pos="punct" morph="none" start_char="698" end_char="698">,</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="700" end_char="706">storage</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="708" end_char="709">on</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="711" end_char="716">floors</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="718" end_char="720">and</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="722" end_char="724">the</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="726" end_char="733">improper</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="735" end_char="737">use</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="739" end_char="740">of</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="742" end_char="745">duct</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="747" end_char="750">tape</TOKEN>
+<TOKEN id="token-5-17" pos="punct" morph="none" start_char="751" end_char="751">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="754" end_char="760">
+<ORIGINAL_TEXT>-- Aug.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="punct" morph="none" start_char="754" end_char="755">--</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="757" end_char="759">Aug</TOKEN>
+<TOKEN id="token-6-2" pos="punct" morph="none" start_char="760" end_char="760">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="762" end_char="880">
+<ORIGINAL_TEXT>2007 - Three samples taken at PCA by the Georgia Department of Agriculture test negative for salmonella and pesticides.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="762" end_char="765">2007</TOKEN>
+<TOKEN id="token-7-1" pos="punct" morph="none" start_char="767" end_char="767">-</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="769" end_char="773">Three</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="775" end_char="781">samples</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="783" end_char="787">taken</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="789" end_char="790">at</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="792" end_char="794">PCA</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="796" end_char="797">by</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="799" end_char="801">the</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="803" end_char="809">Georgia</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="811" end_char="820">Department</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="822" end_char="823">of</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="825" end_char="835">Agriculture</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="837" end_char="840">test</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="842" end_char="849">negative</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="851" end_char="853">for</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="855" end_char="864">salmonella</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="866" end_char="868">and</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="870" end_char="879">pesticides</TOKEN>
+<TOKEN id="token-7-19" pos="punct" morph="none" start_char="880" end_char="880">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="883" end_char="958">
+<ORIGINAL_TEXT>-- 2008 - Seven tests performed for the company are positive for salmonella.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="punct" morph="none" start_char="883" end_char="884">--</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="886" end_char="889">2008</TOKEN>
+<TOKEN id="token-8-2" pos="punct" morph="none" start_char="891" end_char="891">-</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="893" end_char="897">Seven</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="899" end_char="903">tests</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="905" end_char="913">performed</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="915" end_char="917">for</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="919" end_char="921">the</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="923" end_char="929">company</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="931" end_char="933">are</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="935" end_char="942">positive</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="944" end_char="946">for</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="948" end_char="957">salmonella</TOKEN>
+<TOKEN id="token-8-13" pos="punct" morph="none" start_char="958" end_char="958">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="960" end_char="1024">
+<ORIGINAL_TEXT>In each case, after a retest is negative, the product is shipped.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="960" end_char="961">In</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="963" end_char="966">each</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="968" end_char="971">case</TOKEN>
+<TOKEN id="token-9-3" pos="punct" morph="none" start_char="972" end_char="972">,</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="974" end_char="978">after</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="980" end_char="980">a</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="982" end_char="987">retest</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="989" end_char="990">is</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="992" end_char="999">negative</TOKEN>
+<TOKEN id="token-9-9" pos="punct" morph="none" start_char="1000" end_char="1000">,</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1002" end_char="1004">the</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1006" end_char="1012">product</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1014" end_char="1015">is</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1017" end_char="1023">shipped</TOKEN>
+<TOKEN id="token-9-14" pos="punct" morph="none" start_char="1024" end_char="1024">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1027" end_char="1034">
+<ORIGINAL_TEXT>-- Sept.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="punct" morph="none" start_char="1027" end_char="1028">--</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1030" end_char="1033">Sept</TOKEN>
+<TOKEN id="token-10-2" pos="punct" morph="none" start_char="1034" end_char="1034">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1036" end_char="1141">
+<ORIGINAL_TEXT>8, 2008 - The first reported illnesses begin, according to the Centers for Disease Control and Prevention.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1036" end_char="1036">8</TOKEN>
+<TOKEN id="token-11-1" pos="punct" morph="none" start_char="1037" end_char="1037">,</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1039" end_char="1042">2008</TOKEN>
+<TOKEN id="token-11-3" pos="punct" morph="none" start_char="1044" end_char="1044">-</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1046" end_char="1048">The</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1050" end_char="1054">first</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1056" end_char="1063">reported</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1065" end_char="1073">illnesses</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1075" end_char="1079">begin</TOKEN>
+<TOKEN id="token-11-9" pos="punct" morph="none" start_char="1080" end_char="1080">,</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1082" end_char="1090">according</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1092" end_char="1093">to</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1095" end_char="1097">the</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1099" end_char="1105">Centers</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1107" end_char="1109">for</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="1111" end_char="1117">Disease</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1119" end_char="1125">Control</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1127" end_char="1129">and</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="1131" end_char="1140">Prevention</TOKEN>
+<TOKEN id="token-11-19" pos="punct" morph="none" start_char="1141" end_char="1141">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1144" end_char="1150">
+<ORIGINAL_TEXT>-- Nov.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="punct" morph="none" start_char="1144" end_char="1145">--</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1147" end_char="1149">Nov</TOKEN>
+<TOKEN id="token-12-2" pos="punct" morph="none" start_char="1150" end_char="1150">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1152" end_char="1314">
+<ORIGINAL_TEXT>25, 2008 - The CDC, working with state and local partners, begins an epidemiological assessment of a cluster of salmonella cases reported from 12 different states.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1152" end_char="1153">25</TOKEN>
+<TOKEN id="token-13-1" pos="punct" morph="none" start_char="1154" end_char="1154">,</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1156" end_char="1159">2008</TOKEN>
+<TOKEN id="token-13-3" pos="punct" morph="none" start_char="1161" end_char="1161">-</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1163" end_char="1165">The</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1167" end_char="1169">CDC</TOKEN>
+<TOKEN id="token-13-6" pos="punct" morph="none" start_char="1170" end_char="1170">,</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1172" end_char="1178">working</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1180" end_char="1183">with</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1185" end_char="1189">state</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1191" end_char="1193">and</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1195" end_char="1199">local</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1201" end_char="1208">partners</TOKEN>
+<TOKEN id="token-13-13" pos="punct" morph="none" start_char="1209" end_char="1209">,</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1211" end_char="1216">begins</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1218" end_char="1219">an</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="1221" end_char="1235">epidemiological</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="1237" end_char="1246">assessment</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="1248" end_char="1249">of</TOKEN>
+<TOKEN id="token-13-19" pos="word" morph="none" start_char="1251" end_char="1251">a</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="1253" end_char="1259">cluster</TOKEN>
+<TOKEN id="token-13-21" pos="word" morph="none" start_char="1261" end_char="1262">of</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="1264" end_char="1273">salmonella</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="1275" end_char="1279">cases</TOKEN>
+<TOKEN id="token-13-24" pos="word" morph="none" start_char="1281" end_char="1288">reported</TOKEN>
+<TOKEN id="token-13-25" pos="word" morph="none" start_char="1290" end_char="1293">from</TOKEN>
+<TOKEN id="token-13-26" pos="word" morph="none" start_char="1295" end_char="1296">12</TOKEN>
+<TOKEN id="token-13-27" pos="word" morph="none" start_char="1298" end_char="1306">different</TOKEN>
+<TOKEN id="token-13-28" pos="word" morph="none" start_char="1308" end_char="1313">states</TOKEN>
+<TOKEN id="token-13-29" pos="punct" morph="none" start_char="1314" end_char="1314">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1317" end_char="1323">
+<ORIGINAL_TEXT>-- Dec.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="punct" morph="none" start_char="1317" end_char="1318">--</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1320" end_char="1322">Dec</TOKEN>
+<TOKEN id="token-14-2" pos="punct" morph="none" start_char="1323" end_char="1323">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1325" end_char="1399">
+<ORIGINAL_TEXT>21, 2008 - Shirley Mae Almer, 72, dies in a nursing home in Brainerd, Minn.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1325" end_char="1326">21</TOKEN>
+<TOKEN id="token-15-1" pos="punct" morph="none" start_char="1327" end_char="1327">,</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1329" end_char="1332">2008</TOKEN>
+<TOKEN id="token-15-3" pos="punct" morph="none" start_char="1334" end_char="1334">-</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1336" end_char="1342">Shirley</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1344" end_char="1346">Mae</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1348" end_char="1352">Almer</TOKEN>
+<TOKEN id="token-15-7" pos="punct" morph="none" start_char="1353" end_char="1353">,</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1355" end_char="1356">72</TOKEN>
+<TOKEN id="token-15-9" pos="punct" morph="none" start_char="1357" end_char="1357">,</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="1359" end_char="1362">dies</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="1364" end_char="1365">in</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1367" end_char="1367">a</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="1369" end_char="1375">nursing</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="1377" end_char="1380">home</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="1382" end_char="1383">in</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="1385" end_char="1392">Brainerd</TOKEN>
+<TOKEN id="token-15-17" pos="punct" morph="none" start_char="1393" end_char="1393">,</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="1395" end_char="1398">Minn</TOKEN>
+<TOKEN id="token-15-19" pos="punct" morph="none" start_char="1399" end_char="1399">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1401" end_char="1403">
+<ORIGINAL_TEXT>On.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1401" end_char="1402">On</TOKEN>
+<TOKEN id="token-16-1" pos="punct" morph="none" start_char="1403" end_char="1403">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1405" end_char="1408">
+<ORIGINAL_TEXT>Jan.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1405" end_char="1407">Jan</TOKEN>
+<TOKEN id="token-17-1" pos="punct" morph="none" start_char="1408" end_char="1408">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1410" end_char="1501">
+<ORIGINAL_TEXT>26, 2009, her relatives file suit against the operators of PCA and distributor King Nut Cos.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="1410" end_char="1411">26</TOKEN>
+<TOKEN id="token-18-1" pos="punct" morph="none" start_char="1412" end_char="1412">,</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="1414" end_char="1417">2009</TOKEN>
+<TOKEN id="token-18-3" pos="punct" morph="none" start_char="1418" end_char="1418">,</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="1420" end_char="1422">her</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="1424" end_char="1432">relatives</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="1434" end_char="1437">file</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="1439" end_char="1442">suit</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="1444" end_char="1450">against</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="1452" end_char="1454">the</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="1456" end_char="1464">operators</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="1466" end_char="1467">of</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="1469" end_char="1471">PCA</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="1473" end_char="1475">and</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="1477" end_char="1487">distributor</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="1489" end_char="1492">King</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="1494" end_char="1496">Nut</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="1498" end_char="1500">Cos</TOKEN>
+<TOKEN id="token-18-18" pos="punct" morph="none" start_char="1501" end_char="1501">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1503" end_char="1543">
+<ORIGINAL_TEXT>saying their negligence caused her death.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1503" end_char="1508">saying</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1510" end_char="1514">their</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1516" end_char="1525">negligence</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1527" end_char="1532">caused</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1534" end_char="1536">her</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="1538" end_char="1542">death</TOKEN>
+<TOKEN id="token-19-6" pos="punct" morph="none" start_char="1543" end_char="1543">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1545" end_char="1683">
+<ORIGINAL_TEXT>The complaint says her death was a direct result of eating peanut butter infected by a salmonella strain linked to the nationwide outbreak.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1545" end_char="1547">The</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1549" end_char="1557">complaint</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1559" end_char="1562">says</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1564" end_char="1566">her</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1568" end_char="1572">death</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="1574" end_char="1576">was</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="1578" end_char="1578">a</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="1580" end_char="1585">direct</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="1587" end_char="1592">result</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="1594" end_char="1595">of</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="1597" end_char="1602">eating</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="1604" end_char="1609">peanut</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="1611" end_char="1616">butter</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="1618" end_char="1625">infected</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="1627" end_char="1628">by</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="1630" end_char="1630">a</TOKEN>
+<TOKEN id="token-20-16" pos="word" morph="none" start_char="1632" end_char="1641">salmonella</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="1643" end_char="1648">strain</TOKEN>
+<TOKEN id="token-20-18" pos="word" morph="none" start_char="1650" end_char="1655">linked</TOKEN>
+<TOKEN id="token-20-19" pos="word" morph="none" start_char="1657" end_char="1658">to</TOKEN>
+<TOKEN id="token-20-20" pos="word" morph="none" start_char="1660" end_char="1662">the</TOKEN>
+<TOKEN id="token-20-21" pos="word" morph="none" start_char="1664" end_char="1673">nationwide</TOKEN>
+<TOKEN id="token-20-22" pos="word" morph="none" start_char="1675" end_char="1682">outbreak</TOKEN>
+<TOKEN id="token-20-23" pos="punct" morph="none" start_char="1683" end_char="1683">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1686" end_char="1692">
+<ORIGINAL_TEXT>-- Jan.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="punct" morph="none" start_char="1686" end_char="1687">--</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="1689" end_char="1691">Jan</TOKEN>
+<TOKEN id="token-21-2" pos="punct" morph="none" start_char="1692" end_char="1692">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1694" end_char="1779">
+<ORIGINAL_TEXT>8, 2009 - The Food and Drug Administration visits an Ohio distributor for Peanut Corp.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="1694" end_char="1694">8</TOKEN>
+<TOKEN id="token-22-1" pos="punct" morph="none" start_char="1695" end_char="1695">,</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="1697" end_char="1700">2009</TOKEN>
+<TOKEN id="token-22-3" pos="punct" morph="none" start_char="1702" end_char="1702">-</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="1704" end_char="1706">The</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="1708" end_char="1711">Food</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="1713" end_char="1715">and</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="1717" end_char="1720">Drug</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="1722" end_char="1735">Administration</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="1737" end_char="1742">visits</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="1744" end_char="1745">an</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="1747" end_char="1750">Ohio</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="1752" end_char="1762">distributor</TOKEN>
+<TOKEN id="token-22-13" pos="word" morph="none" start_char="1764" end_char="1766">for</TOKEN>
+<TOKEN id="token-22-14" pos="word" morph="none" start_char="1768" end_char="1773">Peanut</TOKEN>
+<TOKEN id="token-22-15" pos="word" morph="none" start_char="1775" end_char="1778">Corp</TOKEN>
+<TOKEN id="token-22-16" pos="punct" morph="none" start_char="1779" end_char="1779">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1781" end_char="1791">
+<ORIGINAL_TEXT>of America.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="1781" end_char="1782">of</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="1784" end_char="1790">America</TOKEN>
+<TOKEN id="token-23-2" pos="punct" morph="none" start_char="1791" end_char="1791">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1794" end_char="1800">
+<ORIGINAL_TEXT>-- Jan.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="punct" morph="none" start_char="1794" end_char="1795">--</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="1797" end_char="1799">Jan</TOKEN>
+<TOKEN id="token-24-2" pos="punct" morph="none" start_char="1800" end_char="1800">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="1802" end_char="1918">
+<ORIGINAL_TEXT>9, 2009 - The FDA and the Georgia Department of Agriculture initiate an environmental investigation at the PCA plant.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="1802" end_char="1802">9</TOKEN>
+<TOKEN id="token-25-1" pos="punct" morph="none" start_char="1803" end_char="1803">,</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="1805" end_char="1808">2009</TOKEN>
+<TOKEN id="token-25-3" pos="punct" morph="none" start_char="1810" end_char="1810">-</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="1812" end_char="1814">The</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="1816" end_char="1818">FDA</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="1820" end_char="1822">and</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="1824" end_char="1826">the</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="1828" end_char="1834">Georgia</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="1836" end_char="1845">Department</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="1847" end_char="1848">of</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="1850" end_char="1860">Agriculture</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="1862" end_char="1869">initiate</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="1871" end_char="1872">an</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="1874" end_char="1886">environmental</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="1888" end_char="1900">investigation</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="1902" end_char="1903">at</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="1905" end_char="1907">the</TOKEN>
+<TOKEN id="token-25-18" pos="word" morph="none" start_char="1909" end_char="1911">PCA</TOKEN>
+<TOKEN id="token-25-19" pos="word" morph="none" start_char="1913" end_char="1917">plant</TOKEN>
+<TOKEN id="token-25-20" pos="punct" morph="none" start_char="1918" end_char="1918">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="1921" end_char="2017">
+<ORIGINAL_TEXT>-- PCA voluntarily stops production of peanut butter and peanut paste at the Blakely, Ga., plant.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="punct" morph="none" start_char="1921" end_char="1922">--</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="1924" end_char="1926">PCA</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="1928" end_char="1938">voluntarily</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="1940" end_char="1944">stops</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="1946" end_char="1955">production</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="1957" end_char="1958">of</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="1960" end_char="1965">peanut</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="1967" end_char="1972">butter</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="1974" end_char="1976">and</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="1978" end_char="1983">peanut</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="1985" end_char="1989">paste</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="1991" end_char="1992">at</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="1994" end_char="1996">the</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="1998" end_char="2004">Blakely</TOKEN>
+<TOKEN id="token-26-14" pos="punct" morph="none" start_char="2005" end_char="2005">,</TOKEN>
+<TOKEN id="token-26-15" pos="word" morph="none" start_char="2007" end_char="2008">Ga</TOKEN>
+<TOKEN id="token-26-16" pos="punct" morph="none" start_char="2009" end_char="2010">.,</TOKEN>
+<TOKEN id="token-26-17" pos="word" morph="none" start_char="2012" end_char="2016">plant</TOKEN>
+<TOKEN id="token-26-18" pos="punct" morph="none" start_char="2017" end_char="2017">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="2020" end_char="2026">
+<ORIGINAL_TEXT>-- Jan.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="punct" morph="none" start_char="2020" end_char="2021">--</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="2023" end_char="2025">Jan</TOKEN>
+<TOKEN id="token-27-2" pos="punct" morph="none" start_char="2026" end_char="2026">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="2028" end_char="2144">
+<ORIGINAL_TEXT>10, 2009 - King Nut announces a recall of peanut butter manufactured by PCA and distributed under the King Nut label.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="2028" end_char="2029">10</TOKEN>
+<TOKEN id="token-28-1" pos="punct" morph="none" start_char="2030" end_char="2030">,</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="2032" end_char="2035">2009</TOKEN>
+<TOKEN id="token-28-3" pos="punct" morph="none" start_char="2037" end_char="2037">-</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="2039" end_char="2042">King</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="2044" end_char="2046">Nut</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="2048" end_char="2056">announces</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="2058" end_char="2058">a</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="2060" end_char="2065">recall</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="2067" end_char="2068">of</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="2070" end_char="2075">peanut</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="2077" end_char="2082">butter</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="2084" end_char="2095">manufactured</TOKEN>
+<TOKEN id="token-28-13" pos="word" morph="none" start_char="2097" end_char="2098">by</TOKEN>
+<TOKEN id="token-28-14" pos="word" morph="none" start_char="2100" end_char="2102">PCA</TOKEN>
+<TOKEN id="token-28-15" pos="word" morph="none" start_char="2104" end_char="2106">and</TOKEN>
+<TOKEN id="token-28-16" pos="word" morph="none" start_char="2108" end_char="2118">distributed</TOKEN>
+<TOKEN id="token-28-17" pos="word" morph="none" start_char="2120" end_char="2124">under</TOKEN>
+<TOKEN id="token-28-18" pos="word" morph="none" start_char="2126" end_char="2128">the</TOKEN>
+<TOKEN id="token-28-19" pos="word" morph="none" start_char="2130" end_char="2133">King</TOKEN>
+<TOKEN id="token-28-20" pos="word" morph="none" start_char="2135" end_char="2137">Nut</TOKEN>
+<TOKEN id="token-28-21" pos="word" morph="none" start_char="2139" end_char="2143">label</TOKEN>
+<TOKEN id="token-28-22" pos="punct" morph="none" start_char="2144" end_char="2144">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="2147" end_char="2472">
+<ORIGINAL_TEXT>-- The Minnesota Departments of Agriculture and Health confirm that laboratory analyses show a genetic match between the strains of salmonella bacteria found in a container of King Nut brand creamy peanut butter and the strains of bacteria associated with 30 illnesses in Minnesota and nearly 400 illnesses around the country.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="punct" morph="none" start_char="2147" end_char="2148">--</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="2150" end_char="2152">The</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="2154" end_char="2162">Minnesota</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="2164" end_char="2174">Departments</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="2176" end_char="2177">of</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="2179" end_char="2189">Agriculture</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="2191" end_char="2193">and</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="2195" end_char="2200">Health</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="2202" end_char="2208">confirm</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="2210" end_char="2213">that</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="2215" end_char="2224">laboratory</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="2226" end_char="2233">analyses</TOKEN>
+<TOKEN id="token-29-12" pos="word" morph="none" start_char="2235" end_char="2238">show</TOKEN>
+<TOKEN id="token-29-13" pos="word" morph="none" start_char="2240" end_char="2240">a</TOKEN>
+<TOKEN id="token-29-14" pos="word" morph="none" start_char="2242" end_char="2248">genetic</TOKEN>
+<TOKEN id="token-29-15" pos="word" morph="none" start_char="2250" end_char="2254">match</TOKEN>
+<TOKEN id="token-29-16" pos="word" morph="none" start_char="2256" end_char="2262">between</TOKEN>
+<TOKEN id="token-29-17" pos="word" morph="none" start_char="2264" end_char="2266">the</TOKEN>
+<TOKEN id="token-29-18" pos="word" morph="none" start_char="2268" end_char="2274">strains</TOKEN>
+<TOKEN id="token-29-19" pos="word" morph="none" start_char="2276" end_char="2277">of</TOKEN>
+<TOKEN id="token-29-20" pos="word" morph="none" start_char="2279" end_char="2288">salmonella</TOKEN>
+<TOKEN id="token-29-21" pos="word" morph="none" start_char="2290" end_char="2297">bacteria</TOKEN>
+<TOKEN id="token-29-22" pos="word" morph="none" start_char="2299" end_char="2303">found</TOKEN>
+<TOKEN id="token-29-23" pos="word" morph="none" start_char="2305" end_char="2306">in</TOKEN>
+<TOKEN id="token-29-24" pos="word" morph="none" start_char="2308" end_char="2308">a</TOKEN>
+<TOKEN id="token-29-25" pos="word" morph="none" start_char="2310" end_char="2318">container</TOKEN>
+<TOKEN id="token-29-26" pos="word" morph="none" start_char="2320" end_char="2321">of</TOKEN>
+<TOKEN id="token-29-27" pos="word" morph="none" start_char="2323" end_char="2326">King</TOKEN>
+<TOKEN id="token-29-28" pos="word" morph="none" start_char="2328" end_char="2330">Nut</TOKEN>
+<TOKEN id="token-29-29" pos="word" morph="none" start_char="2332" end_char="2336">brand</TOKEN>
+<TOKEN id="token-29-30" pos="word" morph="none" start_char="2338" end_char="2343">creamy</TOKEN>
+<TOKEN id="token-29-31" pos="word" morph="none" start_char="2345" end_char="2350">peanut</TOKEN>
+<TOKEN id="token-29-32" pos="word" morph="none" start_char="2352" end_char="2357">butter</TOKEN>
+<TOKEN id="token-29-33" pos="word" morph="none" start_char="2359" end_char="2361">and</TOKEN>
+<TOKEN id="token-29-34" pos="word" morph="none" start_char="2363" end_char="2365">the</TOKEN>
+<TOKEN id="token-29-35" pos="word" morph="none" start_char="2367" end_char="2373">strains</TOKEN>
+<TOKEN id="token-29-36" pos="word" morph="none" start_char="2375" end_char="2376">of</TOKEN>
+<TOKEN id="token-29-37" pos="word" morph="none" start_char="2378" end_char="2385">bacteria</TOKEN>
+<TOKEN id="token-29-38" pos="word" morph="none" start_char="2387" end_char="2396">associated</TOKEN>
+<TOKEN id="token-29-39" pos="word" morph="none" start_char="2398" end_char="2401">with</TOKEN>
+<TOKEN id="token-29-40" pos="word" morph="none" start_char="2403" end_char="2404">30</TOKEN>
+<TOKEN id="token-29-41" pos="word" morph="none" start_char="2406" end_char="2414">illnesses</TOKEN>
+<TOKEN id="token-29-42" pos="word" morph="none" start_char="2416" end_char="2417">in</TOKEN>
+<TOKEN id="token-29-43" pos="word" morph="none" start_char="2419" end_char="2427">Minnesota</TOKEN>
+<TOKEN id="token-29-44" pos="word" morph="none" start_char="2429" end_char="2431">and</TOKEN>
+<TOKEN id="token-29-45" pos="word" morph="none" start_char="2433" end_char="2438">nearly</TOKEN>
+<TOKEN id="token-29-46" pos="word" morph="none" start_char="2440" end_char="2442">400</TOKEN>
+<TOKEN id="token-29-47" pos="word" morph="none" start_char="2444" end_char="2452">illnesses</TOKEN>
+<TOKEN id="token-29-48" pos="word" morph="none" start_char="2454" end_char="2459">around</TOKEN>
+<TOKEN id="token-29-49" pos="word" morph="none" start_char="2461" end_char="2463">the</TOKEN>
+<TOKEN id="token-29-50" pos="word" morph="none" start_char="2465" end_char="2471">country</TOKEN>
+<TOKEN id="token-29-51" pos="punct" morph="none" start_char="2472" end_char="2472">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="2475" end_char="2481">
+<ORIGINAL_TEXT>-- Jan.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="punct" morph="none" start_char="2475" end_char="2476">--</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="2478" end_char="2480">Jan</TOKEN>
+<TOKEN id="token-30-2" pos="punct" morph="none" start_char="2481" end_char="2481">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="2483" end_char="2661">
+<ORIGINAL_TEXT>13, 2009 - PCA announces a voluntary recall of peanut butter produced in its Blakely, Ga., processing plant on or after July 1, 2008, because of possible salmonella contamination.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="2483" end_char="2484">13</TOKEN>
+<TOKEN id="token-31-1" pos="punct" morph="none" start_char="2485" end_char="2485">,</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="2487" end_char="2490">2009</TOKEN>
+<TOKEN id="token-31-3" pos="punct" morph="none" start_char="2492" end_char="2492">-</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="2494" end_char="2496">PCA</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="2498" end_char="2506">announces</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="2508" end_char="2508">a</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="2510" end_char="2518">voluntary</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="2520" end_char="2525">recall</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="2527" end_char="2528">of</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="2530" end_char="2535">peanut</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="2537" end_char="2542">butter</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="2544" end_char="2551">produced</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="2553" end_char="2554">in</TOKEN>
+<TOKEN id="token-31-14" pos="word" morph="none" start_char="2556" end_char="2558">its</TOKEN>
+<TOKEN id="token-31-15" pos="word" morph="none" start_char="2560" end_char="2566">Blakely</TOKEN>
+<TOKEN id="token-31-16" pos="punct" morph="none" start_char="2567" end_char="2567">,</TOKEN>
+<TOKEN id="token-31-17" pos="word" morph="none" start_char="2569" end_char="2570">Ga</TOKEN>
+<TOKEN id="token-31-18" pos="punct" morph="none" start_char="2571" end_char="2572">.,</TOKEN>
+<TOKEN id="token-31-19" pos="word" morph="none" start_char="2574" end_char="2583">processing</TOKEN>
+<TOKEN id="token-31-20" pos="word" morph="none" start_char="2585" end_char="2589">plant</TOKEN>
+<TOKEN id="token-31-21" pos="word" morph="none" start_char="2591" end_char="2592">on</TOKEN>
+<TOKEN id="token-31-22" pos="word" morph="none" start_char="2594" end_char="2595">or</TOKEN>
+<TOKEN id="token-31-23" pos="word" morph="none" start_char="2597" end_char="2601">after</TOKEN>
+<TOKEN id="token-31-24" pos="word" morph="none" start_char="2603" end_char="2606">July</TOKEN>
+<TOKEN id="token-31-25" pos="word" morph="none" start_char="2608" end_char="2608">1</TOKEN>
+<TOKEN id="token-31-26" pos="punct" morph="none" start_char="2609" end_char="2609">,</TOKEN>
+<TOKEN id="token-31-27" pos="word" morph="none" start_char="2611" end_char="2614">2008</TOKEN>
+<TOKEN id="token-31-28" pos="punct" morph="none" start_char="2615" end_char="2615">,</TOKEN>
+<TOKEN id="token-31-29" pos="word" morph="none" start_char="2617" end_char="2623">because</TOKEN>
+<TOKEN id="token-31-30" pos="word" morph="none" start_char="2625" end_char="2626">of</TOKEN>
+<TOKEN id="token-31-31" pos="word" morph="none" start_char="2628" end_char="2635">possible</TOKEN>
+<TOKEN id="token-31-32" pos="word" morph="none" start_char="2637" end_char="2646">salmonella</TOKEN>
+<TOKEN id="token-31-33" pos="word" morph="none" start_char="2648" end_char="2660">contamination</TOKEN>
+<TOKEN id="token-31-34" pos="punct" morph="none" start_char="2661" end_char="2661">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="2664" end_char="2670">
+<ORIGINAL_TEXT>-- Jan.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="punct" morph="none" start_char="2664" end_char="2665">--</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="2667" end_char="2669">Jan</TOKEN>
+<TOKEN id="token-32-2" pos="punct" morph="none" start_char="2670" end_char="2670">.</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="2672" end_char="2829">
+<ORIGINAL_TEXT>16, 2009 - Food inspectors confirm the presence of salmonella bacteria in an unopened five-pound tub of peanut butter found at a Connecticut food distributor.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="2672" end_char="2673">16</TOKEN>
+<TOKEN id="token-33-1" pos="punct" morph="none" start_char="2674" end_char="2674">,</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="2676" end_char="2679">2009</TOKEN>
+<TOKEN id="token-33-3" pos="punct" morph="none" start_char="2681" end_char="2681">-</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="2683" end_char="2686">Food</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="2688" end_char="2697">inspectors</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="2699" end_char="2705">confirm</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="2707" end_char="2709">the</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="2711" end_char="2718">presence</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="2720" end_char="2721">of</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="2723" end_char="2732">salmonella</TOKEN>
+<TOKEN id="token-33-11" pos="word" morph="none" start_char="2734" end_char="2741">bacteria</TOKEN>
+<TOKEN id="token-33-12" pos="word" morph="none" start_char="2743" end_char="2744">in</TOKEN>
+<TOKEN id="token-33-13" pos="word" morph="none" start_char="2746" end_char="2747">an</TOKEN>
+<TOKEN id="token-33-14" pos="word" morph="none" start_char="2749" end_char="2756">unopened</TOKEN>
+<TOKEN id="token-33-15" pos="unknown" morph="none" start_char="2758" end_char="2767">five-pound</TOKEN>
+<TOKEN id="token-33-16" pos="word" morph="none" start_char="2769" end_char="2771">tub</TOKEN>
+<TOKEN id="token-33-17" pos="word" morph="none" start_char="2773" end_char="2774">of</TOKEN>
+<TOKEN id="token-33-18" pos="word" morph="none" start_char="2776" end_char="2781">peanut</TOKEN>
+<TOKEN id="token-33-19" pos="word" morph="none" start_char="2783" end_char="2788">butter</TOKEN>
+<TOKEN id="token-33-20" pos="word" morph="none" start_char="2790" end_char="2794">found</TOKEN>
+<TOKEN id="token-33-21" pos="word" morph="none" start_char="2796" end_char="2797">at</TOKEN>
+<TOKEN id="token-33-22" pos="word" morph="none" start_char="2799" end_char="2799">a</TOKEN>
+<TOKEN id="token-33-23" pos="word" morph="none" start_char="2801" end_char="2811">Connecticut</TOKEN>
+<TOKEN id="token-33-24" pos="word" morph="none" start_char="2813" end_char="2816">food</TOKEN>
+<TOKEN id="token-33-25" pos="word" morph="none" start_char="2818" end_char="2828">distributor</TOKEN>
+<TOKEN id="token-33-26" pos="punct" morph="none" start_char="2829" end_char="2829">.</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="2832" end_char="2909">
+<ORIGINAL_TEXT>-- PCA announces an expanded recall of peanut butter produced on or after Aug.</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="punct" morph="none" start_char="2832" end_char="2833">--</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="2835" end_char="2837">PCA</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="2839" end_char="2847">announces</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="2849" end_char="2850">an</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="2852" end_char="2859">expanded</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="2861" end_char="2866">recall</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="2868" end_char="2869">of</TOKEN>
+<TOKEN id="token-34-7" pos="word" morph="none" start_char="2871" end_char="2876">peanut</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="2878" end_char="2883">butter</TOKEN>
+<TOKEN id="token-34-9" pos="word" morph="none" start_char="2885" end_char="2892">produced</TOKEN>
+<TOKEN id="token-34-10" pos="word" morph="none" start_char="2894" end_char="2895">on</TOKEN>
+<TOKEN id="token-34-11" pos="word" morph="none" start_char="2897" end_char="2898">or</TOKEN>
+<TOKEN id="token-34-12" pos="word" morph="none" start_char="2900" end_char="2904">after</TOKEN>
+<TOKEN id="token-34-13" pos="word" morph="none" start_char="2906" end_char="2908">Aug</TOKEN>
+<TOKEN id="token-34-14" pos="punct" morph="none" start_char="2909" end_char="2909">.</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="2911" end_char="3049">
+<ORIGINAL_TEXT>8, 2008, in its Blakely, Ga., processing plant as well as the voluntary recall of peanut paste produced in the same plant on or after Sept.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="2911" end_char="2911">8</TOKEN>
+<TOKEN id="token-35-1" pos="punct" morph="none" start_char="2912" end_char="2912">,</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="2914" end_char="2917">2008</TOKEN>
+<TOKEN id="token-35-3" pos="punct" morph="none" start_char="2918" end_char="2918">,</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="2920" end_char="2921">in</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="2923" end_char="2925">its</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="2927" end_char="2933">Blakely</TOKEN>
+<TOKEN id="token-35-7" pos="punct" morph="none" start_char="2934" end_char="2934">,</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="2936" end_char="2937">Ga</TOKEN>
+<TOKEN id="token-35-9" pos="punct" morph="none" start_char="2938" end_char="2939">.,</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="2941" end_char="2950">processing</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="2952" end_char="2956">plant</TOKEN>
+<TOKEN id="token-35-12" pos="word" morph="none" start_char="2958" end_char="2959">as</TOKEN>
+<TOKEN id="token-35-13" pos="word" morph="none" start_char="2961" end_char="2964">well</TOKEN>
+<TOKEN id="token-35-14" pos="word" morph="none" start_char="2966" end_char="2967">as</TOKEN>
+<TOKEN id="token-35-15" pos="word" morph="none" start_char="2969" end_char="2971">the</TOKEN>
+<TOKEN id="token-35-16" pos="word" morph="none" start_char="2973" end_char="2981">voluntary</TOKEN>
+<TOKEN id="token-35-17" pos="word" morph="none" start_char="2983" end_char="2988">recall</TOKEN>
+<TOKEN id="token-35-18" pos="word" morph="none" start_char="2990" end_char="2991">of</TOKEN>
+<TOKEN id="token-35-19" pos="word" morph="none" start_char="2993" end_char="2998">peanut</TOKEN>
+<TOKEN id="token-35-20" pos="word" morph="none" start_char="3000" end_char="3004">paste</TOKEN>
+<TOKEN id="token-35-21" pos="word" morph="none" start_char="3006" end_char="3013">produced</TOKEN>
+<TOKEN id="token-35-22" pos="word" morph="none" start_char="3015" end_char="3016">in</TOKEN>
+<TOKEN id="token-35-23" pos="word" morph="none" start_char="3018" end_char="3020">the</TOKEN>
+<TOKEN id="token-35-24" pos="word" morph="none" start_char="3022" end_char="3025">same</TOKEN>
+<TOKEN id="token-35-25" pos="word" morph="none" start_char="3027" end_char="3031">plant</TOKEN>
+<TOKEN id="token-35-26" pos="word" morph="none" start_char="3033" end_char="3034">on</TOKEN>
+<TOKEN id="token-35-27" pos="word" morph="none" start_char="3036" end_char="3037">or</TOKEN>
+<TOKEN id="token-35-28" pos="word" morph="none" start_char="3039" end_char="3043">after</TOKEN>
+<TOKEN id="token-35-29" pos="word" morph="none" start_char="3045" end_char="3048">Sept</TOKEN>
+<TOKEN id="token-35-30" pos="punct" morph="none" start_char="3049" end_char="3049">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="3051" end_char="3105">
+<ORIGINAL_TEXT>26, 2008, because of possible salmonella contamination.</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="3051" end_char="3052">26</TOKEN>
+<TOKEN id="token-36-1" pos="punct" morph="none" start_char="3053" end_char="3053">,</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="3055" end_char="3058">2008</TOKEN>
+<TOKEN id="token-36-3" pos="punct" morph="none" start_char="3059" end_char="3059">,</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="3061" end_char="3067">because</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="3069" end_char="3070">of</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="3072" end_char="3079">possible</TOKEN>
+<TOKEN id="token-36-7" pos="word" morph="none" start_char="3081" end_char="3090">salmonella</TOKEN>
+<TOKEN id="token-36-8" pos="word" morph="none" start_char="3092" end_char="3104">contamination</TOKEN>
+<TOKEN id="token-36-9" pos="punct" morph="none" start_char="3105" end_char="3105">.</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="3108" end_char="3114">
+<ORIGINAL_TEXT>-- Jan.</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="punct" morph="none" start_char="3108" end_char="3109">--</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="3111" end_char="3113">Jan</TOKEN>
+<TOKEN id="token-37-2" pos="punct" morph="none" start_char="3114" end_char="3114">.</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="3116" end_char="3260">
+<ORIGINAL_TEXT>18, 2009 - PCA expands the recall of peanut butter and voluntarily recalls peanut paste made at its Blakely, Ga., plant on or after July 1, 2008.</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="3116" end_char="3117">18</TOKEN>
+<TOKEN id="token-38-1" pos="punct" morph="none" start_char="3118" end_char="3118">,</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="3120" end_char="3123">2009</TOKEN>
+<TOKEN id="token-38-3" pos="punct" morph="none" start_char="3125" end_char="3125">-</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="3127" end_char="3129">PCA</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="3131" end_char="3137">expands</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="3139" end_char="3141">the</TOKEN>
+<TOKEN id="token-38-7" pos="word" morph="none" start_char="3143" end_char="3148">recall</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="3150" end_char="3151">of</TOKEN>
+<TOKEN id="token-38-9" pos="word" morph="none" start_char="3153" end_char="3158">peanut</TOKEN>
+<TOKEN id="token-38-10" pos="word" morph="none" start_char="3160" end_char="3165">butter</TOKEN>
+<TOKEN id="token-38-11" pos="word" morph="none" start_char="3167" end_char="3169">and</TOKEN>
+<TOKEN id="token-38-12" pos="word" morph="none" start_char="3171" end_char="3181">voluntarily</TOKEN>
+<TOKEN id="token-38-13" pos="word" morph="none" start_char="3183" end_char="3189">recalls</TOKEN>
+<TOKEN id="token-38-14" pos="word" morph="none" start_char="3191" end_char="3196">peanut</TOKEN>
+<TOKEN id="token-38-15" pos="word" morph="none" start_char="3198" end_char="3202">paste</TOKEN>
+<TOKEN id="token-38-16" pos="word" morph="none" start_char="3204" end_char="3207">made</TOKEN>
+<TOKEN id="token-38-17" pos="word" morph="none" start_char="3209" end_char="3210">at</TOKEN>
+<TOKEN id="token-38-18" pos="word" morph="none" start_char="3212" end_char="3214">its</TOKEN>
+<TOKEN id="token-38-19" pos="word" morph="none" start_char="3216" end_char="3222">Blakely</TOKEN>
+<TOKEN id="token-38-20" pos="punct" morph="none" start_char="3223" end_char="3223">,</TOKEN>
+<TOKEN id="token-38-21" pos="word" morph="none" start_char="3225" end_char="3226">Ga</TOKEN>
+<TOKEN id="token-38-22" pos="punct" morph="none" start_char="3227" end_char="3228">.,</TOKEN>
+<TOKEN id="token-38-23" pos="word" morph="none" start_char="3230" end_char="3234">plant</TOKEN>
+<TOKEN id="token-38-24" pos="word" morph="none" start_char="3236" end_char="3237">on</TOKEN>
+<TOKEN id="token-38-25" pos="word" morph="none" start_char="3239" end_char="3240">or</TOKEN>
+<TOKEN id="token-38-26" pos="word" morph="none" start_char="3242" end_char="3246">after</TOKEN>
+<TOKEN id="token-38-27" pos="word" morph="none" start_char="3248" end_char="3251">July</TOKEN>
+<TOKEN id="token-38-28" pos="word" morph="none" start_char="3253" end_char="3253">1</TOKEN>
+<TOKEN id="token-38-29" pos="punct" morph="none" start_char="3254" end_char="3254">,</TOKEN>
+<TOKEN id="token-38-30" pos="word" morph="none" start_char="3256" end_char="3259">2008</TOKEN>
+<TOKEN id="token-38-31" pos="punct" morph="none" start_char="3260" end_char="3260">.</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="3263" end_char="3269">
+<ORIGINAL_TEXT>-- Jan.</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="punct" morph="none" start_char="3263" end_char="3264">--</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="3266" end_char="3268">Jan</TOKEN>
+<TOKEN id="token-39-2" pos="punct" morph="none" start_char="3269" end_char="3269">.</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="3271" end_char="3363">
+<ORIGINAL_TEXT>27, 2009 - The FDA finishes its investigation of the PCA plant and reports on its inspection.</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="3271" end_char="3272">27</TOKEN>
+<TOKEN id="token-40-1" pos="punct" morph="none" start_char="3273" end_char="3273">,</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="3275" end_char="3278">2009</TOKEN>
+<TOKEN id="token-40-3" pos="punct" morph="none" start_char="3280" end_char="3280">-</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="3282" end_char="3284">The</TOKEN>
+<TOKEN id="token-40-5" pos="word" morph="none" start_char="3286" end_char="3288">FDA</TOKEN>
+<TOKEN id="token-40-6" pos="word" morph="none" start_char="3290" end_char="3297">finishes</TOKEN>
+<TOKEN id="token-40-7" pos="word" morph="none" start_char="3299" end_char="3301">its</TOKEN>
+<TOKEN id="token-40-8" pos="word" morph="none" start_char="3303" end_char="3315">investigation</TOKEN>
+<TOKEN id="token-40-9" pos="word" morph="none" start_char="3317" end_char="3318">of</TOKEN>
+<TOKEN id="token-40-10" pos="word" morph="none" start_char="3320" end_char="3322">the</TOKEN>
+<TOKEN id="token-40-11" pos="word" morph="none" start_char="3324" end_char="3326">PCA</TOKEN>
+<TOKEN id="token-40-12" pos="word" morph="none" start_char="3328" end_char="3332">plant</TOKEN>
+<TOKEN id="token-40-13" pos="word" morph="none" start_char="3334" end_char="3336">and</TOKEN>
+<TOKEN id="token-40-14" pos="word" morph="none" start_char="3338" end_char="3344">reports</TOKEN>
+<TOKEN id="token-40-15" pos="word" morph="none" start_char="3346" end_char="3347">on</TOKEN>
+<TOKEN id="token-40-16" pos="word" morph="none" start_char="3349" end_char="3351">its</TOKEN>
+<TOKEN id="token-40-17" pos="word" morph="none" start_char="3353" end_char="3362">inspection</TOKEN>
+<TOKEN id="token-40-18" pos="punct" morph="none" start_char="3363" end_char="3363">.</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="3365" end_char="3452">
+<ORIGINAL_TEXT>Click here for a list of problems observed by FDA investigators during their inspection.</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="3365" end_char="3369">Click</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="3371" end_char="3374">here</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="3376" end_char="3378">for</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="3380" end_char="3380">a</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="3382" end_char="3385">list</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="3387" end_char="3388">of</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="3390" end_char="3397">problems</TOKEN>
+<TOKEN id="token-41-7" pos="word" morph="none" start_char="3399" end_char="3406">observed</TOKEN>
+<TOKEN id="token-41-8" pos="word" morph="none" start_char="3408" end_char="3409">by</TOKEN>
+<TOKEN id="token-41-9" pos="word" morph="none" start_char="3411" end_char="3413">FDA</TOKEN>
+<TOKEN id="token-41-10" pos="word" morph="none" start_char="3415" end_char="3427">investigators</TOKEN>
+<TOKEN id="token-41-11" pos="word" morph="none" start_char="3429" end_char="3434">during</TOKEN>
+<TOKEN id="token-41-12" pos="word" morph="none" start_char="3436" end_char="3440">their</TOKEN>
+<TOKEN id="token-41-13" pos="word" morph="none" start_char="3442" end_char="3451">inspection</TOKEN>
+<TOKEN id="token-41-14" pos="punct" morph="none" start_char="3452" end_char="3452">.</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="3455" end_char="3725">
+<ORIGINAL_TEXT>-- Federal officials say PCA failed to tell inspectors that after samples sent to a contract lab for testing in 2007 and 2008 tested positive for salmonella, the company got a second opinion from another lab and sold the food after the secondary tests came back negative.</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="punct" morph="none" start_char="3455" end_char="3456">--</TOKEN>
+<TOKEN id="token-42-1" pos="word" morph="none" start_char="3458" end_char="3464">Federal</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="3466" end_char="3474">officials</TOKEN>
+<TOKEN id="token-42-3" pos="word" morph="none" start_char="3476" end_char="3478">say</TOKEN>
+<TOKEN id="token-42-4" pos="word" morph="none" start_char="3480" end_char="3482">PCA</TOKEN>
+<TOKEN id="token-42-5" pos="word" morph="none" start_char="3484" end_char="3489">failed</TOKEN>
+<TOKEN id="token-42-6" pos="word" morph="none" start_char="3491" end_char="3492">to</TOKEN>
+<TOKEN id="token-42-7" pos="word" morph="none" start_char="3494" end_char="3497">tell</TOKEN>
+<TOKEN id="token-42-8" pos="word" morph="none" start_char="3499" end_char="3508">inspectors</TOKEN>
+<TOKEN id="token-42-9" pos="word" morph="none" start_char="3510" end_char="3513">that</TOKEN>
+<TOKEN id="token-42-10" pos="word" morph="none" start_char="3515" end_char="3519">after</TOKEN>
+<TOKEN id="token-42-11" pos="word" morph="none" start_char="3521" end_char="3527">samples</TOKEN>
+<TOKEN id="token-42-12" pos="word" morph="none" start_char="3529" end_char="3532">sent</TOKEN>
+<TOKEN id="token-42-13" pos="word" morph="none" start_char="3534" end_char="3535">to</TOKEN>
+<TOKEN id="token-42-14" pos="word" morph="none" start_char="3537" end_char="3537">a</TOKEN>
+<TOKEN id="token-42-15" pos="word" morph="none" start_char="3539" end_char="3546">contract</TOKEN>
+<TOKEN id="token-42-16" pos="word" morph="none" start_char="3548" end_char="3550">lab</TOKEN>
+<TOKEN id="token-42-17" pos="word" morph="none" start_char="3552" end_char="3554">for</TOKEN>
+<TOKEN id="token-42-18" pos="word" morph="none" start_char="3556" end_char="3562">testing</TOKEN>
+<TOKEN id="token-42-19" pos="word" morph="none" start_char="3564" end_char="3565">in</TOKEN>
+<TOKEN id="token-42-20" pos="word" morph="none" start_char="3567" end_char="3570">2007</TOKEN>
+<TOKEN id="token-42-21" pos="word" morph="none" start_char="3572" end_char="3574">and</TOKEN>
+<TOKEN id="token-42-22" pos="word" morph="none" start_char="3576" end_char="3579">2008</TOKEN>
+<TOKEN id="token-42-23" pos="word" morph="none" start_char="3581" end_char="3586">tested</TOKEN>
+<TOKEN id="token-42-24" pos="word" morph="none" start_char="3588" end_char="3595">positive</TOKEN>
+<TOKEN id="token-42-25" pos="word" morph="none" start_char="3597" end_char="3599">for</TOKEN>
+<TOKEN id="token-42-26" pos="word" morph="none" start_char="3601" end_char="3610">salmonella</TOKEN>
+<TOKEN id="token-42-27" pos="punct" morph="none" start_char="3611" end_char="3611">,</TOKEN>
+<TOKEN id="token-42-28" pos="word" morph="none" start_char="3613" end_char="3615">the</TOKEN>
+<TOKEN id="token-42-29" pos="word" morph="none" start_char="3617" end_char="3623">company</TOKEN>
+<TOKEN id="token-42-30" pos="word" morph="none" start_char="3625" end_char="3627">got</TOKEN>
+<TOKEN id="token-42-31" pos="word" morph="none" start_char="3629" end_char="3629">a</TOKEN>
+<TOKEN id="token-42-32" pos="word" morph="none" start_char="3631" end_char="3636">second</TOKEN>
+<TOKEN id="token-42-33" pos="word" morph="none" start_char="3638" end_char="3644">opinion</TOKEN>
+<TOKEN id="token-42-34" pos="word" morph="none" start_char="3646" end_char="3649">from</TOKEN>
+<TOKEN id="token-42-35" pos="word" morph="none" start_char="3651" end_char="3657">another</TOKEN>
+<TOKEN id="token-42-36" pos="word" morph="none" start_char="3659" end_char="3661">lab</TOKEN>
+<TOKEN id="token-42-37" pos="word" morph="none" start_char="3663" end_char="3665">and</TOKEN>
+<TOKEN id="token-42-38" pos="word" morph="none" start_char="3667" end_char="3670">sold</TOKEN>
+<TOKEN id="token-42-39" pos="word" morph="none" start_char="3672" end_char="3674">the</TOKEN>
+<TOKEN id="token-42-40" pos="word" morph="none" start_char="3676" end_char="3679">food</TOKEN>
+<TOKEN id="token-42-41" pos="word" morph="none" start_char="3681" end_char="3685">after</TOKEN>
+<TOKEN id="token-42-42" pos="word" morph="none" start_char="3687" end_char="3689">the</TOKEN>
+<TOKEN id="token-42-43" pos="word" morph="none" start_char="3691" end_char="3699">secondary</TOKEN>
+<TOKEN id="token-42-44" pos="word" morph="none" start_char="3701" end_char="3705">tests</TOKEN>
+<TOKEN id="token-42-45" pos="word" morph="none" start_char="3707" end_char="3710">came</TOKEN>
+<TOKEN id="token-42-46" pos="word" morph="none" start_char="3712" end_char="3715">back</TOKEN>
+<TOKEN id="token-42-47" pos="word" morph="none" start_char="3717" end_char="3724">negative</TOKEN>
+<TOKEN id="token-42-48" pos="punct" morph="none" start_char="3725" end_char="3725">.</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="3728" end_char="3734">
+<ORIGINAL_TEXT>-- Jan.</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="punct" morph="none" start_char="3728" end_char="3729">--</TOKEN>
+<TOKEN id="token-43-1" pos="word" morph="none" start_char="3731" end_char="3733">Jan</TOKEN>
+<TOKEN id="token-43-2" pos="punct" morph="none" start_char="3734" end_char="3734">.</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="3736" end_char="3849">
+<ORIGINAL_TEXT>28, 2009 - PCA voluntarily recalls all peanuts and peanut products processed in its Blakely, Ga., plant since Jan.</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="word" morph="none" start_char="3736" end_char="3737">28</TOKEN>
+<TOKEN id="token-44-1" pos="punct" morph="none" start_char="3738" end_char="3738">,</TOKEN>
+<TOKEN id="token-44-2" pos="word" morph="none" start_char="3740" end_char="3743">2009</TOKEN>
+<TOKEN id="token-44-3" pos="punct" morph="none" start_char="3745" end_char="3745">-</TOKEN>
+<TOKEN id="token-44-4" pos="word" morph="none" start_char="3747" end_char="3749">PCA</TOKEN>
+<TOKEN id="token-44-5" pos="word" morph="none" start_char="3751" end_char="3761">voluntarily</TOKEN>
+<TOKEN id="token-44-6" pos="word" morph="none" start_char="3763" end_char="3769">recalls</TOKEN>
+<TOKEN id="token-44-7" pos="word" morph="none" start_char="3771" end_char="3773">all</TOKEN>
+<TOKEN id="token-44-8" pos="word" morph="none" start_char="3775" end_char="3781">peanuts</TOKEN>
+<TOKEN id="token-44-9" pos="word" morph="none" start_char="3783" end_char="3785">and</TOKEN>
+<TOKEN id="token-44-10" pos="word" morph="none" start_char="3787" end_char="3792">peanut</TOKEN>
+<TOKEN id="token-44-11" pos="word" morph="none" start_char="3794" end_char="3801">products</TOKEN>
+<TOKEN id="token-44-12" pos="word" morph="none" start_char="3803" end_char="3811">processed</TOKEN>
+<TOKEN id="token-44-13" pos="word" morph="none" start_char="3813" end_char="3814">in</TOKEN>
+<TOKEN id="token-44-14" pos="word" morph="none" start_char="3816" end_char="3818">its</TOKEN>
+<TOKEN id="token-44-15" pos="word" morph="none" start_char="3820" end_char="3826">Blakely</TOKEN>
+<TOKEN id="token-44-16" pos="punct" morph="none" start_char="3827" end_char="3827">,</TOKEN>
+<TOKEN id="token-44-17" pos="word" morph="none" start_char="3829" end_char="3830">Ga</TOKEN>
+<TOKEN id="token-44-18" pos="punct" morph="none" start_char="3831" end_char="3832">.,</TOKEN>
+<TOKEN id="token-44-19" pos="word" morph="none" start_char="3834" end_char="3838">plant</TOKEN>
+<TOKEN id="token-44-20" pos="word" morph="none" start_char="3840" end_char="3844">since</TOKEN>
+<TOKEN id="token-44-21" pos="word" morph="none" start_char="3846" end_char="3848">Jan</TOKEN>
+<TOKEN id="token-44-22" pos="punct" morph="none" start_char="3849" end_char="3849">.</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="3851" end_char="3858">
+<ORIGINAL_TEXT>1, 2007.</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="3851" end_char="3851">1</TOKEN>
+<TOKEN id="token-45-1" pos="punct" morph="none" start_char="3852" end_char="3852">,</TOKEN>
+<TOKEN id="token-45-2" pos="word" morph="none" start_char="3854" end_char="3857">2007</TOKEN>
+<TOKEN id="token-45-3" pos="punct" morph="none" start_char="3858" end_char="3858">.</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="3860" end_char="3986">
+<ORIGINAL_TEXT>The expanded recall includes all dry- and oil-roasted peanuts, granulated peanuts, peanut meal, peanut butter and peanut paste.</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="word" morph="none" start_char="3860" end_char="3862">The</TOKEN>
+<TOKEN id="token-46-1" pos="word" morph="none" start_char="3864" end_char="3871">expanded</TOKEN>
+<TOKEN id="token-46-2" pos="word" morph="none" start_char="3873" end_char="3878">recall</TOKEN>
+<TOKEN id="token-46-3" pos="word" morph="none" start_char="3880" end_char="3887">includes</TOKEN>
+<TOKEN id="token-46-4" pos="word" morph="none" start_char="3889" end_char="3891">all</TOKEN>
+<TOKEN id="token-46-5" pos="word" morph="none" start_char="3893" end_char="3895">dry</TOKEN>
+<TOKEN id="token-46-6" pos="punct" morph="none" start_char="3896" end_char="3896">-</TOKEN>
+<TOKEN id="token-46-7" pos="word" morph="none" start_char="3898" end_char="3900">and</TOKEN>
+<TOKEN id="token-46-8" pos="unknown" morph="none" start_char="3902" end_char="3912">oil-roasted</TOKEN>
+<TOKEN id="token-46-9" pos="word" morph="none" start_char="3914" end_char="3920">peanuts</TOKEN>
+<TOKEN id="token-46-10" pos="punct" morph="none" start_char="3921" end_char="3921">,</TOKEN>
+<TOKEN id="token-46-11" pos="word" morph="none" start_char="3923" end_char="3932">granulated</TOKEN>
+<TOKEN id="token-46-12" pos="word" morph="none" start_char="3934" end_char="3940">peanuts</TOKEN>
+<TOKEN id="token-46-13" pos="punct" morph="none" start_char="3941" end_char="3941">,</TOKEN>
+<TOKEN id="token-46-14" pos="word" morph="none" start_char="3943" end_char="3948">peanut</TOKEN>
+<TOKEN id="token-46-15" pos="word" morph="none" start_char="3950" end_char="3953">meal</TOKEN>
+<TOKEN id="token-46-16" pos="punct" morph="none" start_char="3954" end_char="3954">,</TOKEN>
+<TOKEN id="token-46-17" pos="word" morph="none" start_char="3956" end_char="3961">peanut</TOKEN>
+<TOKEN id="token-46-18" pos="word" morph="none" start_char="3963" end_char="3968">butter</TOKEN>
+<TOKEN id="token-46-19" pos="word" morph="none" start_char="3970" end_char="3972">and</TOKEN>
+<TOKEN id="token-46-20" pos="word" morph="none" start_char="3974" end_char="3979">peanut</TOKEN>
+<TOKEN id="token-46-21" pos="word" morph="none" start_char="3981" end_char="3985">paste</TOKEN>
+<TOKEN id="token-46-22" pos="punct" morph="none" start_char="3986" end_char="3986">.</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="3988" end_char="4056">
+<ORIGINAL_TEXT>The company stops producing all peanut products at the Blakely plant.</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="word" morph="none" start_char="3988" end_char="3990">The</TOKEN>
+<TOKEN id="token-47-1" pos="word" morph="none" start_char="3992" end_char="3998">company</TOKEN>
+<TOKEN id="token-47-2" pos="word" morph="none" start_char="4000" end_char="4004">stops</TOKEN>
+<TOKEN id="token-47-3" pos="word" morph="none" start_char="4006" end_char="4014">producing</TOKEN>
+<TOKEN id="token-47-4" pos="word" morph="none" start_char="4016" end_char="4018">all</TOKEN>
+<TOKEN id="token-47-5" pos="word" morph="none" start_char="4020" end_char="4025">peanut</TOKEN>
+<TOKEN id="token-47-6" pos="word" morph="none" start_char="4027" end_char="4034">products</TOKEN>
+<TOKEN id="token-47-7" pos="word" morph="none" start_char="4036" end_char="4037">at</TOKEN>
+<TOKEN id="token-47-8" pos="word" morph="none" start_char="4039" end_char="4041">the</TOKEN>
+<TOKEN id="token-47-9" pos="word" morph="none" start_char="4043" end_char="4049">Blakely</TOKEN>
+<TOKEN id="token-47-10" pos="word" morph="none" start_char="4051" end_char="4055">plant</TOKEN>
+<TOKEN id="token-47-11" pos="punct" morph="none" start_char="4056" end_char="4056">.</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="4059" end_char="4178">
+<ORIGINAL_TEXT>-- As of 9 p.m. EDT, 529 persons infected with salmonella typhimurium are reported from 43 states, according to the CDC.</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="punct" morph="none" start_char="4059" end_char="4060">--</TOKEN>
+<TOKEN id="token-48-1" pos="word" morph="none" start_char="4062" end_char="4063">As</TOKEN>
+<TOKEN id="token-48-2" pos="word" morph="none" start_char="4065" end_char="4066">of</TOKEN>
+<TOKEN id="token-48-3" pos="word" morph="none" start_char="4068" end_char="4068">9</TOKEN>
+<TOKEN id="token-48-4" pos="unknown" morph="none" start_char="4070" end_char="4072">p.m</TOKEN>
+<TOKEN id="token-48-5" pos="punct" morph="none" start_char="4073" end_char="4073">.</TOKEN>
+<TOKEN id="token-48-6" pos="word" morph="none" start_char="4075" end_char="4077">EDT</TOKEN>
+<TOKEN id="token-48-7" pos="punct" morph="none" start_char="4078" end_char="4078">,</TOKEN>
+<TOKEN id="token-48-8" pos="word" morph="none" start_char="4080" end_char="4082">529</TOKEN>
+<TOKEN id="token-48-9" pos="word" morph="none" start_char="4084" end_char="4090">persons</TOKEN>
+<TOKEN id="token-48-10" pos="word" morph="none" start_char="4092" end_char="4099">infected</TOKEN>
+<TOKEN id="token-48-11" pos="word" morph="none" start_char="4101" end_char="4104">with</TOKEN>
+<TOKEN id="token-48-12" pos="word" morph="none" start_char="4106" end_char="4115">salmonella</TOKEN>
+<TOKEN id="token-48-13" pos="word" morph="none" start_char="4117" end_char="4127">typhimurium</TOKEN>
+<TOKEN id="token-48-14" pos="word" morph="none" start_char="4129" end_char="4131">are</TOKEN>
+<TOKEN id="token-48-15" pos="word" morph="none" start_char="4133" end_char="4140">reported</TOKEN>
+<TOKEN id="token-48-16" pos="word" morph="none" start_char="4142" end_char="4145">from</TOKEN>
+<TOKEN id="token-48-17" pos="word" morph="none" start_char="4147" end_char="4148">43</TOKEN>
+<TOKEN id="token-48-18" pos="word" morph="none" start_char="4150" end_char="4155">states</TOKEN>
+<TOKEN id="token-48-19" pos="punct" morph="none" start_char="4156" end_char="4156">,</TOKEN>
+<TOKEN id="token-48-20" pos="word" morph="none" start_char="4158" end_char="4166">according</TOKEN>
+<TOKEN id="token-48-21" pos="word" morph="none" start_char="4168" end_char="4169">to</TOKEN>
+<TOKEN id="token-48-22" pos="word" morph="none" start_char="4171" end_char="4173">the</TOKEN>
+<TOKEN id="token-48-23" pos="word" morph="none" start_char="4175" end_char="4177">CDC</TOKEN>
+<TOKEN id="token-48-24" pos="punct" morph="none" start_char="4178" end_char="4178">.</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="4180" end_char="4232">
+<ORIGINAL_TEXT>Additionally, one ill person is reported from Canada.</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="word" morph="none" start_char="4180" end_char="4191">Additionally</TOKEN>
+<TOKEN id="token-49-1" pos="punct" morph="none" start_char="4192" end_char="4192">,</TOKEN>
+<TOKEN id="token-49-2" pos="word" morph="none" start_char="4194" end_char="4196">one</TOKEN>
+<TOKEN id="token-49-3" pos="word" morph="none" start_char="4198" end_char="4200">ill</TOKEN>
+<TOKEN id="token-49-4" pos="word" morph="none" start_char="4202" end_char="4207">person</TOKEN>
+<TOKEN id="token-49-5" pos="word" morph="none" start_char="4209" end_char="4210">is</TOKEN>
+<TOKEN id="token-49-6" pos="word" morph="none" start_char="4212" end_char="4219">reported</TOKEN>
+<TOKEN id="token-49-7" pos="word" morph="none" start_char="4221" end_char="4224">from</TOKEN>
+<TOKEN id="token-49-8" pos="word" morph="none" start_char="4226" end_char="4231">Canada</TOKEN>
+<TOKEN id="token-49-9" pos="punct" morph="none" start_char="4232" end_char="4232">.</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="4235" end_char="4379">
+<ORIGINAL_TEXT>-- At least 431 peanut butter-containing products are recalled by 54 companies using ingredients produced by the PCA facility after July 1, 2008.</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="punct" morph="none" start_char="4235" end_char="4236">--</TOKEN>
+<TOKEN id="token-50-1" pos="word" morph="none" start_char="4238" end_char="4239">At</TOKEN>
+<TOKEN id="token-50-2" pos="word" morph="none" start_char="4241" end_char="4245">least</TOKEN>
+<TOKEN id="token-50-3" pos="word" morph="none" start_char="4247" end_char="4249">431</TOKEN>
+<TOKEN id="token-50-4" pos="word" morph="none" start_char="4251" end_char="4256">peanut</TOKEN>
+<TOKEN id="token-50-5" pos="unknown" morph="none" start_char="4258" end_char="4274">butter-containing</TOKEN>
+<TOKEN id="token-50-6" pos="word" morph="none" start_char="4276" end_char="4283">products</TOKEN>
+<TOKEN id="token-50-7" pos="word" morph="none" start_char="4285" end_char="4287">are</TOKEN>
+<TOKEN id="token-50-8" pos="word" morph="none" start_char="4289" end_char="4296">recalled</TOKEN>
+<TOKEN id="token-50-9" pos="word" morph="none" start_char="4298" end_char="4299">by</TOKEN>
+<TOKEN id="token-50-10" pos="word" morph="none" start_char="4301" end_char="4302">54</TOKEN>
+<TOKEN id="token-50-11" pos="word" morph="none" start_char="4304" end_char="4312">companies</TOKEN>
+<TOKEN id="token-50-12" pos="word" morph="none" start_char="4314" end_char="4318">using</TOKEN>
+<TOKEN id="token-50-13" pos="word" morph="none" start_char="4320" end_char="4330">ingredients</TOKEN>
+<TOKEN id="token-50-14" pos="word" morph="none" start_char="4332" end_char="4339">produced</TOKEN>
+<TOKEN id="token-50-15" pos="word" morph="none" start_char="4341" end_char="4342">by</TOKEN>
+<TOKEN id="token-50-16" pos="word" morph="none" start_char="4344" end_char="4346">the</TOKEN>
+<TOKEN id="token-50-17" pos="word" morph="none" start_char="4348" end_char="4350">PCA</TOKEN>
+<TOKEN id="token-50-18" pos="word" morph="none" start_char="4352" end_char="4359">facility</TOKEN>
+<TOKEN id="token-50-19" pos="word" morph="none" start_char="4361" end_char="4365">after</TOKEN>
+<TOKEN id="token-50-20" pos="word" morph="none" start_char="4367" end_char="4370">July</TOKEN>
+<TOKEN id="token-50-21" pos="word" morph="none" start_char="4372" end_char="4372">1</TOKEN>
+<TOKEN id="token-50-22" pos="punct" morph="none" start_char="4373" end_char="4373">,</TOKEN>
+<TOKEN id="token-50-23" pos="word" morph="none" start_char="4375" end_char="4378">2008</TOKEN>
+<TOKEN id="token-50-24" pos="punct" morph="none" start_char="4379" end_char="4379">.</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="4382" end_char="4388">
+<ORIGINAL_TEXT>-- Jan.</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="punct" morph="none" start_char="4382" end_char="4383">--</TOKEN>
+<TOKEN id="token-51-1" pos="word" morph="none" start_char="4385" end_char="4387">Jan</TOKEN>
+<TOKEN id="token-51-2" pos="punct" morph="none" start_char="4388" end_char="4388">.</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="4390" end_char="4698">
+<ORIGINAL_TEXT>29, 2009 - A combination of epidemiological analysis and laboratory testing by state officials in Minnesota and Connecticut, the FDA, and the CDC enable the FDA to confirm that the sources of the salmonella outbreak are peanut butter and peanut paste produced by the PCA at its Blakely, Ga., processing plant.</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="word" morph="none" start_char="4390" end_char="4391">29</TOKEN>
+<TOKEN id="token-52-1" pos="punct" morph="none" start_char="4392" end_char="4392">,</TOKEN>
+<TOKEN id="token-52-2" pos="word" morph="none" start_char="4394" end_char="4397">2009</TOKEN>
+<TOKEN id="token-52-3" pos="punct" morph="none" start_char="4399" end_char="4399">-</TOKEN>
+<TOKEN id="token-52-4" pos="word" morph="none" start_char="4401" end_char="4401">A</TOKEN>
+<TOKEN id="token-52-5" pos="word" morph="none" start_char="4403" end_char="4413">combination</TOKEN>
+<TOKEN id="token-52-6" pos="word" morph="none" start_char="4415" end_char="4416">of</TOKEN>
+<TOKEN id="token-52-7" pos="word" morph="none" start_char="4418" end_char="4432">epidemiological</TOKEN>
+<TOKEN id="token-52-8" pos="word" morph="none" start_char="4434" end_char="4441">analysis</TOKEN>
+<TOKEN id="token-52-9" pos="word" morph="none" start_char="4443" end_char="4445">and</TOKEN>
+<TOKEN id="token-52-10" pos="word" morph="none" start_char="4447" end_char="4456">laboratory</TOKEN>
+<TOKEN id="token-52-11" pos="word" morph="none" start_char="4458" end_char="4464">testing</TOKEN>
+<TOKEN id="token-52-12" pos="word" morph="none" start_char="4466" end_char="4467">by</TOKEN>
+<TOKEN id="token-52-13" pos="word" morph="none" start_char="4469" end_char="4473">state</TOKEN>
+<TOKEN id="token-52-14" pos="word" morph="none" start_char="4475" end_char="4483">officials</TOKEN>
+<TOKEN id="token-52-15" pos="word" morph="none" start_char="4485" end_char="4486">in</TOKEN>
+<TOKEN id="token-52-16" pos="word" morph="none" start_char="4488" end_char="4496">Minnesota</TOKEN>
+<TOKEN id="token-52-17" pos="word" morph="none" start_char="4498" end_char="4500">and</TOKEN>
+<TOKEN id="token-52-18" pos="word" morph="none" start_char="4502" end_char="4512">Connecticut</TOKEN>
+<TOKEN id="token-52-19" pos="punct" morph="none" start_char="4513" end_char="4513">,</TOKEN>
+<TOKEN id="token-52-20" pos="word" morph="none" start_char="4515" end_char="4517">the</TOKEN>
+<TOKEN id="token-52-21" pos="word" morph="none" start_char="4519" end_char="4521">FDA</TOKEN>
+<TOKEN id="token-52-22" pos="punct" morph="none" start_char="4522" end_char="4522">,</TOKEN>
+<TOKEN id="token-52-23" pos="word" morph="none" start_char="4524" end_char="4526">and</TOKEN>
+<TOKEN id="token-52-24" pos="word" morph="none" start_char="4528" end_char="4530">the</TOKEN>
+<TOKEN id="token-52-25" pos="word" morph="none" start_char="4532" end_char="4534">CDC</TOKEN>
+<TOKEN id="token-52-26" pos="word" morph="none" start_char="4536" end_char="4541">enable</TOKEN>
+<TOKEN id="token-52-27" pos="word" morph="none" start_char="4543" end_char="4545">the</TOKEN>
+<TOKEN id="token-52-28" pos="word" morph="none" start_char="4547" end_char="4549">FDA</TOKEN>
+<TOKEN id="token-52-29" pos="word" morph="none" start_char="4551" end_char="4552">to</TOKEN>
+<TOKEN id="token-52-30" pos="word" morph="none" start_char="4554" end_char="4560">confirm</TOKEN>
+<TOKEN id="token-52-31" pos="word" morph="none" start_char="4562" end_char="4565">that</TOKEN>
+<TOKEN id="token-52-32" pos="word" morph="none" start_char="4567" end_char="4569">the</TOKEN>
+<TOKEN id="token-52-33" pos="word" morph="none" start_char="4571" end_char="4577">sources</TOKEN>
+<TOKEN id="token-52-34" pos="word" morph="none" start_char="4579" end_char="4580">of</TOKEN>
+<TOKEN id="token-52-35" pos="word" morph="none" start_char="4582" end_char="4584">the</TOKEN>
+<TOKEN id="token-52-36" pos="word" morph="none" start_char="4586" end_char="4595">salmonella</TOKEN>
+<TOKEN id="token-52-37" pos="word" morph="none" start_char="4597" end_char="4604">outbreak</TOKEN>
+<TOKEN id="token-52-38" pos="word" morph="none" start_char="4606" end_char="4608">are</TOKEN>
+<TOKEN id="token-52-39" pos="word" morph="none" start_char="4610" end_char="4615">peanut</TOKEN>
+<TOKEN id="token-52-40" pos="word" morph="none" start_char="4617" end_char="4622">butter</TOKEN>
+<TOKEN id="token-52-41" pos="word" morph="none" start_char="4624" end_char="4626">and</TOKEN>
+<TOKEN id="token-52-42" pos="word" morph="none" start_char="4628" end_char="4633">peanut</TOKEN>
+<TOKEN id="token-52-43" pos="word" morph="none" start_char="4635" end_char="4639">paste</TOKEN>
+<TOKEN id="token-52-44" pos="word" morph="none" start_char="4641" end_char="4648">produced</TOKEN>
+<TOKEN id="token-52-45" pos="word" morph="none" start_char="4650" end_char="4651">by</TOKEN>
+<TOKEN id="token-52-46" pos="word" morph="none" start_char="4653" end_char="4655">the</TOKEN>
+<TOKEN id="token-52-47" pos="word" morph="none" start_char="4657" end_char="4659">PCA</TOKEN>
+<TOKEN id="token-52-48" pos="word" morph="none" start_char="4661" end_char="4662">at</TOKEN>
+<TOKEN id="token-52-49" pos="word" morph="none" start_char="4664" end_char="4666">its</TOKEN>
+<TOKEN id="token-52-50" pos="word" morph="none" start_char="4668" end_char="4674">Blakely</TOKEN>
+<TOKEN id="token-52-51" pos="punct" morph="none" start_char="4675" end_char="4675">,</TOKEN>
+<TOKEN id="token-52-52" pos="word" morph="none" start_char="4677" end_char="4678">Ga</TOKEN>
+<TOKEN id="token-52-53" pos="punct" morph="none" start_char="4679" end_char="4680">.,</TOKEN>
+<TOKEN id="token-52-54" pos="word" morph="none" start_char="4682" end_char="4691">processing</TOKEN>
+<TOKEN id="token-52-55" pos="word" morph="none" start_char="4693" end_char="4697">plant</TOKEN>
+<TOKEN id="token-52-56" pos="punct" morph="none" start_char="4698" end_char="4698">.</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="4701" end_char="4845">
+<ORIGINAL_TEXT>-- The Ohio Department of Health says two containers of peanut butter taken from a central Ohio nursing home have tested positive for salmonella.</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="punct" morph="none" start_char="4701" end_char="4702">--</TOKEN>
+<TOKEN id="token-53-1" pos="word" morph="none" start_char="4704" end_char="4706">The</TOKEN>
+<TOKEN id="token-53-2" pos="word" morph="none" start_char="4708" end_char="4711">Ohio</TOKEN>
+<TOKEN id="token-53-3" pos="word" morph="none" start_char="4713" end_char="4722">Department</TOKEN>
+<TOKEN id="token-53-4" pos="word" morph="none" start_char="4724" end_char="4725">of</TOKEN>
+<TOKEN id="token-53-5" pos="word" morph="none" start_char="4727" end_char="4732">Health</TOKEN>
+<TOKEN id="token-53-6" pos="word" morph="none" start_char="4734" end_char="4737">says</TOKEN>
+<TOKEN id="token-53-7" pos="word" morph="none" start_char="4739" end_char="4741">two</TOKEN>
+<TOKEN id="token-53-8" pos="word" morph="none" start_char="4743" end_char="4752">containers</TOKEN>
+<TOKEN id="token-53-9" pos="word" morph="none" start_char="4754" end_char="4755">of</TOKEN>
+<TOKEN id="token-53-10" pos="word" morph="none" start_char="4757" end_char="4762">peanut</TOKEN>
+<TOKEN id="token-53-11" pos="word" morph="none" start_char="4764" end_char="4769">butter</TOKEN>
+<TOKEN id="token-53-12" pos="word" morph="none" start_char="4771" end_char="4775">taken</TOKEN>
+<TOKEN id="token-53-13" pos="word" morph="none" start_char="4777" end_char="4780">from</TOKEN>
+<TOKEN id="token-53-14" pos="word" morph="none" start_char="4782" end_char="4782">a</TOKEN>
+<TOKEN id="token-53-15" pos="word" morph="none" start_char="4784" end_char="4790">central</TOKEN>
+<TOKEN id="token-53-16" pos="word" morph="none" start_char="4792" end_char="4795">Ohio</TOKEN>
+<TOKEN id="token-53-17" pos="word" morph="none" start_char="4797" end_char="4803">nursing</TOKEN>
+<TOKEN id="token-53-18" pos="word" morph="none" start_char="4805" end_char="4808">home</TOKEN>
+<TOKEN id="token-53-19" pos="word" morph="none" start_char="4810" end_char="4813">have</TOKEN>
+<TOKEN id="token-53-20" pos="word" morph="none" start_char="4815" end_char="4820">tested</TOKEN>
+<TOKEN id="token-53-21" pos="word" morph="none" start_char="4822" end_char="4829">positive</TOKEN>
+<TOKEN id="token-53-22" pos="word" morph="none" start_char="4831" end_char="4833">for</TOKEN>
+<TOKEN id="token-53-23" pos="word" morph="none" start_char="4835" end_char="4844">salmonella</TOKEN>
+<TOKEN id="token-53-24" pos="punct" morph="none" start_char="4845" end_char="4845">.</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="4848" end_char="4854">
+<ORIGINAL_TEXT>-- Jan.</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="punct" morph="none" start_char="4848" end_char="4849">--</TOKEN>
+<TOKEN id="token-54-1" pos="word" morph="none" start_char="4851" end_char="4853">Jan</TOKEN>
+<TOKEN id="token-54-2" pos="punct" morph="none" start_char="4854" end_char="4854">.</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="4856" end_char="5054">
+<ORIGINAL_TEXT>30, 2009 - Stephen Sundlof, head of the FDA's food safety center, says the Justice Department will investigate possible criminal violations by the PCA processing plant, assisted by FDA investigators.</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="word" morph="none" start_char="4856" end_char="4857">30</TOKEN>
+<TOKEN id="token-55-1" pos="punct" morph="none" start_char="4858" end_char="4858">,</TOKEN>
+<TOKEN id="token-55-2" pos="word" morph="none" start_char="4860" end_char="4863">2009</TOKEN>
+<TOKEN id="token-55-3" pos="punct" morph="none" start_char="4865" end_char="4865">-</TOKEN>
+<TOKEN id="token-55-4" pos="word" morph="none" start_char="4867" end_char="4873">Stephen</TOKEN>
+<TOKEN id="token-55-5" pos="word" morph="none" start_char="4875" end_char="4881">Sundlof</TOKEN>
+<TOKEN id="token-55-6" pos="punct" morph="none" start_char="4882" end_char="4882">,</TOKEN>
+<TOKEN id="token-55-7" pos="word" morph="none" start_char="4884" end_char="4887">head</TOKEN>
+<TOKEN id="token-55-8" pos="word" morph="none" start_char="4889" end_char="4890">of</TOKEN>
+<TOKEN id="token-55-9" pos="word" morph="none" start_char="4892" end_char="4894">the</TOKEN>
+<TOKEN id="token-55-10" pos="word" morph="none" start_char="4896" end_char="4900">FDA's</TOKEN>
+<TOKEN id="token-55-11" pos="word" morph="none" start_char="4902" end_char="4905">food</TOKEN>
+<TOKEN id="token-55-12" pos="word" morph="none" start_char="4907" end_char="4912">safety</TOKEN>
+<TOKEN id="token-55-13" pos="word" morph="none" start_char="4914" end_char="4919">center</TOKEN>
+<TOKEN id="token-55-14" pos="punct" morph="none" start_char="4920" end_char="4920">,</TOKEN>
+<TOKEN id="token-55-15" pos="word" morph="none" start_char="4922" end_char="4925">says</TOKEN>
+<TOKEN id="token-55-16" pos="word" morph="none" start_char="4927" end_char="4929">the</TOKEN>
+<TOKEN id="token-55-17" pos="word" morph="none" start_char="4931" end_char="4937">Justice</TOKEN>
+<TOKEN id="token-55-18" pos="word" morph="none" start_char="4939" end_char="4948">Department</TOKEN>
+<TOKEN id="token-55-19" pos="word" morph="none" start_char="4950" end_char="4953">will</TOKEN>
+<TOKEN id="token-55-20" pos="word" morph="none" start_char="4955" end_char="4965">investigate</TOKEN>
+<TOKEN id="token-55-21" pos="word" morph="none" start_char="4967" end_char="4974">possible</TOKEN>
+<TOKEN id="token-55-22" pos="word" morph="none" start_char="4976" end_char="4983">criminal</TOKEN>
+<TOKEN id="token-55-23" pos="word" morph="none" start_char="4985" end_char="4994">violations</TOKEN>
+<TOKEN id="token-55-24" pos="word" morph="none" start_char="4996" end_char="4997">by</TOKEN>
+<TOKEN id="token-55-25" pos="word" morph="none" start_char="4999" end_char="5001">the</TOKEN>
+<TOKEN id="token-55-26" pos="word" morph="none" start_char="5003" end_char="5005">PCA</TOKEN>
+<TOKEN id="token-55-27" pos="word" morph="none" start_char="5007" end_char="5016">processing</TOKEN>
+<TOKEN id="token-55-28" pos="word" morph="none" start_char="5018" end_char="5022">plant</TOKEN>
+<TOKEN id="token-55-29" pos="punct" morph="none" start_char="5023" end_char="5023">,</TOKEN>
+<TOKEN id="token-55-30" pos="word" morph="none" start_char="5025" end_char="5032">assisted</TOKEN>
+<TOKEN id="token-55-31" pos="word" morph="none" start_char="5034" end_char="5035">by</TOKEN>
+<TOKEN id="token-55-32" pos="word" morph="none" start_char="5037" end_char="5039">FDA</TOKEN>
+<TOKEN id="token-55-33" pos="word" morph="none" start_char="5041" end_char="5053">investigators</TOKEN>
+<TOKEN id="token-55-34" pos="punct" morph="none" start_char="5054" end_char="5054">.</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="5057" end_char="5063">
+<ORIGINAL_TEXT>-- Feb.</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="punct" morph="none" start_char="5057" end_char="5058">--</TOKEN>
+<TOKEN id="token-56-1" pos="word" morph="none" start_char="5060" end_char="5062">Feb</TOKEN>
+<TOKEN id="token-56-2" pos="punct" morph="none" start_char="5063" end_char="5063">.</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="5065" end_char="5140">
+<ORIGINAL_TEXT>2, 2009 - President Barack Obama promises a comprehensive review of the FDA.</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="word" morph="none" start_char="5065" end_char="5065">2</TOKEN>
+<TOKEN id="token-57-1" pos="punct" morph="none" start_char="5066" end_char="5066">,</TOKEN>
+<TOKEN id="token-57-2" pos="word" morph="none" start_char="5068" end_char="5071">2009</TOKEN>
+<TOKEN id="token-57-3" pos="punct" morph="none" start_char="5073" end_char="5073">-</TOKEN>
+<TOKEN id="token-57-4" pos="word" morph="none" start_char="5075" end_char="5083">President</TOKEN>
+<TOKEN id="token-57-5" pos="word" morph="none" start_char="5085" end_char="5090">Barack</TOKEN>
+<TOKEN id="token-57-6" pos="word" morph="none" start_char="5092" end_char="5096">Obama</TOKEN>
+<TOKEN id="token-57-7" pos="word" morph="none" start_char="5098" end_char="5105">promises</TOKEN>
+<TOKEN id="token-57-8" pos="word" morph="none" start_char="5107" end_char="5107">a</TOKEN>
+<TOKEN id="token-57-9" pos="word" morph="none" start_char="5109" end_char="5121">comprehensive</TOKEN>
+<TOKEN id="token-57-10" pos="word" morph="none" start_char="5123" end_char="5128">review</TOKEN>
+<TOKEN id="token-57-11" pos="word" morph="none" start_char="5130" end_char="5131">of</TOKEN>
+<TOKEN id="token-57-12" pos="word" morph="none" start_char="5133" end_char="5135">the</TOKEN>
+<TOKEN id="token-57-13" pos="word" morph="none" start_char="5137" end_char="5139">FDA</TOKEN>
+<TOKEN id="token-57-14" pos="punct" morph="none" start_char="5140" end_char="5140">.</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="5143" end_char="5231">
+<ORIGINAL_TEXT>-- The salmonella outbreak prompts voluntary recalls by makers of more than 800 products.</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="punct" morph="none" start_char="5143" end_char="5144">--</TOKEN>
+<TOKEN id="token-58-1" pos="word" morph="none" start_char="5146" end_char="5148">The</TOKEN>
+<TOKEN id="token-58-2" pos="word" morph="none" start_char="5150" end_char="5159">salmonella</TOKEN>
+<TOKEN id="token-58-3" pos="word" morph="none" start_char="5161" end_char="5168">outbreak</TOKEN>
+<TOKEN id="token-58-4" pos="word" morph="none" start_char="5170" end_char="5176">prompts</TOKEN>
+<TOKEN id="token-58-5" pos="word" morph="none" start_char="5178" end_char="5186">voluntary</TOKEN>
+<TOKEN id="token-58-6" pos="word" morph="none" start_char="5188" end_char="5194">recalls</TOKEN>
+<TOKEN id="token-58-7" pos="word" morph="none" start_char="5196" end_char="5197">by</TOKEN>
+<TOKEN id="token-58-8" pos="word" morph="none" start_char="5199" end_char="5204">makers</TOKEN>
+<TOKEN id="token-58-9" pos="word" morph="none" start_char="5206" end_char="5207">of</TOKEN>
+<TOKEN id="token-58-10" pos="word" morph="none" start_char="5209" end_char="5212">more</TOKEN>
+<TOKEN id="token-58-11" pos="word" morph="none" start_char="5214" end_char="5217">than</TOKEN>
+<TOKEN id="token-58-12" pos="word" morph="none" start_char="5219" end_char="5221">800</TOKEN>
+<TOKEN id="token-58-13" pos="word" morph="none" start_char="5223" end_char="5230">products</TOKEN>
+<TOKEN id="token-58-14" pos="punct" morph="none" start_char="5231" end_char="5231">.</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="5233" end_char="5273">
+<ORIGINAL_TEXT>The recalls reach into Canada and Europe.</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="word" morph="none" start_char="5233" end_char="5235">The</TOKEN>
+<TOKEN id="token-59-1" pos="word" morph="none" start_char="5237" end_char="5243">recalls</TOKEN>
+<TOKEN id="token-59-2" pos="word" morph="none" start_char="5245" end_char="5249">reach</TOKEN>
+<TOKEN id="token-59-3" pos="word" morph="none" start_char="5251" end_char="5254">into</TOKEN>
+<TOKEN id="token-59-4" pos="word" morph="none" start_char="5256" end_char="5261">Canada</TOKEN>
+<TOKEN id="token-59-5" pos="word" morph="none" start_char="5263" end_char="5265">and</TOKEN>
+<TOKEN id="token-59-6" pos="word" morph="none" start_char="5267" end_char="5272">Europe</TOKEN>
+<TOKEN id="token-59-7" pos="punct" morph="none" start_char="5273" end_char="5273">.</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="5276" end_char="5391">
+<ORIGINAL_TEXT>-- According to the CDC, 550 cases in 43 states are tallied, with the most recent reported illness beginning on Jan.</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="punct" morph="none" start_char="5276" end_char="5277">--</TOKEN>
+<TOKEN id="token-60-1" pos="word" morph="none" start_char="5279" end_char="5287">According</TOKEN>
+<TOKEN id="token-60-2" pos="word" morph="none" start_char="5289" end_char="5290">to</TOKEN>
+<TOKEN id="token-60-3" pos="word" morph="none" start_char="5292" end_char="5294">the</TOKEN>
+<TOKEN id="token-60-4" pos="word" morph="none" start_char="5296" end_char="5298">CDC</TOKEN>
+<TOKEN id="token-60-5" pos="punct" morph="none" start_char="5299" end_char="5299">,</TOKEN>
+<TOKEN id="token-60-6" pos="word" morph="none" start_char="5301" end_char="5303">550</TOKEN>
+<TOKEN id="token-60-7" pos="word" morph="none" start_char="5305" end_char="5309">cases</TOKEN>
+<TOKEN id="token-60-8" pos="word" morph="none" start_char="5311" end_char="5312">in</TOKEN>
+<TOKEN id="token-60-9" pos="word" morph="none" start_char="5314" end_char="5315">43</TOKEN>
+<TOKEN id="token-60-10" pos="word" morph="none" start_char="5317" end_char="5322">states</TOKEN>
+<TOKEN id="token-60-11" pos="word" morph="none" start_char="5324" end_char="5326">are</TOKEN>
+<TOKEN id="token-60-12" pos="word" morph="none" start_char="5328" end_char="5334">tallied</TOKEN>
+<TOKEN id="token-60-13" pos="punct" morph="none" start_char="5335" end_char="5335">,</TOKEN>
+<TOKEN id="token-60-14" pos="word" morph="none" start_char="5337" end_char="5340">with</TOKEN>
+<TOKEN id="token-60-15" pos="word" morph="none" start_char="5342" end_char="5344">the</TOKEN>
+<TOKEN id="token-60-16" pos="word" morph="none" start_char="5346" end_char="5349">most</TOKEN>
+<TOKEN id="token-60-17" pos="word" morph="none" start_char="5351" end_char="5356">recent</TOKEN>
+<TOKEN id="token-60-18" pos="word" morph="none" start_char="5358" end_char="5365">reported</TOKEN>
+<TOKEN id="token-60-19" pos="word" morph="none" start_char="5367" end_char="5373">illness</TOKEN>
+<TOKEN id="token-60-20" pos="word" morph="none" start_char="5375" end_char="5383">beginning</TOKEN>
+<TOKEN id="token-60-21" pos="word" morph="none" start_char="5385" end_char="5386">on</TOKEN>
+<TOKEN id="token-60-22" pos="word" morph="none" start_char="5388" end_char="5390">Jan</TOKEN>
+<TOKEN id="token-60-23" pos="punct" morph="none" start_char="5391" end_char="5391">.</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="5393" end_char="5401">
+<ORIGINAL_TEXT>17, 2009.</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="word" morph="none" start_char="5393" end_char="5394">17</TOKEN>
+<TOKEN id="token-61-1" pos="punct" morph="none" start_char="5395" end_char="5395">,</TOKEN>
+<TOKEN id="token-61-2" pos="word" morph="none" start_char="5397" end_char="5400">2009</TOKEN>
+<TOKEN id="token-61-3" pos="punct" morph="none" start_char="5401" end_char="5401">.</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="5404" end_char="5410">
+<ORIGINAL_TEXT>-- Feb.</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="punct" morph="none" start_char="5404" end_char="5405">--</TOKEN>
+<TOKEN id="token-62-1" pos="word" morph="none" start_char="5407" end_char="5409">Feb</TOKEN>
+<TOKEN id="token-62-2" pos="punct" morph="none" start_char="5410" end_char="5410">.</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="5412" end_char="5597">
+<ORIGINAL_TEXT>3, 2009 - The Associated Press learns that a peanut processing plant in Plainview, Texas, run by the PCA has operated for years uninspected and unlicensed by government health officials.</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="word" morph="none" start_char="5412" end_char="5412">3</TOKEN>
+<TOKEN id="token-63-1" pos="punct" morph="none" start_char="5413" end_char="5413">,</TOKEN>
+<TOKEN id="token-63-2" pos="word" morph="none" start_char="5415" end_char="5418">2009</TOKEN>
+<TOKEN id="token-63-3" pos="punct" morph="none" start_char="5420" end_char="5420">-</TOKEN>
+<TOKEN id="token-63-4" pos="word" morph="none" start_char="5422" end_char="5424">The</TOKEN>
+<TOKEN id="token-63-5" pos="word" morph="none" start_char="5426" end_char="5435">Associated</TOKEN>
+<TOKEN id="token-63-6" pos="word" morph="none" start_char="5437" end_char="5441">Press</TOKEN>
+<TOKEN id="token-63-7" pos="word" morph="none" start_char="5443" end_char="5448">learns</TOKEN>
+<TOKEN id="token-63-8" pos="word" morph="none" start_char="5450" end_char="5453">that</TOKEN>
+<TOKEN id="token-63-9" pos="word" morph="none" start_char="5455" end_char="5455">a</TOKEN>
+<TOKEN id="token-63-10" pos="word" morph="none" start_char="5457" end_char="5462">peanut</TOKEN>
+<TOKEN id="token-63-11" pos="word" morph="none" start_char="5464" end_char="5473">processing</TOKEN>
+<TOKEN id="token-63-12" pos="word" morph="none" start_char="5475" end_char="5479">plant</TOKEN>
+<TOKEN id="token-63-13" pos="word" morph="none" start_char="5481" end_char="5482">in</TOKEN>
+<TOKEN id="token-63-14" pos="word" morph="none" start_char="5484" end_char="5492">Plainview</TOKEN>
+<TOKEN id="token-63-15" pos="punct" morph="none" start_char="5493" end_char="5493">,</TOKEN>
+<TOKEN id="token-63-16" pos="word" morph="none" start_char="5495" end_char="5499">Texas</TOKEN>
+<TOKEN id="token-63-17" pos="punct" morph="none" start_char="5500" end_char="5500">,</TOKEN>
+<TOKEN id="token-63-18" pos="word" morph="none" start_char="5502" end_char="5504">run</TOKEN>
+<TOKEN id="token-63-19" pos="word" morph="none" start_char="5506" end_char="5507">by</TOKEN>
+<TOKEN id="token-63-20" pos="word" morph="none" start_char="5509" end_char="5511">the</TOKEN>
+<TOKEN id="token-63-21" pos="word" morph="none" start_char="5513" end_char="5515">PCA</TOKEN>
+<TOKEN id="token-63-22" pos="word" morph="none" start_char="5517" end_char="5519">has</TOKEN>
+<TOKEN id="token-63-23" pos="word" morph="none" start_char="5521" end_char="5528">operated</TOKEN>
+<TOKEN id="token-63-24" pos="word" morph="none" start_char="5530" end_char="5532">for</TOKEN>
+<TOKEN id="token-63-25" pos="word" morph="none" start_char="5534" end_char="5538">years</TOKEN>
+<TOKEN id="token-63-26" pos="word" morph="none" start_char="5540" end_char="5550">uninspected</TOKEN>
+<TOKEN id="token-63-27" pos="word" morph="none" start_char="5552" end_char="5554">and</TOKEN>
+<TOKEN id="token-63-28" pos="word" morph="none" start_char="5556" end_char="5565">unlicensed</TOKEN>
+<TOKEN id="token-63-29" pos="word" morph="none" start_char="5567" end_char="5568">by</TOKEN>
+<TOKEN id="token-63-30" pos="word" morph="none" start_char="5570" end_char="5579">government</TOKEN>
+<TOKEN id="token-63-31" pos="word" morph="none" start_char="5581" end_char="5586">health</TOKEN>
+<TOKEN id="token-63-32" pos="word" morph="none" start_char="5588" end_char="5596">officials</TOKEN>
+<TOKEN id="token-63-33" pos="punct" morph="none" start_char="5597" end_char="5597">.</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="5600" end_char="5606">
+<ORIGINAL_TEXT>-- Feb.</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="punct" morph="none" start_char="5600" end_char="5601">--</TOKEN>
+<TOKEN id="token-64-1" pos="word" morph="none" start_char="5603" end_char="5605">Feb</TOKEN>
+<TOKEN id="token-64-2" pos="punct" morph="none" start_char="5606" end_char="5606">.</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="5608" end_char="5733">
+<ORIGINAL_TEXT>5, 2009 - The U.S. Agriculture Department suspends PCA from participating in government contract programs for at least a year.</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="word" morph="none" start_char="5608" end_char="5608">5</TOKEN>
+<TOKEN id="token-65-1" pos="punct" morph="none" start_char="5609" end_char="5609">,</TOKEN>
+<TOKEN id="token-65-2" pos="word" morph="none" start_char="5611" end_char="5614">2009</TOKEN>
+<TOKEN id="token-65-3" pos="punct" morph="none" start_char="5616" end_char="5616">-</TOKEN>
+<TOKEN id="token-65-4" pos="word" morph="none" start_char="5618" end_char="5620">The</TOKEN>
+<TOKEN id="token-65-5" pos="unknown" morph="none" start_char="5622" end_char="5624">U.S</TOKEN>
+<TOKEN id="token-65-6" pos="punct" morph="none" start_char="5625" end_char="5625">.</TOKEN>
+<TOKEN id="token-65-7" pos="word" morph="none" start_char="5627" end_char="5637">Agriculture</TOKEN>
+<TOKEN id="token-65-8" pos="word" morph="none" start_char="5639" end_char="5648">Department</TOKEN>
+<TOKEN id="token-65-9" pos="word" morph="none" start_char="5650" end_char="5657">suspends</TOKEN>
+<TOKEN id="token-65-10" pos="word" morph="none" start_char="5659" end_char="5661">PCA</TOKEN>
+<TOKEN id="token-65-11" pos="word" morph="none" start_char="5663" end_char="5666">from</TOKEN>
+<TOKEN id="token-65-12" pos="word" morph="none" start_char="5668" end_char="5680">participating</TOKEN>
+<TOKEN id="token-65-13" pos="word" morph="none" start_char="5682" end_char="5683">in</TOKEN>
+<TOKEN id="token-65-14" pos="word" morph="none" start_char="5685" end_char="5694">government</TOKEN>
+<TOKEN id="token-65-15" pos="word" morph="none" start_char="5696" end_char="5703">contract</TOKEN>
+<TOKEN id="token-65-16" pos="word" morph="none" start_char="5705" end_char="5712">programs</TOKEN>
+<TOKEN id="token-65-17" pos="word" morph="none" start_char="5714" end_char="5716">for</TOKEN>
+<TOKEN id="token-65-18" pos="word" morph="none" start_char="5718" end_char="5719">at</TOKEN>
+<TOKEN id="token-65-19" pos="word" morph="none" start_char="5721" end_char="5725">least</TOKEN>
+<TOKEN id="token-65-20" pos="word" morph="none" start_char="5727" end_char="5727">a</TOKEN>
+<TOKEN id="token-65-21" pos="word" morph="none" start_char="5729" end_char="5732">year</TOKEN>
+<TOKEN id="token-65-22" pos="punct" morph="none" start_char="5733" end_char="5733">.</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="5735" end_char="5847">
+<ORIGINAL_TEXT>Agriculture Secretary Tom Vilsack removes Stewart Parnell, PCA president, from the USDA's Peanut Standards Board.</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="word" morph="none" start_char="5735" end_char="5745">Agriculture</TOKEN>
+<TOKEN id="token-66-1" pos="word" morph="none" start_char="5747" end_char="5755">Secretary</TOKEN>
+<TOKEN id="token-66-2" pos="word" morph="none" start_char="5757" end_char="5759">Tom</TOKEN>
+<TOKEN id="token-66-3" pos="word" morph="none" start_char="5761" end_char="5767">Vilsack</TOKEN>
+<TOKEN id="token-66-4" pos="word" morph="none" start_char="5769" end_char="5775">removes</TOKEN>
+<TOKEN id="token-66-5" pos="word" morph="none" start_char="5777" end_char="5783">Stewart</TOKEN>
+<TOKEN id="token-66-6" pos="word" morph="none" start_char="5785" end_char="5791">Parnell</TOKEN>
+<TOKEN id="token-66-7" pos="punct" morph="none" start_char="5792" end_char="5792">,</TOKEN>
+<TOKEN id="token-66-8" pos="word" morph="none" start_char="5794" end_char="5796">PCA</TOKEN>
+<TOKEN id="token-66-9" pos="word" morph="none" start_char="5798" end_char="5806">president</TOKEN>
+<TOKEN id="token-66-10" pos="punct" morph="none" start_char="5807" end_char="5807">,</TOKEN>
+<TOKEN id="token-66-11" pos="word" morph="none" start_char="5809" end_char="5812">from</TOKEN>
+<TOKEN id="token-66-12" pos="word" morph="none" start_char="5814" end_char="5816">the</TOKEN>
+<TOKEN id="token-66-13" pos="word" morph="none" start_char="5818" end_char="5823">USDA's</TOKEN>
+<TOKEN id="token-66-14" pos="word" morph="none" start_char="5825" end_char="5830">Peanut</TOKEN>
+<TOKEN id="token-66-15" pos="word" morph="none" start_char="5832" end_char="5840">Standards</TOKEN>
+<TOKEN id="token-66-16" pos="word" morph="none" start_char="5842" end_char="5846">Board</TOKEN>
+<TOKEN id="token-66-17" pos="punct" morph="none" start_char="5847" end_char="5847">.</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="5850" end_char="5992">
+<ORIGINAL_TEXT>-- Federal officials say that nearly 168,000 emergency meal kits sent to Kentucky after an ice storm were recalled more than two weeks earlier.</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="punct" morph="none" start_char="5850" end_char="5851">--</TOKEN>
+<TOKEN id="token-67-1" pos="word" morph="none" start_char="5853" end_char="5859">Federal</TOKEN>
+<TOKEN id="token-67-2" pos="word" morph="none" start_char="5861" end_char="5869">officials</TOKEN>
+<TOKEN id="token-67-3" pos="word" morph="none" start_char="5871" end_char="5873">say</TOKEN>
+<TOKEN id="token-67-4" pos="word" morph="none" start_char="5875" end_char="5878">that</TOKEN>
+<TOKEN id="token-67-5" pos="word" morph="none" start_char="5880" end_char="5885">nearly</TOKEN>
+<TOKEN id="token-67-6" pos="unknown" morph="none" start_char="5887" end_char="5893">168,000</TOKEN>
+<TOKEN id="token-67-7" pos="word" morph="none" start_char="5895" end_char="5903">emergency</TOKEN>
+<TOKEN id="token-67-8" pos="word" morph="none" start_char="5905" end_char="5908">meal</TOKEN>
+<TOKEN id="token-67-9" pos="word" morph="none" start_char="5910" end_char="5913">kits</TOKEN>
+<TOKEN id="token-67-10" pos="word" morph="none" start_char="5915" end_char="5918">sent</TOKEN>
+<TOKEN id="token-67-11" pos="word" morph="none" start_char="5920" end_char="5921">to</TOKEN>
+<TOKEN id="token-67-12" pos="word" morph="none" start_char="5923" end_char="5930">Kentucky</TOKEN>
+<TOKEN id="token-67-13" pos="word" morph="none" start_char="5932" end_char="5936">after</TOKEN>
+<TOKEN id="token-67-14" pos="word" morph="none" start_char="5938" end_char="5939">an</TOKEN>
+<TOKEN id="token-67-15" pos="word" morph="none" start_char="5941" end_char="5943">ice</TOKEN>
+<TOKEN id="token-67-16" pos="word" morph="none" start_char="5945" end_char="5949">storm</TOKEN>
+<TOKEN id="token-67-17" pos="word" morph="none" start_char="5951" end_char="5954">were</TOKEN>
+<TOKEN id="token-67-18" pos="word" morph="none" start_char="5956" end_char="5963">recalled</TOKEN>
+<TOKEN id="token-67-19" pos="word" morph="none" start_char="5965" end_char="5968">more</TOKEN>
+<TOKEN id="token-67-20" pos="word" morph="none" start_char="5970" end_char="5973">than</TOKEN>
+<TOKEN id="token-67-21" pos="word" morph="none" start_char="5975" end_char="5977">two</TOKEN>
+<TOKEN id="token-67-22" pos="word" morph="none" start_char="5979" end_char="5983">weeks</TOKEN>
+<TOKEN id="token-67-23" pos="word" morph="none" start_char="5985" end_char="5991">earlier</TOKEN>
+<TOKEN id="token-67-24" pos="punct" morph="none" start_char="5992" end_char="5992">.</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="5995" end_char="6109">
+<ORIGINAL_TEXT>-- According to the CDC, 575 cases are counted in 43 states with the most recent reported illness beginning on Jan.</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="punct" morph="none" start_char="5995" end_char="5996">--</TOKEN>
+<TOKEN id="token-68-1" pos="word" morph="none" start_char="5998" end_char="6006">According</TOKEN>
+<TOKEN id="token-68-2" pos="word" morph="none" start_char="6008" end_char="6009">to</TOKEN>
+<TOKEN id="token-68-3" pos="word" morph="none" start_char="6011" end_char="6013">the</TOKEN>
+<TOKEN id="token-68-4" pos="word" morph="none" start_char="6015" end_char="6017">CDC</TOKEN>
+<TOKEN id="token-68-5" pos="punct" morph="none" start_char="6018" end_char="6018">,</TOKEN>
+<TOKEN id="token-68-6" pos="word" morph="none" start_char="6020" end_char="6022">575</TOKEN>
+<TOKEN id="token-68-7" pos="word" morph="none" start_char="6024" end_char="6028">cases</TOKEN>
+<TOKEN id="token-68-8" pos="word" morph="none" start_char="6030" end_char="6032">are</TOKEN>
+<TOKEN id="token-68-9" pos="word" morph="none" start_char="6034" end_char="6040">counted</TOKEN>
+<TOKEN id="token-68-10" pos="word" morph="none" start_char="6042" end_char="6043">in</TOKEN>
+<TOKEN id="token-68-11" pos="word" morph="none" start_char="6045" end_char="6046">43</TOKEN>
+<TOKEN id="token-68-12" pos="word" morph="none" start_char="6048" end_char="6053">states</TOKEN>
+<TOKEN id="token-68-13" pos="word" morph="none" start_char="6055" end_char="6058">with</TOKEN>
+<TOKEN id="token-68-14" pos="word" morph="none" start_char="6060" end_char="6062">the</TOKEN>
+<TOKEN id="token-68-15" pos="word" morph="none" start_char="6064" end_char="6067">most</TOKEN>
+<TOKEN id="token-68-16" pos="word" morph="none" start_char="6069" end_char="6074">recent</TOKEN>
+<TOKEN id="token-68-17" pos="word" morph="none" start_char="6076" end_char="6083">reported</TOKEN>
+<TOKEN id="token-68-18" pos="word" morph="none" start_char="6085" end_char="6091">illness</TOKEN>
+<TOKEN id="token-68-19" pos="word" morph="none" start_char="6093" end_char="6101">beginning</TOKEN>
+<TOKEN id="token-68-20" pos="word" morph="none" start_char="6103" end_char="6104">on</TOKEN>
+<TOKEN id="token-68-21" pos="word" morph="none" start_char="6106" end_char="6108">Jan</TOKEN>
+<TOKEN id="token-68-22" pos="punct" morph="none" start_char="6109" end_char="6109">.</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="6111" end_char="6119">
+<ORIGINAL_TEXT>22, 2009.</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="word" morph="none" start_char="6111" end_char="6112">22</TOKEN>
+<TOKEN id="token-69-1" pos="punct" morph="none" start_char="6113" end_char="6113">,</TOKEN>
+<TOKEN id="token-69-2" pos="word" morph="none" start_char="6115" end_char="6118">2009</TOKEN>
+<TOKEN id="token-69-3" pos="punct" morph="none" start_char="6119" end_char="6119">.</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="6122" end_char="6128">
+<ORIGINAL_TEXT>-- Feb.</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="punct" morph="none" start_char="6122" end_char="6123">--</TOKEN>
+<TOKEN id="token-70-1" pos="word" morph="none" start_char="6125" end_char="6127">Feb</TOKEN>
+<TOKEN id="token-70-2" pos="punct" morph="none" start_char="6128" end_char="6128">.</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="6130" end_char="6338">
+<ORIGINAL_TEXT>6, 2009 - The Agriculture Department says that it shipped possibly contaminated peanut butter and other foods to free school-lunch programs in California, Minnesota and Idaho in 2007 under a contract with PCA.</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="word" morph="none" start_char="6130" end_char="6130">6</TOKEN>
+<TOKEN id="token-71-1" pos="punct" morph="none" start_char="6131" end_char="6131">,</TOKEN>
+<TOKEN id="token-71-2" pos="word" morph="none" start_char="6133" end_char="6136">2009</TOKEN>
+<TOKEN id="token-71-3" pos="punct" morph="none" start_char="6138" end_char="6138">-</TOKEN>
+<TOKEN id="token-71-4" pos="word" morph="none" start_char="6140" end_char="6142">The</TOKEN>
+<TOKEN id="token-71-5" pos="word" morph="none" start_char="6144" end_char="6154">Agriculture</TOKEN>
+<TOKEN id="token-71-6" pos="word" morph="none" start_char="6156" end_char="6165">Department</TOKEN>
+<TOKEN id="token-71-7" pos="word" morph="none" start_char="6167" end_char="6170">says</TOKEN>
+<TOKEN id="token-71-8" pos="word" morph="none" start_char="6172" end_char="6175">that</TOKEN>
+<TOKEN id="token-71-9" pos="word" morph="none" start_char="6177" end_char="6178">it</TOKEN>
+<TOKEN id="token-71-10" pos="word" morph="none" start_char="6180" end_char="6186">shipped</TOKEN>
+<TOKEN id="token-71-11" pos="word" morph="none" start_char="6188" end_char="6195">possibly</TOKEN>
+<TOKEN id="token-71-12" pos="word" morph="none" start_char="6197" end_char="6208">contaminated</TOKEN>
+<TOKEN id="token-71-13" pos="word" morph="none" start_char="6210" end_char="6215">peanut</TOKEN>
+<TOKEN id="token-71-14" pos="word" morph="none" start_char="6217" end_char="6222">butter</TOKEN>
+<TOKEN id="token-71-15" pos="word" morph="none" start_char="6224" end_char="6226">and</TOKEN>
+<TOKEN id="token-71-16" pos="word" morph="none" start_char="6228" end_char="6232">other</TOKEN>
+<TOKEN id="token-71-17" pos="word" morph="none" start_char="6234" end_char="6238">foods</TOKEN>
+<TOKEN id="token-71-18" pos="word" morph="none" start_char="6240" end_char="6241">to</TOKEN>
+<TOKEN id="token-71-19" pos="word" morph="none" start_char="6243" end_char="6246">free</TOKEN>
+<TOKEN id="token-71-20" pos="unknown" morph="none" start_char="6248" end_char="6259">school-lunch</TOKEN>
+<TOKEN id="token-71-21" pos="word" morph="none" start_char="6261" end_char="6268">programs</TOKEN>
+<TOKEN id="token-71-22" pos="word" morph="none" start_char="6270" end_char="6271">in</TOKEN>
+<TOKEN id="token-71-23" pos="word" morph="none" start_char="6273" end_char="6282">California</TOKEN>
+<TOKEN id="token-71-24" pos="punct" morph="none" start_char="6283" end_char="6283">,</TOKEN>
+<TOKEN id="token-71-25" pos="word" morph="none" start_char="6285" end_char="6293">Minnesota</TOKEN>
+<TOKEN id="token-71-26" pos="word" morph="none" start_char="6295" end_char="6297">and</TOKEN>
+<TOKEN id="token-71-27" pos="word" morph="none" start_char="6299" end_char="6303">Idaho</TOKEN>
+<TOKEN id="token-71-28" pos="word" morph="none" start_char="6305" end_char="6306">in</TOKEN>
+<TOKEN id="token-71-29" pos="word" morph="none" start_char="6308" end_char="6311">2007</TOKEN>
+<TOKEN id="token-71-30" pos="word" morph="none" start_char="6313" end_char="6317">under</TOKEN>
+<TOKEN id="token-71-31" pos="word" morph="none" start_char="6319" end_char="6319">a</TOKEN>
+<TOKEN id="token-71-32" pos="word" morph="none" start_char="6321" end_char="6328">contract</TOKEN>
+<TOKEN id="token-71-33" pos="word" morph="none" start_char="6330" end_char="6333">with</TOKEN>
+<TOKEN id="token-71-34" pos="word" morph="none" start_char="6335" end_char="6337">PCA</TOKEN>
+<TOKEN id="token-71-35" pos="punct" morph="none" start_char="6338" end_char="6338">.</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="6341" end_char="6470">
+<ORIGINAL_TEXT>-- Corpus Christi Catholic School in Colorado Springs, Colo., closes early after a student is diagnosed with salmonella poisoning.</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="punct" morph="none" start_char="6341" end_char="6342">--</TOKEN>
+<TOKEN id="token-72-1" pos="word" morph="none" start_char="6344" end_char="6349">Corpus</TOKEN>
+<TOKEN id="token-72-2" pos="word" morph="none" start_char="6351" end_char="6357">Christi</TOKEN>
+<TOKEN id="token-72-3" pos="word" morph="none" start_char="6359" end_char="6366">Catholic</TOKEN>
+<TOKEN id="token-72-4" pos="word" morph="none" start_char="6368" end_char="6373">School</TOKEN>
+<TOKEN id="token-72-5" pos="word" morph="none" start_char="6375" end_char="6376">in</TOKEN>
+<TOKEN id="token-72-6" pos="word" morph="none" start_char="6378" end_char="6385">Colorado</TOKEN>
+<TOKEN id="token-72-7" pos="word" morph="none" start_char="6387" end_char="6393">Springs</TOKEN>
+<TOKEN id="token-72-8" pos="punct" morph="none" start_char="6394" end_char="6394">,</TOKEN>
+<TOKEN id="token-72-9" pos="word" morph="none" start_char="6396" end_char="6399">Colo</TOKEN>
+<TOKEN id="token-72-10" pos="punct" morph="none" start_char="6400" end_char="6401">.,</TOKEN>
+<TOKEN id="token-72-11" pos="word" morph="none" start_char="6403" end_char="6408">closes</TOKEN>
+<TOKEN id="token-72-12" pos="word" morph="none" start_char="6410" end_char="6414">early</TOKEN>
+<TOKEN id="token-72-13" pos="word" morph="none" start_char="6416" end_char="6420">after</TOKEN>
+<TOKEN id="token-72-14" pos="word" morph="none" start_char="6422" end_char="6422">a</TOKEN>
+<TOKEN id="token-72-15" pos="word" morph="none" start_char="6424" end_char="6430">student</TOKEN>
+<TOKEN id="token-72-16" pos="word" morph="none" start_char="6432" end_char="6433">is</TOKEN>
+<TOKEN id="token-72-17" pos="word" morph="none" start_char="6435" end_char="6443">diagnosed</TOKEN>
+<TOKEN id="token-72-18" pos="word" morph="none" start_char="6445" end_char="6448">with</TOKEN>
+<TOKEN id="token-72-19" pos="word" morph="none" start_char="6450" end_char="6459">salmonella</TOKEN>
+<TOKEN id="token-72-20" pos="word" morph="none" start_char="6461" end_char="6469">poisoning</TOKEN>
+<TOKEN id="token-72-21" pos="punct" morph="none" start_char="6470" end_char="6470">.</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="6473" end_char="6577">
+<ORIGINAL_TEXT>-- February 10, 2009 - Tests show a possible presense of salmonella at the PCA plant in Plainview, Texas.</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="punct" morph="none" start_char="6473" end_char="6474">--</TOKEN>
+<TOKEN id="token-73-1" pos="word" morph="none" start_char="6476" end_char="6483">February</TOKEN>
+<TOKEN id="token-73-2" pos="word" morph="none" start_char="6485" end_char="6486">10</TOKEN>
+<TOKEN id="token-73-3" pos="punct" morph="none" start_char="6487" end_char="6487">,</TOKEN>
+<TOKEN id="token-73-4" pos="word" morph="none" start_char="6489" end_char="6492">2009</TOKEN>
+<TOKEN id="token-73-5" pos="punct" morph="none" start_char="6494" end_char="6494">-</TOKEN>
+<TOKEN id="token-73-6" pos="word" morph="none" start_char="6496" end_char="6500">Tests</TOKEN>
+<TOKEN id="token-73-7" pos="word" morph="none" start_char="6502" end_char="6505">show</TOKEN>
+<TOKEN id="token-73-8" pos="word" morph="none" start_char="6507" end_char="6507">a</TOKEN>
+<TOKEN id="token-73-9" pos="word" morph="none" start_char="6509" end_char="6516">possible</TOKEN>
+<TOKEN id="token-73-10" pos="word" morph="none" start_char="6518" end_char="6525">presense</TOKEN>
+<TOKEN id="token-73-11" pos="word" morph="none" start_char="6527" end_char="6528">of</TOKEN>
+<TOKEN id="token-73-12" pos="word" morph="none" start_char="6530" end_char="6539">salmonella</TOKEN>
+<TOKEN id="token-73-13" pos="word" morph="none" start_char="6541" end_char="6542">at</TOKEN>
+<TOKEN id="token-73-14" pos="word" morph="none" start_char="6544" end_char="6546">the</TOKEN>
+<TOKEN id="token-73-15" pos="word" morph="none" start_char="6548" end_char="6550">PCA</TOKEN>
+<TOKEN id="token-73-16" pos="word" morph="none" start_char="6552" end_char="6556">plant</TOKEN>
+<TOKEN id="token-73-17" pos="word" morph="none" start_char="6558" end_char="6559">in</TOKEN>
+<TOKEN id="token-73-18" pos="word" morph="none" start_char="6561" end_char="6569">Plainview</TOKEN>
+<TOKEN id="token-73-19" pos="punct" morph="none" start_char="6570" end_char="6570">,</TOKEN>
+<TOKEN id="token-73-20" pos="word" morph="none" start_char="6572" end_char="6576">Texas</TOKEN>
+<TOKEN id="token-73-21" pos="punct" morph="none" start_char="6577" end_char="6577">.</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="6579" end_char="6634">
+<ORIGINAL_TEXT>A sign on the door says the plant is temporarily closed.</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="word" morph="none" start_char="6579" end_char="6579">A</TOKEN>
+<TOKEN id="token-74-1" pos="word" morph="none" start_char="6581" end_char="6584">sign</TOKEN>
+<TOKEN id="token-74-2" pos="word" morph="none" start_char="6586" end_char="6587">on</TOKEN>
+<TOKEN id="token-74-3" pos="word" morph="none" start_char="6589" end_char="6591">the</TOKEN>
+<TOKEN id="token-74-4" pos="word" morph="none" start_char="6593" end_char="6596">door</TOKEN>
+<TOKEN id="token-74-5" pos="word" morph="none" start_char="6598" end_char="6601">says</TOKEN>
+<TOKEN id="token-74-6" pos="word" morph="none" start_char="6603" end_char="6605">the</TOKEN>
+<TOKEN id="token-74-7" pos="word" morph="none" start_char="6607" end_char="6611">plant</TOKEN>
+<TOKEN id="token-74-8" pos="word" morph="none" start_char="6613" end_char="6614">is</TOKEN>
+<TOKEN id="token-74-9" pos="word" morph="none" start_char="6616" end_char="6626">temporarily</TOKEN>
+<TOKEN id="token-74-10" pos="word" morph="none" start_char="6628" end_char="6633">closed</TOKEN>
+<TOKEN id="token-74-11" pos="punct" morph="none" start_char="6634" end_char="6634">.</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="6637" end_char="6755">
+<ORIGINAL_TEXT>-- February 11, 2009 - A 9th victim dies of salmonella and news reports indicate there is a connection to PCA products.</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="punct" morph="none" start_char="6637" end_char="6638">--</TOKEN>
+<TOKEN id="token-75-1" pos="word" morph="none" start_char="6640" end_char="6647">February</TOKEN>
+<TOKEN id="token-75-2" pos="word" morph="none" start_char="6649" end_char="6650">11</TOKEN>
+<TOKEN id="token-75-3" pos="punct" morph="none" start_char="6651" end_char="6651">,</TOKEN>
+<TOKEN id="token-75-4" pos="word" morph="none" start_char="6653" end_char="6656">2009</TOKEN>
+<TOKEN id="token-75-5" pos="punct" morph="none" start_char="6658" end_char="6658">-</TOKEN>
+<TOKEN id="token-75-6" pos="word" morph="none" start_char="6660" end_char="6660">A</TOKEN>
+<TOKEN id="token-75-7" pos="word" morph="none" start_char="6662" end_char="6664">9th</TOKEN>
+<TOKEN id="token-75-8" pos="word" morph="none" start_char="6666" end_char="6671">victim</TOKEN>
+<TOKEN id="token-75-9" pos="word" morph="none" start_char="6673" end_char="6676">dies</TOKEN>
+<TOKEN id="token-75-10" pos="word" morph="none" start_char="6678" end_char="6679">of</TOKEN>
+<TOKEN id="token-75-11" pos="word" morph="none" start_char="6681" end_char="6690">salmonella</TOKEN>
+<TOKEN id="token-75-12" pos="word" morph="none" start_char="6692" end_char="6694">and</TOKEN>
+<TOKEN id="token-75-13" pos="word" morph="none" start_char="6696" end_char="6699">news</TOKEN>
+<TOKEN id="token-75-14" pos="word" morph="none" start_char="6701" end_char="6707">reports</TOKEN>
+<TOKEN id="token-75-15" pos="word" morph="none" start_char="6709" end_char="6716">indicate</TOKEN>
+<TOKEN id="token-75-16" pos="word" morph="none" start_char="6718" end_char="6722">there</TOKEN>
+<TOKEN id="token-75-17" pos="word" morph="none" start_char="6724" end_char="6725">is</TOKEN>
+<TOKEN id="token-75-18" pos="word" morph="none" start_char="6727" end_char="6727">a</TOKEN>
+<TOKEN id="token-75-19" pos="word" morph="none" start_char="6729" end_char="6738">connection</TOKEN>
+<TOKEN id="token-75-20" pos="word" morph="none" start_char="6740" end_char="6741">to</TOKEN>
+<TOKEN id="token-75-21" pos="word" morph="none" start_char="6743" end_char="6745">PCA</TOKEN>
+<TOKEN id="token-75-22" pos="word" morph="none" start_char="6747" end_char="6754">products</TOKEN>
+<TOKEN id="token-75-23" pos="punct" morph="none" start_char="6755" end_char="6755">.</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="6758" end_char="6943">
+<ORIGINAL_TEXT>-- The President of PCA, Stewart Parnell, pleads his 5th Amendment rights and refuses to offer any other comments in front of the U.S. House Subcommittee on Oversight and Investigations.</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="punct" morph="none" start_char="6758" end_char="6759">--</TOKEN>
+<TOKEN id="token-76-1" pos="word" morph="none" start_char="6761" end_char="6763">The</TOKEN>
+<TOKEN id="token-76-2" pos="word" morph="none" start_char="6765" end_char="6773">President</TOKEN>
+<TOKEN id="token-76-3" pos="word" morph="none" start_char="6775" end_char="6776">of</TOKEN>
+<TOKEN id="token-76-4" pos="word" morph="none" start_char="6778" end_char="6780">PCA</TOKEN>
+<TOKEN id="token-76-5" pos="punct" morph="none" start_char="6781" end_char="6781">,</TOKEN>
+<TOKEN id="token-76-6" pos="word" morph="none" start_char="6783" end_char="6789">Stewart</TOKEN>
+<TOKEN id="token-76-7" pos="word" morph="none" start_char="6791" end_char="6797">Parnell</TOKEN>
+<TOKEN id="token-76-8" pos="punct" morph="none" start_char="6798" end_char="6798">,</TOKEN>
+<TOKEN id="token-76-9" pos="word" morph="none" start_char="6800" end_char="6805">pleads</TOKEN>
+<TOKEN id="token-76-10" pos="word" morph="none" start_char="6807" end_char="6809">his</TOKEN>
+<TOKEN id="token-76-11" pos="word" morph="none" start_char="6811" end_char="6813">5th</TOKEN>
+<TOKEN id="token-76-12" pos="word" morph="none" start_char="6815" end_char="6823">Amendment</TOKEN>
+<TOKEN id="token-76-13" pos="word" morph="none" start_char="6825" end_char="6830">rights</TOKEN>
+<TOKEN id="token-76-14" pos="word" morph="none" start_char="6832" end_char="6834">and</TOKEN>
+<TOKEN id="token-76-15" pos="word" morph="none" start_char="6836" end_char="6842">refuses</TOKEN>
+<TOKEN id="token-76-16" pos="word" morph="none" start_char="6844" end_char="6845">to</TOKEN>
+<TOKEN id="token-76-17" pos="word" morph="none" start_char="6847" end_char="6851">offer</TOKEN>
+<TOKEN id="token-76-18" pos="word" morph="none" start_char="6853" end_char="6855">any</TOKEN>
+<TOKEN id="token-76-19" pos="word" morph="none" start_char="6857" end_char="6861">other</TOKEN>
+<TOKEN id="token-76-20" pos="word" morph="none" start_char="6863" end_char="6870">comments</TOKEN>
+<TOKEN id="token-76-21" pos="word" morph="none" start_char="6872" end_char="6873">in</TOKEN>
+<TOKEN id="token-76-22" pos="word" morph="none" start_char="6875" end_char="6879">front</TOKEN>
+<TOKEN id="token-76-23" pos="word" morph="none" start_char="6881" end_char="6882">of</TOKEN>
+<TOKEN id="token-76-24" pos="word" morph="none" start_char="6884" end_char="6886">the</TOKEN>
+<TOKEN id="token-76-25" pos="unknown" morph="none" start_char="6888" end_char="6890">U.S</TOKEN>
+<TOKEN id="token-76-26" pos="punct" morph="none" start_char="6891" end_char="6891">.</TOKEN>
+<TOKEN id="token-76-27" pos="word" morph="none" start_char="6893" end_char="6897">House</TOKEN>
+<TOKEN id="token-76-28" pos="word" morph="none" start_char="6899" end_char="6910">Subcommittee</TOKEN>
+<TOKEN id="token-76-29" pos="word" morph="none" start_char="6912" end_char="6913">on</TOKEN>
+<TOKEN id="token-76-30" pos="word" morph="none" start_char="6915" end_char="6923">Oversight</TOKEN>
+<TOKEN id="token-76-31" pos="word" morph="none" start_char="6925" end_char="6927">and</TOKEN>
+<TOKEN id="token-76-32" pos="word" morph="none" start_char="6929" end_char="6942">Investigations</TOKEN>
+<TOKEN id="token-76-33" pos="punct" morph="none" start_char="6943" end_char="6943">.</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="6946" end_char="7201">
+<ORIGINAL_TEXT>-- February 12, 2009 - The Texas Department of State Health Services ordered a recall of all products from the Plainview, Texas plant after discovering dead rodents, rodent excrement, and bird feathers in a crawl space above a production area in the plant.</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="punct" morph="none" start_char="6946" end_char="6947">--</TOKEN>
+<TOKEN id="token-77-1" pos="word" morph="none" start_char="6949" end_char="6956">February</TOKEN>
+<TOKEN id="token-77-2" pos="word" morph="none" start_char="6958" end_char="6959">12</TOKEN>
+<TOKEN id="token-77-3" pos="punct" morph="none" start_char="6960" end_char="6960">,</TOKEN>
+<TOKEN id="token-77-4" pos="word" morph="none" start_char="6962" end_char="6965">2009</TOKEN>
+<TOKEN id="token-77-5" pos="punct" morph="none" start_char="6967" end_char="6967">-</TOKEN>
+<TOKEN id="token-77-6" pos="word" morph="none" start_char="6969" end_char="6971">The</TOKEN>
+<TOKEN id="token-77-7" pos="word" morph="none" start_char="6973" end_char="6977">Texas</TOKEN>
+<TOKEN id="token-77-8" pos="word" morph="none" start_char="6979" end_char="6988">Department</TOKEN>
+<TOKEN id="token-77-9" pos="word" morph="none" start_char="6990" end_char="6991">of</TOKEN>
+<TOKEN id="token-77-10" pos="word" morph="none" start_char="6993" end_char="6997">State</TOKEN>
+<TOKEN id="token-77-11" pos="word" morph="none" start_char="6999" end_char="7004">Health</TOKEN>
+<TOKEN id="token-77-12" pos="word" morph="none" start_char="7006" end_char="7013">Services</TOKEN>
+<TOKEN id="token-77-13" pos="word" morph="none" start_char="7015" end_char="7021">ordered</TOKEN>
+<TOKEN id="token-77-14" pos="word" morph="none" start_char="7023" end_char="7023">a</TOKEN>
+<TOKEN id="token-77-15" pos="word" morph="none" start_char="7025" end_char="7030">recall</TOKEN>
+<TOKEN id="token-77-16" pos="word" morph="none" start_char="7032" end_char="7033">of</TOKEN>
+<TOKEN id="token-77-17" pos="word" morph="none" start_char="7035" end_char="7037">all</TOKEN>
+<TOKEN id="token-77-18" pos="word" morph="none" start_char="7039" end_char="7046">products</TOKEN>
+<TOKEN id="token-77-19" pos="word" morph="none" start_char="7048" end_char="7051">from</TOKEN>
+<TOKEN id="token-77-20" pos="word" morph="none" start_char="7053" end_char="7055">the</TOKEN>
+<TOKEN id="token-77-21" pos="word" morph="none" start_char="7057" end_char="7065">Plainview</TOKEN>
+<TOKEN id="token-77-22" pos="punct" morph="none" start_char="7066" end_char="7066">,</TOKEN>
+<TOKEN id="token-77-23" pos="word" morph="none" start_char="7068" end_char="7072">Texas</TOKEN>
+<TOKEN id="token-77-24" pos="word" morph="none" start_char="7074" end_char="7078">plant</TOKEN>
+<TOKEN id="token-77-25" pos="word" morph="none" start_char="7080" end_char="7084">after</TOKEN>
+<TOKEN id="token-77-26" pos="word" morph="none" start_char="7086" end_char="7096">discovering</TOKEN>
+<TOKEN id="token-77-27" pos="word" morph="none" start_char="7098" end_char="7101">dead</TOKEN>
+<TOKEN id="token-77-28" pos="word" morph="none" start_char="7103" end_char="7109">rodents</TOKEN>
+<TOKEN id="token-77-29" pos="punct" morph="none" start_char="7110" end_char="7110">,</TOKEN>
+<TOKEN id="token-77-30" pos="word" morph="none" start_char="7112" end_char="7117">rodent</TOKEN>
+<TOKEN id="token-77-31" pos="word" morph="none" start_char="7119" end_char="7127">excrement</TOKEN>
+<TOKEN id="token-77-32" pos="punct" morph="none" start_char="7128" end_char="7128">,</TOKEN>
+<TOKEN id="token-77-33" pos="word" morph="none" start_char="7130" end_char="7132">and</TOKEN>
+<TOKEN id="token-77-34" pos="word" morph="none" start_char="7134" end_char="7137">bird</TOKEN>
+<TOKEN id="token-77-35" pos="word" morph="none" start_char="7139" end_char="7146">feathers</TOKEN>
+<TOKEN id="token-77-36" pos="word" morph="none" start_char="7148" end_char="7149">in</TOKEN>
+<TOKEN id="token-77-37" pos="word" morph="none" start_char="7151" end_char="7151">a</TOKEN>
+<TOKEN id="token-77-38" pos="word" morph="none" start_char="7153" end_char="7157">crawl</TOKEN>
+<TOKEN id="token-77-39" pos="word" morph="none" start_char="7159" end_char="7163">space</TOKEN>
+<TOKEN id="token-77-40" pos="word" morph="none" start_char="7165" end_char="7169">above</TOKEN>
+<TOKEN id="token-77-41" pos="word" morph="none" start_char="7171" end_char="7171">a</TOKEN>
+<TOKEN id="token-77-42" pos="word" morph="none" start_char="7173" end_char="7182">production</TOKEN>
+<TOKEN id="token-77-43" pos="word" morph="none" start_char="7184" end_char="7187">area</TOKEN>
+<TOKEN id="token-77-44" pos="word" morph="none" start_char="7189" end_char="7190">in</TOKEN>
+<TOKEN id="token-77-45" pos="word" morph="none" start_char="7192" end_char="7194">the</TOKEN>
+<TOKEN id="token-77-46" pos="word" morph="none" start_char="7196" end_char="7200">plant</TOKEN>
+<TOKEN id="token-77-47" pos="punct" morph="none" start_char="7201" end_char="7201">.</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="7204" end_char="7329">
+<ORIGINAL_TEXT>-- February 13, 2009 - Police in Plainview, Texas are told that there is suspicious activity in the plant just after midnight.</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="punct" morph="none" start_char="7204" end_char="7205">--</TOKEN>
+<TOKEN id="token-78-1" pos="word" morph="none" start_char="7207" end_char="7214">February</TOKEN>
+<TOKEN id="token-78-2" pos="word" morph="none" start_char="7216" end_char="7217">13</TOKEN>
+<TOKEN id="token-78-3" pos="punct" morph="none" start_char="7218" end_char="7218">,</TOKEN>
+<TOKEN id="token-78-4" pos="word" morph="none" start_char="7220" end_char="7223">2009</TOKEN>
+<TOKEN id="token-78-5" pos="punct" morph="none" start_char="7225" end_char="7225">-</TOKEN>
+<TOKEN id="token-78-6" pos="word" morph="none" start_char="7227" end_char="7232">Police</TOKEN>
+<TOKEN id="token-78-7" pos="word" morph="none" start_char="7234" end_char="7235">in</TOKEN>
+<TOKEN id="token-78-8" pos="word" morph="none" start_char="7237" end_char="7245">Plainview</TOKEN>
+<TOKEN id="token-78-9" pos="punct" morph="none" start_char="7246" end_char="7246">,</TOKEN>
+<TOKEN id="token-78-10" pos="word" morph="none" start_char="7248" end_char="7252">Texas</TOKEN>
+<TOKEN id="token-78-11" pos="word" morph="none" start_char="7254" end_char="7256">are</TOKEN>
+<TOKEN id="token-78-12" pos="word" morph="none" start_char="7258" end_char="7261">told</TOKEN>
+<TOKEN id="token-78-13" pos="word" morph="none" start_char="7263" end_char="7266">that</TOKEN>
+<TOKEN id="token-78-14" pos="word" morph="none" start_char="7268" end_char="7272">there</TOKEN>
+<TOKEN id="token-78-15" pos="word" morph="none" start_char="7274" end_char="7275">is</TOKEN>
+<TOKEN id="token-78-16" pos="word" morph="none" start_char="7277" end_char="7286">suspicious</TOKEN>
+<TOKEN id="token-78-17" pos="word" morph="none" start_char="7288" end_char="7295">activity</TOKEN>
+<TOKEN id="token-78-18" pos="word" morph="none" start_char="7297" end_char="7298">in</TOKEN>
+<TOKEN id="token-78-19" pos="word" morph="none" start_char="7300" end_char="7302">the</TOKEN>
+<TOKEN id="token-78-20" pos="word" morph="none" start_char="7304" end_char="7308">plant</TOKEN>
+<TOKEN id="token-78-21" pos="word" morph="none" start_char="7310" end_char="7313">just</TOKEN>
+<TOKEN id="token-78-22" pos="word" morph="none" start_char="7315" end_char="7319">after</TOKEN>
+<TOKEN id="token-78-23" pos="word" morph="none" start_char="7321" end_char="7328">midnight</TOKEN>
+<TOKEN id="token-78-24" pos="punct" morph="none" start_char="7329" end_char="7329">.</TOKEN>
+</SEG>
+<SEG id="segment-79" start_char="7331" end_char="7460">
+<ORIGINAL_TEXT>At 1:30 am an officer confirms that there are employees inside but there is no apparant violation of state law or local ordinance.</ORIGINAL_TEXT>
+<TOKEN id="token-79-0" pos="word" morph="none" start_char="7331" end_char="7332">At</TOKEN>
+<TOKEN id="token-79-1" pos="unknown" morph="none" start_char="7334" end_char="7337">1:30</TOKEN>
+<TOKEN id="token-79-2" pos="word" morph="none" start_char="7339" end_char="7340">am</TOKEN>
+<TOKEN id="token-79-3" pos="word" morph="none" start_char="7342" end_char="7343">an</TOKEN>
+<TOKEN id="token-79-4" pos="word" morph="none" start_char="7345" end_char="7351">officer</TOKEN>
+<TOKEN id="token-79-5" pos="word" morph="none" start_char="7353" end_char="7360">confirms</TOKEN>
+<TOKEN id="token-79-6" pos="word" morph="none" start_char="7362" end_char="7365">that</TOKEN>
+<TOKEN id="token-79-7" pos="word" morph="none" start_char="7367" end_char="7371">there</TOKEN>
+<TOKEN id="token-79-8" pos="word" morph="none" start_char="7373" end_char="7375">are</TOKEN>
+<TOKEN id="token-79-9" pos="word" morph="none" start_char="7377" end_char="7385">employees</TOKEN>
+<TOKEN id="token-79-10" pos="word" morph="none" start_char="7387" end_char="7392">inside</TOKEN>
+<TOKEN id="token-79-11" pos="word" morph="none" start_char="7394" end_char="7396">but</TOKEN>
+<TOKEN id="token-79-12" pos="word" morph="none" start_char="7398" end_char="7402">there</TOKEN>
+<TOKEN id="token-79-13" pos="word" morph="none" start_char="7404" end_char="7405">is</TOKEN>
+<TOKEN id="token-79-14" pos="word" morph="none" start_char="7407" end_char="7408">no</TOKEN>
+<TOKEN id="token-79-15" pos="word" morph="none" start_char="7410" end_char="7417">apparant</TOKEN>
+<TOKEN id="token-79-16" pos="word" morph="none" start_char="7419" end_char="7427">violation</TOKEN>
+<TOKEN id="token-79-17" pos="word" morph="none" start_char="7429" end_char="7430">of</TOKEN>
+<TOKEN id="token-79-18" pos="word" morph="none" start_char="7432" end_char="7436">state</TOKEN>
+<TOKEN id="token-79-19" pos="word" morph="none" start_char="7438" end_char="7440">law</TOKEN>
+<TOKEN id="token-79-20" pos="word" morph="none" start_char="7442" end_char="7443">or</TOKEN>
+<TOKEN id="token-79-21" pos="word" morph="none" start_char="7445" end_char="7449">local</TOKEN>
+<TOKEN id="token-79-22" pos="word" morph="none" start_char="7451" end_char="7459">ordinance</TOKEN>
+<TOKEN id="token-79-23" pos="punct" morph="none" start_char="7460" end_char="7460">.</TOKEN>
+</SEG>
+<SEG id="segment-80" start_char="7462" end_char="7566">
+<ORIGINAL_TEXT>Police report the activity to investigators with the Food Drug Administration but take no further action.</ORIGINAL_TEXT>
+<TOKEN id="token-80-0" pos="word" morph="none" start_char="7462" end_char="7467">Police</TOKEN>
+<TOKEN id="token-80-1" pos="word" morph="none" start_char="7469" end_char="7474">report</TOKEN>
+<TOKEN id="token-80-2" pos="word" morph="none" start_char="7476" end_char="7478">the</TOKEN>
+<TOKEN id="token-80-3" pos="word" morph="none" start_char="7480" end_char="7487">activity</TOKEN>
+<TOKEN id="token-80-4" pos="word" morph="none" start_char="7489" end_char="7490">to</TOKEN>
+<TOKEN id="token-80-5" pos="word" morph="none" start_char="7492" end_char="7504">investigators</TOKEN>
+<TOKEN id="token-80-6" pos="word" morph="none" start_char="7506" end_char="7509">with</TOKEN>
+<TOKEN id="token-80-7" pos="word" morph="none" start_char="7511" end_char="7513">the</TOKEN>
+<TOKEN id="token-80-8" pos="word" morph="none" start_char="7515" end_char="7518">Food</TOKEN>
+<TOKEN id="token-80-9" pos="word" morph="none" start_char="7520" end_char="7523">Drug</TOKEN>
+<TOKEN id="token-80-10" pos="word" morph="none" start_char="7525" end_char="7538">Administration</TOKEN>
+<TOKEN id="token-80-11" pos="word" morph="none" start_char="7540" end_char="7542">but</TOKEN>
+<TOKEN id="token-80-12" pos="word" morph="none" start_char="7544" end_char="7547">take</TOKEN>
+<TOKEN id="token-80-13" pos="word" morph="none" start_char="7549" end_char="7550">no</TOKEN>
+<TOKEN id="token-80-14" pos="word" morph="none" start_char="7552" end_char="7558">further</TOKEN>
+<TOKEN id="token-80-15" pos="word" morph="none" start_char="7560" end_char="7565">action</TOKEN>
+<TOKEN id="token-80-16" pos="punct" morph="none" start_char="7566" end_char="7566">.</TOKEN>
+</SEG>
+<SEG id="segment-81" start_char="7569" end_char="7655">
+<ORIGINAL_TEXT>-- Peanut Corporation of America files for chapter 7 bankruptcy in Lynchburg, Virginia.</ORIGINAL_TEXT>
+<TOKEN id="token-81-0" pos="punct" morph="none" start_char="7569" end_char="7570">--</TOKEN>
+<TOKEN id="token-81-1" pos="word" morph="none" start_char="7572" end_char="7577">Peanut</TOKEN>
+<TOKEN id="token-81-2" pos="word" morph="none" start_char="7579" end_char="7589">Corporation</TOKEN>
+<TOKEN id="token-81-3" pos="word" morph="none" start_char="7591" end_char="7592">of</TOKEN>
+<TOKEN id="token-81-4" pos="word" morph="none" start_char="7594" end_char="7600">America</TOKEN>
+<TOKEN id="token-81-5" pos="word" morph="none" start_char="7602" end_char="7606">files</TOKEN>
+<TOKEN id="token-81-6" pos="word" morph="none" start_char="7608" end_char="7610">for</TOKEN>
+<TOKEN id="token-81-7" pos="word" morph="none" start_char="7612" end_char="7618">chapter</TOKEN>
+<TOKEN id="token-81-8" pos="word" morph="none" start_char="7620" end_char="7620">7</TOKEN>
+<TOKEN id="token-81-9" pos="word" morph="none" start_char="7622" end_char="7631">bankruptcy</TOKEN>
+<TOKEN id="token-81-10" pos="word" morph="none" start_char="7633" end_char="7634">in</TOKEN>
+<TOKEN id="token-81-11" pos="word" morph="none" start_char="7636" end_char="7644">Lynchburg</TOKEN>
+<TOKEN id="token-81-12" pos="punct" morph="none" start_char="7645" end_char="7645">,</TOKEN>
+<TOKEN id="token-81-13" pos="word" morph="none" start_char="7647" end_char="7654">Virginia</TOKEN>
+<TOKEN id="token-81-14" pos="punct" morph="none" start_char="7655" end_char="7655">.</TOKEN>
+</SEG>
+<SEG id="segment-82" start_char="7658" end_char="7818">
+<ORIGINAL_TEXT>-- February 14, 2009 - A newspaper report says that six salmonella cases in Colorado have been linked to tainted products from the PCA plant in Plainview, Texas.</ORIGINAL_TEXT>
+<TOKEN id="token-82-0" pos="punct" morph="none" start_char="7658" end_char="7659">--</TOKEN>
+<TOKEN id="token-82-1" pos="word" morph="none" start_char="7661" end_char="7668">February</TOKEN>
+<TOKEN id="token-82-2" pos="word" morph="none" start_char="7670" end_char="7671">14</TOKEN>
+<TOKEN id="token-82-3" pos="punct" morph="none" start_char="7672" end_char="7672">,</TOKEN>
+<TOKEN id="token-82-4" pos="word" morph="none" start_char="7674" end_char="7677">2009</TOKEN>
+<TOKEN id="token-82-5" pos="punct" morph="none" start_char="7679" end_char="7679">-</TOKEN>
+<TOKEN id="token-82-6" pos="word" morph="none" start_char="7681" end_char="7681">A</TOKEN>
+<TOKEN id="token-82-7" pos="word" morph="none" start_char="7683" end_char="7691">newspaper</TOKEN>
+<TOKEN id="token-82-8" pos="word" morph="none" start_char="7693" end_char="7698">report</TOKEN>
+<TOKEN id="token-82-9" pos="word" morph="none" start_char="7700" end_char="7703">says</TOKEN>
+<TOKEN id="token-82-10" pos="word" morph="none" start_char="7705" end_char="7708">that</TOKEN>
+<TOKEN id="token-82-11" pos="word" morph="none" start_char="7710" end_char="7712">six</TOKEN>
+<TOKEN id="token-82-12" pos="word" morph="none" start_char="7714" end_char="7723">salmonella</TOKEN>
+<TOKEN id="token-82-13" pos="word" morph="none" start_char="7725" end_char="7729">cases</TOKEN>
+<TOKEN id="token-82-14" pos="word" morph="none" start_char="7731" end_char="7732">in</TOKEN>
+<TOKEN id="token-82-15" pos="word" morph="none" start_char="7734" end_char="7741">Colorado</TOKEN>
+<TOKEN id="token-82-16" pos="word" morph="none" start_char="7743" end_char="7746">have</TOKEN>
+<TOKEN id="token-82-17" pos="word" morph="none" start_char="7748" end_char="7751">been</TOKEN>
+<TOKEN id="token-82-18" pos="word" morph="none" start_char="7753" end_char="7758">linked</TOKEN>
+<TOKEN id="token-82-19" pos="word" morph="none" start_char="7760" end_char="7761">to</TOKEN>
+<TOKEN id="token-82-20" pos="word" morph="none" start_char="7763" end_char="7769">tainted</TOKEN>
+<TOKEN id="token-82-21" pos="word" morph="none" start_char="7771" end_char="7778">products</TOKEN>
+<TOKEN id="token-82-22" pos="word" morph="none" start_char="7780" end_char="7783">from</TOKEN>
+<TOKEN id="token-82-23" pos="word" morph="none" start_char="7785" end_char="7787">the</TOKEN>
+<TOKEN id="token-82-24" pos="word" morph="none" start_char="7789" end_char="7791">PCA</TOKEN>
+<TOKEN id="token-82-25" pos="word" morph="none" start_char="7793" end_char="7797">plant</TOKEN>
+<TOKEN id="token-82-26" pos="word" morph="none" start_char="7799" end_char="7800">in</TOKEN>
+<TOKEN id="token-82-27" pos="word" morph="none" start_char="7802" end_char="7810">Plainview</TOKEN>
+<TOKEN id="token-82-28" pos="punct" morph="none" start_char="7811" end_char="7811">,</TOKEN>
+<TOKEN id="token-82-29" pos="word" morph="none" start_char="7813" end_char="7817">Texas</TOKEN>
+<TOKEN id="token-82-30" pos="punct" morph="none" start_char="7818" end_char="7818">.</TOKEN>
+</SEG>
+<SEG id="segment-83" start_char="7820" end_char="7874">
+<ORIGINAL_TEXT>The Colorado victims were between the ages of 2 and 60.</ORIGINAL_TEXT>
+<TOKEN id="token-83-0" pos="word" morph="none" start_char="7820" end_char="7822">The</TOKEN>
+<TOKEN id="token-83-1" pos="word" morph="none" start_char="7824" end_char="7831">Colorado</TOKEN>
+<TOKEN id="token-83-2" pos="word" morph="none" start_char="7833" end_char="7839">victims</TOKEN>
+<TOKEN id="token-83-3" pos="word" morph="none" start_char="7841" end_char="7844">were</TOKEN>
+<TOKEN id="token-83-4" pos="word" morph="none" start_char="7846" end_char="7852">between</TOKEN>
+<TOKEN id="token-83-5" pos="word" morph="none" start_char="7854" end_char="7856">the</TOKEN>
+<TOKEN id="token-83-6" pos="word" morph="none" start_char="7858" end_char="7861">ages</TOKEN>
+<TOKEN id="token-83-7" pos="word" morph="none" start_char="7863" end_char="7864">of</TOKEN>
+<TOKEN id="token-83-8" pos="word" morph="none" start_char="7866" end_char="7866">2</TOKEN>
+<TOKEN id="token-83-9" pos="word" morph="none" start_char="7868" end_char="7870">and</TOKEN>
+<TOKEN id="token-83-10" pos="word" morph="none" start_char="7872" end_char="7873">60</TOKEN>
+<TOKEN id="token-83-11" pos="punct" morph="none" start_char="7874" end_char="7874">.</TOKEN>
+</SEG>
+<SEG id="segment-84" start_char="7876" end_char="7902">
+<ORIGINAL_TEXT>One had to be hospitalized.</ORIGINAL_TEXT>
+<TOKEN id="token-84-0" pos="word" morph="none" start_char="7876" end_char="7878">One</TOKEN>
+<TOKEN id="token-84-1" pos="word" morph="none" start_char="7880" end_char="7882">had</TOKEN>
+<TOKEN id="token-84-2" pos="word" morph="none" start_char="7884" end_char="7885">to</TOKEN>
+<TOKEN id="token-84-3" pos="word" morph="none" start_char="7887" end_char="7888">be</TOKEN>
+<TOKEN id="token-84-4" pos="word" morph="none" start_char="7890" end_char="7901">hospitalized</TOKEN>
+<TOKEN id="token-84-5" pos="punct" morph="none" start_char="7902" end_char="7902">.</TOKEN>
+</SEG>
+<SEG id="segment-85" start_char="7905" end_char="8071">
+<ORIGINAL_TEXT>-- February 18, 2009 - A former PCA worker from the Plainview plant speaks to NewsChannel 11 on the condition that his face is not shown and his real name is not used.</ORIGINAL_TEXT>
+<TOKEN id="token-85-0" pos="punct" morph="none" start_char="7905" end_char="7906">--</TOKEN>
+<TOKEN id="token-85-1" pos="word" morph="none" start_char="7908" end_char="7915">February</TOKEN>
+<TOKEN id="token-85-2" pos="word" morph="none" start_char="7917" end_char="7918">18</TOKEN>
+<TOKEN id="token-85-3" pos="punct" morph="none" start_char="7919" end_char="7919">,</TOKEN>
+<TOKEN id="token-85-4" pos="word" morph="none" start_char="7921" end_char="7924">2009</TOKEN>
+<TOKEN id="token-85-5" pos="punct" morph="none" start_char="7926" end_char="7926">-</TOKEN>
+<TOKEN id="token-85-6" pos="word" morph="none" start_char="7928" end_char="7928">A</TOKEN>
+<TOKEN id="token-85-7" pos="word" morph="none" start_char="7930" end_char="7935">former</TOKEN>
+<TOKEN id="token-85-8" pos="word" morph="none" start_char="7937" end_char="7939">PCA</TOKEN>
+<TOKEN id="token-85-9" pos="word" morph="none" start_char="7941" end_char="7946">worker</TOKEN>
+<TOKEN id="token-85-10" pos="word" morph="none" start_char="7948" end_char="7951">from</TOKEN>
+<TOKEN id="token-85-11" pos="word" morph="none" start_char="7953" end_char="7955">the</TOKEN>
+<TOKEN id="token-85-12" pos="word" morph="none" start_char="7957" end_char="7965">Plainview</TOKEN>
+<TOKEN id="token-85-13" pos="word" morph="none" start_char="7967" end_char="7971">plant</TOKEN>
+<TOKEN id="token-85-14" pos="word" morph="none" start_char="7973" end_char="7978">speaks</TOKEN>
+<TOKEN id="token-85-15" pos="word" morph="none" start_char="7980" end_char="7981">to</TOKEN>
+<TOKEN id="token-85-16" pos="word" morph="none" start_char="7983" end_char="7993">NewsChannel</TOKEN>
+<TOKEN id="token-85-17" pos="word" morph="none" start_char="7995" end_char="7996">11</TOKEN>
+<TOKEN id="token-85-18" pos="word" morph="none" start_char="7998" end_char="7999">on</TOKEN>
+<TOKEN id="token-85-19" pos="word" morph="none" start_char="8001" end_char="8003">the</TOKEN>
+<TOKEN id="token-85-20" pos="word" morph="none" start_char="8005" end_char="8013">condition</TOKEN>
+<TOKEN id="token-85-21" pos="word" morph="none" start_char="8015" end_char="8018">that</TOKEN>
+<TOKEN id="token-85-22" pos="word" morph="none" start_char="8020" end_char="8022">his</TOKEN>
+<TOKEN id="token-85-23" pos="word" morph="none" start_char="8024" end_char="8027">face</TOKEN>
+<TOKEN id="token-85-24" pos="word" morph="none" start_char="8029" end_char="8030">is</TOKEN>
+<TOKEN id="token-85-25" pos="word" morph="none" start_char="8032" end_char="8034">not</TOKEN>
+<TOKEN id="token-85-26" pos="word" morph="none" start_char="8036" end_char="8040">shown</TOKEN>
+<TOKEN id="token-85-27" pos="word" morph="none" start_char="8042" end_char="8044">and</TOKEN>
+<TOKEN id="token-85-28" pos="word" morph="none" start_char="8046" end_char="8048">his</TOKEN>
+<TOKEN id="token-85-29" pos="word" morph="none" start_char="8050" end_char="8053">real</TOKEN>
+<TOKEN id="token-85-30" pos="word" morph="none" start_char="8055" end_char="8058">name</TOKEN>
+<TOKEN id="token-85-31" pos="word" morph="none" start_char="8060" end_char="8061">is</TOKEN>
+<TOKEN id="token-85-32" pos="word" morph="none" start_char="8063" end_char="8065">not</TOKEN>
+<TOKEN id="token-85-33" pos="word" morph="none" start_char="8067" end_char="8070">used</TOKEN>
+<TOKEN id="token-85-34" pos="punct" morph="none" start_char="8071" end_char="8071">.</TOKEN>
+</SEG>
+<SEG id="segment-86" start_char="8073" end_char="8151">
+<ORIGINAL_TEXT>He describes a leaky roof, mice, and workers not always using gloves hair nets.</ORIGINAL_TEXT>
+<TOKEN id="token-86-0" pos="word" morph="none" start_char="8073" end_char="8074">He</TOKEN>
+<TOKEN id="token-86-1" pos="word" morph="none" start_char="8076" end_char="8084">describes</TOKEN>
+<TOKEN id="token-86-2" pos="word" morph="none" start_char="8086" end_char="8086">a</TOKEN>
+<TOKEN id="token-86-3" pos="word" morph="none" start_char="8088" end_char="8092">leaky</TOKEN>
+<TOKEN id="token-86-4" pos="word" morph="none" start_char="8094" end_char="8097">roof</TOKEN>
+<TOKEN id="token-86-5" pos="punct" morph="none" start_char="8098" end_char="8098">,</TOKEN>
+<TOKEN id="token-86-6" pos="word" morph="none" start_char="8100" end_char="8103">mice</TOKEN>
+<TOKEN id="token-86-7" pos="punct" morph="none" start_char="8104" end_char="8104">,</TOKEN>
+<TOKEN id="token-86-8" pos="word" morph="none" start_char="8106" end_char="8108">and</TOKEN>
+<TOKEN id="token-86-9" pos="word" morph="none" start_char="8110" end_char="8116">workers</TOKEN>
+<TOKEN id="token-86-10" pos="word" morph="none" start_char="8118" end_char="8120">not</TOKEN>
+<TOKEN id="token-86-11" pos="word" morph="none" start_char="8122" end_char="8127">always</TOKEN>
+<TOKEN id="token-86-12" pos="word" morph="none" start_char="8129" end_char="8133">using</TOKEN>
+<TOKEN id="token-86-13" pos="word" morph="none" start_char="8135" end_char="8140">gloves</TOKEN>
+<TOKEN id="token-86-14" pos="word" morph="none" start_char="8142" end_char="8145">hair</TOKEN>
+<TOKEN id="token-86-15" pos="word" morph="none" start_char="8147" end_char="8150">nets</TOKEN>
+<TOKEN id="token-86-16" pos="punct" morph="none" start_char="8151" end_char="8151">.</TOKEN>
+</SEG>
+<SEG id="segment-87" start_char="8153" end_char="8247">
+<ORIGINAL_TEXT>He says that conditions were worse when he first started working at PCA and improved over time.</ORIGINAL_TEXT>
+<TOKEN id="token-87-0" pos="word" morph="none" start_char="8153" end_char="8154">He</TOKEN>
+<TOKEN id="token-87-1" pos="word" morph="none" start_char="8156" end_char="8159">says</TOKEN>
+<TOKEN id="token-87-2" pos="word" morph="none" start_char="8161" end_char="8164">that</TOKEN>
+<TOKEN id="token-87-3" pos="word" morph="none" start_char="8166" end_char="8175">conditions</TOKEN>
+<TOKEN id="token-87-4" pos="word" morph="none" start_char="8177" end_char="8180">were</TOKEN>
+<TOKEN id="token-87-5" pos="word" morph="none" start_char="8182" end_char="8186">worse</TOKEN>
+<TOKEN id="token-87-6" pos="word" morph="none" start_char="8188" end_char="8191">when</TOKEN>
+<TOKEN id="token-87-7" pos="word" morph="none" start_char="8193" end_char="8194">he</TOKEN>
+<TOKEN id="token-87-8" pos="word" morph="none" start_char="8196" end_char="8200">first</TOKEN>
+<TOKEN id="token-87-9" pos="word" morph="none" start_char="8202" end_char="8208">started</TOKEN>
+<TOKEN id="token-87-10" pos="word" morph="none" start_char="8210" end_char="8216">working</TOKEN>
+<TOKEN id="token-87-11" pos="word" morph="none" start_char="8218" end_char="8219">at</TOKEN>
+<TOKEN id="token-87-12" pos="word" morph="none" start_char="8221" end_char="8223">PCA</TOKEN>
+<TOKEN id="token-87-13" pos="word" morph="none" start_char="8225" end_char="8227">and</TOKEN>
+<TOKEN id="token-87-14" pos="word" morph="none" start_char="8229" end_char="8236">improved</TOKEN>
+<TOKEN id="token-87-15" pos="word" morph="none" start_char="8238" end_char="8241">over</TOKEN>
+<TOKEN id="token-87-16" pos="word" morph="none" start_char="8243" end_char="8246">time</TOKEN>
+<TOKEN id="token-87-17" pos="punct" morph="none" start_char="8247" end_char="8247">.</TOKEN>
+</SEG>
+<SEG id="segment-88" start_char="8250" end_char="8421">
+<ORIGINAL_TEXT>-- February 23, 2009 - Texas officials indicate that they will take over the recall of products from the Plainview facility and then charge PCA for the costs of the recall.</ORIGINAL_TEXT>
+<TOKEN id="token-88-0" pos="punct" morph="none" start_char="8250" end_char="8251">--</TOKEN>
+<TOKEN id="token-88-1" pos="word" morph="none" start_char="8253" end_char="8260">February</TOKEN>
+<TOKEN id="token-88-2" pos="word" morph="none" start_char="8262" end_char="8263">23</TOKEN>
+<TOKEN id="token-88-3" pos="punct" morph="none" start_char="8264" end_char="8264">,</TOKEN>
+<TOKEN id="token-88-4" pos="word" morph="none" start_char="8266" end_char="8269">2009</TOKEN>
+<TOKEN id="token-88-5" pos="punct" morph="none" start_char="8271" end_char="8271">-</TOKEN>
+<TOKEN id="token-88-6" pos="word" morph="none" start_char="8273" end_char="8277">Texas</TOKEN>
+<TOKEN id="token-88-7" pos="word" morph="none" start_char="8279" end_char="8287">officials</TOKEN>
+<TOKEN id="token-88-8" pos="word" morph="none" start_char="8289" end_char="8296">indicate</TOKEN>
+<TOKEN id="token-88-9" pos="word" morph="none" start_char="8298" end_char="8301">that</TOKEN>
+<TOKEN id="token-88-10" pos="word" morph="none" start_char="8303" end_char="8306">they</TOKEN>
+<TOKEN id="token-88-11" pos="word" morph="none" start_char="8308" end_char="8311">will</TOKEN>
+<TOKEN id="token-88-12" pos="word" morph="none" start_char="8313" end_char="8316">take</TOKEN>
+<TOKEN id="token-88-13" pos="word" morph="none" start_char="8318" end_char="8321">over</TOKEN>
+<TOKEN id="token-88-14" pos="word" morph="none" start_char="8323" end_char="8325">the</TOKEN>
+<TOKEN id="token-88-15" pos="word" morph="none" start_char="8327" end_char="8332">recall</TOKEN>
+<TOKEN id="token-88-16" pos="word" morph="none" start_char="8334" end_char="8335">of</TOKEN>
+<TOKEN id="token-88-17" pos="word" morph="none" start_char="8337" end_char="8344">products</TOKEN>
+<TOKEN id="token-88-18" pos="word" morph="none" start_char="8346" end_char="8349">from</TOKEN>
+<TOKEN id="token-88-19" pos="word" morph="none" start_char="8351" end_char="8353">the</TOKEN>
+<TOKEN id="token-88-20" pos="word" morph="none" start_char="8355" end_char="8363">Plainview</TOKEN>
+<TOKEN id="token-88-21" pos="word" morph="none" start_char="8365" end_char="8372">facility</TOKEN>
+<TOKEN id="token-88-22" pos="word" morph="none" start_char="8374" end_char="8376">and</TOKEN>
+<TOKEN id="token-88-23" pos="word" morph="none" start_char="8378" end_char="8381">then</TOKEN>
+<TOKEN id="token-88-24" pos="word" morph="none" start_char="8383" end_char="8388">charge</TOKEN>
+<TOKEN id="token-88-25" pos="word" morph="none" start_char="8390" end_char="8392">PCA</TOKEN>
+<TOKEN id="token-88-26" pos="word" morph="none" start_char="8394" end_char="8396">for</TOKEN>
+<TOKEN id="token-88-27" pos="word" morph="none" start_char="8398" end_char="8400">the</TOKEN>
+<TOKEN id="token-88-28" pos="word" morph="none" start_char="8402" end_char="8406">costs</TOKEN>
+<TOKEN id="token-88-29" pos="word" morph="none" start_char="8408" end_char="8409">of</TOKEN>
+<TOKEN id="token-88-30" pos="word" morph="none" start_char="8411" end_char="8413">the</TOKEN>
+<TOKEN id="token-88-31" pos="word" morph="none" start_char="8415" end_char="8420">recall</TOKEN>
+<TOKEN id="token-88-32" pos="punct" morph="none" start_char="8421" end_char="8421">.</TOKEN>
+</SEG>
+<SEG id="segment-89" start_char="8424" end_char="8584">
+<ORIGINAL_TEXT>-- February 24, 2009 - Newspaper reports indicate an exapnded recall of ice cream products made in Iowa, which contained peanuts from the Plainview PCA facility.</ORIGINAL_TEXT>
+<TOKEN id="token-89-0" pos="punct" morph="none" start_char="8424" end_char="8425">--</TOKEN>
+<TOKEN id="token-89-1" pos="word" morph="none" start_char="8427" end_char="8434">February</TOKEN>
+<TOKEN id="token-89-2" pos="word" morph="none" start_char="8436" end_char="8437">24</TOKEN>
+<TOKEN id="token-89-3" pos="punct" morph="none" start_char="8438" end_char="8438">,</TOKEN>
+<TOKEN id="token-89-4" pos="word" morph="none" start_char="8440" end_char="8443">2009</TOKEN>
+<TOKEN id="token-89-5" pos="punct" morph="none" start_char="8445" end_char="8445">-</TOKEN>
+<TOKEN id="token-89-6" pos="word" morph="none" start_char="8447" end_char="8455">Newspaper</TOKEN>
+<TOKEN id="token-89-7" pos="word" morph="none" start_char="8457" end_char="8463">reports</TOKEN>
+<TOKEN id="token-89-8" pos="word" morph="none" start_char="8465" end_char="8472">indicate</TOKEN>
+<TOKEN id="token-89-9" pos="word" morph="none" start_char="8474" end_char="8475">an</TOKEN>
+<TOKEN id="token-89-10" pos="word" morph="none" start_char="8477" end_char="8484">exapnded</TOKEN>
+<TOKEN id="token-89-11" pos="word" morph="none" start_char="8486" end_char="8491">recall</TOKEN>
+<TOKEN id="token-89-12" pos="word" morph="none" start_char="8493" end_char="8494">of</TOKEN>
+<TOKEN id="token-89-13" pos="word" morph="none" start_char="8496" end_char="8498">ice</TOKEN>
+<TOKEN id="token-89-14" pos="word" morph="none" start_char="8500" end_char="8504">cream</TOKEN>
+<TOKEN id="token-89-15" pos="word" morph="none" start_char="8506" end_char="8513">products</TOKEN>
+<TOKEN id="token-89-16" pos="word" morph="none" start_char="8515" end_char="8518">made</TOKEN>
+<TOKEN id="token-89-17" pos="word" morph="none" start_char="8520" end_char="8521">in</TOKEN>
+<TOKEN id="token-89-18" pos="word" morph="none" start_char="8523" end_char="8526">Iowa</TOKEN>
+<TOKEN id="token-89-19" pos="punct" morph="none" start_char="8527" end_char="8527">,</TOKEN>
+<TOKEN id="token-89-20" pos="word" morph="none" start_char="8529" end_char="8533">which</TOKEN>
+<TOKEN id="token-89-21" pos="word" morph="none" start_char="8535" end_char="8543">contained</TOKEN>
+<TOKEN id="token-89-22" pos="word" morph="none" start_char="8545" end_char="8551">peanuts</TOKEN>
+<TOKEN id="token-89-23" pos="word" morph="none" start_char="8553" end_char="8556">from</TOKEN>
+<TOKEN id="token-89-24" pos="word" morph="none" start_char="8558" end_char="8560">the</TOKEN>
+<TOKEN id="token-89-25" pos="word" morph="none" start_char="8562" end_char="8570">Plainview</TOKEN>
+<TOKEN id="token-89-26" pos="word" morph="none" start_char="8572" end_char="8574">PCA</TOKEN>
+<TOKEN id="token-89-27" pos="word" morph="none" start_char="8576" end_char="8583">facility</TOKEN>
+<TOKEN id="token-89-28" pos="punct" morph="none" start_char="8584" end_char="8584">.</TOKEN>
+</SEG>
+<SEG id="segment-90" start_char="8587" end_char="8697">
+<ORIGINAL_TEXT>-- Identical strains of salmonella are found at both the Blakely, Georgia plant and the Plainview, Texas plant.</ORIGINAL_TEXT>
+<TOKEN id="token-90-0" pos="punct" morph="none" start_char="8587" end_char="8588">--</TOKEN>
+<TOKEN id="token-90-1" pos="word" morph="none" start_char="8590" end_char="8598">Identical</TOKEN>
+<TOKEN id="token-90-2" pos="word" morph="none" start_char="8600" end_char="8606">strains</TOKEN>
+<TOKEN id="token-90-3" pos="word" morph="none" start_char="8608" end_char="8609">of</TOKEN>
+<TOKEN id="token-90-4" pos="word" morph="none" start_char="8611" end_char="8620">salmonella</TOKEN>
+<TOKEN id="token-90-5" pos="word" morph="none" start_char="8622" end_char="8624">are</TOKEN>
+<TOKEN id="token-90-6" pos="word" morph="none" start_char="8626" end_char="8630">found</TOKEN>
+<TOKEN id="token-90-7" pos="word" morph="none" start_char="8632" end_char="8633">at</TOKEN>
+<TOKEN id="token-90-8" pos="word" morph="none" start_char="8635" end_char="8638">both</TOKEN>
+<TOKEN id="token-90-9" pos="word" morph="none" start_char="8640" end_char="8642">the</TOKEN>
+<TOKEN id="token-90-10" pos="word" morph="none" start_char="8644" end_char="8650">Blakely</TOKEN>
+<TOKEN id="token-90-11" pos="punct" morph="none" start_char="8651" end_char="8651">,</TOKEN>
+<TOKEN id="token-90-12" pos="word" morph="none" start_char="8653" end_char="8659">Georgia</TOKEN>
+<TOKEN id="token-90-13" pos="word" morph="none" start_char="8661" end_char="8665">plant</TOKEN>
+<TOKEN id="token-90-14" pos="word" morph="none" start_char="8667" end_char="8669">and</TOKEN>
+<TOKEN id="token-90-15" pos="word" morph="none" start_char="8671" end_char="8673">the</TOKEN>
+<TOKEN id="token-90-16" pos="word" morph="none" start_char="8675" end_char="8683">Plainview</TOKEN>
+<TOKEN id="token-90-17" pos="punct" morph="none" start_char="8684" end_char="8684">,</TOKEN>
+<TOKEN id="token-90-18" pos="word" morph="none" start_char="8686" end_char="8690">Texas</TOKEN>
+<TOKEN id="token-90-19" pos="word" morph="none" start_char="8692" end_char="8696">plant</TOKEN>
+<TOKEN id="token-90-20" pos="punct" morph="none" start_char="8697" end_char="8697">.</TOKEN>
+</SEG>
+<SEG id="segment-91" start_char="8699" end_char="8767">
+<ORIGINAL_TEXT>Officials are quoted as saying this might sugest cross contamination.</ORIGINAL_TEXT>
+<TOKEN id="token-91-0" pos="word" morph="none" start_char="8699" end_char="8707">Officials</TOKEN>
+<TOKEN id="token-91-1" pos="word" morph="none" start_char="8709" end_char="8711">are</TOKEN>
+<TOKEN id="token-91-2" pos="word" morph="none" start_char="8713" end_char="8718">quoted</TOKEN>
+<TOKEN id="token-91-3" pos="word" morph="none" start_char="8720" end_char="8721">as</TOKEN>
+<TOKEN id="token-91-4" pos="word" morph="none" start_char="8723" end_char="8728">saying</TOKEN>
+<TOKEN id="token-91-5" pos="word" morph="none" start_char="8730" end_char="8733">this</TOKEN>
+<TOKEN id="token-91-6" pos="word" morph="none" start_char="8735" end_char="8739">might</TOKEN>
+<TOKEN id="token-91-7" pos="word" morph="none" start_char="8741" end_char="8746">sugest</TOKEN>
+<TOKEN id="token-91-8" pos="word" morph="none" start_char="8748" end_char="8752">cross</TOKEN>
+<TOKEN id="token-91-9" pos="word" morph="none" start_char="8754" end_char="8766">contamination</TOKEN>
+<TOKEN id="token-91-10" pos="punct" morph="none" start_char="8767" end_char="8767">.</TOKEN>
+</SEG>
+<SEG id="segment-92" start_char="8770" end_char="8819">
+<ORIGINAL_TEXT>Sources: FDA, CDC, Associated Press, KCBD Archives</ORIGINAL_TEXT>
+<TOKEN id="token-92-0" pos="word" morph="none" start_char="8770" end_char="8776">Sources</TOKEN>
+<TOKEN id="token-92-1" pos="punct" morph="none" start_char="8777" end_char="8777">:</TOKEN>
+<TOKEN id="token-92-2" pos="word" morph="none" start_char="8779" end_char="8781">FDA</TOKEN>
+<TOKEN id="token-92-3" pos="punct" morph="none" start_char="8782" end_char="8782">,</TOKEN>
+<TOKEN id="token-92-4" pos="word" morph="none" start_char="8784" end_char="8786">CDC</TOKEN>
+<TOKEN id="token-92-5" pos="punct" morph="none" start_char="8787" end_char="8787">,</TOKEN>
+<TOKEN id="token-92-6" pos="word" morph="none" start_char="8789" end_char="8798">Associated</TOKEN>
+<TOKEN id="token-92-7" pos="word" morph="none" start_char="8800" end_char="8804">Press</TOKEN>
+<TOKEN id="token-92-8" pos="punct" morph="none" start_char="8805" end_char="8805">,</TOKEN>
+<TOKEN id="token-92-9" pos="word" morph="none" start_char="8807" end_char="8810">KCBD</TOKEN>
+<TOKEN id="token-92-10" pos="word" morph="none" start_char="8812" end_char="8819">Archives</TOKEN>
+</SEG>
+<SEG id="segment-93" start_char="8822" end_char="8864">
+<ORIGINAL_TEXT>Portions Edited by AP Researcher Julie Reed</ORIGINAL_TEXT>
+<TOKEN id="token-93-0" pos="word" morph="none" start_char="8822" end_char="8829">Portions</TOKEN>
+<TOKEN id="token-93-1" pos="word" morph="none" start_char="8831" end_char="8836">Edited</TOKEN>
+<TOKEN id="token-93-2" pos="word" morph="none" start_char="8838" end_char="8839">by</TOKEN>
+<TOKEN id="token-93-3" pos="word" morph="none" start_char="8841" end_char="8842">AP</TOKEN>
+<TOKEN id="token-93-4" pos="word" morph="none" start_char="8844" end_char="8853">Researcher</TOKEN>
+<TOKEN id="token-93-5" pos="word" morph="none" start_char="8855" end_char="8859">Julie</TOKEN>
+<TOKEN id="token-93-6" pos="word" morph="none" start_char="8861" end_char="8864">Reed</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

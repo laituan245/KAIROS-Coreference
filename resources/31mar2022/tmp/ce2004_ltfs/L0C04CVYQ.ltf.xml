@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="L0C04CVYQ">
+		<TEXT>
+			<SEG id="L0C04CVYQ-0" start_char="0" end_char="135">
+				<ORIGINAL_TEXT>in this episode of american greed, ceo Stewart parnell starts with peanuts and makes millions by cutting corners and exploiting workers.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="1">in</TOKEN>
+				<TOKEN id="token-0-1" start_char="3" end_char="6">this</TOKEN>
+				<TOKEN id="token-0-2" start_char="8" end_char="14">episode</TOKEN>
+				<TOKEN id="token-0-3" start_char="16" end_char="17">of</TOKEN>
+				<TOKEN id="token-0-4" start_char="19" end_char="26">american</TOKEN>
+				<TOKEN id="token-0-5" start_char="28" end_char="32">greed</TOKEN>
+				<TOKEN id="token-0-6" start_char="33" end_char="33">,</TOKEN>
+				<TOKEN id="token-0-7" start_char="35" end_char="37">ceo</TOKEN>
+				<TOKEN id="token-0-8" start_char="39" end_char="45">Stewart</TOKEN>
+				<TOKEN id="token-0-9" start_char="47" end_char="53">parnell</TOKEN>
+				<TOKEN id="token-0-10" start_char="55" end_char="60">starts</TOKEN>
+				<TOKEN id="token-0-11" start_char="62" end_char="65">with</TOKEN>
+				<TOKEN id="token-0-12" start_char="67" end_char="73">peanuts</TOKEN>
+				<TOKEN id="token-0-13" start_char="75" end_char="77">and</TOKEN>
+				<TOKEN id="token-0-14" start_char="79" end_char="83">makes</TOKEN>
+				<TOKEN id="token-0-15" start_char="85" end_char="92">millions</TOKEN>
+				<TOKEN id="token-0-16" start_char="94" end_char="95">by</TOKEN>
+				<TOKEN id="token-0-17" start_char="97" end_char="103">cutting</TOKEN>
+				<TOKEN id="token-0-18" start_char="105" end_char="111">corners</TOKEN>
+				<TOKEN id="token-0-19" start_char="113" end_char="115">and</TOKEN>
+				<TOKEN id="token-0-20" start_char="117" end_char="126">exploiting</TOKEN>
+				<TOKEN id="token-0-21" start_char="128" end_char="134">workers</TOKEN>
+				<TOKEN id="token-0-22" start_char="135" end_char="135">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-1" start_char="137" end_char="165">
+				<ORIGINAL_TEXT>It was run like a plantation.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="137" end_char="138">It</TOKEN>
+				<TOKEN id="token-1-1" start_char="140" end_char="142">was</TOKEN>
+				<TOKEN id="token-1-2" start_char="144" end_char="146">run</TOKEN>
+				<TOKEN id="token-1-3" start_char="148" end_char="151">like</TOKEN>
+				<TOKEN id="token-1-4" start_char="153" end_char="153">a</TOKEN>
+				<TOKEN id="token-1-5" start_char="155" end_char="164">plantation</TOKEN>
+				<TOKEN id="token-1-6" start_char="165" end_char="165">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-2" start_char="167" end_char="279">
+				<ORIGINAL_TEXT>Parnell's peanut butter goes to stores, schools, hospitals and US troops, but his factories are criminally dirty.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="167" end_char="175">Parnell's</TOKEN>
+				<TOKEN id="token-2-1" start_char="177" end_char="182">peanut</TOKEN>
+				<TOKEN id="token-2-2" start_char="184" end_char="189">butter</TOKEN>
+				<TOKEN id="token-2-3" start_char="191" end_char="194">goes</TOKEN>
+				<TOKEN id="token-2-4" start_char="196" end_char="197">to</TOKEN>
+				<TOKEN id="token-2-5" start_char="199" end_char="204">stores</TOKEN>
+				<TOKEN id="token-2-6" start_char="205" end_char="205">,</TOKEN>
+				<TOKEN id="token-2-7" start_char="207" end_char="213">schools</TOKEN>
+				<TOKEN id="token-2-8" start_char="214" end_char="214">,</TOKEN>
+				<TOKEN id="token-2-9" start_char="216" end_char="224">hospitals</TOKEN>
+				<TOKEN id="token-2-10" start_char="226" end_char="228">and</TOKEN>
+				<TOKEN id="token-2-11" start_char="230" end_char="231">US</TOKEN>
+				<TOKEN id="token-2-12" start_char="233" end_char="238">troops</TOKEN>
+				<TOKEN id="token-2-13" start_char="239" end_char="239">,</TOKEN>
+				<TOKEN id="token-2-14" start_char="241" end_char="243">but</TOKEN>
+				<TOKEN id="token-2-15" start_char="245" end_char="247">his</TOKEN>
+				<TOKEN id="token-2-16" start_char="249" end_char="257">factories</TOKEN>
+				<TOKEN id="token-2-17" start_char="259" end_char="261">are</TOKEN>
+				<TOKEN id="token-2-18" start_char="263" end_char="272">criminally</TOKEN>
+				<TOKEN id="token-2-19" start_char="274" end_char="278">dirty</TOKEN>
+				<TOKEN id="token-2-20" start_char="279" end_char="279">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-3" start_char="281" end_char="352">
+				<ORIGINAL_TEXT>We were trying to seal up holes in the wall to keep mice from coming in.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="281" end_char="282">We</TOKEN>
+				<TOKEN id="token-3-1" start_char="284" end_char="287">were</TOKEN>
+				<TOKEN id="token-3-2" start_char="289" end_char="294">trying</TOKEN>
+				<TOKEN id="token-3-3" start_char="296" end_char="297">to</TOKEN>
+				<TOKEN id="token-3-4" start_char="299" end_char="302">seal</TOKEN>
+				<TOKEN id="token-3-5" start_char="304" end_char="305">up</TOKEN>
+				<TOKEN id="token-3-6" start_char="307" end_char="311">holes</TOKEN>
+				<TOKEN id="token-3-7" start_char="313" end_char="314">in</TOKEN>
+				<TOKEN id="token-3-8" start_char="316" end_char="318">the</TOKEN>
+				<TOKEN id="token-3-9" start_char="320" end_char="323">wall</TOKEN>
+				<TOKEN id="token-3-10" start_char="325" end_char="326">to</TOKEN>
+				<TOKEN id="token-3-11" start_char="328" end_char="331">keep</TOKEN>
+				<TOKEN id="token-3-12" start_char="333" end_char="336">mice</TOKEN>
+				<TOKEN id="token-3-13" start_char="338" end_char="341">from</TOKEN>
+				<TOKEN id="token-3-14" start_char="343" end_char="348">coming</TOKEN>
+				<TOKEN id="token-3-15" start_char="350" end_char="351">in</TOKEN>
+				<TOKEN id="token-3-16" start_char="352" end_char="352">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-4" start_char="354" end_char="394">
+				<ORIGINAL_TEXT>We found evidence of roaches, rats, mice.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="354" end_char="355">We</TOKEN>
+				<TOKEN id="token-4-1" start_char="357" end_char="361">found</TOKEN>
+				<TOKEN id="token-4-2" start_char="363" end_char="370">evidence</TOKEN>
+				<TOKEN id="token-4-3" start_char="372" end_char="373">of</TOKEN>
+				<TOKEN id="token-4-4" start_char="375" end_char="381">roaches</TOKEN>
+				<TOKEN id="token-4-5" start_char="382" end_char="382">,</TOKEN>
+				<TOKEN id="token-4-6" start_char="384" end_char="387">rats</TOKEN>
+				<TOKEN id="token-4-7" start_char="388" end_char="388">,</TOKEN>
+				<TOKEN id="token-4-8" start_char="390" end_char="393">mice</TOKEN>
+				<TOKEN id="token-4-9" start_char="394" end_char="394">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-5" start_char="396" end_char="403">
+				<ORIGINAL_TEXT>Beatles.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="396" end_char="402">Beatles</TOKEN>
+				<TOKEN id="token-5-1" start_char="403" end_char="403">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-6" start_char="405" end_char="472">
+				<ORIGINAL_TEXT>The filth breathes one of the biggest food poisoning outbreaks in U.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="405" end_char="407">The</TOKEN>
+				<TOKEN id="token-6-1" start_char="409" end_char="413">filth</TOKEN>
+				<TOKEN id="token-6-2" start_char="415" end_char="422">breathes</TOKEN>
+				<TOKEN id="token-6-3" start_char="424" end_char="426">one</TOKEN>
+				<TOKEN id="token-6-4" start_char="428" end_char="429">of</TOKEN>
+				<TOKEN id="token-6-5" start_char="431" end_char="433">the</TOKEN>
+				<TOKEN id="token-6-6" start_char="435" end_char="441">biggest</TOKEN>
+				<TOKEN id="token-6-7" start_char="443" end_char="446">food</TOKEN>
+				<TOKEN id="token-6-8" start_char="448" end_char="456">poisoning</TOKEN>
+				<TOKEN id="token-6-9" start_char="458" end_char="466">outbreaks</TOKEN>
+				<TOKEN id="token-6-10" start_char="468" end_char="469">in</TOKEN>
+				<TOKEN id="token-6-11" start_char="471" end_char="471">U</TOKEN>
+				<TOKEN id="token-6-12" start_char="472" end_char="472">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-7" start_char="474" end_char="475">
+				<ORIGINAL_TEXT>S.</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="474" end_char="474">S</TOKEN>
+				<TOKEN id="token-7-1" start_char="475" end_char="475">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-8" start_char="477" end_char="484">
+				<ORIGINAL_TEXT>History.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="477" end_char="483">History</TOKEN>
+				<TOKEN id="token-8-1" start_char="484" end_char="484">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-9" start_char="486" end_char="549">
+				<ORIGINAL_TEXT>Parnell knows the risk But raking in $30 million dollars a year.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="486" end_char="492">Parnell</TOKEN>
+				<TOKEN id="token-9-1" start_char="494" end_char="498">knows</TOKEN>
+				<TOKEN id="token-9-2" start_char="500" end_char="502">the</TOKEN>
+				<TOKEN id="token-9-3" start_char="504" end_char="507">risk</TOKEN>
+				<TOKEN id="token-9-4" start_char="509" end_char="511">But</TOKEN>
+				<TOKEN id="token-9-5" start_char="513" end_char="518">raking</TOKEN>
+				<TOKEN id="token-9-6" start_char="520" end_char="521">in</TOKEN>
+				<TOKEN id="token-9-7" start_char="523" end_char="523">$</TOKEN>
+				<TOKEN id="token-9-8" start_char="524" end_char="525">30</TOKEN>
+				<TOKEN id="token-9-9" start_char="527" end_char="533">million</TOKEN>
+				<TOKEN id="token-9-10" start_char="535" end_char="541">dollars</TOKEN>
+				<TOKEN id="token-9-11" start_char="543" end_char="543">a</TOKEN>
+				<TOKEN id="token-9-12" start_char="545" end_char="548">year</TOKEN>
+				<TOKEN id="token-9-13" start_char="549" end_char="549">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-10" start_char="551" end_char="587">
+				<ORIGINAL_TEXT>He instructs workers to just ship it.</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="551" end_char="552">He</TOKEN>
+				<TOKEN id="token-10-1" start_char="554" end_char="562">instructs</TOKEN>
+				<TOKEN id="token-10-2" start_char="564" end_char="570">workers</TOKEN>
+				<TOKEN id="token-10-3" start_char="572" end_char="573">to</TOKEN>
+				<TOKEN id="token-10-4" start_char="575" end_char="578">just</TOKEN>
+				<TOKEN id="token-10-5" start_char="580" end_char="583">ship</TOKEN>
+				<TOKEN id="token-10-6" start_char="585" end_char="586">it</TOKEN>
+				<TOKEN id="token-10-7" start_char="587" end_char="587">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-11" start_char="589" end_char="671">
+				<ORIGINAL_TEXT>I'm looking at him after seeing those emails thinking that's the devil right there.</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="589" end_char="591">I'm</TOKEN>
+				<TOKEN id="token-11-1" start_char="593" end_char="599">looking</TOKEN>
+				<TOKEN id="token-11-2" start_char="601" end_char="602">at</TOKEN>
+				<TOKEN id="token-11-3" start_char="604" end_char="606">him</TOKEN>
+				<TOKEN id="token-11-4" start_char="608" end_char="612">after</TOKEN>
+				<TOKEN id="token-11-5" start_char="614" end_char="619">seeing</TOKEN>
+				<TOKEN id="token-11-6" start_char="621" end_char="625">those</TOKEN>
+				<TOKEN id="token-11-7" start_char="627" end_char="632">emails</TOKEN>
+				<TOKEN id="token-11-8" start_char="634" end_char="641">thinking</TOKEN>
+				<TOKEN id="token-11-9" start_char="643" end_char="648">that's</TOKEN>
+				<TOKEN id="token-11-10" start_char="650" end_char="652">the</TOKEN>
+				<TOKEN id="token-11-11" start_char="654" end_char="658">devil</TOKEN>
+				<TOKEN id="token-11-12" start_char="660" end_char="664">right</TOKEN>
+				<TOKEN id="token-11-13" start_char="666" end_char="670">there</TOKEN>
+				<TOKEN id="token-11-14" start_char="671" end_char="671">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-12" start_char="673" end_char="700">
+				<ORIGINAL_TEXT>That's the epitome of greed.</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="673" end_char="678">That's</TOKEN>
+				<TOKEN id="token-12-1" start_char="680" end_char="682">the</TOKEN>
+				<TOKEN id="token-12-2" start_char="684" end_char="690">epitome</TOKEN>
+				<TOKEN id="token-12-3" start_char="692" end_char="693">of</TOKEN>
+				<TOKEN id="token-12-4" start_char="695" end_char="699">greed</TOKEN>
+				<TOKEN id="token-12-5" start_char="700" end_char="700">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-13" start_char="702" end_char="805">
+				<ORIGINAL_TEXT>His picture should be in the dictionary next to the word greed Due to their willful and knowing actions.</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="702" end_char="704">His</TOKEN>
+				<TOKEN id="token-13-1" start_char="706" end_char="712">picture</TOKEN>
+				<TOKEN id="token-13-2" start_char="714" end_char="719">should</TOKEN>
+				<TOKEN id="token-13-3" start_char="721" end_char="722">be</TOKEN>
+				<TOKEN id="token-13-4" start_char="724" end_char="725">in</TOKEN>
+				<TOKEN id="token-13-5" start_char="727" end_char="729">the</TOKEN>
+				<TOKEN id="token-13-6" start_char="731" end_char="740">dictionary</TOKEN>
+				<TOKEN id="token-13-7" start_char="742" end_char="745">next</TOKEN>
+				<TOKEN id="token-13-8" start_char="747" end_char="748">to</TOKEN>
+				<TOKEN id="token-13-9" start_char="750" end_char="752">the</TOKEN>
+				<TOKEN id="token-13-10" start_char="754" end_char="757">word</TOKEN>
+				<TOKEN id="token-13-11" start_char="759" end_char="763">greed</TOKEN>
+				<TOKEN id="token-13-12" start_char="765" end_char="767">Due</TOKEN>
+				<TOKEN id="token-13-13" start_char="769" end_char="770">to</TOKEN>
+				<TOKEN id="token-13-14" start_char="772" end_char="776">their</TOKEN>
+				<TOKEN id="token-13-15" start_char="778" end_char="784">willful</TOKEN>
+				<TOKEN id="token-13-16" start_char="786" end_char="788">and</TOKEN>
+				<TOKEN id="token-13-17" start_char="790" end_char="796">knowing</TOKEN>
+				<TOKEN id="token-13-18" start_char="798" end_char="804">actions</TOKEN>
+				<TOKEN id="token-13-19" start_char="805" end_char="805">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-14" start_char="807" end_char="830">
+				<ORIGINAL_TEXT>They killed nine people.</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="807" end_char="810">They</TOKEN>
+				<TOKEN id="token-14-1" start_char="812" end_char="817">killed</TOKEN>
+				<TOKEN id="token-14-2" start_char="819" end_char="822">nine</TOKEN>
+				<TOKEN id="token-14-3" start_char="824" end_char="829">people</TOKEN>
+				<TOKEN id="token-14-4" start_char="830" end_char="830">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-15" start_char="832" end_char="843">
+				<ORIGINAL_TEXT>Mhm, mm hmm.</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="832" end_char="834">Mhm</TOKEN>
+				<TOKEN id="token-15-1" start_char="835" end_char="835">,</TOKEN>
+				<TOKEN id="token-15-2" start_char="837" end_char="838">mm</TOKEN>
+				<TOKEN id="token-15-3" start_char="840" end_char="842">hmm</TOKEN>
+				<TOKEN id="token-15-4" start_char="843" end_char="843">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-16" start_char="845" end_char="894">
+				<ORIGINAL_TEXT>An all new American greed Mondays 10 eastern CNBC.</ORIGINAL_TEXT>
+				<TOKEN id="token-16-0" start_char="845" end_char="846">An</TOKEN>
+				<TOKEN id="token-16-1" start_char="848" end_char="850">all</TOKEN>
+				<TOKEN id="token-16-2" start_char="852" end_char="854">new</TOKEN>
+				<TOKEN id="token-16-3" start_char="856" end_char="863">American</TOKEN>
+				<TOKEN id="token-16-4" start_char="865" end_char="869">greed</TOKEN>
+				<TOKEN id="token-16-5" start_char="871" end_char="877">Mondays</TOKEN>
+				<TOKEN id="token-16-6" start_char="879" end_char="880">10</TOKEN>
+				<TOKEN id="token-16-7" start_char="882" end_char="888">eastern</TOKEN>
+				<TOKEN id="token-16-8" start_char="890" end_char="893">CNBC</TOKEN>
+				<TOKEN id="token-16-9" start_char="894" end_char="894">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-17" start_char="896" end_char="905">
+				<ORIGINAL_TEXT>Get yours.</ORIGINAL_TEXT>
+				<TOKEN id="token-17-0" start_char="896" end_char="898">Get</TOKEN>
+				<TOKEN id="token-17-1" start_char="900" end_char="904">yours</TOKEN>
+				<TOKEN id="token-17-2" start_char="905" end_char="905">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-18" start_char="907" end_char="920">
+				<ORIGINAL_TEXT>Hey CNBC fans.</ORIGINAL_TEXT>
+				<TOKEN id="token-18-0" start_char="907" end_char="909">Hey</TOKEN>
+				<TOKEN id="token-18-1" start_char="911" end_char="914">CNBC</TOKEN>
+				<TOKEN id="token-18-2" start_char="916" end_char="919">fans</TOKEN>
+				<TOKEN id="token-18-3" start_char="920" end_char="920">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-19" start_char="922" end_char="970">
+				<ORIGINAL_TEXT>Thanks for checking out our Youtube channel here.</ORIGINAL_TEXT>
+				<TOKEN id="token-19-0" start_char="922" end_char="927">Thanks</TOKEN>
+				<TOKEN id="token-19-1" start_char="929" end_char="931">for</TOKEN>
+				<TOKEN id="token-19-2" start_char="933" end_char="940">checking</TOKEN>
+				<TOKEN id="token-19-3" start_char="942" end_char="944">out</TOKEN>
+				<TOKEN id="token-19-4" start_char="946" end_char="948">our</TOKEN>
+				<TOKEN id="token-19-5" start_char="950" end_char="956">Youtube</TOKEN>
+				<TOKEN id="token-19-6" start_char="958" end_char="964">channel</TOKEN>
+				<TOKEN id="token-19-7" start_char="966" end_char="969">here</TOKEN>
+				<TOKEN id="token-19-8" start_char="970" end_char="970">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-20" start_char="972" end_char="1024">
+				<ORIGINAL_TEXT>You'll find videos from all your favorite CNBC shows.</ORIGINAL_TEXT>
+				<TOKEN id="token-20-0" start_char="972" end_char="977">You'll</TOKEN>
+				<TOKEN id="token-20-1" start_char="979" end_char="982">find</TOKEN>
+				<TOKEN id="token-20-2" start_char="984" end_char="989">videos</TOKEN>
+				<TOKEN id="token-20-3" start_char="991" end_char="994">from</TOKEN>
+				<TOKEN id="token-20-4" start_char="996" end_char="998">all</TOKEN>
+				<TOKEN id="token-20-5" start_char="1000" end_char="1003">your</TOKEN>
+				<TOKEN id="token-20-6" start_char="1005" end_char="1012">favorite</TOKEN>
+				<TOKEN id="token-20-7" start_char="1014" end_char="1017">CNBC</TOKEN>
+				<TOKEN id="token-20-8" start_char="1019" end_char="1023">shows</TOKEN>
+				<TOKEN id="token-20-9" start_char="1024" end_char="1024">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-21" start_char="1026" end_char="1130">
+				<ORIGINAL_TEXT>Be sure to describe by clicking right here, click on the videos around me and watch the ladies from CNBC.</ORIGINAL_TEXT>
+				<TOKEN id="token-21-0" start_char="1026" end_char="1027">Be</TOKEN>
+				<TOKEN id="token-21-1" start_char="1029" end_char="1032">sure</TOKEN>
+				<TOKEN id="token-21-2" start_char="1034" end_char="1035">to</TOKEN>
+				<TOKEN id="token-21-3" start_char="1037" end_char="1044">describe</TOKEN>
+				<TOKEN id="token-21-4" start_char="1046" end_char="1047">by</TOKEN>
+				<TOKEN id="token-21-5" start_char="1049" end_char="1056">clicking</TOKEN>
+				<TOKEN id="token-21-6" start_char="1058" end_char="1062">right</TOKEN>
+				<TOKEN id="token-21-7" start_char="1064" end_char="1067">here</TOKEN>
+				<TOKEN id="token-21-8" start_char="1068" end_char="1068">,</TOKEN>
+				<TOKEN id="token-21-9" start_char="1070" end_char="1074">click</TOKEN>
+				<TOKEN id="token-21-10" start_char="1076" end_char="1077">on</TOKEN>
+				<TOKEN id="token-21-11" start_char="1079" end_char="1081">the</TOKEN>
+				<TOKEN id="token-21-12" start_char="1083" end_char="1088">videos</TOKEN>
+				<TOKEN id="token-21-13" start_char="1090" end_char="1095">around</TOKEN>
+				<TOKEN id="token-21-14" start_char="1097" end_char="1098">me</TOKEN>
+				<TOKEN id="token-21-15" start_char="1100" end_char="1102">and</TOKEN>
+				<TOKEN id="token-21-16" start_char="1104" end_char="1108">watch</TOKEN>
+				<TOKEN id="token-21-17" start_char="1110" end_char="1112">the</TOKEN>
+				<TOKEN id="token-21-18" start_char="1114" end_char="1119">ladies</TOKEN>
+				<TOKEN id="token-21-19" start_char="1121" end_char="1124">from</TOKEN>
+				<TOKEN id="token-21-20" start_char="1126" end_char="1129">CNBC</TOKEN>
+				<TOKEN id="token-21-21" start_char="1130" end_char="1130">.</TOKEN>
+			</SEG>
+			<SEG id="L0C04CVYQ-22" start_char="1132" end_char="1150">
+				<ORIGINAL_TEXT>Thanks for watching</ORIGINAL_TEXT>
+				<TOKEN id="token-22-0" start_char="1132" end_char="1137">Thanks</TOKEN>
+				<TOKEN id="token-22-1" start_char="1139" end_char="1141">for</TOKEN>
+				<TOKEN id="token-22-2" start_char="1143" end_char="1150">watching</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="L0C04FQE9" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="1290" raw_text_md5="1912a73af2cb75186587a64a672b9d19">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="84">
+<ORIGINAL_TEXT>2017 Clostridium Botulinum, Valley Oak Food &amp;amp;amp; Fuel, Walnut Grove, California</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="4">2017</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="6" end_char="16">Clostridium</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="18" end_char="26">Botulinum</TOKEN>
+<TOKEN id="token-0-3" pos="punct" morph="none" start_char="27" end_char="27">,</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="29" end_char="34">Valley</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="36" end_char="38">Oak</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="40" end_char="43">Food</TOKEN>
+<TOKEN id="token-0-7" pos="punct" morph="none" start_char="45" end_char="45">&amp;</TOKEN>
+<TOKEN id="token-0-8" pos="unknown" morph="none" start_char="46" end_char="52">amp;amp</TOKEN>
+<TOKEN id="token-0-9" pos="punct" morph="none" start_char="53" end_char="53">;</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="55" end_char="58">Fuel</TOKEN>
+<TOKEN id="token-0-11" pos="punct" morph="none" start_char="59" end_char="59">,</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="61" end_char="66">Walnut</TOKEN>
+<TOKEN id="token-0-13" pos="word" morph="none" start_char="68" end_char="72">Grove</TOKEN>
+<TOKEN id="token-0-14" pos="punct" morph="none" start_char="73" end_char="73">,</TOKEN>
+<TOKEN id="token-0-15" pos="word" morph="none" start_char="75" end_char="84">California</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="88" end_char="252">
+<ORIGINAL_TEXT>In May 2017 ten people were diagnosed with botulism after eating nacho cheese sauce sold at Valley Oak Food and Fuel gas station located in Walnut Grove, California.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="88" end_char="89">In</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="91" end_char="93">May</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="95" end_char="98">2017</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="100" end_char="102">ten</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="104" end_char="109">people</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="111" end_char="114">were</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="116" end_char="124">diagnosed</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="126" end_char="129">with</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="131" end_char="138">botulism</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="140" end_char="144">after</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="146" end_char="151">eating</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="153" end_char="157">nacho</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="159" end_char="164">cheese</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="166" end_char="170">sauce</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="172" end_char="175">sold</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="177" end_char="178">at</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="180" end_char="185">Valley</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="187" end_char="189">Oak</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="191" end_char="194">Food</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="196" end_char="198">and</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="200" end_char="203">Fuel</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="205" end_char="207">gas</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="209" end_char="215">station</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="217" end_char="223">located</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="225" end_char="226">in</TOKEN>
+<TOKEN id="token-1-25" pos="word" morph="none" start_char="228" end_char="233">Walnut</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="235" end_char="239">Grove</TOKEN>
+<TOKEN id="token-1-27" pos="punct" morph="none" start_char="240" end_char="240">,</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="242" end_char="251">California</TOKEN>
+<TOKEN id="token-1-29" pos="punct" morph="none" start_char="252" end_char="252">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="254" end_char="331">
+<ORIGINAL_TEXT>All 10 case-patients were laboratory confirmed with C. botulinum toxin type A.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="254" end_char="256">All</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="258" end_char="259">10</TOKEN>
+<TOKEN id="token-2-2" pos="unknown" morph="none" start_char="261" end_char="273">case-patients</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="275" end_char="278">were</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="280" end_char="289">laboratory</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="291" end_char="299">confirmed</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="301" end_char="304">with</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="306" end_char="306">C</TOKEN>
+<TOKEN id="token-2-8" pos="punct" morph="none" start_char="307" end_char="307">.</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="309" end_char="317">botulinum</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="319" end_char="323">toxin</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="325" end_char="328">type</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="330" end_char="330">A</TOKEN>
+<TOKEN id="token-2-13" pos="punct" morph="none" start_char="331" end_char="331">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="333" end_char="363">
+<ORIGINAL_TEXT>All patients were hospitalized.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="333" end_char="335">All</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="337" end_char="344">patients</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="346" end_char="349">were</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="351" end_char="362">hospitalized</TOKEN>
+<TOKEN id="token-3-4" pos="punct" morph="none" start_char="363" end_char="363">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="365" end_char="400">
+<ORIGINAL_TEXT>Nine were in an intensive care unit.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="365" end_char="368">Nine</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="370" end_char="373">were</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="375" end_char="376">in</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="378" end_char="379">an</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="381" end_char="389">intensive</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="391" end_char="394">care</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="396" end_char="399">unit</TOKEN>
+<TOKEN id="token-4-7" pos="punct" morph="none" start_char="400" end_char="400">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="402" end_char="435">
+<ORIGINAL_TEXT>Seven required ventilator support.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="402" end_char="406">Seven</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="408" end_char="415">required</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="417" end_char="426">ventilator</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="428" end_char="434">support</TOKEN>
+<TOKEN id="token-5-4" pos="punct" morph="none" start_char="435" end_char="435">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="437" end_char="449">
+<ORIGINAL_TEXT>One man died.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="437" end_char="439">One</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="441" end_char="443">man</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="445" end_char="448">died</TOKEN>
+<TOKEN id="token-6-3" pos="punct" morph="none" start_char="449" end_char="449">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="451" end_char="602">
+<ORIGINAL_TEXT>Investigators confiscated an open five pound bag of Gehl Foods jalapeno cheese sauce from the station which tested positive for the toxin that botulism.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="451" end_char="463">Investigators</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="465" end_char="475">confiscated</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="477" end_char="478">an</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="480" end_char="483">open</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="485" end_char="488">five</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="490" end_char="494">pound</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="496" end_char="498">bag</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="500" end_char="501">of</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="503" end_char="506">Gehl</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="508" end_char="512">Foods</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="514" end_char="521">jalapeno</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="523" end_char="528">cheese</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="530" end_char="534">sauce</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="536" end_char="539">from</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="541" end_char="543">the</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="545" end_char="551">station</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="553" end_char="557">which</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="559" end_char="564">tested</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="566" end_char="573">positive</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="575" end_char="577">for</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="579" end_char="581">the</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="583" end_char="587">toxin</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="589" end_char="592">that</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="594" end_char="601">botulism</TOKEN>
+<TOKEN id="token-7-24" pos="punct" morph="none" start_char="602" end_char="602">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="604" end_char="684">
+<ORIGINAL_TEXT>A sealed bag of cheese sauce collected at the station was negative for the toxin.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="604" end_char="604">A</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="606" end_char="611">sealed</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="613" end_char="615">bag</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="617" end_char="618">of</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="620" end_char="625">cheese</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="627" end_char="631">sauce</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="633" end_char="641">collected</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="643" end_char="644">at</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="646" end_char="648">the</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="650" end_char="656">station</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="658" end_char="660">was</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="662" end_char="669">negative</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="671" end_char="673">for</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="675" end_char="677">the</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="679" end_char="683">toxin</TOKEN>
+<TOKEN id="token-8-15" pos="punct" morph="none" start_char="684" end_char="684">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="686" end_char="1041">
+<ORIGINAL_TEXT>Due to the extensive distribution of the same lot code of nacho cheese throughout the United States without additional botulism cases, internal testing conducted by the Wisconsin manufacturer of the nacho cheese, and only a single bag of cheese linked to human illness, investigators suspect the nacho cheese was likely contaminated at the retail location.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="686" end_char="688">Due</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="690" end_char="691">to</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="693" end_char="695">the</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="697" end_char="705">extensive</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="707" end_char="718">distribution</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="720" end_char="721">of</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="723" end_char="725">the</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="727" end_char="730">same</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="732" end_char="734">lot</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="736" end_char="739">code</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="741" end_char="742">of</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="744" end_char="748">nacho</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="750" end_char="755">cheese</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="757" end_char="766">throughout</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="768" end_char="770">the</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="772" end_char="777">United</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="779" end_char="784">States</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="786" end_char="792">without</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="794" end_char="803">additional</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="805" end_char="812">botulism</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="814" end_char="818">cases</TOKEN>
+<TOKEN id="token-9-21" pos="punct" morph="none" start_char="819" end_char="819">,</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="821" end_char="828">internal</TOKEN>
+<TOKEN id="token-9-23" pos="word" morph="none" start_char="830" end_char="836">testing</TOKEN>
+<TOKEN id="token-9-24" pos="word" morph="none" start_char="838" end_char="846">conducted</TOKEN>
+<TOKEN id="token-9-25" pos="word" morph="none" start_char="848" end_char="849">by</TOKEN>
+<TOKEN id="token-9-26" pos="word" morph="none" start_char="851" end_char="853">the</TOKEN>
+<TOKEN id="token-9-27" pos="word" morph="none" start_char="855" end_char="863">Wisconsin</TOKEN>
+<TOKEN id="token-9-28" pos="word" morph="none" start_char="865" end_char="876">manufacturer</TOKEN>
+<TOKEN id="token-9-29" pos="word" morph="none" start_char="878" end_char="879">of</TOKEN>
+<TOKEN id="token-9-30" pos="word" morph="none" start_char="881" end_char="883">the</TOKEN>
+<TOKEN id="token-9-31" pos="word" morph="none" start_char="885" end_char="889">nacho</TOKEN>
+<TOKEN id="token-9-32" pos="word" morph="none" start_char="891" end_char="896">cheese</TOKEN>
+<TOKEN id="token-9-33" pos="punct" morph="none" start_char="897" end_char="897">,</TOKEN>
+<TOKEN id="token-9-34" pos="word" morph="none" start_char="899" end_char="901">and</TOKEN>
+<TOKEN id="token-9-35" pos="word" morph="none" start_char="903" end_char="906">only</TOKEN>
+<TOKEN id="token-9-36" pos="word" morph="none" start_char="908" end_char="908">a</TOKEN>
+<TOKEN id="token-9-37" pos="word" morph="none" start_char="910" end_char="915">single</TOKEN>
+<TOKEN id="token-9-38" pos="word" morph="none" start_char="917" end_char="919">bag</TOKEN>
+<TOKEN id="token-9-39" pos="word" morph="none" start_char="921" end_char="922">of</TOKEN>
+<TOKEN id="token-9-40" pos="word" morph="none" start_char="924" end_char="929">cheese</TOKEN>
+<TOKEN id="token-9-41" pos="word" morph="none" start_char="931" end_char="936">linked</TOKEN>
+<TOKEN id="token-9-42" pos="word" morph="none" start_char="938" end_char="939">to</TOKEN>
+<TOKEN id="token-9-43" pos="word" morph="none" start_char="941" end_char="945">human</TOKEN>
+<TOKEN id="token-9-44" pos="word" morph="none" start_char="947" end_char="953">illness</TOKEN>
+<TOKEN id="token-9-45" pos="punct" morph="none" start_char="954" end_char="954">,</TOKEN>
+<TOKEN id="token-9-46" pos="word" morph="none" start_char="956" end_char="968">investigators</TOKEN>
+<TOKEN id="token-9-47" pos="word" morph="none" start_char="970" end_char="976">suspect</TOKEN>
+<TOKEN id="token-9-48" pos="word" morph="none" start_char="978" end_char="980">the</TOKEN>
+<TOKEN id="token-9-49" pos="word" morph="none" start_char="982" end_char="986">nacho</TOKEN>
+<TOKEN id="token-9-50" pos="word" morph="none" start_char="988" end_char="993">cheese</TOKEN>
+<TOKEN id="token-9-51" pos="word" morph="none" start_char="995" end_char="997">was</TOKEN>
+<TOKEN id="token-9-52" pos="word" morph="none" start_char="999" end_char="1004">likely</TOKEN>
+<TOKEN id="token-9-53" pos="word" morph="none" start_char="1006" end_char="1017">contaminated</TOKEN>
+<TOKEN id="token-9-54" pos="word" morph="none" start_char="1019" end_char="1020">at</TOKEN>
+<TOKEN id="token-9-55" pos="word" morph="none" start_char="1022" end_char="1024">the</TOKEN>
+<TOKEN id="token-9-56" pos="word" morph="none" start_char="1026" end_char="1031">retail</TOKEN>
+<TOKEN id="token-9-57" pos="word" morph="none" start_char="1033" end_char="1040">location</TOKEN>
+<TOKEN id="token-9-58" pos="punct" morph="none" start_char="1041" end_char="1041">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1044" end_char="1048">
+<ORIGINAL_TEXT>Tags:</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1044" end_char="1047">Tags</TOKEN>
+<TOKEN id="token-10-1" pos="punct" morph="none" start_char="1048" end_char="1048">:</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1052" end_char="1073">
+<ORIGINAL_TEXT>clostridium botulinum,</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1052" end_char="1062">clostridium</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1064" end_char="1072">botulinum</TOKEN>
+<TOKEN id="token-11-2" pos="punct" morph="none" start_char="1073" end_char="1073">,</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1076" end_char="1084">
+<ORIGINAL_TEXT>botulism,</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1076" end_char="1083">botulism</TOKEN>
+<TOKEN id="token-12-1" pos="punct" morph="none" start_char="1084" end_char="1084">,</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1087" end_char="1099">
+<ORIGINAL_TEXT>nacho cheese,</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1087" end_char="1091">nacho</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1093" end_char="1098">cheese</TOKEN>
+<TOKEN id="token-13-2" pos="punct" morph="none" start_char="1099" end_char="1099">,</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1102" end_char="1125">
+<ORIGINAL_TEXT>valley oak food and fuel</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1102" end_char="1107">valley</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1109" end_char="1111">oak</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1113" end_char="1116">food</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1118" end_char="1120">and</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1122" end_char="1125">fuel</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1131" end_char="1145">
+<ORIGINAL_TEXT>Outbreak began:</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1131" end_char="1138">Outbreak</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1140" end_char="1144">began</TOKEN>
+<TOKEN id="token-15-2" pos="punct" morph="none" start_char="1145" end_char="1145">:</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1151" end_char="1167">
+<ORIGINAL_TEXT>Affected Country:</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1151" end_char="1158">Affected</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1160" end_char="1166">Country</TOKEN>
+<TOKEN id="token-16-2" pos="punct" morph="none" start_char="1167" end_char="1167">:</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1173" end_char="1200">
+<ORIGINAL_TEXT>Affected States/Territories:</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1173" end_char="1180">Affected</TOKEN>
+<TOKEN id="token-17-1" pos="unknown" morph="none" start_char="1182" end_char="1199">States/Territories</TOKEN>
+<TOKEN id="token-17-2" pos="punct" morph="none" start_char="1200" end_char="1200">:</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1206" end_char="1216">
+<ORIGINAL_TEXT>Vehicle(s):</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="1206" end_char="1214">Vehicle(s</TOKEN>
+<TOKEN id="token-18-1" pos="punct" morph="none" start_char="1215" end_char="1216">):</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1222" end_char="1249">
+<ORIGINAL_TEXT>Molecular Results Available:</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1222" end_char="1230">Molecular</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1232" end_char="1238">Results</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1240" end_char="1248">Available</TOKEN>
+<TOKEN id="token-19-3" pos="punct" morph="none" start_char="1249" end_char="1249">:</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1255" end_char="1266">
+<ORIGINAL_TEXT>Location(s):</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="unknown" morph="none" start_char="1255" end_char="1264">Location(s</TOKEN>
+<TOKEN id="token-20-1" pos="punct" morph="none" start_char="1265" end_char="1266">):</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1272" end_char="1285">
+<ORIGINAL_TEXT>Brand Name(s):</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="1272" end_char="1276">Brand</TOKEN>
+<TOKEN id="token-21-1" pos="unknown" morph="none" start_char="1278" end_char="1283">Name(s</TOKEN>
+<TOKEN id="token-21-2" pos="punct" morph="none" start_char="1284" end_char="1285">):</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

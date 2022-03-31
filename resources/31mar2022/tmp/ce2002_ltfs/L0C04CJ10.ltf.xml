@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="L0C04CJ10" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="81" raw_text_md5="65ebaa1dd0c67e8e98fe717079f64819">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="74">
+<ORIGINAL_TEXT>Chipotle: Ohio health officials receive 100+ calls about closed restaurant</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="8">Chipotle</TOKEN>
+<TOKEN id="token-0-1" pos="punct" morph="none" start_char="9" end_char="9">:</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="11" end_char="14">Ohio</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="16" end_char="21">health</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="23" end_char="31">officials</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="33" end_char="39">receive</TOKEN>
+<TOKEN id="token-0-6" pos="unknown" morph="none" start_char="41" end_char="44">100+</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="46" end_char="50">calls</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="52" end_char="56">about</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="58" end_char="63">closed</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="65" end_char="74">restaurant</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>
