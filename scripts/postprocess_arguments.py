@@ -2,7 +2,7 @@ import json
 
 thing_contaminated_role = 'artifactexistence.contamination.unspecified_ThingContaminated.actual'
 destination_role = 'Movement.Transportation.Unspecified_Destination.actual'
-
+consumed_thing_role = 'life.consume.unspecified_ConsumedThing.actual'
 def read_cs(fp):
     lines = []
     with open(fp, 'r') as f:
@@ -65,6 +65,8 @@ def postprocess_arguments(entity_cs, event_cs, ontology_fp):
                     entity2roles[e].remove(thing_contaminated_role)
                 if entity2type[e] == 'PER' and destination_role in entity2roles[e]:
                     entity2roles[e].remove(destination_role)
+                if entity2type[e] == 'FAC' and consumed_thing_role in entity2roles[e]:
+                    entity2roles[e].remove(consumed_thing_role)
         for argument in event2arguments[eid]:
             es_argument = argument.split('\t')
             entity = es_argument[2]
