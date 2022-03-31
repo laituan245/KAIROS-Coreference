@@ -37,7 +37,7 @@ def add_types_qnode(args_inpath):
                     qlabel = type2label[eid2type[es[0]]]
                 except:
                     qnode = 'Q35120'
-                    qlable = 'Entity'
+                    qlabel = 'Entity'
                 # Write qnode
                 es[-1] = qnode
                 f.write('\t'.join(es) + '\n')
