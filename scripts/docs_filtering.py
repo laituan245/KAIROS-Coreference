@@ -3,7 +3,6 @@ import numpy as np
 from os import listdir
 from sklearn.cluster import DBSCAN
 from os.path import isfile, join
-from sentence_transformers import SentenceTransformer, util
 
 ATTACK_EN_KEYWORDS = ['bomb', 'bombs', 'explosive', 'explosives', 'drone', 'drones',
                       'strike', 'strikes', 'attack', 'attacks', 'shoot', 'shoots']
