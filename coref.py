@@ -15,6 +15,7 @@ from refine_entity_coref import refine_entity_coref
 from attribute_classifiers import generate_hedge_preds, generate_realis_preds, generate_polarity_preds
 from scripts import filter_relation, merge_inputs, remove_entities, separate_files, apply_attrs, remove_arguments
 from scripts import align_relation, align_event, docs_filtering, es_translation, string_repr, fix_event_types, fix_event_args
+from scripts.postprocess_arguments import postprocess_arguments
 
 # Main code
 def main_coref(oneie_output, linking_output, coreference_output, keep_distractors):
@@ -121,6 +122,9 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
 
     # apply_attrs
     apply_attrs(coreference_output)
+
+    # postprocess_arguments
+    postprocess_arguments(output_entity, output_event, 'resources/event_role_KAIROS_P2.json')
 
     # Separate files into English / Spanish
     separate_files(output_entity, output_event, output_relation, english_docs, spanish_docs)
