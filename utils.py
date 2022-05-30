@@ -9,8 +9,6 @@ import tempfile
 from constants import *
 from transformers import *
 from nltk import word_tokenize
-from data import EventCentricDocument
-from data.helpers import divide_event_docs
 from models import EventCorefModel, EntityCorefModel
 from boltons.iterutils import pairwise, windowed
 
@@ -87,10 +85,7 @@ def read_sent_level_event_extraction_input(fp):
             all_words.extend(words)
             sent_lens.append(len(words))
 
-    # Splitting
-    splitted_docs = divide_event_docs(all_words, all_mentions, sent_lens)
-
-    return splitted_docs 
+    return all_words, all_mentions, sent_lens
 
 def get_overlap(a, b):
     return max(0, min(a[1], b[1]) - max(a[0], b[0]))
@@ -151,6 +146,7 @@ def load_tokenizer_and_model(model_type):
     if model_type in [EN_ENTITY_MODEL, ES_ENTITY_MODEL]: model = EntityCorefModel(configs)
     if model_type in [EVENT_MODEL]: model = EventCorefModel(configs)
     print('Initialized model')
+    print('saved_path: {}'.format(saved_path))
     assert(os.path.exists(saved_path))
     if os.path.exists(saved_path):
         checkpoint = torch.load(saved_path, map_location=model.device)
