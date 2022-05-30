@@ -1,14 +1,99 @@
 import os
 import math
 import torch
+import json
 import pyhocon
 import numpy as np
 import tempfile
 
 from constants import *
 from transformers import *
+from nltk import word_tokenize
+from data import EventCentricDocument
+from data.helpers import divide_event_docs
 from models import EventCorefModel, EntityCorefModel
 from boltons.iterutils import pairwise, windowed
+
+def read_sent_level_event_extraction_input(fp):
+    all_words, all_mentions, words_offset = [], [], 0
+    sent_lens = []
+    # Prepare tokenizer
+    tokenizer = AutoTokenizer.from_pretrained('xlm-roberta-large')
+    # Process input data
+    with open(fp, 'r') as f:
+        for line in f:
+            data = json.loads(line)
+            _id, _sentence, events = data['id'], data['sentence'], data['events']
+            # Extract triggers
+            triggers, appeared = [], set()
+            for _e in events:
+                e = _e['trigger']
+                e[0], e[1] = int(e[0]), int(e[1])
+                should_skip = False
+                for _a in appeared:
+                    if get_overlap(_a, (e[0], e[1]-1)) > 0:
+                        should_skip = True
+                if should_skip: continue
+                triggers.append({
+                    'start': int(e[0]),
+                    'end': int(e[1]),     # The end index is non-inclusive.
+                    'type': e[2]
+                })
+                appeared.add((e[0], e[1]-1))
+            triggers.sort(key=lambda x: (x.get('start'), x.get('end')))
+            # Sanity checks
+            appeared = list(appeared)
+            for i in range(len(appeared)):
+                for j in range(i+1, len(appeared)):
+                    assert(get_overlap(appeared[i], appeared[j]) == 0)
+            # Divide _sentence into spans
+            if len(triggers) == 0:
+                spans = [_sentence]
+                span_types = [{'type': NOT_ENTITY}]
+            else:
+                spans, span_types, cur_idx = [], [], 0
+                for trigger in triggers:
+                    spans.append(_sentence[cur_idx:trigger['start']])
+                    span_types.append({
+                        'type': NOT_ENTITY,
+                        'start_char': None,
+                        'end_char': None
+                    })
+                    spans.append(_sentence[trigger['start']:trigger['end']])
+                    span_types.append({
+                        'type': trigger['type'],
+                        'start_char': trigger['start'],
+                        'end_char': trigger['end'],
+                        'sent_id': _id
+                    })
+                    cur_idx = trigger['end']
+                if cur_idx < len(_sentence)-1:
+                    spans.append(_sentence[cur_idx:])
+                    span_types.append({'type': NOT_ENTITY})
+            spans = [word_tokenize(span) for span in spans]
+            # Create an EventCentricDocument
+            word_index = 0
+            mentions, words = [], flatten(spans)
+            for span, span_type in zip(spans, span_types):
+                if span_type['type'] != NOT_ENTITY:
+                    start_index = word_index
+                    end_index = word_index + len(span)
+                    span_type['start'] = words_offset + start_index
+                    span_type['end'] = words_offset + end_index
+                    mentions.append(span_type)
+                word_index += len(span)
+            words_offset += len(words)
+            all_mentions.extend(mentions)
+            all_words.extend(words)
+            sent_lens.append(len(words))
+
+    # Splitting
+    splitted_docs = divide_event_docs(all_words, all_mentions, sent_lens)
+
+    return splitted_docs 
+
+def get_overlap(a, b):
+    return max(0, min(a[1], b[1]) - max(a[0], b[0]))
 
 def read_event_types(fp):
     types = {}

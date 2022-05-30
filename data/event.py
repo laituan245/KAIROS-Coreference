@@ -1,5 +1,6 @@
 import nltk
 import copy
+
 from utils import *
 
 class EventCentricDocument:

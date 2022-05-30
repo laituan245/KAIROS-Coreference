@@ -1,5 +1,7 @@
 from os.path import dirname, join, realpath
 
+NOT_ENTITY = 'not_entity'
+
 # Basic Constants
 BASE_PATH = dirname(realpath(__file__))
 BASIC_CONF_PATH = join(BASE_PATH, 'configs/basic.conf')

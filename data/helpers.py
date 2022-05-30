@@ -3,9 +3,11 @@ import copy
 
 from os import listdir
 from os.path import isfile, join
-from utils import flatten
 from data.event import EventCentricDocument
 from data.entity import EntityCentricDocument
+
+def flatten(l):
+    return [item for sublist in l for item in sublist]
 
 def locstr_to_loc(loc_str):
     doc_id, offset_info = loc_str.split(':')
