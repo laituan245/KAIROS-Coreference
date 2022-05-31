@@ -35,7 +35,7 @@ def read_sent_level_event_extraction_input(fp):
                 triggers.append({
                     'start': int(e[0]),
                     'end': int(e[1]),     # The end index is non-inclusive.
-                    'type': e[2]
+                    'event_type': e[2]
                 })
                 appeared.add((e[0], e[1]-1))
             triggers.sort(key=lambda x: (x.get('start'), x.get('end')))
@@ -47,19 +47,19 @@ def read_sent_level_event_extraction_input(fp):
             # Divide _sentence into spans
             if len(triggers) == 0:
                 spans = [_sentence]
-                span_types = [{'type': NOT_ENTITY}]
+                span_types = [{'event_type': NOT_ENTITY}]
             else:
                 spans, span_types, cur_idx = [], [], 0
                 for trigger in triggers:
                     spans.append(_sentence[cur_idx:trigger['start']])
                     span_types.append({
-                        'type': NOT_ENTITY,
+                        'event_type': NOT_ENTITY,
                         'start_char': None,
                         'end_char': None
                     })
                     spans.append(_sentence[trigger['start']:trigger['end']])
                     span_types.append({
-                        'type': trigger['type'],
+                        'event_type': trigger['event_type'],
                         'start_char': trigger['start'],
                         'end_char': trigger['end'],
                         'sent_id': _id
@@ -67,13 +67,13 @@ def read_sent_level_event_extraction_input(fp):
                     cur_idx = trigger['end']
                 if cur_idx < len(_sentence)-1:
                     spans.append(_sentence[cur_idx:])
-                    span_types.append({'type': NOT_ENTITY})
+                    span_types.append({'event_type': NOT_ENTITY})
             spans = [word_tokenize(span) for span in spans]
             # Create an EventCentricDocument
             word_index = 0
             mentions, words = [], flatten(spans)
             for span, span_type in zip(spans, span_types):
-                if span_type['type'] != NOT_ENTITY:
+                if span_type['event_type'] != NOT_ENTITY:
                     start_index = word_index
                     end_index = word_index + len(span)
                     span_type['start'] = words_offset + start_index
