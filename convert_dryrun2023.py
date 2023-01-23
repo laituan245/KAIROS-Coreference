@@ -2,7 +2,7 @@ import os
 import json
 from os.path import join
 
-ce = 'ce2020'
+ce = 'ce2103'
 TEST_NB = 1
 BASE_PATH = 'resources/dryrun2023'
 EN_BASE_PATH = join(BASE_PATH, ce, 'en')
