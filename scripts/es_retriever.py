@@ -2,7 +2,7 @@ import json
 from elasticsearch import Elasticsearch
 
 # Elasticsearch Configs
-ES_HOST = 'wikidata-es'
+ES_HOST = '127.0.0.1'
 EN_WIKIDATA_INDEX = 'en_wikidata'
 
 # Helper Functions
