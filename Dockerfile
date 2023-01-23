@@ -44,7 +44,6 @@ RUN /opt/conda/bin/conda create -n aida_coreference python=3.6 && \
     /opt/conda/envs/aida_coreference/bin/python3.6 -m nltk.downloader wordnet && \
     /opt/conda/envs/aida_coreference/bin/python3.6 -m nltk.downloader averaged_perceptron_tagger
 
-RUN /opt/conda/bin/conda clean -tipsy
 RUN chmod +x ./wait-for-it.sh
 
 CMD ["/bin/bash"]
