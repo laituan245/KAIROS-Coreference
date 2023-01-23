@@ -18,7 +18,7 @@ def extract_entities(lines):
     for line in lines:
         es = line.strip().split('\t')
         for e in es:
-            if e.startswith(':Entity_EDL'):
+            if e.startswith('Entity_EDL'):
                 entities.add(e)
     return entities
 

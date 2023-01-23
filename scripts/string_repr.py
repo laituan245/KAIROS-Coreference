@@ -125,6 +125,7 @@ def string_repr(new_input_entity, new_input_event, english_docs):
                     event2type[es[0]] = es[-1]
                 continue
             if not (es[1].startswith('mention') or es[1].startswith('canonical_mention')):
+                continue
                 event_type = event2type[es[0]]
                 if event_type in event_types: # Consider only events in the KAIROS ontology
                     event_args = event_types[event_type]['args']

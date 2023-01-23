@@ -109,22 +109,22 @@ def main_coref(oneie_output, linking_output, coreference_output, keep_distractor
     filter_relation(output_event, output_relation)
 
     # Run remove arguments
-    remove_arguments(output_entity, output_event, coreference_output)
+    #remove_arguments(output_entity, output_event, coreference_output)
 
     # Remove non-participating-entities
-    remove_entities(output_entity, output_event, output_relation)
+    #remove_entities(output_entity, output_event, output_relation)
 
     # Fix event types
     fix_event_types(output_event)
 
     # Fix event arguments
-    fix_event_args(output_event)
+    #fix_event_args(output_event)
 
     # apply_attrs
     apply_attrs(coreference_output)
 
     # postprocess_arguments
-    postprocess_arguments(output_entity, output_event, 'resources/event_role_KAIROS_P2.json')
+    #postprocess_arguments(output_entity, output_event, 'resources/event_role_KAIROS_P2.json')
 
     # Separate files into English / Spanish
     separate_files(output_entity, output_event, output_relation, english_docs, spanish_docs)

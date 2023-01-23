@@ -60,6 +60,7 @@ def event_coref(cs_path, json_dir, output_path, original_input_entity, new_input
                 continue
             if not (es[1].startswith('mention') or es[1].startswith('canonical_mention')):
                 event_type = event2type[es[0]]
+                continue
                 if event_type in event_types: # Consider only events in the KAIROS ontology
                     event_args = event_types[event_type]['args']
                     arg_name = es[1].split('.')[-2].split('_')[-1]
