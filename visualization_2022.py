@@ -176,9 +176,9 @@ def main(args_coref_dir, args_json_dir, args_output_dir):
 if __name__ == "__main__":
     # Parse argument
     parser = ArgumentParser()
-    parser.add_argument('--coref_dir', type=str, default='test/dryrun_bombing/all/')
-    parser.add_argument('--json_dir', type=str, default='test/dryrun_bombing/json/')
-    parser.add_argument('--output_dir', type=str, default='test/dryrun_bombing')
+    parser.add_argument('--coref_dir', type=str, default='resources/dryrun2023/ce2013/all/')
+    parser.add_argument('--json_dir', type=str, default='resources/dryrun2023/ce2013/json/')
+    parser.add_argument('--output_dir', type=str, default='resources/dryrun2023/ce2013/visualization')
     args = parser.parse_args()
 
     main(args.coref_dir, args.json_dir, args.output_dir)
